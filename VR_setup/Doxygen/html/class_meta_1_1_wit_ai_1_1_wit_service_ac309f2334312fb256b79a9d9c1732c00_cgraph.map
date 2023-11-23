@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.WitService.HandleResult" name="Meta.WitAi.WitService.HandleResult">
+<area shape="rect" id="Node000001" title="Main thread call to handle result callbacks." alt="" coords="5,5,202,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="250,13,383,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,234,24,234,29,202,29"/>
+</map>

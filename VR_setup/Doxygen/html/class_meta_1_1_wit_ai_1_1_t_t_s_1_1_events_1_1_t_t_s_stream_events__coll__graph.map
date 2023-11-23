@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.TTS.Events.TTSStreamEvents" name="Meta.WitAi.TTS.Events.TTSStreamEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,268,334,311"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_event.html" title=" " alt="" coords="5,97,211,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,154,141,198,168,242,192,266,188,269,164,246,136,200,117,156"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="18,13,198,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,56,111,97,105,97,105,56"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_error_event.html" title=" " alt="" coords="235,97,440,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,156,316,201,290,246,263,269,259,265,286,242,312,199,327,154"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="252,5,423,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="340,64,340,97,335,97,335,64"/>
+</map>

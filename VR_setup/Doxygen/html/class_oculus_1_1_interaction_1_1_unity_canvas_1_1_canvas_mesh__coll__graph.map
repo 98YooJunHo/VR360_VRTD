@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasMesh" name="Oculus.Interaction.UnityCanvas.CanvasMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,311,166,353"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,48,90,311,85,310,110,47"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html" title=" " alt="" coords="142,204,336,247"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="118,47,125,92,132,116,142,139,172,174,207,202,203,206,168,178,138,141,127,118,120,93,113,48"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_1_1_transform_change_listener.html" title=" " alt="" coords="152,81,406,140"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="153,38,228,78,225,83,150,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,258,117,312,114,308,194,254"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="430,97,483,124"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="430,135,419,142,352,177,290,206,288,201,350,173,416,138,427,131"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="266,155,249,204,244,203,261,154"/>
+</map>

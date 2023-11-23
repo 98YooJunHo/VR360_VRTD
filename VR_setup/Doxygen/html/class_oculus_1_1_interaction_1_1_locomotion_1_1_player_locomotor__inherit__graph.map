@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Locomotion.PlayerLocomotor" name="Oculus.Interaction.Locomotion.PlayerLocomotor">
+<area shape="rect" id="Node000001" title="Moves a player when receiving events from ILocomotionEventBroadcasters. The movement can be a combina..." alt="" coords="41,80,242,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,123,78,119,82,82,45"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_locomotion_1_1_i_locomotion_event_handler.html" title=" " alt="" coords="139,5,306,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,45,164,82,160,78,197,41"/>
+</map>

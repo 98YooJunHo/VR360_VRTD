@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.PokeInteractor" name="Oculus.Interaction.PokeInteractor">
+<area shape="rect" id="Node000001" title="Defines a near&#45;poke interaction that is driven by a near&#45;distance proximity computation and a raycast..." alt="" coords="11,96,226,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,64,121,95,116,95,116,64"/>
+</map>

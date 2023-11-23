@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Input.Visuals.OVRControllerVisual" name="Oculus.Interaction.Input.Visuals.OVRControllerVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,565,331,608"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,115,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,362,59,393,62,429,71,466,88,500,105,520,126,537,173,562,170,567,123,542,101,524,83,503,66,468,57,430,54,393,55,362"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_controller_helper.html" title="Simple helper script that conditionally enables rendering of a controller if it is connected." alt="" coords="97,467,239,493"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="80,358,161,464,156,468,76,361"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="266,467,358,493"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,509,285,543,264,567,260,563,280,540,299,507"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_controller.html" title=" " alt="" coords="382,459,544,501"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,512,362,544,304,567,302,562,360,539,418,507"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,509,162,525,166,540,176,552,188,563,185,567,172,556,161,543,156,526,157,508"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="139,320,216,347"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="178,362,171,466,166,466,173,362"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="151,5,204,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="180,48,180,320,175,320,175,48"/>
+</map>

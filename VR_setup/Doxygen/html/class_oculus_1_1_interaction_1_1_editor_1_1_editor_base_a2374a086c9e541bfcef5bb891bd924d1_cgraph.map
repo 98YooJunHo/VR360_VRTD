@@ -1,0 +1,8 @@
+<map id="Oculus.Interaction.Editor.EditorBase.DrawFullInspector" name="Oculus.Interaction.Editor.EditorBase.DrawFullInspector">
+<area shape="rect" id="Node000001" title="Draws all the visible (non hidden)properties in the serialized object following this order: First all..." alt="" coords="5,63,198,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a2b953b238af09b8c993bfa78bcb076fc" title="Draws all the properties in the section in the order they were added." alt="" coords="246,29,414,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,67,230,63,230,68,198,73"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a84e564656ac67aadd70dd4dffc6ff273" title="Indicates if the property in the serializedObject has been assigned to a section." alt="" coords="246,96,414,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="198,95,230,100,230,105,197,101"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="286,29,285,19,292,10,307,5,330,3,354,5,369,11,367,16,353,10,330,8,308,10,295,15,290,21,292,28"/>
+</map>

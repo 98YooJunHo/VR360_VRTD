@@ -1,0 +1,5 @@
+<map id="Oculus.Voice.Bindings.Android.VoiceSDKImplRequest.HandleFullTranscription" name="Oculus.Voice.Bindings.Android.VoiceSDKImplRequest.HandleFullTranscription">
+<area shape="rect" id="Node000001" title="Called for final transcription of text." alt="" coords="5,5,298,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request.html#ac3a94b7fca4e1dbedef6608b16398d22" title="Applies a transcription to the current results." alt="" coords="346,5,568,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,24,330,24,330,29,298,29"/>
+</map>

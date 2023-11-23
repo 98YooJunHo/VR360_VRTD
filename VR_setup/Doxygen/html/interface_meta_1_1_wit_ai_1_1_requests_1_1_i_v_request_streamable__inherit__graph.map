@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.IVRequestStreamable" name="Meta.WitAi.Requests.IVRequestStreamable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,215,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html" title="A download handler for UnityWebRequest that decodes audio data, passes the data into an iAudioClipStr..." alt="" coords="19,96,201,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,64,113,96,107,96,107,64"/>
+</map>

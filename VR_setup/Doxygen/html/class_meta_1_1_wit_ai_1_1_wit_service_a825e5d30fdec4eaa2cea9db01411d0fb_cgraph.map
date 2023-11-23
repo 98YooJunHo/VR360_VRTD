@@ -1,0 +1,22 @@
+<map id="Meta.WitAi.WitService.SendRecordingRequest" name="Meta.WitAi.WitService.SendRecordingRequest">
+<area shape="rect" id="Node000001" title="Sends recording request if possible." alt="" coords="5,64,192,107"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#ac2c7e656b58dbd917ae1b59e89ce45fa" title="Execute a wit request immediately." alt="" coords="240,64,444,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,83,224,83,224,88,192,88"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_n_l_p_request.html#a68baf2b7683471dccae337ee339be148" title="Applies the specified text to the options if possible &amp; then submits." alt="" coords="492,24,690,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,63,503,52,504,57,445,68"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a7e8a43b3cfcf977f6db882a615133ba8" title="Setup recording request." alt="" coords="496,93,686,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,95,481,99,480,104,444,100"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_voice_request.html#a8688e3baff8c970cfc1361f72750f504" title="Begin the transmission of data." alt="" coords="738,5,948,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="691,27,723,25,723,30,691,33"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#aafc90b13e916834001b013d12ac372a5" title="Handle request completion." alt="" coords="745,131,941,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="687,126,730,133,729,138,686,131"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a431babc1a2053f914c1a0250b6be8f85" title="Main thread call to handle partial response callbacks." alt="" coords="996,71,1192,113"/>
+<area shape="poly" id="edge10_Node000005_Node000007" title=" " alt="" coords="687,97,738,92,863,87,980,86,980,92,863,92,739,97,687,103"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#ac309f2334312fb256b79a9d9c1732c00" title="Main thread call to handle result callbacks." alt="" coords="996,160,1192,203"/>
+<area shape="poly" id="edge11_Node000005_Node000008" title=" " alt="" coords="627,134,679,161,739,183,800,193,863,197,980,193,980,199,863,202,799,198,738,188,677,166,625,139"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="796,131,794,121,802,112,818,106,843,104,870,106,886,113,884,118,869,112,843,109,819,111,805,116,799,122,801,130"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="934,127,987,115,988,120,936,133"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="942,161,980,165,980,171,941,166"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="1240,168,1373,195"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1192,179,1225,179,1225,184,1192,184"/>
+</map>

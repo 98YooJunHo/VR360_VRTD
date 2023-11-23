@@ -1,0 +1,18 @@
+<map id="Oculus.Interaction.PokeInteractable" name="Oculus.Interaction.PokeInteractable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="710,155,937,181"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="329,5,563,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,50,627,67,687,88,752,120,803,152,801,156,749,125,685,93,626,72,566,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="400,72,492,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,93,687,129,773,151,772,157,685,135,506,98"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_min_thresholds_config.html" title=" " alt="" coords="330,123,562,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,150,710,158,710,163,577,155"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_drag_thresholds_config.html" title=" " alt="" coords="330,189,562,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="577,193,709,178,710,183,577,199"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_progress_curve.html" title="ProgressCurve provides a helper for creating curves for easing. In some respects it works like an Ani..." alt="" coords="5,224,188,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="203,232,330,219,330,225,203,237"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_position_pinning_config.html" title=" " alt="" coords="330,256,562,299"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="203,258,212,259,330,268,330,274,211,264,203,263"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="554,249,685,213,785,179,786,184,687,219,556,254"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_recoil_assist_config.html" title=" " alt="" coords="330,323,562,365"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="540,315,562,308,625,289,685,263,753,220,804,180,808,184,756,224,687,268,627,294,564,313,541,320"/>
+</map>

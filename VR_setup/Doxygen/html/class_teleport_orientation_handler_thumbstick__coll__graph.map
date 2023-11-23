@@ -1,0 +1,29 @@
+<map id="TeleportOrientationHandlerThumbstick" name="TeleportOrientationHandlerThumbstick">
+<area shape="rect" id="Node000001" title="This orientation handler will use the specified thumbstick to adjust the landing orientation of the t..." alt="" coords="572,659,746,701"/>
+<area shape="rect" id="Node000002" href="$class_teleport_orientation_handler.html" title="The orientation handler is what determines the final rotation of the player after the teleport." alt="" coords="5,565,180,592"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,592,572,661,571,666,179,598"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="146,81,258,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,116,101,133,76,159,68,215,63,326,65,448,75,538,86,564,82,566,70,539,60,449,58,326,62,215,71,156,98,129,130,111"/>
+<area shape="rect" id="Node000006" href="$class_teleport_aim_handler.html" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="85,157,220,184"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="187,122,163,158,159,155,183,119"/>
+<area shape="rect" id="Node000009" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="244,157,384,184"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="235,115,296,155,293,159,232,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="366,5,475,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,40,240,83,238,78,368,35"/>
+<area shape="rect" id="Node000005" href="$class_locomotion_teleport.html" title="The LocomotionTeleport class controls and centralizes functionality for the various types of teleport..." alt="" coords="164,248,298,275"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="423,48,418,112,410,149,398,185,384,209,363,226,332,242,300,252,298,247,330,237,360,222,380,206,393,183,405,148,413,111,418,48"/>
+<area shape="rect" id="Node000007" href="$class_teleport_destination.html" title="The teleport system uses a prefab with an TeleportDestination component, which will track the target ..." alt="" coords="345,565,477,592"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="463,38,489,61,497,76,500,93,500,263,507,343,516,408,516,438,512,470,501,503,481,540,467,556,449,567,446,562,464,552,477,537,496,501,507,468,511,438,510,408,501,343,495,263,495,94,492,78,484,65,459,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="149,278,116,288,97,300,87,321,82,351,80,429,86,508,93,565,88,565,81,509,75,429,77,351,82,319,92,297,114,283,148,273"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="189,285,176,300,168,322,161,351,154,421,159,490,166,518,176,537,187,545,202,552,245,563,345,573,344,578,244,568,200,557,184,550,172,540,161,520,153,491,149,421,156,350,163,320,172,297,185,282"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="168,196,186,222,213,245,210,249,182,226,163,199"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="347,560,325,540,308,508,301,477,303,448,308,419,313,390,315,362,310,332,294,300,282,287,266,277,269,273,285,283,299,297,315,330,321,361,319,391,313,420,308,448,307,477,313,506,329,537,351,556"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="575,248,666,275"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="639,287,643,298,655,349,663,402,670,507,668,597,664,659,659,658,663,596,665,507,658,403,650,350,638,299,634,289"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="563,285,546,300,529,331,524,361,526,390,532,419,537,448,539,478,533,509,515,540,497,556,476,567,474,562,494,552,510,537,528,507,534,478,532,449,527,420,521,391,519,361,524,330,541,297,559,281"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="294,197,245,249,241,246,290,194"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="782,565,859,592"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="789,603,694,660,692,656,786,598"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="794,248,847,275"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="823,290,823,565,818,565,818,290"/>
+</map>

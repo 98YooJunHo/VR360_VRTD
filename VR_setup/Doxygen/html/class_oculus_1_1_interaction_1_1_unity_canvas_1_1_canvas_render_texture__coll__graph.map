@@ -1,0 +1,10 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTexture" name="Oculus.Interaction.UnityCanvas.CanvasRenderTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="626,31,820,73"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,10,164,8,288,5,384,6,480,12,603,28,626,32,626,37,602,33,480,18,384,11,288,10,164,13,130,15"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_1_1_transform_change_listener.html" title=" " alt="" coords="164,23,418,81"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="130,26,164,31,163,36,130,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="265,105,318,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="333,111,602,71,626,67,626,72,603,76,334,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,49,626,49,626,55,434,55"/>
+</map>

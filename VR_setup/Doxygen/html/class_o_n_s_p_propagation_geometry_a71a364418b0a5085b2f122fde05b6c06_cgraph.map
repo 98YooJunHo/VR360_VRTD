@@ -1,0 +1,5 @@
+<map id="ONSPPropagationGeometry.Awake" name="ONSPPropagationGeometry.Awake">
+<area shape="rect" id="Node000001" title="If script is attached to a gameobject, it will try to create geometry." alt="" coords="5,5,194,48"/>
+<area shape="rect" id="Node000002" href="$class_o_n_s_p_propagation_geometry.html#a9f6d0d647129a7498b461710f2f63053" title="Call this function to create geometry handle." alt="" coords="242,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,226,24,226,29,194,29"/>
+</map>

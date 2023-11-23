@@ -1,0 +1,9 @@
+<map id="TeleportTransitionWarp.LocomotionTeleportOnEnterStateTeleporting" name="TeleportTransitionWarp.LocomotionTeleportOnEnterStateTeleporting">
+<area shape="rect" id="Node000001" title="When the teleport state is entered, quickly move the player to the new location over the duration of ..." alt="" coords="5,27,231,69"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition_warp.html#aac39b3c8d29d5ecfa48288b95c2c1daa" title="This coroutine will be active during the teleport transition and will move the camera according to th..." alt="" coords="279,35,484,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,45,263,45,263,51,231,51"/>
+<area shape="rect" id="Node000003" href="$class_locomotion_teleport.html#a720336cde8b2bf093c4fe7be9189a604" title="Warp just the position towards the destination." alt="" coords="547,5,732,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,34,531,28,532,34,485,39"/>
+<area shape="rect" id="Node000004" href="$class_locomotion_teleport.html#a993656ef64bfa3c9937cc1469f0034d9" title="Convenience method for finding the character&#39;s position." alt="" coords="532,56,747,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="485,57,517,61,516,66,484,62"/>
+</map>

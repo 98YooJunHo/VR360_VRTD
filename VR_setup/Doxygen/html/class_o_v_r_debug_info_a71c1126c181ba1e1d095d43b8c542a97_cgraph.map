@@ -1,0 +1,5 @@
+<map id="OVRDebugInfo.UpdateResolutionEyeTexture" name="OVRDebugInfo.UpdateResolutionEyeTexture">
+<area shape="rect" id="Node000001" title="Updates resolution of eye texture." alt="" coords="5,5,218,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_display.html#a16797f4cb157584ee6d83d54d79c8bb3" title="Gets the resolution and field of view for the given eye." alt="" coords="266,13,477,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,24,250,24,250,29,218,29"/>
+</map>

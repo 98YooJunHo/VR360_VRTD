@@ -1,0 +1,9 @@
+<map id="Meta.Voice.Samples.TTSVoices.SimpleDropdownList.LoadCell" name="Meta.Voice.Samples.TTSVoices.SimpleDropdownList.LoadCell">
+<area shape="rect" id="Node000001" title="Load a specific cell." alt="" coords="5,5,219,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_simple_dropdown_list.html#aa0b6102939dfdd06875cd1b8629f6dd3" title="When a cell is clicked, select a specific option." alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,24,251,24,251,29,219,29"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_simple_dropdown_list.html#abc7f67a37810733f330994a4ed3f47e6" title="Select an item in the dropdown list." alt="" coords="528,5,746,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,24,513,24,513,29,481,29"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_simple_dropdown_list.html#a1d17df6be28aaf5b22680610f2e5e9e4" title="Show or hide the popup." alt="" coords="794,5,1008,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="747,24,779,24,779,29,747,29"/>
+</map>

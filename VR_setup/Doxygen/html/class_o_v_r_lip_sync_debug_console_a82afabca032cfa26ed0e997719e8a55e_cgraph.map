@@ -1,0 +1,9 @@
+<map id="OVRLipSyncDebugConsole.Update" name="OVRLipSyncDebugConsole.Update">
+<area shape="rect" id="Node000001" title="Update this instance." alt="" coords="5,13,231,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_debug_console.html#a47a5ea8e58baf26e1c9892131ef9c446" title="Clear this instance." alt="" coords="279,13,493,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,24,263,24,263,29,231,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_debug_console.html#a3b41e35627b5102bd737bb80f320358e" title="Clears the messages." alt="" coords="541,5,755,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,24,526,24,526,29,494,29"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_debug_console.html#aa3e6bcfc16a4fc79b472d4505d90a665" title="Display this instance." alt="" coords="803,13,1031,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,24,788,24,788,29,756,29"/>
+</map>

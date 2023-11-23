@@ -1,0 +1,10 @@
+<map id="OculusSampleFramework.PanelHMDFollower" name="OculusSampleFramework.PanelHMDFollower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,204,242,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,47,65,76,72,107,97,160,125,202,120,205,92,162,67,109,60,77,57,47"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="82,81,195,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="86,41,127,79,124,83,83,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,123,141,204,136,204,136,123"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,81,311,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="257,123,241,153,219,182,187,206,184,201,215,178,237,150,252,121"/>
+</map>

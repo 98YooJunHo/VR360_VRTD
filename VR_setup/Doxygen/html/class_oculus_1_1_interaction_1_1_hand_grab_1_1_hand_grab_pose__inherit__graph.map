@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabPose" name="Oculus.Interaction.HandGrab.HandGrabPose">
+<area shape="rect" id="Node000001" title="The HandGrabPose defines the local point in an object to which the grip point of the hand should alig..." alt="" coords="5,80,198,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,48,104,80,99,80,99,48"/>
+</map>

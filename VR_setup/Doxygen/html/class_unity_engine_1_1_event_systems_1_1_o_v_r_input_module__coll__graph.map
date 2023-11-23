@@ -1,0 +1,20 @@
+<map id="UnityEngine.EventSystems.OVRInputModule" name="UnityEngine.EventSystems.OVRInputModule">
+<area shape="rect" id="Node000001" title="VR extension of PointerInputModule which supports gaze and controller pointing." alt="" coords="167,411,350,453"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,138,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,352,219,408,217,412,108,357"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_cursor.html" title=" " alt="" coords="161,320,249,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,361,221,385,238,409,234,412,216,388,207,363"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="150,5,260,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,48,208,320,202,320,202,48"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="273,320,350,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="299,362,272,411,267,409,295,359"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="405,5,458,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="390,27,326,38,299,47,283,58,263,88,251,116,245,143,245,170,259,227,284,295,299,318,295,321,279,297,254,229,240,170,240,142,246,114,258,85,279,54,297,42,325,33,389,22"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_raycaster.html" title="Extension of GraphicRaycaster to support ray casting with world space rays instead of just screen&#45;spa..." alt="" coords="561,320,670,347"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="474,24,501,35,524,54,542,86,548,117,545,146,539,175,533,204,530,233,534,263,550,294,562,308,578,317,575,322,559,312,545,298,529,264,525,233,528,203,534,174,540,146,542,117,537,88,520,58,499,40,472,29"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="554,354,335,413,334,408,553,349"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="617,5,742,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="687,47,693,97,695,161,686,231,677,265,663,297,653,311,640,322,637,317,649,307,659,295,672,263,681,230,689,161,688,97,682,48"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="767,5,907,32"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="832,48,815,99,788,166,749,236,725,268,697,298,679,312,659,322,656,317,676,307,694,294,720,265,744,233,783,163,810,98,827,46"/>
+</map>

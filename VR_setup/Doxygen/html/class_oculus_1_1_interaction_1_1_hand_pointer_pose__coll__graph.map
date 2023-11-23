@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandPointerPose" name="Oculus.Interaction.HandPointerPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,112,300,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,40,171,109,167,113,85,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="139,5,229,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,47,187,112,181,112,181,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,5,344,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="276,44,200,113,196,109,272,40"/>
+</map>

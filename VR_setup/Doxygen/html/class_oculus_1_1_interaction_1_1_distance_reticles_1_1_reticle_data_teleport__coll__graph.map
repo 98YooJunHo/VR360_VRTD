@@ -1,0 +1,12 @@
+<map id="Oculus.Interaction.DistanceReticles.ReticleDataTeleport" name="Oculus.Interaction.DistanceReticles.ReticleDataTeleport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="178,188,363,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,47,58,86,62,105,72,122,93,146,120,164,149,178,179,189,177,194,147,183,117,169,90,150,67,126,57,107,53,86,53,47"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html" title=" " alt="" coords="81,81,258,124"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="90,39,144,79,140,83,87,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_distance_reticles_1_1_i_reticle_data.html" title=" " alt="" coords="281,89,372,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,131,284,189,279,186,310,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,137,201,162,231,185,227,190,197,166,180,140"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="396,89,449,116"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="394,127,302,190,299,185,391,123"/>
+</map>

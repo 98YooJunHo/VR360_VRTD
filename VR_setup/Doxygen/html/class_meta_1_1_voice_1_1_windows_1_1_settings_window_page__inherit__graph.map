@@ -1,0 +1,15 @@
+<map id="Meta.Voice.Windows.SettingsWindowPage" name="Meta.Voice.Windows.SettingsWindowPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,379,251,421"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_windows_1_1_settings_window.html" title=" " alt="" coords="29,304,144,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,341,138,377,134,380,105,345"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_window.html" title=" " alt="" coords="43,229,130,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,272,89,304,84,304,84,272"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_configuration_window.html" title=" " alt="" coords="5,155,168,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,197,89,229,84,229,84,197"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_base_wit_window.html" title=" " alt="" coords="28,80,145,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,122,89,154,84,154,84,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="36,5,137,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="89,48,89,80,84,80,84,48"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_meta_hub_page.html" title=" " alt="" coords="168,304,274,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="203,344,172,380,168,377,199,341"/>
+</map>

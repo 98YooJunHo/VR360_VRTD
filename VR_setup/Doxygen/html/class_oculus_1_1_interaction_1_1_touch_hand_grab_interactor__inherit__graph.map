@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.TouchHandGrabInteractor" name="Oculus.Interaction.TouchHandGrabInteractor">
+<area shape="rect" id="Node000001" title="TouchHandGrabInteractor provides a hand&#45;specific grab interaction model where selection begins when f..." alt="" coords="21,112,187,155"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="5,5,203,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,79,107,112,101,112,101,79"/>
+</map>

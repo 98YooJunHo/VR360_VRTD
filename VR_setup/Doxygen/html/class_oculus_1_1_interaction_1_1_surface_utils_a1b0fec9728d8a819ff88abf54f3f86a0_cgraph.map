@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.SurfaceUtils.ComputeDistanceAbove" name="Oculus.Interaction.SurfaceUtils.ComputeDistanceAbove">
+<area shape="rect" id="Node000001" title="The distance above a surface along the closest normal. Returns 0 for where the sphere touches the sur..." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html#a1e8e88cb104ba7b22da4ee2250683a8d" title="Find nearest point to surface." alt="" coords="243,5,433,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
+</map>

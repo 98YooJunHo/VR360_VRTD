@@ -1,0 +1,23 @@
+<map id="Meta.WitAi.TTS.TTSService.UnloadAll" name="Meta.WitAi.TTS.TTSService.UnloadAll">
+<area shape="rect" id="Node000001" title="Unload all audio clips from the runtime cache." alt="" coords="5,184,192,227"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_runtime_cache_handler.html#a52232299256ebb4a729634c7fa028108" title="Method for obtaining all cached clips." alt="" coords="240,151,470,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,191,224,186,224,192,192,196"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a7f77b88263ee159ba11636a933b13fd4" title="Force a runtime cache unload." alt="" coords="262,217,448,260"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,215,247,222,246,227,192,220"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#aef1019a350dab1dd4f49a6bde98f0464" title="Perform clip unload." alt="" coords="549,184,735,227"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="448,225,533,215,533,221,449,230"/>
+<area shape="rect" id="Node000011" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_runtime_cache_handler.html#aed134fc01b12a4c1b9995f1f01eae474" title="Method for removing a clip from the cache." alt="" coords="518,251,766,293"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="449,247,503,253,503,259,448,252"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_disk_cache_handler.html#a85ca498395917b1a1477e1021d4051f2" title="Method for cancelling a running cache load request." alt="" coords="825,5,1049,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="666,181,730,128,770,99,813,74,823,68,826,73,816,78,773,104,733,133,669,185"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_web_handler.html#a2ba82ce09dec3d36ba9df4b1e784155a" title="Cancel web download." alt="" coords="814,88,1060,131"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="699,181,813,140,837,133,839,138,815,145,701,186"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_web_handler.html#af960338d9966d19b21473c1c03d375c7" title="Cancel web stream." alt="" coords="821,155,1053,197"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="736,193,805,186,806,192,736,199"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="870,221,1004,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="736,212,855,224,855,229,736,217"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#ae765b542169567bb49577842ce819198" title="Get clip log data." alt="" coords="844,272,1030,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="731,225,767,236,815,258,836,264,834,269,813,262,765,241,730,230"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a1036cc56caf1680eb6ad93892bfa3548" title="Get disk cache." alt="" coords="844,339,1030,381"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="737,219,768,237,786,259,793,282,799,304,816,325,832,335,829,339,813,329,795,306,788,283,781,261,765,241,734,224"/>
+</map>

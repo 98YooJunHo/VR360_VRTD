@@ -1,0 +1,13 @@
+<map id="Meta.WitAi.Dictation.IDictationService" name="Meta.WitAi.Dictation.IDictationService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,72,419,115"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html" title=" " alt="" coords="475,39,671,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,76,474,70,475,76,435,81"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_voice_1_1_dictation_1_1_bindings_1_1_android_1_1_platform_dictation_impl.html" title=" " alt="" coords="467,105,679,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="435,106,467,110,466,115,434,111"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_i_telemetry_events_provider.html" title=" " alt="" coords="5,80,172,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,91,219,91,219,96,187,96"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_wit_dictation.html" title=" " alt="" coords="735,5,901,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="686,42,735,35,735,41,687,47"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_dictation_1_1_app_dictation_experience.html" title=" " alt="" coords="727,72,909,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="687,73,727,78,726,84,687,78"/>
+</map>

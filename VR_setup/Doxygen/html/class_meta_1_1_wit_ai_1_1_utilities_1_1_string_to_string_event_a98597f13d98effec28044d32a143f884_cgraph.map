@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Utilities.StringToStringEvent.FormatString" name="Meta.WitAi.Utilities.StringToStringEvent.FormatString">
+<area shape="rect" id="Node000001" title="Trigger an onStringEvent with the built in format value." alt="" coords="5,5,186,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_utilities_1_1_string_to_string_event.html#afb3d0a4670544e07c55b24af600bb970" title="Trigger an onStringEvent with a provided format." alt="" coords="234,5,414,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,24,218,24,218,29,186,29"/>
+</map>

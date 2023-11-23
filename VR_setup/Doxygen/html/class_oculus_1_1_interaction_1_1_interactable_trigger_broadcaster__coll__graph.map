@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.InteractableTriggerBroadcaster" name="Oculus.Interaction.InteractableTriggerBroadcaster">
+<area shape="rect" id="Node000001" title="Acts as a forwarder of Trigger events for Rigidbody overlaps. Used in conjunction with CollisionInter..." alt="" coords="140,172,337,215"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,115,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,113,202,169,199,174,95,118"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactable.html" title="An object that can be interacted with, an IInteractable can, in addition to an IInteractableView,..." alt="" coords="139,81,339,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,124,241,171,236,171,236,124"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactable_view.html" title="An IInteractableView defines the view for an object that can be interacted with." alt="" coords="179,5,298,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,47,241,81,236,81,236,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="363,81,416,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="365,120,324,150,283,174,280,169,321,146,362,116"/>
+</map>

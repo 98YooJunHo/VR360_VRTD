@@ -1,0 +1,9 @@
+<map id="OVRControllerTest" name="OVRControllerTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,112,226,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,41,151,110,147,114,80,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,185,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,47,164,112,159,112,159,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="208,5,261,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,48,207,90,183,113,179,109,203,86,224,46"/>
+</map>

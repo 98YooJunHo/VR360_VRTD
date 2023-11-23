@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="5,213,198,240"/>
+<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_auto_move_towards_target.html" title="This IMovement stores the initial Pose, and in case of an aborted movement it will finish it itself." alt="" coords="246,5,438,48"/>
+<area shape="poly" id="edge1132_Node000000_Node000001" title=" " alt="" coords="117,198,168,129,204,91,244,58,265,46,267,51,247,62,208,95,172,132,121,202"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_follow_target.html" title=" " alt="" coords="246,72,438,115"/>
+<area shape="poly" id="edge1133_Node000000_Node000002" title=" " alt="" coords="130,201,182,163,244,124,270,113,272,118,247,129,185,167,133,205"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_move_from_target.html" title=" " alt="" coords="246,139,438,181"/>
+<area shape="poly" id="edge1134_Node000000_Node000003" title=" " alt="" coords="167,206,261,179,263,185,168,211"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_move_relative_to_target.html" title=" " alt="" coords="246,205,438,248"/>
+<area shape="poly" id="edge1135_Node000000_Node000004" title=" " alt="" coords="213,224,245,224,245,229,213,229"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_move_towards_target.html" title=" " alt="" coords="246,272,438,315"/>
+<area shape="poly" id="edge1136_Node000000_Node000005" title=" " alt="" coords="168,242,263,269,261,274,167,247"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_object_pull.html" title=" " alt="" coords="246,339,438,381"/>
+<area shape="poly" id="edge1137_Node000000_Node000006" title=" " alt="" coords="133,248,185,286,247,324,272,336,270,341,244,329,182,291,130,252"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_tween.html" title=" " alt="" coords="258,405,426,432"/>
+<area shape="poly" id="edge1138_Node000000_Node000007" title=" " alt="" coords="121,252,171,322,207,359,247,391,270,402,268,407,244,396,203,363,167,325,116,255"/>
+</map>

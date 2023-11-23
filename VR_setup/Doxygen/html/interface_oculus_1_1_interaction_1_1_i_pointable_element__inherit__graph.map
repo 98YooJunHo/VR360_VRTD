@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.IPointableElement" name="Oculus.Interaction.IPointableElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,39,319,81"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_pointable_canvas.html" title=" " alt="" coords="367,5,554,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,42,366,37,367,43,335,47"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pointable_element.html" title=" " alt="" coords="369,72,553,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,73,368,78,368,83,334,78"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="5,47,84,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,57,131,57,131,63,99,63"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointable_canvas.html" title="PointableCanvas allows any IPointable to forward its events onto an associated Canvas via the IPointa..." alt="" coords="605,7,789,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="570,25,604,25,604,30,570,30"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="554,65,616,47,618,53,556,70"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_grabbable.html" title=" " alt="" coords="602,77,792,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="568,89,602,89,602,94,568,95"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_mesh.html" title=" " alt="" coords="605,128,789,171"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="569,116,605,125,604,130,567,121"/>
+</map>

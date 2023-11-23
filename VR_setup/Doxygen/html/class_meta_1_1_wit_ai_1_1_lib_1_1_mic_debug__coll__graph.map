@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Lib.MicDebug" name="Meta.WitAi.Lib.MicDebug">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,112,230,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,50,136,110,132,114,79,54"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_source.html" title=" " alt="" coords="139,5,325,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,61,159,113,155,110,202,58"/>
+</map>

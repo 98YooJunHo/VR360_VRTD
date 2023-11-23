@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.HandPinchOffset" name="Oculus.Interaction.HandPinchOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,219,318,261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,46,89,98,103,127,119,153,153,188,190,216,187,220,150,192,115,156,98,129,84,100,65,48"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html" title="The HandGrabAPI wraps under the hood several IFingerAPIs to detect if the fingers are grabbing or not..." alt="" coords="130,112,313,155"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="92,39,193,109,190,114,89,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="370,5,462,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,48,421,68,416,89,397,126,375,151,315,197,274,220,272,216,312,192,372,147,392,123,411,87,416,67,417,48"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="391,44,376,58,362,75,346,90,297,114,295,109,342,86,358,71,372,54,388,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,170,224,218,219,218,219,170"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_finger_a_p_i.html" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="138,5,329,32"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="227,48,226,56,223,112,218,112,220,56,222,47"/>
+</map>

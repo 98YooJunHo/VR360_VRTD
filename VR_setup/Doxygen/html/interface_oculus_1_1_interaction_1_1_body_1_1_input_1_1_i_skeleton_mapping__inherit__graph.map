@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Body.Input.ISkeletonMapping" name="Oculus.Interaction.Body.Input.ISkeletonMapping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,170,131"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping.html" title="Maps a skeleton with joint id TSourceJointId to BodyJointId, and exposes parent/child relationships w..." alt="" coords="251,5,435,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,81,250,59,251,64,178,86"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_o_v_r_skeleton_mapping.html" title=" " alt="" coords="252,88,434,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,107,252,107,252,112,185,112"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_body_pose_data_1_1_mapping.html" title=" " alt="" coords="218,155,468,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,132,259,151,257,157,184,137"/>
+</map>

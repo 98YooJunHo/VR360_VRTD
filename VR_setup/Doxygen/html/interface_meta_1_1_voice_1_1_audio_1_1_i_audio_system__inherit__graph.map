@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Audio.IAudioSystem" name="Meta.Voice.Audio.IAudioSystem">
+<area shape="rect" id="Node000001" title="An interface for an audio system that can be used to return custom audio clip streams and audio playe..." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_unity_audio_system.html" title="An audio system that provides UnityAudioClipStreams &amp; UnityAudioPlayers for playback using Unity&#39;s bu..." alt="" coords="14,80,206,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,48,113,80,107,80,107,48"/>
+</map>

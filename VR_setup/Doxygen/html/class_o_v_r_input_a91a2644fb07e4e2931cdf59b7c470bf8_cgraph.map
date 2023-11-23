@@ -1,0 +1,5 @@
+<map id="OVRInput.UpdateXRControllerNodeIds" name="OVRInput.UpdateXRControllerNodeIds">
+<area shape="rect" id="Node000001" title="Associates OpenVR device IDs with left and right motion controllers, for later haptic playback." alt="" coords="5,5,199,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#af22222b30db5822d5066b205b9bdee98" title="Accesses OpenVR properties about a given deviceID. Especially useful for differentiating per type of ..." alt="" coords="247,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,231,24,231,29,199,29"/>
+</map>

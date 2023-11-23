@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Demo.WaterSpray.RenderSplash" name="Oculus.Interaction.Demo.WaterSpray.RenderSplash">
+<area shape="rect" id="Node000001" title="Finds Meshes that are part of the rootObject and blits the material on them." alt="" coords="5,5,181,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_demo_1_1_water_spray.html#ac51515d096700ea358dd06e760452756" title="Sets up a new mesh blit on the mesh filter for the water spray." alt="" coords="229,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,24,213,24,213,29,181,29"/>
+</map>

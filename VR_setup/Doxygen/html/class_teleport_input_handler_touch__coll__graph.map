@@ -1,0 +1,16 @@
+<map id="TeleportInputHandlerTouch" name="TeleportInputHandlerTouch">
+<area shape="rect" id="Node000001" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using Oc..." alt="" coords="69,616,244,643"/>
+<area shape="rect" id="Node000002" href="$class_teleport_input_handler_h_m_d.html" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using HM..." alt="" coords="7,521,175,548"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,559,150,614,145,617,106,562"/>
+<area shape="rect" id="Node000003" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="5,396,145,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,438,92,521,87,521,76,439"/>
+<area shape="rect" id="Node000004" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="19,81,131,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,124,78,396,72,396,72,124"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="20,5,130,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="78,47,78,81,72,81,72,47"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="176,396,254,423"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="215,439,207,499,190,568,166,617,161,615,184,566,201,498,210,438"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="163,424,141,434,122,449,110,466,102,485,95,522,89,520,97,484,105,463,118,445,138,430,161,419"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="188,81,242,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="218,124,218,396,212,396,212,124"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="OVRSceneRoom" name="OVRSceneRoom">
+<area shape="rect" id="Node000001" title="Represents a OVRRoomLayout type Scene anchor." alt="" coords="357,795,478,821"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="231,275,340,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,304,148,320,80,341,51,353,28,367,13,381,8,396,8,718,10,730,18,741,45,760,87,774,138,785,254,799,357,804,356,809,253,804,138,791,86,779,43,764,14,745,6,732,3,719,3,396,9,378,25,363,49,348,78,336,147,315,214,299"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_scene_anchor.html" title="Represents a scene anchor." alt="" coords="443,384,570,411"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="326,306,482,381,479,386,324,311"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_scene_manager.html" title="A manager for OVRSceneAnchors created using the Room Setup feature." alt="" coords="349,704,486,731"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="270,316,232,378,212,418,195,462,183,508,180,554,186,598,206,638,235,668,271,688,311,701,349,709,348,714,309,706,269,693,232,672,202,642,181,599,174,554,178,507,190,460,207,416,227,375,265,313"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_scene_plane.html" title="A OVRSceneAnchor that has a 2D bounds associated with it." alt="" coords="235,488,354,515"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="289,317,297,488,291,488,284,317"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="306,435,419,461"/>
+<area shape="poly" id="edge17_Node000010_Node000002" title=" " alt="" coords="300,314,359,433,354,436,296,316"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,384,198,411"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,426,127,500,127,718,133,734,150,748,176,761,209,771,284,788,357,798,356,803,284,793,207,777,174,766,147,753,128,737,121,719,121,500,119,426"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="156,417,275,485,272,490,153,421"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="576,414,607,427,634,445,654,470,661,500,661,719,656,734,642,747,596,770,537,787,478,800,477,794,535,782,594,765,639,743,652,731,656,718,656,500,649,472,630,449,604,432,574,418"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="534,421,541,434,545,463,540,496,513,574,498,631,488,654,470,682,442,706,439,702,466,678,483,652,493,629,508,573,534,495,540,463,536,436,530,424"/>
+<area shape="poly" id="edge15_Node000009_Node000004" title=" " alt="" coords="475,422,453,437,439,451,423,464,389,479,355,490,353,485,387,474,420,459,435,447,450,433,472,417"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="524,5,577,32"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="589,38,647,76,712,132,740,166,764,203,780,243,785,286,785,719,783,731,776,742,751,760,714,774,670,785,570,800,478,807,478,802,569,795,669,780,713,769,748,755,772,738,778,729,780,718,780,287,774,245,759,205,736,169,708,136,644,80,586,42"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="555,48,553,184,544,272,527,361,516,385,511,383,521,359,539,272,547,184,549,48"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_plugin.html" title=" " alt="" coords="391,275,476,301"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="509,25,427,35,391,45,369,58,354,79,344,100,339,120,338,140,348,182,369,231,388,255,411,272,408,277,384,259,365,233,343,184,333,140,334,119,339,98,349,77,365,54,389,40,426,30,508,20"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="453,313,500,382,496,385,448,316"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="420,746,420,794,415,794,415,746"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_scene_manager_1_1_room_layout_information.html" title="A container for the set of OVRSceneAnchors representing a room." alt="" coords="216,597,429,640"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="349,651,373,678,401,702,398,706,369,682,345,654"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="304,529,320,596,315,598,299,530"/>
+<area shape="poly" id="edge16_Node000007_Node000010" title=" " alt="" coords="382,473,415,528,444,596,456,639,456,658,450,681,434,705,430,702,446,679,451,657,451,639,439,598,410,530,378,476"/>
+</map>

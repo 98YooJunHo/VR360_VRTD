@@ -1,0 +1,7 @@
+<map id="DebugUISample" name="DebugUISample">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,96,168,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,44,106,94,101,97,72,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,185,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,47,120,97,116,94,144,44"/>
+</map>

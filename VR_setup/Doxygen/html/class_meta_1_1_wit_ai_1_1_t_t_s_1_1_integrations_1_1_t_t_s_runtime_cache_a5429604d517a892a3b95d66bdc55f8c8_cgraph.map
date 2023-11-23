@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.TTS.Integrations.TTSRuntimeCache.IsCacheFull" name="Meta.WitAi.TTS.Integrations.TTSRuntimeCache.IsCacheFull">
+<area shape="rect" id="Node000001" title="Check if cache is full." alt="" coords="5,5,207,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_runtime_cache.html#a20e670d85265c7ece97b00c8e19c7724" title="Get RAM size of cache in KBs." alt="" coords="255,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,24,239,24,239,29,207,29"/>
+</map>

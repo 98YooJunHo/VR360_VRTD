@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.WitVRequest.GetWitHeaders" name="Meta.WitAi.Requests.WitVRequest.GetWitHeaders">
+<area shape="rect" id="Node000001" title="Obtain headers to be used with every wit service." alt="" coords="5,5,236,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_v_request.html#a39128ce52baf67f9ea54070ede978778" title="Obtain authorization header using provided access token." alt="" coords="284,5,514,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,24,268,24,268,29,236,29"/>
+</map>

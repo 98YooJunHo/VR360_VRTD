@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.SpeakQueuedAsync" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.SpeakQueuedAsync">
+<area shape="rect" id="Node000001" title="Load a tts clip using the specified text phrases, disk cache settings &amp; playback events and then wait..." alt="" coords="5,39,221,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a6a8b14b98fc1f13fcbda0a0ff7b50c6c" title="Decode a response node into text to be spoken or a specific voice setting Example Data: { &quot;q&quot;: &quot;Text ..." alt="" coords="277,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,44,261,39,262,44,221,49"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a8ababca461e90c2efa0f25750f493a8e" title="Load a tts clip using the specified text phrases, disk cache settings &amp; playback events and then wait..." alt="" coords="269,72,484,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,71,254,75,253,80,221,76"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_wit_voice_settings.html#abf395ea5174a610d80ace9933c79ee26" title="Checks if request can be decoded for TTS data Example Data: { &quot;q&quot;: &quot;Text to be spoken&quot; &quot;voice&quot;: &quot;Char..." alt="" coords="532,5,748,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,24,516,24,516,29,476,29"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a8b086101f0e25b6bc4a2795a96b72d89" title="Load a tts clip using the specified text, disk cache settings &amp; playback events. Cancels all previous..." alt="" coords="558,72,722,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,91,543,91,543,96,485,96"/>
+</map>

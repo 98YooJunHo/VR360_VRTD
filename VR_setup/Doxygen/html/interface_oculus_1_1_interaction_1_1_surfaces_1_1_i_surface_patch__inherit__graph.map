@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Surfaces.ISurfacePatch" name="Oculus.Interaction.Surfaces.ISurfacePatch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,39,307,81"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_circle_surface.html" title=" " alt="" coords="355,5,540,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,42,354,37,355,43,323,47"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_clipped_surface.html" title=" " alt="" coords="355,72,540,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,73,355,77,354,83,322,78"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html" title=" " alt="" coords="5,47,74,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,57,121,57,121,63,89,63"/>
+</map>

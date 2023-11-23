@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Body.PoseDetection.BodyPoseComparerActiveStateDebugVisual" name="Oculus.Interaction.Body.PoseDetection.BodyPoseComparerActiveStateDebugVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="674,67,900,125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,147,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,21,380,40,650,71,674,74,673,79,650,76,379,46,162,27"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_body_pose_comparer_active_state.html" title="Compares a user&#45;provided set of joints between two Body Poses." alt="" coords="275,115,501,173"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="152,35,201,54,252,78,276,94,313,112,310,117,273,98,249,82,199,59,150,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="516,126,673,107,674,112,516,131"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="47,149,137,176"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="152,156,274,148,275,154,153,162"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="46,69,138,96"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="153,81,650,89,674,90,673,95,650,95,153,86"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="147,99,203,115,275,128,274,133,202,120,145,104"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_i_body_pose.html" title=" " alt="" coords="5,219,179,261"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="194,235,340,224,421,214,500,199,617,164,719,123,721,128,619,169,502,204,422,219,340,230,194,240"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="185,211,250,191,306,171,308,176,252,196,186,216"/>
+</map>

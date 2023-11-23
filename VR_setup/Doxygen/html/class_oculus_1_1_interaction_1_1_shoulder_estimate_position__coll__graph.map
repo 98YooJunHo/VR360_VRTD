@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.ShoulderEstimatePosition" name="Oculus.Interaction.ShoulderEstimatePosition">
+<area shape="rect" id="Node000001" title="Updates its transform to the estimated shoulder position and rotation. Estimated pose is based on an ..." alt="" coords="93,112,275,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,163,110,160,114,83,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,47,187,112,181,112,181,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,5,307,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,46,230,90,208,113,204,110,226,86,260,43"/>
+</map>

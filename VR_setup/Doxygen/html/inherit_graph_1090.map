@@ -1,0 +1,83 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,792,116,819"/>
+<area shape="rect" id="Node000001" href="$class_layer_attribute_editor.html" title=" " alt="" coords="220,5,356,32"/>
+<area shape="poly" id="edge1329_Node000000_Node000001" title=" " alt="" coords="59,776,60,624,71,403,84,290,102,186,128,101,144,67,162,42,188,24,219,15,220,21,190,29,166,46,148,70,133,102,107,187,89,291,77,404,65,624,64,776"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_value_path_matcher_property_drawer.html" title=" " alt="" coords="179,56,397,99"/>
+<area shape="poly" id="edge1330_Node000000_Node000002" title=" " alt="" coords="59,776,63,636,77,436,90,334,108,240,131,162,145,132,162,109,177,96,180,100,166,112,150,135,136,164,113,241,95,335,82,437,69,636,65,776"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_drawers_1_1_dynamic_range_attribute_drawer.html" title=" " alt="" coords="192,123,384,165"/>
+<area shape="poly" id="edge1331_Node000000_Node000003" title=" " alt="" coords="60,776,66,649,81,469,94,377,111,293,134,223,147,196,162,175,190,155,193,160,166,179,151,199,139,225,117,294,99,378,86,469,71,649,65,777"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_drawers_1_1_string_reference_drawer.html" title=" " alt="" coords="200,189,376,232"/>
+<area shape="poly" id="edge1332_Node000000_Node000004" title=" " alt="" coords="60,777,68,661,85,501,99,420,115,346,136,284,148,261,162,242,179,228,198,219,201,223,182,233,166,246,153,263,141,287,120,347,104,421,91,502,73,662,66,777"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_events_1_1_editor_1_1_event_property_drawer.html" title=" " alt="" coords="201,256,375,299"/>
+<area shape="poly" id="edge1333_Node000000_Node000005" title=" " alt="" coords="61,776,71,673,90,533,103,463,119,398,139,345,162,309,180,295,200,285,202,290,182,299,166,312,144,348,124,400,108,464,95,534,76,674,67,777"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_voices_1_1_t_t_s_wit_voice_settings_drawer.html" title=" " alt="" coords="186,323,390,365"/>
+<area shape="poly" id="edge1334_Node000000_Node000006" title=" " alt="" coords="62,776,74,686,94,566,123,451,141,406,162,375,184,359,187,363,166,379,146,409,128,453,99,567,79,687,67,777"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_property_drawer.html" title=" " alt="" coords="180,389,396,432"/>
+<area shape="poly" id="edge1335_Node000000_Node000007" title=" " alt="" coords="58,776,61,709,74,619,87,571,106,524,130,481,162,442,178,430,181,434,166,446,135,484,110,527,92,573,80,620,66,709,64,777"/>
+<area shape="rect" id="Node000017" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_simple_property_drawer.html" title=" " alt="" coords="184,456,392,499"/>
+<area shape="poly" id="edge1345_Node000000_Node000017" title=" " alt="" coords="61,777,67,720,83,648,96,610,113,573,135,539,162,509,182,494,185,499,165,513,139,542,118,576,101,612,88,650,72,721,66,777"/>
+<area shape="rect" id="Node000020" href="$class_o_v_r_1_1_min_max_property_drawer.html" title=" " alt="" coords="194,523,382,549"/>
+<area shape="poly" id="edge1348_Node000000_Node000020" title=" " alt="" coords="63,776,72,728,89,669,119,610,138,583,162,559,192,543,195,547,165,563,142,586,123,613,94,671,77,730,68,777"/>
+<area shape="rect" id="Node000021" href="$class_o_v_r_1_1_mixer_snapshot_property_drawer.html" title=" " alt="" coords="193,573,383,616"/>
+<area shape="poly" id="edge1349_Node000000_Node000021" title=" " alt="" coords="68,776,81,741,101,701,128,660,162,626,192,609,194,614,165,630,132,664,106,704,86,744,73,778"/>
+<area shape="rect" id="Node000022" href="$class_o_v_r_1_1_o_s_p_props_property_drawer.html" title=" " alt="" coords="186,640,390,667"/>
+<area shape="poly" id="edge1350_Node000000_Node000022" title=" " alt="" coords="74,777,109,725,134,698,162,676,186,665,189,670,165,681,137,702,113,728,78,780"/>
+<area shape="rect" id="Node000023" href="$class_o_v_r_1_1_sound_f_x_property_drawer.html" title=" " alt="" coords="191,691,385,717"/>
+<area shape="poly" id="edge1351_Node000000_Node000023" title=" " alt="" coords="85,780,120,752,163,727,195,715,197,720,165,732,123,756,88,784"/>
+<area shape="rect" id="Node000024" href="$class_o_v_r_1_1_sound_f_x_ref_property_drawer.html" title=" " alt="" coords="181,741,395,768"/>
+<area shape="poly" id="edge1352_Node000000_Node000024" title=" " alt="" coords="130,785,163,777,216,766,217,771,164,783,131,790"/>
+<area shape="rect" id="Node000025" href="$class_o_v_r_named_array_property_drawer.html" title=" " alt="" coords="183,792,393,819"/>
+<area shape="poly" id="edge1353_Node000000_Node000025" title=" " alt="" coords="131,803,182,803,182,808,131,808"/>
+<area shape="rect" id="Node000026" href="$class_oculus_1_1_interaction_1_1_body_1_1_editor_1_1_body_pose_comparer_config_property_drawer.html" title=" " alt="" coords="182,843,394,901"/>
+<area shape="poly" id="edge1354_Node000000_Node000026" title=" " alt="" coords="124,821,187,840,185,845,122,826"/>
+<area shape="rect" id="Node000027" href="$class_oculus_1_1_interaction_1_1_editor_1_1_conditional_hide_drawer.html" title=" " alt="" coords="204,925,372,968"/>
+<area shape="poly" id="edge1355_Node000000_Node000027" title=" " alt="" coords="82,830,118,872,140,893,165,911,204,928,202,933,162,916,137,897,114,876,78,833"/>
+<area shape="rect" id="Node000028" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_grabbing_rule_editor.html" title=" " alt="" coords="196,992,380,1035"/>
+<area shape="poly" id="edge1356_Node000000_Node000028" title=" " alt="" coords="73,832,86,866,106,906,132,945,165,978,197,995,195,1000,162,982,128,948,101,908,81,868,68,834"/>
+<area shape="rect" id="Node000029" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_editor_1_1_hand_pose_editor.html" title=" " alt="" coords="192,1059,384,1101"/>
+<area shape="poly" id="edge1357_Node000000_Node000029" title=" " alt="" coords="68,834,78,880,96,937,124,995,143,1022,165,1045,193,1062,190,1066,162,1049,139,1025,120,998,91,939,73,881,63,835"/>
+<area shape="rect" id="Node000030" href="$class_oculus_1_1_interaction_1_1_interface_support_1_1_interface_drawer.html" title="This property drawer is the meat of the interface support implementation. When the value of field wit..." alt="" coords="198,1125,378,1168"/>
+<area shape="poly" id="edge1358_Node000000_Node000030" title=" " alt="" coords="65,834,71,892,87,967,100,1006,117,1045,138,1080,165,1111,181,1123,199,1132,197,1136,178,1128,162,1115,134,1083,112,1047,95,1008,82,968,66,893,60,834"/>
+<area shape="rect" id="Node000031" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_list_property_drawer.html" title=" " alt="" coords="178,1192,398,1235"/>
+<area shape="poly" id="edge1359_Node000000_Node000031" title=" " alt="" coords="63,834,65,904,78,996,91,1046,109,1094,134,1139,166,1178,180,1189,177,1194,162,1182,129,1142,104,1096,86,1047,73,997,60,904,58,834"/>
+<area shape="rect" id="Node000034" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_joint_rotation_config_list_editor.html" title=" " alt="" coords="175,1259,401,1301"/>
+<area shape="poly" id="edge1362_Node000000_Node000034" title=" " alt="" coords="67,834,79,927,99,1050,112,1112,128,1168,146,1214,166,1245,179,1256,176,1260,162,1248,141,1217,123,1170,107,1114,93,1051,73,928,62,835"/>
+<area shape="rect" id="Node000035" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_joint_rotation_feature_config_editor.html" title=" " alt="" coords="164,1325,412,1368"/>
+<area shape="poly" id="edge1363_Node000000_Node000035" title=" " alt="" coords="66,834,76,940,94,1083,107,1156,124,1221,143,1275,166,1312,179,1323,176,1327,162,1315,138,1278,119,1223,102,1157,89,1084,70,940,61,834"/>
+<area shape="rect" id="Node000036" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_joint_velocity_config_list_editor.html" title=" " alt="" coords="176,1392,400,1435"/>
+<area shape="poly" id="edge1364_Node000000_Node000036" title=" " alt="" coords="66,834,73,952,90,1116,103,1199,120,1274,141,1336,153,1360,166,1378,179,1390,175,1394,162,1382,148,1363,136,1339,115,1276,98,1200,85,1116,68,953,60,835"/>
+<area shape="rect" id="Node000037" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_joint_velocity_feature_config_editor.html" title=" " alt="" coords="164,1459,412,1501"/>
+<area shape="poly" id="edge1365_Node000000_Node000037" title=" " alt="" coords="65,834,70,965,86,1148,99,1242,116,1327,138,1398,151,1424,166,1445,179,1456,175,1460,162,1448,147,1427,133,1399,111,1329,93,1243,80,1149,65,965,60,834"/>
+<area shape="rect" id="Node000038" href="$class_oculus_1_1_voice_1_1_core_1_1_utilities_1_1_array_element_title_drawer.html" title=" " alt="" coords="197,1525,379,1568"/>
+<area shape="poly" id="edge1366_Node000000_Node000038" title=" " alt="" coords="65,834,68,976,82,1179,94,1284,112,1380,136,1458,150,1489,166,1512,180,1524,198,1533,196,1538,177,1529,162,1515,145,1491,131,1460,107,1381,89,1285,76,1180,63,976,59,834"/>
+<area shape="rect" id="Node000039" href="$class_oculus_1_1_voice_1_1_dictation_1_1_inspectors_1_1_wit_dictation_runtime_config_drawer.html" title=" " alt="" coords="177,1592,399,1635"/>
+<area shape="poly" id="edge1367_Node000000_Node000039" title=" " alt="" coords="64,834,66,988,78,1211,90,1327,108,1432,133,1519,148,1553,166,1578,178,1589,175,1593,162,1582,144,1556,128,1521,103,1434,85,1328,72,1212,60,988,59,834"/>
+<area shape="rect" id="Node000040" href="$class_serialized_surface_geometry_property_drawer.html" title=" " alt="" coords="198,1659,378,1701"/>
+<area shape="poly" id="edge1368_Node000000_Node000040" title=" " alt="" coords="66,834,77,1011,99,1269,113,1399,129,1512,147,1599,156,1628,166,1645,181,1658,199,1667,197,1672,178,1662,162,1648,151,1630,141,1600,124,1513,107,1399,93,1270,72,1012,61,834"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_confidence_range_drawer.html" title=" " alt="" coords="479,89,690,132"/>
+<area shape="poly" id="edge1336_Node000007_Node000008" title=" " alt="" coords="406,379,410,376,429,347,437,319,437,290,433,261,429,232,429,202,438,172,458,142,477,127,480,131,462,146,443,174,435,202,435,231,439,260,443,290,443,320,434,349,414,379,410,383"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_application_property_drawer.html" title=" " alt="" coords="469,156,700,199"/>
+<area shape="poly" id="edge1337_Node000007_Node000009" title=" " alt="" coords="407,379,410,376,425,356,432,336,433,294,434,251,442,230,458,209,473,197,476,201,462,213,447,232,440,252,439,294,438,337,430,358,414,379,410,383"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_composer_info_property_drawer.html" title=" " alt="" coords="472,223,698,265"/>
+<area shape="poly" id="edge1339_Node000007_Node000011" title=" " alt="" coords="406,379,410,375,421,364,428,352,433,327,439,301,446,288,458,275,476,264,479,268,462,279,451,291,444,303,439,328,433,354,426,367,414,379,409,383"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_endpoint_config_drawer.html" title=" " alt="" coords="476,289,694,332"/>
+<area shape="poly" id="edge1340_Node000007_Node000012" title=" " alt="" coords="396,381,411,375,434,358,459,342,488,330,490,335,461,346,438,363,413,380,398,386"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_entity_property_drawer.html" title=" " alt="" coords="484,356,685,399"/>
+<area shape="poly" id="edge1341_Node000007_Node000013" title=" " alt="" coords="411,394,483,386,484,391,412,399"/>
+<area shape="rect" id="Node000014" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_intent_property_drawer.html" title=" " alt="" coords="485,423,684,465"/>
+<area shape="poly" id="edge1342_Node000007_Node000014" title=" " alt="" coords="412,422,485,430,484,435,411,427"/>
+<area shape="rect" id="Node000015" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_trait_property_drawer.html" title=" " alt="" coords="489,489,681,532"/>
+<area shape="poly" id="edge1343_Node000007_Node000015" title=" " alt="" coords="398,435,413,442,438,458,461,475,490,486,488,491,459,480,434,463,411,446,396,440"/>
+<area shape="rect" id="Node000016" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_voice_info_property_drawer.html" title=" " alt="" coords="485,556,685,599"/>
+<area shape="poly" id="edge1344_Node000007_Node000016" title=" " alt="" coords="409,438,414,442,426,454,433,468,439,493,444,519,451,530,462,542,485,557,482,561,458,546,446,534,439,520,433,495,428,469,421,458,410,446,406,443"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_voice_1_1_windows_1_1_voice_application_detail_provider.html" title=" " alt="" coords="757,156,951,199"/>
+<area shape="poly" id="edge1338_Node000009_Node000010" title=" " alt="" coords="716,175,757,175,757,180,716,180"/>
+<area shape="rect" id="Node000018" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_entity_role_property_drawer.html" title=" " alt="" coords="484,623,685,665"/>
+<area shape="poly" id="edge1346_Node000017_Node000018" title=" " alt="" coords="406,503,414,509,426,521,433,534,439,560,444,585,451,597,462,609,485,623,482,628,458,613,446,600,439,587,433,561,428,536,421,524,410,513,403,507"/>
+<area shape="rect" id="Node000019" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_trait_value_property_drawer.html" title=" " alt="" coords="489,689,681,732"/>
+<area shape="poly" id="edge1347_Node000017_Node000019" title=" " alt="" coords="406,502,414,509,430,530,438,551,439,594,440,636,447,656,462,675,490,694,487,698,458,679,442,658,434,637,433,594,432,552,425,532,410,512,403,506"/>
+<area shape="rect" id="Node000032" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_finger_feature_list_property_drawer.html" title=" " alt="" coords="460,1159,709,1201"/>
+<area shape="poly" id="edge1360_Node000031_Node000032" title=" " alt="" coords="412,1197,459,1191,460,1197,413,1202"/>
+<area shape="rect" id="Node000033" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_transform_config_editor.html" title=" " alt="" coords="475,1225,694,1268"/>
+<area shape="poly" id="edge1361_Node000031_Node000033" title=" " alt="" coords="413,1225,475,1232,474,1237,412,1230"/>
+</map>

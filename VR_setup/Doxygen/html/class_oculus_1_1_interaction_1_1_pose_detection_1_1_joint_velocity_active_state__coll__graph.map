@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.PoseDetection.JointVelocityActiveState" name="Oculus.Interaction.PoseDetection.JointVelocityActiveState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="400,116,619,159"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="70,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,22,283,35,377,60,431,85,478,113,475,118,429,90,375,65,282,40,195,27"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="80,56,170,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,66,276,71,376,85,420,98,460,113,458,118,418,103,375,91,275,76,185,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="79,115,171,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,129,269,133,400,135,400,141,269,139,186,135"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_joint_velocity_active_state_1_1_joint_velocity_feature_config_list.html" title=" " alt="" coords="5,165,245,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,174,375,157,399,154,400,159,376,163,260,180"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_joint_delta_config.html" title=" " alt="" coords="15,248,235,291"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="218,241,244,233,310,216,375,195,463,157,465,162,377,200,311,221,245,239,220,246"/>
+</map>

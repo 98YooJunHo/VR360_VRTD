@@ -1,0 +1,10 @@
+<map id="Meta.WitAi.TTS.Integrations.TTSDiskCache.GetDiskCachePath" name="Meta.WitAi.TTS.Integrations.TTSDiskCache.GetDiskCachePath">
+<area shape="rect" id="Node000001" title="Builds full cache path." alt="" coords="5,88,228,131"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_utilities_1_1_i_o_utility.html#a5e335dc19357ef721535268d3c81681b" title="Creates a directory recursively if desired and returns true if successful." alt="" coords="296,29,484,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,85,281,71,282,77,220,90"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="323,96,457,123"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="228,107,308,107,308,112,228,112"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_disk_cache.html#a521490f0ded5cbb87d669ebd9232107c" title="Determine if should cache to disk or not." alt="" coords="276,147,504,189"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="220,129,273,140,272,145,218,134"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="338,29,336,19,345,10,363,5,390,3,419,5,437,11,435,16,418,10,390,8,364,10,348,15,342,21,344,28"/>
+</map>

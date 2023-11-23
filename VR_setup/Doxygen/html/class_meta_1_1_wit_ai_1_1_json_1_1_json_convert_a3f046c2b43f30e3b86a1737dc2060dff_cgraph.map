@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Json.JsonConvert.DeserializeToken" name="Meta.WitAi.Json.JsonConvert.DeserializeToken">
+<area shape="rect" id="Node000001" title="Safely parse a string into a json node." alt="" coords="5,5,201,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="249,13,386,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,24,233,24,233,29,201,29"/>
+</map>

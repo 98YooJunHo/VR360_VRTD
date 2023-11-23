@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.OneGrabPhysicsJointTransformer.GetGrabRigidbody" name="Oculus.Interaction.OneGrabPhysicsJointTransformer.GetGrabRigidbody">
+<area shape="rect" id="Node000001" title="Generates (or retrieves from a cache) a rigidbody to be used for connecting to grabbable via joints." alt="" coords="5,5,222,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_one_grab_physics_joint_transformer.html#a594e02087e71cb104a37cbaed8d9ae76" title="Creates a new proxy RigidBody to anchor the grabbables." alt="" coords="270,5,475,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,32,254,32,254,37,222,37"/>
+</map>

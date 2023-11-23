@@ -1,0 +1,16 @@
+<map id="OVRSkeletonRenderer" name="OVRSkeletonRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="935,185,1088,212"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="272,97,381,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,99,479,91,582,87,695,90,806,105,859,121,910,141,989,182,986,187,908,146,857,126,805,111,694,95,582,92,480,96,397,104"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_skeleton.html" title=" " alt="" coords="636,160,736,187"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="397,120,636,162,635,167,396,125"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="567,261,805,304"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="821,275,866,268,910,256,955,235,991,210,994,215,958,239,912,261,867,273,821,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="752,176,935,190,935,195,752,181"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="652,142,664,136,686,133,707,135,719,142,723,151,718,161,713,158,718,151,716,145,705,141,686,139,666,141,655,147"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_plugin.html" title=" " alt="" coords="284,160,369,187"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="385,171,635,171,635,176,385,176"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,189,59,216"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="74,200,248,200,935,197,935,202,248,205,74,205"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="74,196,283,175,284,180,75,201"/>
+</map>

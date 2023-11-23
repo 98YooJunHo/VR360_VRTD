@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabPoseHelper.SelectBestPose" name="Oculus.Interaction.Grab.GrabPoseHelper.SelectBestPose">
+<area shape="rect" id="Node000001" title="Compares two poses to a reference and returns the most similar one." alt="" coords="5,5,220,48"/>
+<area shape="rect" id="Node000002" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html#a3eb2f9154d72ba305dacb446ff4cf61d" title="Calculates if the GrabPoseScore is better than other GrabPoseScore by comparing the Translational and..." alt="" coords="268,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,24,252,24,252,29,220,29"/>
+</map>

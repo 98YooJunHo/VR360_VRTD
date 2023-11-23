@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Surfaces.Editor.Generated.CylinderClipperEditorFallback" name="Oculus.Interaction.Surfaces.Editor.Generated.CylinderClipperEditorFallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,216,213"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_simplified_editor.html" title=" " alt="" coords="55,80,166,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,123,113,154,108,154,108,123"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,48,113,80,108,80,108,48"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Meta.WitAi.CallbackHandlers.WitResponseHandler" name="Meta.WitAi.CallbackHandlers.WitResponseHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,72,358,115"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_out_of_scope_utterance_handler.html" title="Triggers an event when no intents were recognized in an utterance." alt="" coords="406,5,601,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,65,422,46,424,51,356,70"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_intent_matcher.html" title=" " alt="" coords="406,72,601,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,91,406,91,406,96,374,96"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_utterance_matcher.html" title=" " alt="" coords="406,139,601,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="356,117,424,135,422,141,355,122"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,91,162,91,162,96,130,96"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_simple_intent_handler.html" title=" " alt="" coords="649,5,845,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="598,65,666,46,667,51,599,70"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_simple_string_entity_handler.html" title=" " alt="" coords="649,72,845,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="617,91,649,91,649,96,617,96"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_response_matcher.html" title=" " alt="" coords="649,139,845,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="599,117,667,135,666,141,598,122"/>
+</map>

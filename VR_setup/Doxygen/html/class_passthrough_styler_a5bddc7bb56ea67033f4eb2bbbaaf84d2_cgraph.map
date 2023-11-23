@@ -1,0 +1,5 @@
+<map id="PassthroughStyler.OnBlendChange" name="PassthroughStyler.OnBlendChange">
+<area shape="rect" id="Node000001" title="Called from editor." alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_passthrough_layer.html#a58f56420f1a0dd9655dae90da504b759" title="Applies a color LUT to the passthrough layer." alt="" coords="236,13,462,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,24,220,24,220,29,188,29"/>
+</map>

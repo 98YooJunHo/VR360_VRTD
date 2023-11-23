@@ -1,0 +1,7 @@
+<map id="OVRSkeletonRenderer.CapsuleVisualization" name="OVRSkeletonRenderer.CapsuleVisualization">
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,96,237,139"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_bone_capsule.html" title=" " alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,45,94,70,114,94,110,97,89,74,76,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,5,248,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,47,175,74,156,97,152,94,170,70,186,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.WitUnityRequest.WitUnityRequest" name="Meta.WitAi.Requests.WitUnityRequest.WitUnityRequest">
+<area shape="rect" id="Node000001" title="Apply configuration." alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html#abbc6da9943239ed3f0483f38d5490449" title="Return endpoint override." alt="" coords="253,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+</map>

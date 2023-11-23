@@ -1,0 +1,12 @@
+<map id="Meta.Voice.INLPRequestResults" name="Meta.Voice.INLPRequestResults">
+<area shape="rect" id="Node000001" title="Interface for NLP request results." alt="" coords="109,80,321,107"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request_results.html" title="Interface for all specific audio NLP request results." alt="" coords="5,155,206,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,118,135,156,132,152,184,114"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_voice_1_1_i_n_l_p_text_request_results.html" title="Interface for text language processing request results." alt="" coords="229,155,422,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,114,299,152,296,156,243,118"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_voice_request_results.html" title="The base interface for all request results." alt="" coords="140,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,48,218,80,212,80,212,48"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request_results.html" title=" " alt="" coords="124,245,306,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,205,191,243,188,247,141,209"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="290,209,242,247,239,243,286,205"/>
+</map>

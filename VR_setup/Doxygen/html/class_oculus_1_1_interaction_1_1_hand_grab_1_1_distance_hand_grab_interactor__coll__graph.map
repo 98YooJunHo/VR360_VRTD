@@ -1,0 +1,32 @@
+<map id="Oculus.Interaction.HandGrab.DistanceHandGrabInteractor" name="Oculus.Interaction.HandGrab.DistanceHandGrabInteractor">
+<area shape="rect" id="Node000001" title="The DistanceHandGrabInteractor allows grabbing DistanceHandGrabInteractables at a distance...." alt="" coords="1014,200,1207,243"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="543,5,756,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,56,881,87,937,108,992,132,1043,164,1086,197,1083,202,1040,169,989,137,935,113,879,92,771,62"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_interactor.html" title=" " alt="" coords="582,88,718,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="734,111,856,135,991,171,1060,197,1058,202,990,176,855,140,733,116"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="175,88,289,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="305,99,581,99,581,104,305,104"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_distance_interactor.html" title=" " alt="" coords="585,139,714,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="730,161,991,200,1014,204,1013,209,990,205,729,166"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="179,139,285,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="300,149,584,149,584,155,300,155"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="186,231,278,257"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="293,239,352,237,1014,221,1014,226,352,243,293,245"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html" title="The HandGrabAPI wraps under the hood several IFingerAPIs to detect if the fingers are grabbing or not..." alt="" coords="558,269,741,312"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="293,257,352,269,459,281,558,286,558,292,458,286,352,275,292,263"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="756,282,869,272,990,253,1041,241,1042,246,991,259,870,277,757,288"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="177,304,287,331"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="302,310,557,294,558,299,302,316"/>
+<area shape="rect" id="Node000010" href="$interface_oculus_1_1_interaction_1_1_i_finger_a_p_i.html" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="137,356,327,383"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="343,373,408,365,441,357,472,346,483,334,495,322,526,308,557,299,558,304,527,313,499,326,487,338,474,350,443,362,409,371,343,378"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_distant_candidate_computer.html" title=" " alt="" coords="497,336,802,427"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="817,351,904,328,989,298,1039,270,1081,241,1084,245,1042,275,991,302,906,333,818,356"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_result.html" title=" " alt="" coords="554,451,746,493"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="760,456,817,445,876,427,935,403,989,371,1024,341,1053,306,1095,242,1100,245,1058,309,1027,345,992,375,937,408,878,432,818,450,762,462"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="136,428,328,471"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="344,453,553,464,553,469,343,458"/>
+<area shape="rect" id="Node000014" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html" title="Stores the score of a grab. Score is measured on distance from the desired grab point to an ideal pos..." alt="" coords="151,495,313,537"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="328,503,553,479,553,485,328,509"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="5,503,59,529"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="74,513,150,513,150,519,74,519"/>
+</map>

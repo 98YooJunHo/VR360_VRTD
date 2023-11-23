@@ -1,0 +1,24 @@
+<map id="OculusSampleFramework.RayTool" name="OculusSampleFramework.RayTool">
+<area shape="rect" id="Node000001" title="Ray tool used for far&#45;field interactions." alt="" coords="1472,80,1693,107"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="947,5,1059,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1075,18,1246,28,1347,38,1449,53,1540,77,1539,82,1447,59,1347,44,1245,33,1075,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="285,37,394,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,45,946,19,947,24,410,50"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_ray_tool_view.html" title="Visual portion of ray tool." alt="" coords="685,55,883,97"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="410,52,685,68,685,73,410,57"/>
+<area shape="rect" id="Node000007" href="$class_oculus_sample_framework_1_1_interactable.html" title="Interface for all objects interacted with in example code." alt="" coords="663,152,905,179"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="410,66,730,149,728,154,409,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="898,76,1471,88,1471,94,898,81"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_sample_framework_1_1_interactable_tool_view.html" title="The visual abstraction of an interactable tool." alt="" coords="270,104,410,131"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="426,107,685,82,685,88,426,112"/>
+<area shape="rect" id="Node000006" href="$class_oculus_sample_framework_1_1_pinch_state_module.html" title="Manages pinch state, including if an object is being focused via something like a ray (or not)." alt="" coords="1102,123,1309,165"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1324,125,1478,105,1478,110,1325,131"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="852,180,943,199,1057,215,1183,220,1247,216,1308,207,1382,186,1452,158,1557,105,1559,110,1454,163,1383,191,1310,212,1247,221,1183,225,1057,220,942,204,851,185"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="920,156,1101,147,1101,152,921,161"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_sample_framework_1_1_collider_zone.html" title="Zone that can be collided with in example code." alt="" coords="217,231,462,257"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="478,243,558,238,639,224,703,202,757,177,759,182,705,207,640,229,559,243,478,249"/>
+<area shape="rect" id="Node000009" href="$class_oculus_sample_framework_1_1_interactable_1_1_interactable_state_args_event.html" title=" " alt="" coords="217,155,462,197"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="478,170,663,166,663,171,478,175"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,155,168,197"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="183,173,217,173,217,179,183,179"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.DistanceReticles.DistantInteractionLineVisual" name="Oculus.Interaction.DistanceReticles.DistantInteractionLineVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,88,360,147"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_distant_interaction_line_renderer_visual.html" title=" " alt="" coords="419,5,616,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,80,423,62,425,67,370,85"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_distant_interaction_polyline_visual.html" title=" " alt="" coords="408,88,627,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,115,408,115,408,120,375,120"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_distant_interaction_tube_visual.html" title=" " alt="" coords="417,171,618,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="370,149,425,167,423,173,368,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,115,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,115,162,115,162,120,130,120"/>
+</map>

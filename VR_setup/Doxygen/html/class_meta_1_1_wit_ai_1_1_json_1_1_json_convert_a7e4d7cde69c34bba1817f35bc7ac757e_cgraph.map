@@ -1,0 +1,10 @@
+<map id="Meta.WitAi.Json.JsonConvert.DeserializeObject&lt; IN_TYPE &gt;" name="Meta.WitAi.Json.JsonConvert.DeserializeObject&lt; IN_TYPE &gt;">
+<area shape="rect" id="Node000001" title="Generate a default instance, deserialize and return." alt="" coords="5,29,206,72"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_json_1_1_json_convert.html#a5541902021f8b900b957a9e17e7bfab8" title="Deserialize json string into an existing instance." alt="" coords="254,29,475,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,48,238,48,238,53,206,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="316,29,314,19,322,10,339,5,364,3,392,5,408,11,406,16,390,10,364,8,340,10,325,15,319,21,321,28"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_json_1_1_json_convert.html#a3f046c2b43f30e3b86a1737dc2060dff" title="Safely parse a string into a json node." alt="" coords="523,29,718,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="475,48,507,48,507,53,475,53"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="766,37,904,64"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="719,48,751,48,751,53,719,53"/>
+</map>

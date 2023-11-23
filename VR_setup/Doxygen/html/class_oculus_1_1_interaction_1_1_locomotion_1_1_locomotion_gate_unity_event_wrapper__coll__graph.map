@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.Locomotion.LocomotionGateUnityEventWrapper" name="Oculus.Interaction.Locomotion.LocomotionGateUnityEventWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="854,5,1081,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,12,115,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,5,140,3,533,11,853,20,853,26,532,16,140,8,115,11"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_locomotion_gate.html" title="This Gate reads the Hand orientation towards the shoulder and decides if it should be in Teleport mod..." alt="" coords="502,95,704,137"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="130,21,203,23,291,28,386,39,479,58,524,73,564,92,562,97,522,78,478,63,385,44,291,33,203,28,130,27"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_virtual_active_state.html" title="An ActiveState that can be set publicly." alt="" coords="164,63,365,105"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="124,41,189,60,187,65,123,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="707,88,877,46,878,51,709,93"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="219,136,310,163"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="326,155,399,160,478,155,548,136,549,141,479,160,399,165,325,161"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_locomotion_gate_1_1_gate_section.html" title=" " alt="" coords="164,187,365,229"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="381,200,430,192,477,180,526,160,568,136,570,140,528,165,479,185,431,197,381,205"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="381,92,502,104,501,109,380,98"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="15,79,105,105"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="121,87,164,85,164,91,121,92"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="238,253,291,280"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="306,261,388,249,433,237,477,219,508,201,536,179,581,136,584,140,540,183,511,205,480,224,435,242,389,254,307,267"/>
+</map>

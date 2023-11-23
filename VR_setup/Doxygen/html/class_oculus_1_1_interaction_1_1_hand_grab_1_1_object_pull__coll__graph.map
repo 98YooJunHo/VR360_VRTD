@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.ObjectPull" name="Oculus.Interaction.HandGrab.ObjectPull">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,96,199,139"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="5,5,89,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,44,93,94,89,97,60,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,5,205,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,47,117,97,113,94,142,44"/>
+</map>

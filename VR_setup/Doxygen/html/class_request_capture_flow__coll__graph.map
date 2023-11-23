@@ -1,0 +1,30 @@
+<map id="RequestCaptureFlow" name="RequestCaptureFlow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,864,220,891"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="232,339,341,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,374,208,391,180,412,160,439,154,454,152,471,152,788,152,863,147,863,147,788,147,471,149,453,155,436,177,409,205,386,236,370"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_scene_manager.html" title="A manager for OVRSceneAnchors created using the Room Setup feature." alt="" coords="236,773,372,800"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="290,381,306,773,301,773,285,381"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_scene_anchor.html" title="Represents a scene anchor." alt="" coords="554,459,681,485"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="315,373,390,432,554,458,553,463,388,437,312,378"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_scene_plane.html" title="A OVRSceneAnchor that has a 2D bounds associated with it." alt="" coords="391,560,510,587"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="301,378,328,429,365,484,403,526,438,558,434,562,399,529,361,487,324,431,297,381"/>
+<area shape="rect" id="Node000011" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="170,509,283,536"/>
+<area shape="poly" id="edge17_Node000011_Node000002" title=" " alt="" coords="280,381,234,510,229,508,275,379"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="5,408,83,435"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="33,450,21,483,15,522,15,788,22,814,40,834,65,850,94,861,92,866,63,855,36,838,17,816,9,788,9,521,15,482,28,448"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="377,5,431,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="362,23,241,31,183,42,161,49,146,58,111,98,84,145,66,196,54,249,45,344,46,407,40,408,39,344,49,248,61,195,79,143,106,95,143,54,159,44,182,36,240,26,362,18"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="404,48,398,124,395,224,399,319,407,356,418,383,445,412,480,433,517,449,554,459,552,464,515,454,477,438,442,416,413,385,402,358,394,319,389,224,393,124,399,47"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_plugin.html" title=" " alt="" coords="623,339,708,365"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="425,43,657,336,653,340,421,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,810,173,866,170,861,267,806"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="622,501,622,546,616,601,599,659,586,686,569,711,549,730,526,746,475,769,422,782,373,788,372,783,421,777,474,764,523,742,545,726,565,708,581,684,594,657,610,600,616,545,617,501"/>
+<area shape="poly" id="edge15_Node000009_Node000006" title=" " alt="" coords="547,493,509,512,481,536,461,561,457,558,477,532,506,507,545,488"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="657,381,625,459,620,457,652,379"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_scene_manager_1_1_room_layout_information.html" title="A container for the set of OVRSceneAnchors representing a room." alt="" coords="341,667,555,709"/>
+<area shape="poly" id="edge11_Node000005_Node000008" title=" " alt="" coords="406,721,324,775,321,770,403,716"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="453,602,451,666,446,666,447,602"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="374,459,530,485"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="454,501,453,560,448,560,449,501"/>
+<area shape="poly" id="edge16_Node000005_Node000011" title=" " alt="" coords="220,551,212,595,211,619,215,642,231,681,253,718,294,771,290,774,248,721,226,684,210,643,206,619,206,594,215,550"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="OVRExtensions.ToHeadSpacePose" name="OVRExtensions.ToHeadSpacePose">
+<area shape="rect" id="Node000001" title="Converts the given world&#45;space transform to an OVRPose in head space." alt="" coords="5,29,235,56"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_pose.html#acd28049398308ccc5947e2c92964a906" title="Computes the inverse of the given pose." alt="" coords="283,29,406,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,40,267,40,267,45,235,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="307,30,300,21,304,11,320,5,344,3,371,5,385,12,383,17,370,10,344,8,321,10,308,15,305,20,311,27"/>
+</map>

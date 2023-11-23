@@ -1,0 +1,14 @@
+<map id="OVR.AmbienceEmitter" name="OVR.AmbienceEmitter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,277,159,304"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="6,187,115,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,228,82,276,76,277,65,229"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_sound_f_x_ref.html" title=" " alt="" coords="140,187,264,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,225,101,279,98,275,171,220"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_f_x.html" title=" " alt="" coords="279,96,384,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,124,242,134,222,148,211,167,206,187,201,186,206,165,218,145,239,129,263,119"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_1_1_sound_group.html" title=" " alt="" coords="323,187,449,213"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="326,138,326,150,330,161,340,174,355,184,352,188,337,178,325,164,321,151,321,138"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_1_1_o_s_p_props.html" title=" " alt="" coords="274,5,389,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="334,48,334,95,329,95,329,48"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="393,172,394,159,390,148,379,135,365,125,368,121,383,131,395,145,399,159,398,172"/>
+</map>

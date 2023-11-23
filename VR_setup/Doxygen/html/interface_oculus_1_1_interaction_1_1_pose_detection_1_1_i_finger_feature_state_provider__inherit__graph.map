@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.IFingerFeatureStateProvider" name="Oculus.Interaction.PoseDetection.IFingerFeatureStateProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,225,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_finger_feature_state_provider_ref.html" title="FingerFeatureStateProviderRef is a utility component that delegates all of its IFingerFeatureStatePro..." alt="" coords="299,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,42,298,34,299,40,241,47"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_provider.html" title="Interprets finger feature values using FingerShapes and uses the given FingerFeatureStateThresholds t..." alt="" coords="273,72,492,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,73,273,77,272,82,240,78"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="Meta.WitAi.Lib.ExportParser.ImportComposerInfo" name="Meta.WitAi.Lib.ExportParser.ImportComposerInfo">
+<area shape="rect" id="Node000001" title="Parses the provided zip export and extracts the context map values used within the composer graphs." alt="" coords="5,127,197,169"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a6cc5b98e91d51cd68b3a7b4e216f0c3d" title="Parses the given zip archives and adds them to the." alt="" coords="245,93,436,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,132,229,128,229,133,198,137"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a9c28a92b26fdccd6e6ef7aba40eb74fd" title="Finds all the Json files canvases in the zip archive under the given folder." alt="" coords="245,160,436,203"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="198,159,229,163,229,168,197,164"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#acc0504bb8d367bb75cf75dd56509ebae" title="Extracts a Wit JSON object representing the given json file." alt="" coords="484,27,675,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,90,485,71,487,77,420,95"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#ac3ea6940c52f22dcaab4a4a96d6cef2d" title="Parses the Composer Map for context map variables." alt="" coords="484,160,675,203"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="420,134,487,153,485,158,418,139"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_json_1_1_json_convert.html#a3f046c2b43f30e3b86a1737dc2060dff" title="Safely parse a string into a json node." alt="" coords="732,27,928,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="676,45,717,45,717,51,676,51"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="1012,5,1149,32"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="660,23,723,12,795,6,868,5,996,9,996,15,868,10,795,12,724,17,661,29"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="928,34,996,26,997,31,928,39"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a6e0baf0f82bb965be509011810520a78" title="Takes all three lists of variables and aggregate them into a single object." alt="" coords="734,227,926,269"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="663,201,734,220,732,225,662,206"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a3a5e7c08fba2c4a66154e939ba83e8c7" title="Parses the given context node and places any context map variables in the correct list." alt="" coords="730,293,930,336"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="608,201,660,240,725,279,737,285,735,290,722,284,657,245,605,205"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a488a578ef44dee64879216f43f5469eb" title="Parses a Decision module in the composer graph, adding any context map values to the correct list." alt="" coords="727,93,933,136"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="662,157,732,138,734,143,663,162"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a3b7606bfe1c7997380061e8040833cd5" title="Parses a Response module in the composer graph, adding any context map values to the correct list." alt="" coords="723,160,937,203"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="676,179,708,179,708,184,676,184"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a7b8ab819dbcb0bbe3b304b9eef684d32" title="Whether the given path has already been saved in one of the given lists." alt="" coords="985,160,1176,203"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="913,134,984,153,983,158,912,139"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_export_parser.html#a51bec1d8f2d36b676879a5ecbabeb08d" title="Moves a path/value item from server to shared list." alt="" coords="985,93,1176,136"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="933,112,969,112,969,117,933,117"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="937,179,969,179,969,184,937,184"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="912,157,983,138,984,143,913,162"/>
+</map>

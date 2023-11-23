@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.Windows.WitUnderstandingViewer" name="Meta.WitAi.Windows.WitUnderstandingViewer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,256,272"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_windows_1_1_understanding_viewer_window.html" title=" " alt="" coords="9,320,252,363"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="133,288,133,320,128,320,128,288"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_configuration_window.html" title=" " alt="" coords="49,155,212,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,197,133,229,128,229,128,197"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_base_wit_window.html" title=" " alt="" coords="72,80,189,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,122,133,154,128,154,128,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,5,181,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,48,133,80,128,80,128,48"/>
+</map>

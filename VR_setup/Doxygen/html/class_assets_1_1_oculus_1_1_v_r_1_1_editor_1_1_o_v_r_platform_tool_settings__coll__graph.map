@@ -1,0 +1,14 @@
+<map id="Assets.Oculus.VR.Editor.OVRPlatformToolSettings" name="Assets.Oculus.VR.Editor.OVRPlatformToolSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="565,91,736,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="288,11,405,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,38,542,71,592,88,590,93,540,76,419,43"/>
+<area shape="rect" id="Node000003" href="$class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_asset_config_list.html" title=" " alt="" coords="261,61,432,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,90,565,101,564,106,447,95"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_oculus_1_1_v_r_1_1_editor_1_1_o_v_r_platform_tool.html" title=" " alt="" coords="261,128,432,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,134,564,120,565,125,448,140"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,6,151,6,182,10,212,19,239,35,251,55,253,75,253,95,263,114,276,126,273,130,259,118,248,96,247,75,246,56,235,39,210,24,181,15,151,12,122,12"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="29,175,83,201"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="98,192,163,200,246,207,339,207,432,196,480,184,527,167,607,131,609,136,529,172,481,189,432,201,339,212,246,212,162,206,97,197"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="97,180,236,163,260,159,261,165,237,168,98,186"/>
+</map>

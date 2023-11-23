@@ -1,0 +1,17 @@
+<map id="Meta.WitAi.Windows.WitWindow" name="Meta.WitAi.Windows.WitWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="530,64,744,91"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_windows_1_1_settings_window.html" title=" " alt="" coords="792,56,988,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="759,75,791,75,791,80,759,80"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_configuration_window.html" title=" " alt="" coords="320,64,482,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,75,530,75,530,80,498,80"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_base_wit_window.html" title=" " alt="" coords="155,64,272,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,75,320,75,320,80,287,80"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,64,107,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,75,154,75,154,80,122,80"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_hub_1_1_settings_window_page.html" title=" " alt="" coords="1036,5,1278,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1000,49,1035,41,1088,30,1089,35,1037,47,1001,55"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_windows_1_1_settings_window_page.html" title=" " alt="" coords="1059,56,1255,99"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1004,75,1059,75,1059,80,1004,80"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_voice_1_1_windows_1_1_wit_config_window_page.html" title=" " alt="" coords="1055,123,1259,165"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="993,100,1069,119,1068,125,992,106"/>
+</map>

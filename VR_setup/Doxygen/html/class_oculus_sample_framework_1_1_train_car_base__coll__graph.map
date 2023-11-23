@@ -1,0 +1,18 @@
+<map id="OculusSampleFramework.TrainCarBase" name="OculusSampleFramework.TrainCarBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,464,396,507"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,115,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,155,49,206,47,270,51,304,58,338,71,370,89,398,111,420,136,438,194,463,192,467,134,443,107,424,85,402,66,372,53,340,45,305,42,270,44,205,51,154"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_train_track.html" title=" " alt="" coords="99,357,301,400"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="62,154,67,213,75,245,88,276,104,300,125,321,167,355,164,359,121,325,100,303,83,279,70,247,62,214,57,155"/>
+<area shape="rect" id="Node000005" href="$class_oculus_sample_framework_1_1_track_segment.html" title=" " alt="" coords="97,235,303,277"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="86,147,179,232,176,236,83,151"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="377,365,431,392"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="390,407,361,442,330,466,327,461,357,438,386,403"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,410,255,438,277,462,273,465,251,442,226,413"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="203,293,203,357,197,357,197,293"/>
+<area shape="rect" id="Node000006" href="$class_oculus_sample_framework_1_1_pose.html" title=" " alt="" coords="169,112,373,139"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="309,147,320,161,335,198,342,231,344,260,341,289,330,349,324,424,324,441,313,465,308,462,319,439,319,424,325,348,336,288,339,260,337,231,330,200,315,164,305,150"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="259,154,214,236,209,233,254,151"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="225,5,316,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="273,47,273,112,268,112,268,47"/>
+</map>

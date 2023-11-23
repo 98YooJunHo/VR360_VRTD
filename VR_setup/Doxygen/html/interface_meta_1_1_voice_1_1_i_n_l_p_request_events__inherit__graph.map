@@ -1,0 +1,14 @@
+<map id="Meta.Voice.INLPRequestEvents&lt; TUnityEvent &gt;" name="Meta.Voice.INLPRequestEvents&lt; TUnityEvent &gt;">
+<area shape="rect" id="Node000001" title="Interface for NLP request events callbacks." alt="" coords="198,39,404,81"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request_events.html" title="Interface for all specific audio NLP request events." alt="" coords="452,8,652,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,43,451,39,452,44,420,48"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_voice_1_1_i_n_l_p_text_request_events.html" title="Interface for text language processing request event callbacks." alt="" coords="703,72,895,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="420,65,703,84,702,90,419,71"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_voice_request_events.html" title="An interface base for all voice request events." alt="" coords="5,39,150,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,57,197,57,197,63,165,63"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_n_l_p_audio_request_events.html" title=" " alt="" coords="700,5,898,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="668,25,700,25,700,30,668,31"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_n_l_p_request_events.html" title=" " alt="" coords="946,39,1149,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="914,39,946,44,945,49,913,45"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="910,76,945,71,945,76,911,81"/>
+</map>

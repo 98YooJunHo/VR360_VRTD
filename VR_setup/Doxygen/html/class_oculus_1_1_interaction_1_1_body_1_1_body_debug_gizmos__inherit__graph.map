@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.BodyDebugGizmos" name="Oculus.Interaction.Body.BodyDebugGizmos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,170,197"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_body_1_1_skeleton_debug_gizmos.html" title=" " alt="" coords="10,80,165,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,122,90,154,85,154,85,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="33,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,48,90,80,85,80,85,48"/>
+</map>

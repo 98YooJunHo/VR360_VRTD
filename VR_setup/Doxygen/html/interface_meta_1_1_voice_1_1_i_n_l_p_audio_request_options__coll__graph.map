@@ -1,0 +1,10 @@
+<map id="Meta.Voice.INLPAudioRequestOptions" name="Meta.Voice.INLPAudioRequestOptions">
+<area shape="rect" id="Node000001" title="Interface for all specific audio NLP request parameters." alt="" coords="71,155,271,197"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_options.html" title="Interface for NLP request parameters." alt="" coords="5,80,148,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,115,149,152,145,156,101,119"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request_options.html" title="The base interface for all request options." alt="" coords="96,5,246,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,44,94,82,91,77,141,40"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_transcription_request_options.html" title="Interface for audio transcription specific options." alt="" coords="172,80,363,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="201,39,252,77,249,82,198,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,119,197,156,194,152,239,115"/>
+</map>

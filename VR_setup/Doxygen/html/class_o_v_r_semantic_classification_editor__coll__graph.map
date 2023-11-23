@@ -1,0 +1,11 @@
+<map id="OVRSemanticClassificationEditor" name="OVRSemanticClassificationEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,187,215"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,81,102,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,123,94,171,89,172,78,124"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_semantic_classification.html" title="Represents the semantic classification of a OVRSceneAnchor." alt="" coords="127,81,308,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,120,124,173,120,169,188,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="85,5,195,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,41,206,79,203,83,162,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="218,5,374,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="273,45,232,83,229,79,270,41"/>
+</map>

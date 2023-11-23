@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.AddHandGrabPose" name="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.AddHandGrabPose">
+<area shape="rect" id="Node000001" title="Creates a new HandGrabInteractable at the exact pose of a given hand. Mostly used with Hand&#45;Tracking ..." alt="" coords="5,5,251,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_utils.html#ad62f18feed29105ed5af6cfed768b8c4" title="Creates a new HandGrabInteractable under the given object." alt="" coords="299,13,571,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,32,283,32,283,37,251,37"/>
+</map>

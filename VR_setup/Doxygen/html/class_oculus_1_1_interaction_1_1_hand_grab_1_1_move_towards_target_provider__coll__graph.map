@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandGrab.MoveTowardsTargetProvider" name="Oculus.Interaction.HandGrab.MoveTowardsTargetProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,112,300,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,47,177,109,174,114,88,51"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_movement_provider.html" title=" " alt="" coords="139,13,269,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,55,207,111,201,111,201,55"/>
+<area shape="rect" id="Node000004" href="$struct_oculus_1_1_interaction_1_1_hand_grab_1_1_pose_travel_data.html" title=" " alt="" coords="293,5,486,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,58,242,114,239,109,338,54"/>
+</map>

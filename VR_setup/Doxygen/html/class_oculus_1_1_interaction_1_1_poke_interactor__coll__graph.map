@@ -1,0 +1,27 @@
+<map id="Oculus.Interaction.PokeInteractor" name="Oculus.Interaction.PokeInteractor">
+<area shape="rect" id="Node000001" title="Defines a near&#45;poke interaction that is driven by a near&#45;distance proximity computation and a raycast..." alt="" coords="1122,240,1337,267"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="736,5,962,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="936,52,964,64,1040,109,1112,158,1213,237,1210,242,1109,162,1037,113,961,69,934,56"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="400,207,492,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,212,587,208,731,204,843,205,955,213,1099,229,1149,237,1149,242,1098,235,955,218,843,210,731,209,587,213,507,218"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_poke_interactable.html" title=" " alt="" coords="735,333,962,360"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="508,225,564,243,577,252,588,262,621,275,648,280,676,285,712,293,814,330,812,335,710,299,675,290,647,286,620,280,586,266,573,257,562,248,506,230"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_poke_interactor_1_1_surface_hit_cache.html" title=" " alt="" coords="740,232,958,275"/>
+<area shape="poly" id="edge14_Node000011_Node000003" title=" " alt="" coords="507,222,739,242,739,247,507,228"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="977,329,1037,318,1098,304,1152,285,1199,265,1201,270,1154,290,1099,309,1039,324,978,335"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="329,257,563,300"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="579,298,766,330,765,335,578,304"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_min_thresholds_config.html" title=" " alt="" coords="330,324,562,367"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="577,343,734,344,734,349,577,348"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_drag_thresholds_config.html" title=" " alt="" coords="330,391,562,433"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="576,388,761,358,762,363,577,393"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_progress_curve.html" title="ProgressCurve provides a helper for creating curves for easing. In some respects it works like an Ani..." alt="" coords="5,457,188,500"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="150,505,232,545,280,563,329,576,394,586,445,588,563,576,651,564,724,546,786,523,843,495,955,423,1097,332,1205,265,1208,269,1100,337,958,428,845,500,789,528,726,552,652,569,563,581,445,593,393,592,328,581,279,568,230,550,147,510"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="202,456,330,431,331,437,203,461"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_position_pinning_config.html" title=" " alt="" coords="330,457,562,500"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="203,476,330,476,330,481,203,481"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="562,450,635,431,710,407,769,382,820,358,822,363,772,387,712,412,637,436,563,456"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_recoil_assist_config.html" title=" " alt="" coords="330,524,562,567"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="573,517,643,495,710,464,748,439,783,410,833,359,837,363,786,414,751,443,712,469,644,500,575,522"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="974,251,1122,251,1122,256,974,256"/>
+</map>

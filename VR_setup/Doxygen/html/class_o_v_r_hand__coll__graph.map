@@ -1,0 +1,20 @@
+<map id="OVRHand" name="OVRHand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="704,205,783,232"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="406,5,515,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,27,574,42,608,60,633,78,682,128,714,168,737,204,732,206,710,171,678,131,630,82,606,64,572,46,529,32"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="365,56,556,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="558,102,574,108,630,136,682,170,727,203,724,207,678,174,627,140,572,113,556,107"/>
+<area shape="rect" id="Node000004" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="365,123,556,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="571,172,681,197,704,204,703,209,679,203,570,177"/>
+<area shape="rect" id="Node000005" href="$interface_o_v_r_mesh_1_1_i_o_v_r_mesh_data_provider.html" title=" " alt="" coords="348,205,573,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="589,216,703,216,703,221,589,221"/>
+<area shape="rect" id="Node000006" href="$interface_o_v_r_mesh_renderer_1_1_i_o_v_r_mesh_renderer_data_provider.html" title=" " alt="" coords="358,256,563,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="577,250,703,224,704,229,579,256"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="422,323,499,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="513,324,594,303,637,287,679,267,726,230,730,235,681,272,639,292,595,309,515,330"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,387,59,413"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="41,371,57,345,81,323,110,314,148,309,242,309,341,317,421,328,421,333,341,323,242,314,148,314,111,319,84,328,61,348,46,374"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_plugin.html" title=" " alt="" coords="418,412,503,439"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="41,428,56,467,68,485,84,499,116,516,145,527,172,531,198,530,254,518,323,499,357,487,389,470,440,437,443,441,392,475,359,492,324,504,256,523,199,535,171,536,143,532,114,521,81,504,64,488,51,469,36,430"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="517,408,598,376,640,353,678,325,698,302,715,277,735,231,740,234,719,279,703,305,682,329,643,358,601,381,519,413"/>
+</map>

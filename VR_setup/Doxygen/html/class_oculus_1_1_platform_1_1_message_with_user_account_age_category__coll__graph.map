@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.MessageWithUserAccountAgeCategory" name="Oculus.Platform.MessageWithUserAccountAgeCategory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,172,229,215"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message.html" title=" " alt="" coords="5,96,254,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,138,132,172,127,172,127,138"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_error.html" title=" " alt="" coords="33,5,226,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,48,132,95,127,95,127,48"/>
+</map>

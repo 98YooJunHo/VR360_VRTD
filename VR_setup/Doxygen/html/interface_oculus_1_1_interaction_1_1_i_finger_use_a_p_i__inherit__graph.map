@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.IFingerUseAPI" name="Oculus.Interaction.IFingerUseAPI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,175,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_axis1_d_finger_use_a_p_i.html" title="Provides finger use strength values driven by an Axis1D." alt="" coords="236,5,399,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,65,241,46,243,51,180,70"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_use_finger_curl_a_p_i.html" title=" " alt="" coords="223,72,412,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,91,222,91,222,96,190,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_use_finger_raw_pinch_a_p_i.html" title=" " alt="" coords="223,139,412,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,117,243,135,241,141,178,122"/>
+</map>

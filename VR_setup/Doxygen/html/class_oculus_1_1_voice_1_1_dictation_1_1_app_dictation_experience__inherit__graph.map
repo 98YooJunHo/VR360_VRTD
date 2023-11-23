@@ -1,0 +1,19 @@
+<map id="Oculus.Voice.Dictation.AppDictationExperience" name="Oculus.Voice.Dictation.AppDictationExperience">
+<area shape="rect" id="Node000001" title=" " alt="" coords="349,229,531,272"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html" title=" " alt="" coords="215,155,329,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,186,398,226,396,231,311,191"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,110,236,152,234,157,110,115"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_dictation_1_1_i_dictation_service.html" title=" " alt="" coords="139,80,256,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,116,261,152,257,156,219,119"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_i_telemetry_events_provider.html" title=" " alt="" coords="114,5,281,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,48,200,80,195,80,195,48"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_event_provider.html" title=" " alt="" coords="280,80,416,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="326,119,287,156,283,152,322,116"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_event_provider.html" title=" " alt="" coords="440,80,616,107"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="470,114,318,157,316,151,468,109"/>
+<area shape="rect" id="Node000008" href="$interface_meta_1_1_wit_ai_1_1_i_wit_runtime_config_provider.html" title=" " alt="" coords="353,155,527,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="443,197,443,229,437,229,437,197"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_wit_configuration_provider.html" title=" " alt="" coords="551,155,716,181"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="590,190,491,231,489,226,588,185"/>
+</map>

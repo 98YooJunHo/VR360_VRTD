@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Json.JsonConvert.SerializeToken&lt; FROM_TYPE &gt;" name="Meta.WitAi.Json.JsonConvert.SerializeToken&lt; FROM_TYPE &gt;">
+<area shape="rect" id="Node000001" title="Serialize object into WitResponseNode." alt="" coords="5,23,215,65"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="265,5,398,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,29,249,25,250,31,215,35"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="263,56,400,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,53,247,57,247,62,215,59"/>
+</map>

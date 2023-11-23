@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Surfaces.ClippedPlaneSurface.ClipBounds" name="Oculus.Interaction.Surfaces.ClippedPlaneSurface.ClipBounds">
+<area shape="rect" id="Node000001" title="Clip a provided Bounds using IBoundsClippers." alt="" coords="5,5,217,48"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_bounds_clipper.html#ad388c4e318425323a838820e4246683c" title="Get the bounding box in the local space of a provided transform." alt="" coords="265,5,473,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,249,24,249,29,217,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Meta.Voice.Audio.UnityAudioClipStream" name="Meta.Voice.Audio.UnityAudioClipStream">
+<area shape="rect" id="Node000001" title="A class for generating and appending to audio clips while streaming." alt="" coords="42,155,234,197"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_clip_stream.html" title="A simple abstract class that can be used to simplify the code required for a custom IAudioClipStream." alt="" coords="7,80,125,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,117,122,153,118,156,85,120"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_stream.html" title="An interface to be used for audio clip streams. Samples added to this stream are always decoded to 0f..." alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,48,69,80,63,80,63,48"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_provider.html" title="A simple interface for receiving an AudioClip." alt="" coords="149,80,274,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,120,158,156,155,153,188,116"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping.html" title=" " alt="" coords="5,5,189,64"/>
+<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_o_v_r_skeleton_mapping.html" title=" " alt="" coords="271,13,453,56"/>
+<area shape="poly" id="edge1118_Node000000_Node000001" title=" " alt="" coords="204,32,271,32,271,37,204,37"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_skeleton_mapping.html" title=" " alt="" coords="15,88,179,131"/>
+<area shape="poly" id="edge1120_Node000002_Node000001" title=" " alt="" coords="184,81,236,65,277,54,279,59,237,71,185,86"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping.html" title="Maps a skeleton with joint id TSourceJointId to BodyJointId, and exposes parent/child relationships w..." alt="" coords="270,80,454,139"/>
+<area shape="poly" id="edge1119_Node000002_Node000003" title=" " alt="" coords="195,107,270,107,270,112,195,112"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_body_pose_data_1_1_mapping.html" title=" " alt="" coords="237,163,487,205"/>
+<area shape="poly" id="edge1121_Node000002_Node000004" title=" " alt="" coords="185,133,237,148,279,160,277,165,236,153,184,138"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Dictation.WitDictation.Activate" name="Meta.WitAi.Dictation.WitDictation.Activate">
+<area shape="rect" id="Node000001" title="Activates and waits for the user to exceed the min wake threshold before data is sent to the server." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a4a38629f2284fe503c781529672f7eac" title="Activate the microphone and send data to Wit for NLU processing." alt="" coords="219,13,421,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
+</map>

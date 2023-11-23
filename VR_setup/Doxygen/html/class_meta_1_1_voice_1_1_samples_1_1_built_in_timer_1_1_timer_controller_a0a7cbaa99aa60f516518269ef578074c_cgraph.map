@@ -1,0 +1,7 @@
+<map id="Meta.Voice.Samples.BuiltInTimer.TimerController.CreateTimer" name="Meta.Voice.Samples.BuiltInTimer.TimerController.CreateTimer">
+<area shape="rect" id="Node000001" title="Creates a timer. It corresponds to the wit intent &quot;wit$create_timer&quot;." alt="" coords="5,35,234,77"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_built_in_timer_1_1_timer_controller.html#a674083cf8996db03fc08cf872001c603" title="Parses entity values to get a resulting time value in seconds." alt="" coords="282,5,502,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,41,266,38,266,43,234,46"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="323,72,461,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,66,308,74,307,79,234,71"/>
+</map>

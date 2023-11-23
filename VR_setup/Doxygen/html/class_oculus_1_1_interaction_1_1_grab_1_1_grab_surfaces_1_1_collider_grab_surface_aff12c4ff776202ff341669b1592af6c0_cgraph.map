@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.ColliderGrabSurface.CreateMirroredSurface" name="Oculus.Interaction.Grab.GrabSurfaces.ColliderGrabSurface.CreateMirroredSurface">
+<area shape="rect" id="Node000001" title="Creates a new IGrabSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,229,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_collider_grab_surface.html#ad4cda22c02cfef14d0eacc19b75d228a" title="Creates a new IGrabSurface under the selected gameobject with the same data as this one." alt="" coords="277,5,500,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,32,261,32,261,37,229,37"/>
+</map>

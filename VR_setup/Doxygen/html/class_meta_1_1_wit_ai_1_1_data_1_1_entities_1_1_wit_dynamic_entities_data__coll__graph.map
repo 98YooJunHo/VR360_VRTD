@@ -1,0 +1,12 @@
+<map id="Meta.WitAi.Data.Entities.WitDynamicEntitiesData" name="Meta.WitAi.Data.Entities.WitDynamicEntitiesData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,48,710,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="303,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,30,540,50,539,56,435,35"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_dynamic_entities_provider.html" title=" " alt="" coords="34,64,199,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,73,540,68,540,73,215,78"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html" title=" " alt="" coords="277,107,446,149"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="200,92,277,108,276,113,199,97"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="461,112,516,101,561,89,562,94,517,107,462,117"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,123,228,149"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="243,129,276,128,277,133,243,135"/>
+</map>

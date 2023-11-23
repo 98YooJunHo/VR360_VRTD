@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.IGameObjectFilter" name="Oculus.Interaction.IGameObjectFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,288,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_secondary_interactor_filter.html" title="Checks for the existence of a Secondary Interactor Connection given a Primary Interaction...." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,60,127,97,124,93,167,56"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_tag_set_filter.html" title="Compares string tags to filter GameObjects." alt="" coords="221,96,393,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,56,285,93,281,97,238,60"/>
+</map>

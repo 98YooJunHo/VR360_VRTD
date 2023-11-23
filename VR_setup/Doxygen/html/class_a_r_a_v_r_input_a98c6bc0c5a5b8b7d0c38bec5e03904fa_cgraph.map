@@ -1,0 +1,5 @@
+<map id="ARAVRInput.GetDown" name="ARAVRInput.GetDown">
+<area shape="rect" id="Node000001" title="컨트롤러의 특정 버튼을 눌렀을 때 true를 반환하는 함수이다." alt="" coords="5,5,157,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a9c2ccada669b0054fd25a82e84d659c9" title="Gets the current down state of the given virtual button mask with the given controller mask...." alt="" coords="205,5,339,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,189,16,189,21,157,21"/>
+</map>

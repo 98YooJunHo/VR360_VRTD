@@ -1,0 +1,40 @@
+<map id="Oculus.Interaction.PoseDetection.Debug.TransformFeatureDebugVisual" name="Oculus.Interaction.PoseDetection.Debug.TransformFeatureDebugVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1522,333,1758,376"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="659,285,769,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="784,300,1498,341,1522,343,1521,348,1498,347,784,305"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_provider.html" title="Interprets transform feature values from a TransformFeatureValueProvider and uses the given Transform..." alt="" coords="1069,169,1288,212"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="784,292,906,279,976,266,1044,249,1093,231,1136,210,1139,215,1095,236,1045,255,977,272,907,284,784,297"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_recognizer_active_state.html" title=" " alt="" coords="1069,413,1288,456"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="784,307,907,332,1046,371,1137,410,1135,415,1044,376,906,337,783,312"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1283,214,1388,244,1499,283,1600,330,1598,335,1497,288,1387,250,1282,219"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_transform_feature_state_provider.html" title=" " alt="" coords="613,5,815,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="831,20,938,37,993,52,1046,72,1081,93,1113,118,1161,167,1157,171,1109,122,1078,97,1043,77,991,57,937,42,830,25"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="257,323,348,349"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="363,320,604,271,853,231,1068,202,1069,207,854,236,605,276,364,325"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_joint_data.html" title=" " alt="" coords="604,56,824,99"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="327,310,374,266,440,212,518,156,603,108,631,97,633,102,605,113,521,160,443,216,378,270,330,314"/>
+<area shape="poly" id="edge12_Node000008_Node000005" title=" " alt="" coords="356,353,469,389,536,407,605,420,728,434,853,440,969,441,1068,438,1068,443,969,446,853,445,728,439,604,425,535,412,467,394,354,358"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_config.html" title=" " alt="" coords="604,616,824,659"/>
+<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="326,360,375,419,438,483,517,550,554,575,605,602,633,613,631,618,603,606,552,579,514,555,435,487,371,422,322,363"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="840,91,941,109,1045,135,1130,166,1129,171,1044,140,940,115,839,96"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="604,123,824,165"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="839,154,1068,177,1068,182,839,159"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1303,410,1521,372,1522,378,1304,416"/>
+<area shape="rect" id="Node000009" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="669,336,759,363"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="775,358,1069,412,1068,417,774,363"/>
+<area shape="rect" id="Node000010" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_transform_feature_state_provider.html" title=" " alt="" coords="604,483,824,525"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="839,493,940,482,1044,467,1101,454,1102,459,1045,472,940,488,840,498"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_list.html" title=" " alt="" coords="604,549,824,592"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="839,559,940,543,993,530,1044,514,1100,486,1147,454,1150,459,1103,490,1046,518,994,535,941,548,839,564"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="839,633,890,627,942,617,994,601,1043,579,1082,552,1115,518,1162,455,1166,458,1119,522,1085,556,1046,584,996,606,944,622,890,632,840,638"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_thresholds.html" title=" " alt="" coords="193,616,412,659"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="428,635,604,635,604,640,428,640"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="16,591,133,617"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="149,612,193,619,192,624,148,617"/>
+<area shape="rect" id="Node000015" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_feature_thresholds.html" title=" " alt="" coords="5,641,144,700"/>
+<area shape="poly" id="edge19_Node000013_Node000015" title=" " alt="" coords="159,656,192,651,193,656,160,661"/>
+<area shape="rect" id="Node000016" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config.html" title=" " alt="" coords="1069,581,1288,624"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="1234,571,1497,431,1599,374,1601,379,1499,436,1236,576"/>
+<area shape="rect" id="Node000017" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_config_base.html" title=" " alt="" coords="644,683,784,725"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="799,695,916,680,1044,653,1130,622,1132,627,1045,659,917,685,799,700"/>
+</map>

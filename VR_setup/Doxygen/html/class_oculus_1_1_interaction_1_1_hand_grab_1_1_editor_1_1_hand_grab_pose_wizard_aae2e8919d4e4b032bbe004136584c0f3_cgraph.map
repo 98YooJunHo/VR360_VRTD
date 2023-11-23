@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.RecordPose" name="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.RecordPose">
+<area shape="rect" id="Node000001" title="Finds the nearest object that can be snapped to and adds a new HandGrabInteractable to it with the us..." alt="" coords="5,88,269,131"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_editor_1_1_hand_grab_pose_wizard.html#ac4cac87fb09a81501778be25d16d0cef" title="Creates a new HandGrabInteractable at the exact pose of a given hand. Mostly used with Hand&#45;Tracking ..." alt="" coords="317,5,562,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,85,303,66,304,71,227,90"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#aa4a25f69f8ea2fe2f07f09d70ca25bc8" title="Get the position/rotation difference between two transforms. Affected by the scale of from." alt="" coords="344,88,535,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,107,329,107,329,112,269,112"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a0b79f3827ac781786e0e041e0120c71e" title="Gets the root pose of the wrist, in world space. Will return true if a pose was available; false othe..." alt="" coords="358,155,521,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="237,129,344,152,343,158,236,134"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_utils.html#ad62f18feed29105ed5af6cfed768b8c4" title="Creates a new HandGrabInteractable under the given object." alt="" coords="610,13,882,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,32,594,32,594,37,563,37"/>
+</map>

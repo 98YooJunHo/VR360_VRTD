@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabUseInteractor" name="Oculus.Interaction.HandGrab.HandGrabUseInteractor">
+<area shape="rect" id="Node000001" title="This interactor allows sending use&#45;strength values to an interactable to create use interactions...." alt="" coords="118,96,311,139"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,57,194,94,191,98,150,61"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="255,13,369,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,53,239,98,235,94,285,49"/>
+</map>

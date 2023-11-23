@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.RayInteractor" name="Oculus.Interaction.RayInteractor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,96,215,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,64,114,95,109,95,109,64"/>
+</map>

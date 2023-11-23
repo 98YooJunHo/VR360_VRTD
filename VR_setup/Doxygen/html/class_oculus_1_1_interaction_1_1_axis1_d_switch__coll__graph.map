@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Axis1DSwitch" name="Oculus.Interaction.Axis1DSwitch">
+<area shape="rect" id="Node000001" title="An Axis1D that switches between two Axis1D based on an ActiveState." alt="" coords="330,116,493,159"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,22,232,35,307,59,352,85,388,114,385,118,349,89,305,64,231,40,159,27"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="56,56,123,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,66,218,70,262,76,306,85,341,98,373,113,371,118,339,103,305,91,262,81,217,75,138,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,117,135,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,131,198,133,329,135,329,140,198,139,150,137"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="5,168,174,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,175,305,157,329,153,330,158,306,163,189,180"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="8,235,171,277"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="185,244,245,232,305,212,349,186,385,157,389,161,352,191,307,217,247,237,186,250"/>
+</map>

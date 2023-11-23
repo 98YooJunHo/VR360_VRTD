@@ -1,0 +1,5 @@
+<map id="TeleportInputHandler.TeleportReadyCoroutine" name="TeleportInputHandler.TeleportReadyCoroutine">
+<area shape="rect" id="Node000001" title="This coroutine will be active while the teleport system is in the Ready state." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$class_teleport_input_handler.html#ad7f10a30c5031bc04a51e4f284fe073e" title="One of the core functions of the TeleportInputHandler is to notify the LocomotionTeleport of the curr..." alt="" coords="243,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
+</map>

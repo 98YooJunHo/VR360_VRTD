@@ -1,0 +1,5 @@
+<map id="OVRSceneModelLoader.OnNewSceneModelAvailable" name="OVRSceneModelLoader.OnNewSceneModelAvailable">
+<area shape="rect" id="Node000001" title="Invoked when the scene model has changed." alt="" coords="5,5,212,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_scene_manager.html#aa450c25b85929ddb2ae62076248a57ad" title="Loads the scene model from the Room Setup." alt="" coords="260,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,24,244,24,244,29,212,29"/>
+</map>

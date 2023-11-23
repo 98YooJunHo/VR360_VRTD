@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.Recorder.HandGrabPoseLiveRecorder" name="Oculus.Interaction.HandGrab.Recorder.HandGrabPoseLiveRecorder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,245,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,43,112,78,107,81,80,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="143,5,233,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,46,143,81,139,78,167,43"/>
+</map>

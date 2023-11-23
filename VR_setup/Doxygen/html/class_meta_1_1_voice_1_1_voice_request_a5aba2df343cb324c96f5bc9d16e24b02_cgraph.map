@@ -1,0 +1,12 @@
+<map id="Meta.Voice.VoiceRequest.OnInit" name="Meta.Voice.VoiceRequest.OnInit">
+<area shape="rect" id="Node000001" title="Call after initialization." alt="" coords="5,29,182,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="51,29,49,19,56,10,71,5,94,3,118,5,132,11,130,16,116,10,93,8,72,10,59,15,54,21,56,28"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request.html#a743debef6f9a70906913ef2a44fbdddb" title="Raises a voice request event." alt="" coords="454,29,630,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="169,26,229,15,318,8,406,15,452,23,451,28,406,20,318,13,230,20,170,31"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_voice_request.html#a4933f170dcb5d973fcb2672435ceaa14" title="Set current request download progress." alt="" coords="230,29,406,72"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="182,48,214,48,214,53,182,53"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_voice_request.html#a2419fae89dcfb71559875c0655af61ef" title="Set current request upload progress." alt="" coords="230,96,406,139"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="168,70,230,88,228,94,167,75"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="406,48,438,48,438,53,406,53"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="391,93,452,74,454,80,393,98"/>
+</map>

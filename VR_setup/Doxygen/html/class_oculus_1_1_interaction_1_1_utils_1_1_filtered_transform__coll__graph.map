@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Utils.FilteredTransform" name="Oculus.Interaction.Utils.FilteredTransform">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,89,549,132"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,17,265,27,316,36,366,49,404,66,438,86,435,91,402,71,364,55,315,41,264,32,171,23"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_input_1_1_one_euro_filter_property_block.html" title="Property block for OneEuroFilter parameters." alt="" coords="9,56,193,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,84,389,101,388,106,208,90"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_one_euro_filter.html" title=" " alt="" coords="14,123,188,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,134,364,120,388,118,389,123,365,125,203,139"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_one_euro_filter.html" title=" " alt="" coords="5,189,197,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,191,287,176,364,155,424,130,426,135,366,160,288,181,213,197"/>
+</map>

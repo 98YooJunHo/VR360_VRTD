@@ -1,0 +1,23 @@
+<map id="Meta.Voice.Samples.TTSVoices.TTSSpeakerObserver.OnEnable" name="Meta.Voice.Samples.TTSVoices.TTSSpeakerObserver.OnEnable">
+<area shape="rect" id="Node000001" title="On enable, add all callbacks." alt="" coords="5,305,219,348"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a3d132b87e27c9af0f5b512f2de8b7b7f" title="Callback for load cancelation." alt="" coords="300,5,523,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,304,134,253,164,186,207,117,234,85,265,58,284,46,287,51,268,62,238,89,211,120,168,189,139,255,122,306"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a9fa4188fec857561152d73bc93df703e" title="Callback for load begin." alt="" coords="299,72,524,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,304,142,265,174,216,215,166,265,124,283,115,286,119,268,129,219,170,178,219,147,268,126,307"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#aa4eb71e2644feea07173bbec9e514af5" title="Callback for load error." alt="" coords="298,139,525,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,303,186,247,224,216,265,191,282,184,284,188,268,196,227,221,190,251,134,307"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#ab2379a34da6ebc15c0f2761140d65d55" title="Callback for load success." alt="" coords="290,205,533,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,303,208,279,266,257,291,250,292,255,268,263,210,284,159,307"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#ab4feaff0ae6838934598479bf9858365" title="Callback for playback for a clip has been canceled." alt="" coords="274,272,549,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="219,312,258,308,259,313,219,317"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a0b9be0bc235d1c54d5ca14f77f45a02e" title="Callback for playback completion." alt="" coords="275,339,548,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="219,336,259,340,259,346,219,341"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a1c0c69ca22085d935d9091c26847c3ca" title="Callback for queue begin." alt="" coords="267,405,556,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="159,346,210,369,268,391,292,398,291,403,266,396,208,374,156,351"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#afd826f9615b3164b47700713b8dad64d" title="Callback for queue completion." alt="" coords="283,472,540,531"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="134,346,191,402,228,432,268,458,278,463,276,468,265,462,225,436,187,406,131,350"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a4f4eaeb5a7f2c7e62109431c587aef70" title="Callback for playback is ready for a clip." alt="" coords="284,555,539,597"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="125,347,145,389,176,442,217,496,242,520,268,540,276,545,273,550,265,545,238,524,213,499,171,445,140,392,120,350"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html#a8328e0a06b4c371c157b9ebc98458bae" title="Callback for playback for a clip has begun." alt="" coords="288,621,535,664"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="121,348,137,401,166,472,186,509,209,545,237,579,268,607,276,613,273,617,265,611,233,582,205,549,181,512,161,474,132,403,116,349"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.VRequest.RequestFileExists" name="Meta.WitAi.Requests.VRequest.RequestFileExists">
+<area shape="rect" id="Node000001" title="Checks if a file exists at a specified location." alt="" coords="5,5,216,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="264,13,397,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+</map>

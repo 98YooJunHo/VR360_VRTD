@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.IHand" name="Oculus.Interaction.Input.IHand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,168,211"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html" title=" " alt="" coords="216,147,408,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,174,215,170,215,175,184,179"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html" title="HandRef is a utility component that delegates all of its IHand implementation to the provided Hand ob..." alt="" coords="231,197,393,240"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,199,231,205,230,211,183,205"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_filter_1_1_hand_filter.html" title=" " alt="" coords="459,5,621,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,134,393,96,455,58,478,46,481,51,457,62,396,101,344,139"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_fixed_scale_hand.html" title=" " alt="" coords="459,72,621,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,139,463,113,465,118,375,144"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_joint_rotation_history_hand.html" title="Tracks the history of finger rotations and can be set to use the joint rotations from some number of ..." alt="" coords="456,139,623,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="424,157,456,157,456,163,424,163"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_last_known_good_hand.html" title=" " alt="" coords="459,205,621,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="382,175,409,183,472,202,470,207,407,188,381,180"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html" title="Alters hand data piped into this modifier to lock and unlock joints (wrist position and rotation,..." alt="" coords="459,272,621,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="402,178,410,183,427,202,435,221,442,240,458,258,475,269,472,274,454,262,438,242,430,223,422,205,406,187,399,183"/>
+</map>

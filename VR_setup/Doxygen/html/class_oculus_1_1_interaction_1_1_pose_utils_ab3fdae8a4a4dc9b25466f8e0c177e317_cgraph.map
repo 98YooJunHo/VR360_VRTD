@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.PoseUtils.Postmultiply" name="Oculus.Interaction.PoseUtils.Postmultiply">
+<area shape="rect" id="Node000001" title="Compose two poses, applying the caller on top of the provided pose." alt="" coords="5,5,196,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#af1212de139ba68862471a9625e9bc01d" title="Compose two poses, applying the first to the second one." alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+</map>

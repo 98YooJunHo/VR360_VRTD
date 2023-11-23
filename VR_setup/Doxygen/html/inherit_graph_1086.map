@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,47,138,73"/>
+<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_module.html" title="IPointerInteractableModule manages all InteractableCanvas events in the scene and translates them int..." alt="" coords="186,5,370,48"/>
+<area shape="poly" id="edge1312_Node000000_Node000001" title=" " alt="" coords="153,44,185,39,185,44,153,50"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html" title="VR extension of PointerInputModule which supports gaze and controller pointing." alt="" coords="186,72,370,115"/>
+<area shape="poly" id="edge1313_Node000000_Node000002" title=" " alt="" coords="153,70,186,76,185,81,152,76"/>
+</map>

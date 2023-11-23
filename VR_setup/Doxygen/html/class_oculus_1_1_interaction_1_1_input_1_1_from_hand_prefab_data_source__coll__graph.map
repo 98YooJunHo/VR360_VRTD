@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.FromHandPrefabDataSource" name="Oculus.Interaction.Input.FromHandPrefabDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="714,117,900,160"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html" title=" " alt="" coords="293,5,497,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,23,601,36,691,62,740,86,781,115,778,119,737,91,689,66,600,42,512,28"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_data_asset.html" title=" " alt="" coords="314,56,476,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="492,79,588,88,691,103,738,114,737,119,689,108,588,93,491,85"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_copy_from.html" title=" " alt="" coords="5,35,205,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,57,313,66,313,72,220,62"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_data_source_config.html" title="A set of constants that are passed to each child of a Hand modifier tree from the root DataSource." alt="" coords="24,85,186,128"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,94,313,83,313,88,202,100"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="349,124,441,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="456,135,714,136,713,141,456,140"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand_skeleton_provider.html" title=" " alt="" coords="314,175,476,217"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="491,182,690,156,713,152,714,158,690,161,491,188"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html" title=" " alt="" coords="300,241,490,284"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="505,245,596,226,689,199,732,180,770,158,773,163,734,184,691,204,597,232,506,250"/>
+</map>

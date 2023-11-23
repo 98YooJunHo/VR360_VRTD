@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.IFingerAPI" name="Oculus.Interaction.IFingerAPI">
+<area shape="rect" id="Node000001" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_palm_grab_a_p_i.html" title="This Finger API uses the curl value of the fingers to detect if they are grabbing." alt="" coords="244,5,427,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,73,257,46,258,51,166,78"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_pinch_grab_a_p_i.html" title="This Finger API uses an advanced calculation for the pinch value of the fingers to detect if they are..." alt="" coords="244,72,427,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,91,243,91,243,96,212,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_raw_pinch_a_p_i.html" title="This FingerAPI uses the the Pinch value as it comes from the Hand data to detect if they are grabbing..." alt="" coords="244,139,427,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,109,258,135,257,141,164,114"/>
+</map>

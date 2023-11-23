@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Requests.VoiceServiceRequestOptions.VoiceServiceRequestOptions" name="Meta.WitAi.Requests.VoiceServiceRequestOptions.VoiceServiceRequestOptions">
+<area shape="rect" id="Node000001" title="Setup with a specific guid." alt="" coords="5,47,241,105"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request_options.html#a13617d922080d952bf7f85eed948ca45" title="Generates a dictionary of key/value strings from a query param array." alt="" coords="289,5,527,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,56,273,52,274,57,242,62"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request_options.html#a1b5fbdf7fb3f9c6f1e636ba45a613177" title="Generates a random guid." alt="" coords="297,88,519,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,90,282,96,281,102,241,96"/>
+</map>

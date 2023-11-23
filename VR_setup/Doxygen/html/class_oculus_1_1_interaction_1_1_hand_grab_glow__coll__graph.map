@@ -1,0 +1,27 @@
+<map id="Oculus.Interaction.HandGrabGlow" name="Oculus.Interaction.HandGrabGlow">
+<area shape="rect" id="Node000001" title="HandGrabGlow controls the glow properties of the OculusHand material to get a glow effect when pinch ..." alt="" coords="916,188,1133,215"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,32,115,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,24,164,10,225,4,305,3,490,8,659,20,752,33,793,47,833,66,907,109,967,152,1009,186,1006,190,964,157,904,113,830,70,791,52,751,38,659,26,490,14,305,8,225,10,164,15,110,29"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html" title=" " alt="" coords="164,24,340,67"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="130,43,164,43,164,48,130,48"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_visual.html" title=" " alt="" coords="555,148,752,175"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="83,69,119,105,141,121,165,134,196,143,237,150,340,159,452,162,555,162,555,167,452,167,339,164,236,155,195,148,163,139,138,126,115,109,80,73"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="207,214,298,240"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,224,531,220,915,205,915,210,531,226,313,229"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="313,221,415,211,531,194,609,173,611,178,532,199,416,217,313,226"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,39,442,40,532,49,635,68,715,91,893,153,987,185,985,190,891,158,713,96,634,73,531,54,442,45,356,44"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="329,70,365,81,448,98,532,115,619,145,617,150,531,120,447,103,364,86,328,75"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="767,171,916,187,915,193,767,177"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_hand_visual.html" title=" " alt="" coords="207,98,297,124"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="313,116,555,147,554,152,312,121"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_interactor.html" title=" " alt="" coords="557,290,750,332"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="764,301,828,291,891,274,953,245,1003,213,1005,218,956,249,893,279,829,296,765,306"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="196,298,309,324"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="325,308,557,308,557,314,325,314"/>
+<area shape="rect" id="Node000009" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="560,356,747,383"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="762,359,827,345,890,321,928,296,962,267,1010,214,1014,217,966,271,932,301,893,326,829,350,763,364"/>
+<area shape="rect" id="Node000010" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="199,352,305,379"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="321,364,559,366,559,372,321,369"/>
+<area shape="rect" id="Node000011" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="204,403,301,430"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="316,407,559,378,560,383,316,412"/>
+</map>

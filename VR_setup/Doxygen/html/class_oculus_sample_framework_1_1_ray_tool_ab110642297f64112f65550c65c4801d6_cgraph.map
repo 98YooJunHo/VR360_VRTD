@@ -1,0 +1,9 @@
+<map id="OculusSampleFramework.RayTool.FindTargetInteractable" name="OculusSampleFramework.RayTool.FindTargetInteractable">
+<area shape="rect" id="Node000001" title="Find all objects from primary ray cast or if that fails, all objects in a cone around main ray direct..." alt="" coords="5,72,203,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_ray_tool.html#a4b0a47cc323388536eb1c7cefc0ca182" title="If primary cast fails, try secondary test to see if we can target an interactable...." alt="" coords="251,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,69,259,50,260,55,189,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_ray_tool.html#ac05dc9907e567fad1cd79480950eb017" title="Find first hit that is supports our tool&#39;s method of interaction." alt="" coords="260,72,457,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,91,244,91,244,96,203,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_ray_tool.html#a185f899915e446890ad10b8b2f9334b6" title="Avoid hand collider during raycasts so move origin some distance away from where tool is." alt="" coords="260,139,457,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,113,260,132,259,137,187,118"/>
+</map>

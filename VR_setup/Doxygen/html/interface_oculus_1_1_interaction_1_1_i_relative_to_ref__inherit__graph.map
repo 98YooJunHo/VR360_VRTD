@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.IRelativeToRef" name="Oculus.Interaction.IRelativeToRef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,184,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_distance_grab_interactable.html" title="This interactable is used for grabbing items at a distance. Upon selection the Movement Provider spec..." alt="" coords="237,5,419,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,43,236,37,237,42,199,48"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_interactable.html" title=" " alt="" coords="232,72,424,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,72,232,77,231,82,198,78"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_distance_hand_grab_interactable.html" title="The DistanceHandGrabInteractable allows grabbing the marked object from far away. Internally it uses ..." alt="" coords="472,39,669,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="439,75,471,71,472,76,440,81"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_interactable.html" title="A HandGrabInteractable indicates the properties about how a hand can HandGrab an object...." alt="" coords="475,105,667,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="440,106,475,111,474,116,439,111"/>
+</map>

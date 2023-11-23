@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.PoseDetection.ShapeRecognizerActiveState" name="Oculus.Interaction.PoseDetection.ShapeRecognizerActiveState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,100,1099,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="505,5,614,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="630,21,737,34,798,45,857,60,905,77,948,97,946,102,903,82,855,65,797,51,737,40,629,26"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="514,56,605,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="620,67,730,72,856,85,912,97,911,102,856,91,730,77,620,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="514,107,605,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="621,118,879,118,879,124,621,123"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html" title=" " alt="" coords="450,157,669,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="684,162,856,140,879,137,880,142,856,145,685,167"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer.html" title=" " alt="" coords="450,224,669,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="684,225,769,207,855,183,904,163,948,141,951,146,906,168,857,188,770,212,685,230"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="79,181,196,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="212,193,314,199,426,211,477,221,476,226,425,216,313,204,211,199"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer_1_1_finger_feature_config_list.html" title=" " alt="" coords="5,273,270,316"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="285,301,355,299,425,291,469,280,509,265,511,270,470,285,426,296,356,304,285,306"/>
+</map>

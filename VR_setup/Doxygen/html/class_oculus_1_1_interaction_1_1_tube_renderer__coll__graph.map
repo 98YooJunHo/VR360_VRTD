@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.TubeRenderer" name="Oculus.Interaction.TubeRenderer">
+<area shape="rect" id="Node000001" title="Creates and renders a tube mesh from sequence of points." alt="" coords="140,267,351,293"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,115,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,139,233,264,229,268,84,143"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_tube_renderer_1_1_vertex_layout.html" title=" " alt="" coords="138,96,353,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,154,248,266,243,266,243,154"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,5,291,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,48,248,95,243,95,243,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="376,104,429,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="387,145,348,193,299,245,268,268,264,264,296,241,344,190,383,142"/>
+</map>

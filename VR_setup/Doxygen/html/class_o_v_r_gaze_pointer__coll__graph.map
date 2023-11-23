@@ -1,0 +1,12 @@
+<map id="OVRGazePointer" name="OVRGazePointer">
+<area shape="rect" id="Node000001" title="UI pointer driven by gaze input." alt="" coords="127,172,248,199"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_cursor.html" title=" " alt="" coords="5,81,93,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,115,169,169,166,174,80,119"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="65,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,45,63,83,59,79,95,41"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_progress_indicator.html" title="Visualizes progress for operations such as loading." alt="" coords="117,81,267,108"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="144,41,181,79,178,83,140,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,124,191,132,190,172,185,172,186,132,187,124"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="294,81,348,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="313,124,293,150,272,164,249,174,247,169,269,159,290,146,309,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Audio.IAudioClipProvider" name="Meta.Voice.Audio.IAudioClipProvider">
+<area shape="rect" id="Node000001" title="A simple interface for receiving an AudioClip." alt="" coords="8,5,194,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_unity_audio_clip_stream.html" title="A class for generating and appending to audio clips while streaming." alt="" coords="5,96,197,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,64,104,96,98,96,98,64"/>
+</map>

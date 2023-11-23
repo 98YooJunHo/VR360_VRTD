@@ -1,0 +1,13 @@
+<map id="Meta.WitAi.CallbackHandlers.ValuePathMatcher" name="Meta.WitAi.CallbackHandlers.ValuePathMatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="691,88,886,131"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_wit_value.html" title=" " alt="" coords="347,27,522,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="522,54,691,88,690,93,521,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,5,177,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,21,347,31,346,37,192,26"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_wit_response_reference.html" title=" " alt="" coords="5,96,232,123"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="247,107,691,107,691,112,247,112"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,89,370,51,371,57,198,95"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="88,78,98,72,118,69,137,72,149,78,152,87,147,97,142,94,147,87,145,81,136,77,119,75,100,77,91,83"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_confidence_range.html" title=" " alt="" coords="337,157,532,200"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="547,162,666,141,716,129,718,134,668,147,548,168"/>
+</map>

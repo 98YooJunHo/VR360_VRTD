@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Body.Input.BodyJointsCache" name="Oculus.Interaction.Body.Input.BodyJointsCache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="619,61,784,104"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_read_only_body_joint_poses.html" title=" " alt="" coords="211,17,415,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,49,619,71,619,76,431,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,25,162,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,36,211,36,211,41,178,41"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_skeleton_mapping.html" title=" " alt="" coords="231,84,395,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="411,101,595,92,619,90,619,95,596,97,411,106"/>
+</map>

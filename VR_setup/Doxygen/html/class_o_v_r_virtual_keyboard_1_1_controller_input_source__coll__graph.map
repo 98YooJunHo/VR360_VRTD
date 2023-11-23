@@ -1,0 +1,46 @@
+<map id="OVRVirtualKeyboard.ControllerInputSource" name="OVRVirtualKeyboard.ControllerInputSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1354,216,1554,259"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_virtual_keyboard_1_1_base_input_source.html" title=" " alt="" coords="1111,81,1231,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1214,113,1411,213,1408,218,1212,118"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_virtual_keyboard_1_1_i_input_source.html" title=" " alt="" coords="757,5,850,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="867,24,966,40,1077,63,1130,78,1129,83,1076,68,965,45,866,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="760,56,848,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="863,71,1111,88,1111,93,863,76"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="747,107,860,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="876,117,971,114,1076,107,1110,102,1111,108,1077,112,971,119,876,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="406,157,515,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="530,158,746,126,747,131,531,163"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_virtual_keyboard.html" title="Supports Virtual Keyboard integration by providing the implementation to necessary common patterns." alt="" coords="1100,385,1242,412"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="530,163,663,156,824,154,903,158,974,166,1034,179,1078,198,1101,217,1120,241,1147,294,1163,346,1171,384,1165,385,1158,347,1142,296,1115,244,1097,221,1075,202,1033,184,974,171,902,163,823,160,663,161,531,168"/>
+<area shape="rect" id="Node000013" href="$class_o_v_r_hand.html" title=" " alt="" coords="764,357,843,384"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="525,187,602,216,681,256,715,281,746,308,792,355,788,359,743,312,712,285,679,261,600,220,523,192"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="422,245,499,272"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="514,255,1353,237,1353,242,515,260"/>
+<area shape="poly" id="edge20_Node000013_Node000007" title=" " alt="" coords="515,262,594,276,681,300,738,327,783,355,781,359,735,332,679,305,593,281,514,267"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,296,59,323"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="73,292,82,289,177,273,272,263,421,256,421,262,272,269,178,279,83,295,74,297"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="74,308,637,324,936,334,1077,341,1120,360,1154,383,1151,387,1117,365,1076,347,936,339,637,329,74,313"/>
+<area shape="rect" id="Node000018" href="$class_o_v_r_plugin.html" title=" " alt="" coords="418,347,503,373"/>
+<area shape="poly" id="edge22_Node000018_Node000008" title=" " alt="" coords="39,338,55,431,68,476,76,492,84,502,115,523,145,539,175,548,204,551,233,549,262,539,292,524,322,502,333,489,337,476,335,447,331,415,335,399,346,383,361,371,380,363,417,356,418,362,381,369,364,376,350,387,340,401,337,416,340,446,342,477,337,492,325,506,294,528,264,544,234,554,204,557,174,553,143,544,113,528,81,506,71,495,63,477,49,433,34,339"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1208,375,1413,257,1416,261,1211,380"/>
+<area shape="rect" id="Node000010" href="$interface_o_v_r_manager_1_1_event_listener.html" title=" " alt="" coords="711,408,896,435"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="912,412,1100,400,1100,406,912,417"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html" title="Simple event system using physics raycasts. Very closely based on UnityEngine.EventSystems...." alt="" coords="712,459,895,501"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="910,477,992,468,1075,449,1116,431,1149,410,1152,415,1118,436,1077,455,993,474,911,482"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="405,664,516,691"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="531,681,569,679,608,672,646,658,678,635,689,621,693,607,690,577,688,545,692,528,702,512,715,500,719,504,706,515,696,530,693,545,696,576,698,608,693,624,682,639,648,663,610,677,570,684,531,686"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="859,372,1100,391,1099,396,859,377"/>
+<area shape="rect" id="Node000014" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="365,397,556,440"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="571,401,763,374,764,379,572,406"/>
+<area shape="rect" id="Node000015" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="365,464,556,523"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="556,456,572,450,703,393,763,377,764,382,705,399,574,454,558,461"/>
+<area shape="rect" id="Node000016" href="$interface_o_v_r_mesh_1_1_i_o_v_r_mesh_data_provider.html" title=" " alt="" coords="348,547,573,573"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="557,539,572,532,606,514,631,497,653,475,678,445,685,432,688,419,692,407,702,394,732,378,763,370,764,376,733,383,706,398,697,409,693,421,690,434,682,448,657,479,635,501,609,519,574,537,559,544"/>
+<area shape="rect" id="Node000017" href="$interface_o_v_r_mesh_renderer_1_1_i_o_v_r_mesh_renderer_data_provider.html" title=" " alt="" coords="358,597,563,640"/>
+<area shape="poly" id="edge19_Node000013_Node000017" title=" " alt="" coords="555,589,572,583,632,562,655,549,678,525,687,508,690,492,687,460,685,428,690,411,702,394,715,383,731,376,763,368,764,374,733,381,718,388,706,398,695,413,691,428,693,459,695,492,692,510,682,528,659,554,634,567,574,588,557,594"/>
+<area shape="poly" id="edge21_Node000013_Node000018" title=" " alt="" coords="518,360,597,363,763,367,763,372,597,368,518,365"/>
+<area shape="rect" id="Node000019" href="$struct_o_v_r_g_l_t_f_scene.html" title=" " alt="" coords="745,525,863,552"/>
+<area shape="poly" id="edge23_Node000009_Node000019" title=" " alt="" coords="878,539,924,536,975,530,1027,517,1075,498,1103,479,1126,455,1159,411,1164,414,1130,459,1106,483,1078,502,1028,523,976,535,925,542,878,544"/>
+<area shape="rect" id="Node000020" href="$class_o_v_r_virtual_keyboard_1_1_interactor_root_transform_override.html" title=" " alt="" coords="704,577,903,620"/>
+<area shape="poly" id="edge24_Node000009_Node000020" title=" " alt="" coords="919,610,959,609,999,604,1039,592,1075,574,1095,557,1112,537,1139,491,1156,446,1165,412,1170,413,1161,448,1144,493,1117,540,1099,561,1078,578,1041,597,1000,609,959,614,919,616"/>
+</map>

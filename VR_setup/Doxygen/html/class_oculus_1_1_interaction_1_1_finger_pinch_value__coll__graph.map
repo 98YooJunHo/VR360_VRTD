@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.FingerPinchValue" name="Oculus.Interaction.FingerPinchValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,96,255,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,40,150,93,146,97,84,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="139,5,205,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,48,175,95,169,95,169,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="229,5,320,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,45,196,97,192,93,249,41"/>
+</map>

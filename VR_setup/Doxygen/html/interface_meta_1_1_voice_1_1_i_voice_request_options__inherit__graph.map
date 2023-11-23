@@ -1,0 +1,17 @@
+<map id="Meta.Voice.IVoiceRequestOptions" name="Meta.Voice.IVoiceRequestOptions">
+<area shape="rect" id="Node000001" title="The base interface for all request options." alt="" coords="125,5,300,48"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_options.html" title="Interface for NLP request parameters." alt="" coords="214,104,426,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,56,307,102,303,106,247,60"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_voice_1_1_i_transcription_request_options.html" title="Interface for audio transcription specific options." alt="" coords="21,96,190,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="178,60,132,97,129,93,174,56"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request_options.html" title="Interface for all specific audio NLP request parameters." alt="" coords="5,187,206,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,140,157,189,155,184,274,135"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_voice_1_1_i_n_l_p_text_request_options.html" title="Interface for text language processing request parameters." alt="" coords="229,187,422,229"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="325,146,327,186,322,186,319,147"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request_options.html" title=" " alt="" coords="124,277,306,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,237,191,275,188,279,141,241"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_configuration_1_1_wit_request_options.html" title=" " alt="" coords="130,368,300,411"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,336,218,368,212,368,212,336"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="290,241,242,279,239,275,286,237"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="108,154,108,186,103,186,103,154"/>
+</map>

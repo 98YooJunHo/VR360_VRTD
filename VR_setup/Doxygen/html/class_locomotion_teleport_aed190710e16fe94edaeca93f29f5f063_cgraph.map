@@ -1,0 +1,5 @@
+<map id="LocomotionTeleport.Awake" name="LocomotionTeleport.Awake">
+<area shape="rect" id="Node000001" title="When the component first wakes up, cache the LocomotionController and the initial TeleportDestination..." alt="" coords="5,13,183,40"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#aeca243463f39e019dc2290f961b4734c" title="This is called whenever a new teleport destination is required. This might occur when rapidly switchi..." alt="" coords="231,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,24,215,24,215,29,183,29"/>
+</map>

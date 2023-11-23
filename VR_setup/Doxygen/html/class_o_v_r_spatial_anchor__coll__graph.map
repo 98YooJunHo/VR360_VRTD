@@ -1,0 +1,16 @@
+<map id="OVRSpatialAnchor" name="OVRSpatialAnchor">
+<area shape="rect" id="Node000001" title="Represents a spatial anchor." alt="" coords="294,375,424,401"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,172,115,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,209,147,278,192,316,240,348,269,362,299,372,297,377,267,367,237,353,188,320,144,282,78,212"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_spatial_anchor_1_1_save_options.html" title="Represents options for saving OVRSpatialAnchor." alt="" coords="139,172,346,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,214,248,244,255,280,267,316,287,349,301,362,319,372,316,376,298,366,283,352,262,319,250,281,243,245,240,214"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="317,81,403,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="333,120,261,174,258,169,329,116"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_spatial_anchor_1_1_erase_options.html" title="Represents options for erasing OVRSpatialAnchor." alt="" coords="371,172,584,199"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="391,116,462,169,459,174,387,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="274,5,446,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="363,47,363,81,357,81,357,47"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="473,214,450,280,432,318,409,352,382,376,379,372,405,349,427,315,445,278,468,213"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="608,172,661,199"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="640,214,640,246,636,284,624,321,602,353,572,368,527,378,424,388,424,382,526,373,570,363,598,349,620,319,631,283,635,246,635,214"/>
+</map>

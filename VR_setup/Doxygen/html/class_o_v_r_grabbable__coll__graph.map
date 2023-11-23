@@ -1,0 +1,15 @@
+<map id="OVRGrabbable" name="OVRGrabbable">
+<area shape="rect" id="Node000001" title="An object that can be grabbed and thrown by OVRGrabber." alt="" coords="78,320,186,347"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_grabber.html" title="Allows grabbing and throwing of objects with the OVRGrabbable component on them." alt="" coords="188,491,283,517"/>
+<area shape="poly" id="edge7_Node000003_Node000001" title=" " alt="" coords="64,347,43,357,27,372,13,397,8,419,13,442,27,465,52,479,94,489,188,499,188,504,93,495,50,484,23,469,8,444,3,419,8,395,23,369,40,353,62,342"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="150,5,260,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,48,137,320,132,319,196,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="210,47,238,490,232,491,204,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,496,149,485,131,468,118,437,115,403,119,371,125,346,130,348,124,372,120,403,123,435,135,465,152,481,174,491"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="273,320,350,347"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="303,362,257,468,245,491,240,489,252,466,298,360"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="285,5,338,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="314,48,314,320,309,320,309,48"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="374,320,465,347"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="421,363,409,416,397,444,378,469,357,484,333,494,285,504,284,499,331,489,354,479,374,465,392,442,404,415,416,362"/>
+</map>

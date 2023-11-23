@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.OVR.Input.OVRAxis1D" name="Oculus.Interaction.OVR.Input.OVRAxis1D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,443,304,485"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,328,115,355"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,363,183,440,180,444,85,367"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="139,328,205,355"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,368,203,441,198,443,177,370"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="229,328,307,355"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,370,220,443,215,441,252,367"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,5,295,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,48,271,328,265,328,265,48"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_o_v_r_1_1_input_1_1_o_v_r_axis1_d_1_1_remap_config.html" title=" " alt="" coords="331,320,525,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="389,374,312,421,262,444,259,440,309,416,386,369"/>
+</map>

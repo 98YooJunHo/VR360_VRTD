@@ -1,0 +1,9 @@
+<map id="Spawnable" name="Spawnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,172,201,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,200,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,120,153,170,148,173,116,123"/>
+<area shape="rect" id="Node000003" href="$class_simple_resizable.html" title=" " alt="" coords="223,81,342,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,119,178,174,175,169,251,115"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="228,5,337,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,47,285,81,280,81,280,47"/>
+</map>

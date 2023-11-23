@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.IndexPinchSafeReleaseSelector" name="Oculus.Interaction.IndexPinchSafeReleaseSelector">
+<area shape="rect" id="Node000001" title="This Selector selects for a frame when the Pinch is released, as opposed to when it is pinching...." alt="" coords="192,128,368,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,45,243,125,241,130,95,50"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_selector.html" title="ISelector defines an input abstraction that can broadcast select and release events." alt="" coords="139,13,211,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,50,264,126,260,129,193,53"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="235,13,325,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,55,283,127,277,127,277,55"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="349,13,440,40"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,53,302,129,298,126,370,50"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="473,5,642,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="541,63,523,86,500,106,469,122,435,134,369,147,368,142,434,129,467,117,497,102,520,83,537,60"/>
+</map>

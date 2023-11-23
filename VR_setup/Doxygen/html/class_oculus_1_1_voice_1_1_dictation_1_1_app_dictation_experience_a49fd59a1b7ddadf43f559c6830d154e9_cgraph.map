@@ -1,0 +1,7 @@
+<map id="Oculus.Voice.Dictation.AppDictationExperience.Toggle" name="Oculus.Voice.Dictation.AppDictationExperience.Toggle">
+<area shape="rect" id="Node000001" title="Toggle dictation activation from on&#45;&gt;off or off&#45;&gt;on depending on the current active state." alt="" coords="5,39,187,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html#a31c6c4cc4a16292f97a9a5eb30aa0069" title="Activate the microphone and send data for NLU processing. Includes optional additional request parame..." alt="" coords="237,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,45,221,40,222,45,188,50"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_dictation_1_1_app_dictation_experience.html#a2af27124b3edb84bfe4bc952d081353b" title="Deactivates. If a transcription is in progress the network request will complete and any additional t..." alt="" coords="235,72,436,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,70,220,75,219,80,187,75"/>
+</map>

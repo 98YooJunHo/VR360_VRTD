@@ -1,0 +1,9 @@
+<map id="LocalizedHaptics" name="LocalizedHaptics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,427,160,453"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,115,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,360,98,425,93,427,68,362"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="139,320,216,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,360,111,428,107,425,157,357"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="151,5,204,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,48,180,320,175,320,175,48"/>
+</map>

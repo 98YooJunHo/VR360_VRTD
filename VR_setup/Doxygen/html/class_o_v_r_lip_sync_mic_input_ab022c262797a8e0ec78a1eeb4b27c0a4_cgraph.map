@@ -1,0 +1,17 @@
+<map id="OVRLipSyncMicInput.Update" name="OVRLipSyncMicInput.Update">
+<area shape="rect" id="Node000001" title="Update this instance." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_mic_input.html#af506d3c985d6560043c710bb253ffff9" title="Initializes the microphone." alt="" coords="267,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,77,262,50,264,55,157,82"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_mic_input.html#aeca7d0590637657e3b2611bdf47fb8f1" title="Starts the microphone." alt="" coords="277,72,454,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,91,261,91,261,96,196,96"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_mic_input.html#afc113fb9eccc45c9f4931da0ad27e3e0" title="Stops the microphone." alt="" coords="244,139,487,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,105,244,124,282,132,281,138,243,129,159,110"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_mic_input.html#add285eed04e6d985975431066408aec7" title="Gets the mic caps." alt="" coords="535,13,756,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,24,520,24,520,29,464,29"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_context_base.html#af1caeeabc44f2b620bc4c3625bff20a5" title="Resets the context." alt="" coords="541,131,750,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="488,149,526,149,526,155,488,155"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_lip_sync.html#a14acb0e2fc85c2bb644aa95551028e23" title="Resets the context." alt="" coords="804,139,984,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="751,149,789,149,789,155,751,155"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="1032,139,1196,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="984,149,1016,149,1016,155,984,155"/>
+</map>

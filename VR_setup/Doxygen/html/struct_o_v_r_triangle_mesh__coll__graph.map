@@ -1,0 +1,9 @@
+<map id="OVRTriangleMesh" name="OVRTriangleMesh">
+<area shape="rect" id="Node000001" title="Represents the Triangle Mesh component of an OVRAnchor." alt="" coords="231,112,358,139"/>
+<area shape="rect" id="Node000002" href="$interface_i_o_v_r_anchor_component.html" title=" " alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,52,268,109,266,114,143,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="189,13,400,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,56,297,112,292,112,292,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="424,13,477,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,51,316,114,313,109,416,46"/>
+</map>

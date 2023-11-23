@@ -1,0 +1,9 @@
+<map id="OVRMixedRealityCaptureTest" name="OVRMixedRealityCaptureTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,347,200,373"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,256,116,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,296,99,345,94,347,71,298"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_plugin.html" title=" " alt="" coords="140,256,225,283"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,296,116,348,112,344,159,293"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="156,5,209,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,48,185,256,180,256,180,48"/>
+</map>

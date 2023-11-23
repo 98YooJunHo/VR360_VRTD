@@ -1,0 +1,11 @@
+<map id="LipSyncDemo_SetCurrentTarget.LocalTouchEventCallback" name="LipSyncDemo_SetCurrentTarget.LocalTouchEventCallback">
+<area shape="rect" id="Node000001" title="Local touch event callback." alt="" coords="5,5,217,48"/>
+<area shape="rect" id="Node000002" href="$class_lip_sync_demo___set_current_target.html#af88cfd59f980490fbc5d85b007df5f44" title="Sets the current target." alt="" coords="265,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,249,24,249,29,217,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_debug_console.html#a47a5ea8e58baf26e1c9892131ef9c446" title="Clear this instance." alt="" coords="524,13,738,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,24,508,24,508,29,476,29"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_debug_console.html#a3b41e35627b5102bd737bb80f320358e" title="Clears the messages." alt="" coords="786,5,1001,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="739,24,771,24,771,29,739,29"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_debug_console.html#aa3e6bcfc16a4fc79b472d4505d90a665" title="Display this instance." alt="" coords="1049,13,1276,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1001,24,1033,24,1033,29,1001,29"/>
+</map>

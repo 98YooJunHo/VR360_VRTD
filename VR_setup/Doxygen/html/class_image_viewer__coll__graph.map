@@ -1,0 +1,9 @@
+<map id="ImageViewer" name="ImageViewer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,203,125,229"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,107,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,145,77,202,72,203,59,146"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_hub_1_1_u_i_components_1_1_image_view.html" title=" " alt="" coords="131,96,338,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,149,99,204,97,200,187,145"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="207,5,262,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,48,237,95,232,95,232,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OVRSceneSampleController.UpdateRecenterPose" name="OVRSceneSampleController.UpdateRecenterPose">
+<area shape="rect" id="Node000001" title="Recenter pose." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_display.html#a1c09006fa35ba398fa166c87573f56a7" title="Recenters the head pose." alt="" coords="243,13,421,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
+</map>

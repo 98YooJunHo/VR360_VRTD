@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabUseInteractor" name="Oculus.Interaction.HandGrab.HandGrabUseInteractor">
+<area shape="rect" id="Node000001" title="This interactor allows sending use&#45;strength values to an interactable to create use interactions...." alt="" coords="440,91,632,133"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,46,416,79,453,88,452,93,415,84,247,51"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="62,72,175,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,87,416,101,439,103,439,108,415,107,190,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="73,124,164,151"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,138,290,140,415,133,439,130,440,136,416,139,290,145,180,143"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="22,211,215,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,238,322,233,369,224,415,210,445,194,472,174,515,132,518,136,476,178,447,198,417,214,371,229,323,238,230,243"/>
+</map>

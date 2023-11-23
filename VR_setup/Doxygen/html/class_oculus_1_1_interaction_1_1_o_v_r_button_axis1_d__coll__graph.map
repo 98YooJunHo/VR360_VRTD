@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.OVRButtonAxis1D" name="Oculus.Interaction.OVRButtonAxis1D">
+<area shape="rect" id="Node000001" title="Takes a set of OVR Near, Touch and Button bools and remaps them to an Axis1D float." alt="" coords="109,475,305,517"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,328,115,355"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,364,189,473,185,476,81,368"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="139,328,205,355"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,369,205,474,199,475,176,370"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="229,328,307,355"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,370,217,475,212,473,255,368"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,5,295,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,48,271,328,265,328,265,48"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_progress_curve.html" title="ProgressCurve provides a helper for creating curves for easing. In some respects it works like an Ani..." alt="" coords="330,320,513,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="398,376,362,416,317,453,272,476,270,472,315,448,359,412,394,373"/>
+</map>

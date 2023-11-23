@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.InteractableGroup" name="Oculus.Interaction.InteractableGroup">
+<area shape="rect" id="Node000001" title="This class implements higher level logic to share the number of max max interactors acting on this gr..." alt="" coords="23,96,220,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,44,110,94,106,97,74,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,46,137,97,133,94,165,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.IHandVisual" name="Oculus.Interaction.IHandVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,5,296,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_debug_visual.html" title=" " alt="" coords="5,96,203,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,60,132,97,128,93,175,56"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_visual.html" title=" " alt="" coords="227,104,424,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,56,311,101,308,106,250,60"/>
+</map>

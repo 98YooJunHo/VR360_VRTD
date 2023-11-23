@@ -1,0 +1,17 @@
+<map id="Meta.WitAi.Interfaces.IDynamicEntitiesProvider" name="Meta.WitAi.Interfaces.IDynamicEntitiesProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,205,210,248"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_dynamic_entity_data_provider.html" title=" " alt="" coords="270,5,450,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,191,182,124,217,88,256,58,278,46,280,51,259,62,221,92,186,127,133,194"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_dynamic_entity_keyword_registry.html" title="Singleton registry for tracking any objects owned defined in entities in a scene." alt="" coords="258,72,462,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,193,198,158,256,124,283,113,285,118,259,129,201,163,150,198"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_dynamic_entity_provider.html" title=" " alt="" coords="275,139,445,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,198,276,179,277,185,206,203"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html" title=" " alt="" coords="275,205,445,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,224,275,224,275,229,225,229"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities_data.html" title=" " alt="" coords="275,272,445,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="206,250,277,269,276,274,205,255"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entity.html" title=" " alt="" coords="275,339,445,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="150,256,201,291,259,324,285,336,283,341,256,329,198,295,147,260"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_simple_dynamic_entity.html" title=" " alt="" coords="275,405,445,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,259,186,326,221,361,259,391,280,403,278,407,256,396,217,365,182,330,129,262"/>
+</map>

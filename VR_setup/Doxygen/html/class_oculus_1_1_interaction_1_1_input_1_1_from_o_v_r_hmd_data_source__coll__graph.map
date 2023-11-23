@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Input.FromOVRHmdDataSource" name="Oculus.Interaction.Input.FromOVRHmdDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="708,107,882,149"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html" title=" " alt="" coords="290,5,491,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,13,595,21,641,30,685,44,735,72,774,104,770,108,732,76,683,49,640,36,595,26,506,18"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="345,56,436,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,73,684,104,708,108,707,113,684,109,451,78"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html" title=" " alt="" coords="296,107,485,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,125,707,125,707,131,501,131"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_hmd_data_asset.html" title=" " alt="" coords="309,173,472,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="486,178,684,147,707,142,708,148,684,152,487,183"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_copy_from.html" title=" " alt="" coords="5,163,202,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="218,181,309,187,309,192,217,186"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_hmd_data_source_config.html" title="A set of constants that are passed to each child of a Hand modifier tree from the root DataSource." alt="" coords="22,224,185,267"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="201,250,338,253,415,250,491,241,546,231,589,218,683,180,753,147,755,152,685,185,590,223,548,236,491,247,415,255,338,259,200,256"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="200,226,308,206,309,212,200,231"/>
+</map>

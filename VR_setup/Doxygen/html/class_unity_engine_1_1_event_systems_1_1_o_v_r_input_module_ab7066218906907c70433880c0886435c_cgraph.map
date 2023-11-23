@@ -1,0 +1,14 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.ProcessMouseEvent" name="UnityEngine.EventSystems.OVRInputModule.ProcessMouseEvent">
+<area shape="rect" id="Node000001" title="Process all mouse events. This is the same as the StandaloneInputModule version except that it takes ..." alt="" coords="5,72,248,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a89c2706d1f38fb877c31112faee008a9" title="Exactly the same as the code from PointerInputModule, except that we call our own IsPointerMoving." alt="" coords="319,5,517,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,69,306,49,307,55,223,74"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a226a34c4464497b02a7ef49491782bfe" title="Process the current mouse press." alt="" coords="296,72,540,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="248,91,280,91,280,96,248,96"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a86ad0ef663162c20f46280e5c22fdb96" title="Decide if mouse events need to be processed this frame. Same as StandloneInputModule except that the ..." alt="" coords="325,139,511,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,113,311,133,310,138,222,118"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a96b195af713535578aa7107a8e0a5527" title="The purpose of this function is to allow us to switch between using the standard IsPointerMoving meth..." alt="" coords="590,105,804,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,46,541,57,636,96,634,101,539,63,503,51"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7eae6d189e9be2631d986c04325d1706" title="New version of ShouldStartDrag implemented first in PointerInputModule. This version differs in that ..." alt="" coords="588,5,806,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="517,24,572,24,572,29,517,29"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="511,146,574,139,575,144,511,152"/>
+</map>

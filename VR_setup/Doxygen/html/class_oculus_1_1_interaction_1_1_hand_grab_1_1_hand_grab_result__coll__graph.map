@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabResult" name="Oculus.Interaction.HandGrab.HandGrabResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,203,271,245"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,150,163,201,158,204,123,153"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html" title="Stores the score of a grab. Score is measured on distance from the desired grab point to an ideal pos..." alt="" coords="222,96,384,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,151,202,204,198,200,264,147"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="276,5,330,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,48,306,95,300,95,300,48"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Meta.WitAi.TTS.Integrations.TTSWit.RequestStreamFromWeb" name="Meta.WitAi.TTS.Integrations.TTSWit.RequestStreamFromWeb">
+<area shape="rect" id="Node000001" title="Method for performing a web load request." alt="" coords="5,39,221,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_wit.html#a3ea5919df2006f1882819e16f64e0e49" title="Cancel web stream." alt="" coords="301,5,490,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,45,285,37,286,42,222,50"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_t_t_s_v_request.html#a6d05167d04286bdc05afa0a60de8cbd9" title="Streams text to speech audio clip." alt="" coords="269,72,522,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,70,254,74,253,79,221,75"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#ad23882db3ac3570a9006be27af98800f" title="Request audio clip with url, type, progress delegate &amp; ready delegate." alt="" coords="570,43,780,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="522,77,554,74,555,79,523,83"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="863,109,1000,136"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="523,98,847,115,847,121,522,103"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html#ae70a36808e77691ec505568b1a9004e0" title="Currently can only decode pcm." alt="" coords="828,43,1035,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="781,61,813,61,813,67,781,67"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="772,83,856,103,854,108,771,89"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html#aa6a8d4cdb80e96bca795d1f4110c3bca" title="Determine decode type based on audio type." alt="" coords="1083,43,1287,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1035,61,1067,61,1067,67,1035,67"/>
+</map>

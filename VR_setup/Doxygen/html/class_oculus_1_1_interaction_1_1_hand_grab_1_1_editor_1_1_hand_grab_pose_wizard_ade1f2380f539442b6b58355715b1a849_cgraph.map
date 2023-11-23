@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.LoadHandGrabInteractable" name="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard.LoadHandGrabInteractable">
+<area shape="rect" id="Node000001" title="Creates a new HandGrabInteractable from the stored data. Mostly used to restore a HandGrabInteractabl..." alt="" coords="5,31,256,89"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_utils.html#ad62f18feed29105ed5af6cfed768b8c4" title="Creates a new HandGrabInteractable under the given object." alt="" coords="304,5,576,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,44,288,40,288,46,256,49"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_utils.html#a9ddde8f044f3890e982557d0e24dc838" title="Populates the HandGrabInteractable with the serialized data version." alt="" coords="344,72,536,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,71,328,79,328,84,256,76"/>
+</map>

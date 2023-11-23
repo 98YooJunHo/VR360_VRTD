@@ -1,0 +1,26 @@
+<map id="Oculus.Interaction.DistanceReticles.DistantInteractionTubeVisual" name="Oculus.Interaction.DistanceReticles.DistantInteractionTubeVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="991,136,1192,195"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_distant_interaction_line_visual.html" title=" " alt="" coords="658,265,841,292"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="806,257,999,193,1001,198,808,262"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="246,203,356,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,223,658,263,658,269,370,228"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_tube_renderer.html" title="Creates and renders a tube mesh from sequence of points." alt="" coords="644,152,855,179"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="371,206,644,175,644,180,371,211"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,64,97,91"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="61,105,77,155,103,216,121,247,142,276,166,301,195,322,234,335,287,340,352,339,422,334,566,313,685,290,686,295,567,318,423,339,352,345,287,346,233,340,192,326,163,305,138,279,116,250,98,218,72,157,56,106"/>
+<area shape="rect" id="Node000009" href="$struct_oculus_1_1_interaction_1_1_tube_renderer_1_1_vertex_layout.html" title=" " alt="" coords="194,56,408,99"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="112,75,193,75,193,80,112,80"/>
+<area shape="rect" id="Node000011" href="$struct_oculus_1_1_interaction_1_1_tube_point.html" title=" " alt="" coords="432,5,620,32"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="107,57,120,53,201,38,284,27,431,17,432,23,284,32,202,43,121,59,109,62"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_distance_reticles_1_1_i_reticle_data.html" title=" " alt="" coords="210,253,392,296"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,274,432,275,658,276,658,281,432,280,407,280"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_distant_interaction_line_visual_1_1_dummy_point_reticle.html" title=" " alt="" coords="202,384,400,443"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,409,516,397,569,385,619,368,653,351,685,330,733,290,736,294,688,334,656,356,621,373,570,390,517,402,415,414"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_distance_reticles_1_1_i_reticle_data.html" title=" " alt="" coords="5,400,97,427"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="112,411,202,411,202,416,112,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="870,163,990,163,990,168,870,168"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="424,62,521,64,572,70,621,81,655,95,686,113,734,149,731,154,683,118,653,100,620,87,571,75,521,69,424,67"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="274,152,328,179"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="343,163,644,163,644,168,343,168"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="597,34,621,40,991,137,989,142,620,45,595,39"/>
+</map>

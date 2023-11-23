@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.RayInteractorDebugGizmos" name="Oculus.Interaction.RayInteractorDebugGizmos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="929,97,1136,140"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="639,80,749,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,96,928,108,928,114,764,101"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_ray_interactor.html" title=" " alt="" coords="590,131,798,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="813,134,904,128,928,126,929,131,905,133,813,140"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="184,5,396,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,27,492,44,532,59,568,79,577,89,581,99,584,108,592,117,613,128,610,132,589,121,580,111,576,101,572,92,565,83,529,64,491,49,411,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="245,72,336,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="352,90,567,120,613,127,612,133,566,125,351,96"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_ray_interactor_1_1_ray_candidate_properties.html" title=" " alt="" coords="185,123,396,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="412,141,590,141,590,147,412,147"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_candidate_position.html" title=" " alt="" coords="5,131,135,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="150,141,184,141,184,147,150,147"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="194,189,386,216"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="401,186,566,163,612,155,613,161,567,168,401,191"/>
+<area shape="rect" id="Node000009" href="$struct_oculus_1_1_interaction_1_1_surfaces_1_1_surface_hit.html" title=" " alt="" coords="198,240,383,283"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="398,244,481,228,565,204,621,180,668,156,671,160,624,185,567,209,482,233,399,249"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;">
+<area shape="rect" id="Node000001" title="Interactor provides a base template for any kind of interaction. Interactions can be wholly defined b..." alt="" coords="633,160,821,203"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="271,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,12,445,14,500,20,557,33,610,54,644,76,673,104,715,158,711,161,669,108,641,80,608,58,555,38,499,25,445,19,396,18"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="286,56,365,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="380,61,430,58,488,60,550,67,610,84,640,99,667,118,709,158,705,161,663,122,637,104,608,89,549,73,488,65,430,63,380,66"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,31,112,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,48,286,63,285,68,127,53"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="10,81,107,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="122,86,285,70,286,76,123,91"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="280,109,371,136"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="387,129,609,161,633,165,632,170,609,167,386,134"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="241,160,410,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="425,179,633,179,633,184,425,184"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_i_selector.html" title="ISelector defines an input abstraction that can broadcast select and release events." alt="" coords="235,227,416,253"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="431,225,609,200,632,196,633,201,609,205,432,230"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_multi_action.html" title=" " alt="" coords="246,301,405,344"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="420,327,465,325,513,320,562,310,608,294,639,274,667,250,709,201,713,205,671,254,643,279,610,298,563,315,514,326,465,331,420,332"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_unique_identifier.html" title=" " alt="" coords="240,368,411,411"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="426,392,471,390,518,382,565,369,608,348,646,316,677,276,700,235,715,202,720,204,705,238,682,279,650,320,610,353,566,374,519,387,471,395,426,398"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="32,376,85,403"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="101,387,240,387,240,392,101,392"/>
+</map>

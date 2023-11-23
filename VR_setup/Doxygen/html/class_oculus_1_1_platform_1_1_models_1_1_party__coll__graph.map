@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.Models.Party" name="Oculus.Platform.Models.Party">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,236,323,263"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_user_list.html" title=" " alt="" coords="5,97,218,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,139,131,175,153,210,169,223,187,233,184,238,166,228,149,214,126,177,114,140"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html" title=" " alt="" coords="50,5,173,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,64,114,97,109,97,109,64"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_models_1_1_user.html" title=" " alt="" coords="241,97,433,124"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="327,139,305,176,276,214,247,238,244,233,272,210,301,173,322,136"/>
+</map>

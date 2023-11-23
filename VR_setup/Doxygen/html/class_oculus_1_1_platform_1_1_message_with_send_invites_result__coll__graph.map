@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.MessageWithSendInvitesResult" name="Oculus.Platform.MessageWithSendInvitesResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,172,205,215"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message.html" title=" " alt="" coords="5,96,207,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,138,109,172,103,172,103,138"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_error.html" title=" " alt="" coords="10,5,202,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,48,109,95,103,95,103,48"/>
+</map>

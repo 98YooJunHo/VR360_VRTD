@@ -1,0 +1,15 @@
+<map id="Meta.WitAi.Interfaces.CustomTranscriptionProvider" name="Meta.WitAi.Interfaces.CustomTranscriptionProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="594,77,790,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="253,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,27,571,63,616,74,615,79,570,68,377,32"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_provider.html" title=" " alt="" coords="236,56,380,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,72,571,85,594,87,594,93,570,91,395,78"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_transcription_event.html" title=" " alt="" coords="194,107,421,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="437,129,503,128,570,123,601,118,602,123,571,128,503,133,437,135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,115,145,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="160,125,193,125,193,131,160,131"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_mic_level_changed_event.html" title=" " alt="" coords="221,173,395,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="410,183,489,170,570,151,611,136,649,118,651,123,613,141,571,156,490,175,410,188"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="9,181,141,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="156,192,220,192,220,197,156,197"/>
+</map>

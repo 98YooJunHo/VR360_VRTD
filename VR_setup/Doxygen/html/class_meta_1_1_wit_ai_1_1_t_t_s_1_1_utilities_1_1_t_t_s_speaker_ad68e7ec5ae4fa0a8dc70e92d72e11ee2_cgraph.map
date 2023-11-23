@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop">
+<area shape="rect" id="Node000001" title="Stop load &amp; playback of a specific clip." alt="" coords="5,39,170,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#af38c57c440e656c923bbfc22e5783a4f" title="Stops loading &amp; playback immediately." alt="" coords="218,39,382,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,57,202,57,202,63,170,63"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#afa2a4d200937b9324bbcb3fc09e5bab5" title="Abort loading of all items in the load queue." alt="" coords="435,5,603,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,45,419,39,419,44,383,50"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a71f1d77995d6daafa0e6ecf4a368da98" title="Stop playback of currently played audio clip." alt="" coords="430,72,607,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,70,415,75,414,80,382,75"/>
+</map>

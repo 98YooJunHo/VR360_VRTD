@@ -1,0 +1,28 @@
+<map id="OculusSampleFramework.OVROverlaySample" name="OculusSampleFramework.OVROverlaySample">
+<area shape="rect" id="Node000001" title="Usage: demonstrate how to use overlay layers for a paneled UI system On Mobile, we support both Cylin..." alt="" coords="648,832,893,875"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="852,331,961,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="916,372,930,454,936,509,938,570,934,633,922,696,900,756,867,810,853,823,837,834,834,829,850,819,863,806,896,753,917,694,928,632,932,570,931,510,925,455,910,373"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_overlay.html" title="Add OVROverlay script to an object with an optional mesh primitive rendered as a TimeWarp overlay ins..." alt="" coords="556,683,648,709"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="913,373,917,434,912,512,903,552,888,590,866,623,836,650,789,673,740,687,691,695,649,698,649,693,691,690,738,682,788,668,833,646,862,620,883,588,898,551,906,511,912,434,908,373"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_manager.html" title="Configuration data for Oculus virtual reality." alt="" coords="259,555,359,581"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="893,372,868,404,834,434,796,454,742,473,610,510,471,540,359,561,358,555,470,535,609,504,741,468,793,449,831,430,864,401,889,369"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="629,718,750,829,746,833,625,722"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="666,686,675,696,667,706,649,709,648,704,664,701,670,696,662,690"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_plugin.html" title=" " alt="" coords="61,331,146,357"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="108,373,118,508,127,573,138,606,167,626,211,643,266,657,327,668,453,683,556,690,555,695,453,688,327,674,265,663,209,649,164,631,133,610,122,574,113,508,102,373"/>
+<area shape="poly" id="edge14_Node000008_Node000004" title=" " alt="" coords="119,370,157,434,183,470,212,502,246,526,289,552,286,556,243,530,209,506,178,473,152,437,114,373"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="77,5,130,32"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="93,47,60,126,41,180,25,241,13,305,8,372,13,439,29,503,52,556,80,594,118,622,171,645,247,663,353,676,556,690,555,695,352,681,246,668,169,651,115,626,76,598,48,559,24,505,7,440,3,372,8,305,20,239,36,179,55,124,88,45"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="106,48,106,330,101,330,101,48"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="146,21,208,32,275,54,364,92,433,128,463,150,491,177,518,211,545,255,564,308,576,382,578,454,572,484,562,506,548,517,528,527,475,544,415,556,359,564,358,559,414,551,474,539,526,523,545,513,557,502,567,482,572,453,571,382,559,310,540,257,513,214,487,180,460,154,431,133,362,97,273,58,207,37,145,26"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="589,555,655,581"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="615,597,606,632,604,682,599,682,601,632,610,595"/>
+<area shape="rect" id="Node000007" href="$struct_o_v_r_overlay_1_1_layer_texture.html" title=" " alt="" coords="679,555,851,581"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="763,598,754,625,738,650,718,665,695,677,650,691,648,686,693,672,715,661,734,646,750,622,758,596"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="338,589,379,618,428,646,494,669,556,684,555,689,492,674,425,650,376,623,334,593"/>
+<area shape="poly" id="edge15_Node000008_Node000008" title=" " alt="" coords="375,555,382,560,385,568,377,580,360,584,359,579,374,575,380,568,378,564,372,560"/>
+<area shape="rect" id="Node000009" href="$interface_o_v_r_mixed_reality_capture_configuration.html" title=" " alt="" coords="171,331,415,357"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="298,372,311,554,305,554,292,373"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="439,331,531,357"/>
+<area shape="poly" id="edge16_Node000008_Node000010" title=" " alt="" coords="476,373,457,405,429,434,408,444,389,446,372,448,354,458,337,481,324,507,313,555,308,553,319,506,332,478,351,454,370,443,389,440,407,439,426,430,452,402,471,370"/>
+</map>

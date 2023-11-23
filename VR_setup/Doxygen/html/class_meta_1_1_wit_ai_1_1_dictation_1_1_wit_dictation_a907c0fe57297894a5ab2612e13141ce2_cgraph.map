@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Dictation.WitDictation.Deactivate" name="Meta.WitAi.Dictation.WitDictation.Deactivate">
+<area shape="rect" id="Node000001" title="Deactivates. If a transcription is in progress the network request will complete and any additional t..." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a4a60481bea2211dce5e1c336646f4ba1" title="Stop listening and submit the collected microphone data to wit for processing." alt="" coords="219,13,435,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Samples.PoseUseSample" name="Oculus.Interaction.Samples.PoseUseSample">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,203,273,245"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,47,70,91,77,115,88,137,116,173,150,200,146,204,113,177,83,140,72,117,65,93,58,48"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_active_state_selector.html" title=" " alt="" coords="97,96,263,139"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="89,40,156,93,153,97,85,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="252,5,343,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,48,295,93,288,117,277,140,247,176,213,204,210,200,243,172,272,137,283,115,290,92,295,47"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="248,41,221,58,205,77,192,97,188,94,200,73,218,54,245,37"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,154,183,202,177,202,177,154"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_selector.html" title="ISelector defines an input abstraction that can broadcast select and release events." alt="" coords="139,5,211,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="179,48,182,95,176,96,174,48"/>
+</map>

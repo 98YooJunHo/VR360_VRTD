@@ -1,0 +1,5 @@
+<map id="OVRPlatformMenu.Update" name="OVRPlatformMenu.Update">
+<area shape="rect" id="Node000001" title="Tests for long&#45;press and activates global platform menu when detected. as per the Unity integration d..." alt="" coords="5,13,180,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_platform_menu.html#a3e1072c2d679160d6e7b1066144ffb26" title="Show the confirm quit menu." alt="" coords="228,5,437,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,24,212,24,212,29,180,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OVRUnityHumanoidSkeletonRetargeter.OVRHumanBodyBonesMappings" name="OVRUnityHumanoidSkeletonRetargeter.OVRHumanBodyBonesMappings">
+<area shape="rect" id="Node000001" title="This class contains mappings between Unity Humanoid Rig bones and Oculus Body Tracking bones." alt="" coords="5,144,227,203"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="89,5,143,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,48,119,143,113,143,113,48"/>
+</map>

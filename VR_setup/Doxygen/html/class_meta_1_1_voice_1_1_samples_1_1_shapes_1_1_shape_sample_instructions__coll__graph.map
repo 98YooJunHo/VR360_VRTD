@@ -1,0 +1,9 @@
+<map id="Meta.Voice.Samples.Shapes.ShapeSampleInstructions" name="Meta.Voice.Samples.Shapes.ShapeSampleInstructions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,96,263,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,144,93,141,97,83,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,192,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,48,168,95,163,95,163,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="216,5,262,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,47,209,74,188,97,184,94,205,70,222,44"/>
+</map>

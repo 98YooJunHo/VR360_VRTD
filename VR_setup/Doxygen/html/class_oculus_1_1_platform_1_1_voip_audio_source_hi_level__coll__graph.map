@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.VoipAudioSourceHiLevel" name="Oculus.Platform.VoipAudioSourceHiLevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,112,337,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,38,215,109,212,114,93,43"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_platform_1_1_i_voip_p_c_m_source.html" title=" " alt="" coords="139,5,357,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,47,251,112,245,112,245,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="381,5,435,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,44,326,90,288,114,285,109,322,86,381,40"/>
+</map>

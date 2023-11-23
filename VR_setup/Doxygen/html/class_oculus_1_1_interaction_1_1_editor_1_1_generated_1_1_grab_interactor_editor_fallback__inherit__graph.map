@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.Generated.GrabInteractorEditorFallback" name="Oculus.Interaction.Editor.Generated.GrabInteractorEditorFallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,207,213"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_simplified_editor.html" title=" " alt="" coords="50,80,162,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,123,109,154,103,154,103,123"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,170,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Surfaces.CylinderSurface.Raycast" name="Oculus.Interaction.Surfaces.CylinderSurface.Raycast">
+<area shape="rect" id="Node000001" title="Raycast to the surface with an optional maximum distance value." alt="" coords="5,39,191,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_cylinder_surface.html#abe971bba9483de2eb3b9de6e704fc598" title="Cancel the Y component of a vector." alt="" coords="249,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,45,234,39,234,44,192,50"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_cylinder_surface.html#a8929f94a5106c8653808b1710958f371" title="Local to world transformation of a float, assuming uniform scale." alt="" coords="239,72,445,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,70,223,74,223,80,191,75"/>
+</map>

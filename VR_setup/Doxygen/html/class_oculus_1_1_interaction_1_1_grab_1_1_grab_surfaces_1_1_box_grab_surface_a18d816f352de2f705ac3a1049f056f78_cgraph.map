@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.GetReferencePose" name="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.GetReferencePose">
+<area shape="rect" id="Node000001" title="The origin pose of the surface. This is the point from which the base of the box must start." alt="" coords="5,5,209,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="257,13,447,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,241,32,241,37,209,37"/>
+</map>

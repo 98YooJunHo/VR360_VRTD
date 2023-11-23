@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.CalculateBestPoseAtSurface" name="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.CalculateBestPoseAtSurface">
+<area shape="rect" id="Node000001" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="5,5,209,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_helper.html#a17de9e20a7ed2481a142d8bb8caea2ab" title="Finds the best pose comparing the one that requires the minimum rotation and minimum translation." alt="" coords="257,5,458,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,241,32,241,37,209,37"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_helper.html#a067fe226fe1f51bd0c11dc6b2f372c1e" title="Compares two poses to a reference and returns the most similar one." alt="" coords="506,13,720,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,32,490,32,490,37,458,37"/>
+<area shape="rect" id="Node000004" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html#a3eb2f9154d72ba305dacb446ff4cf61d" title="Calculates if the GrabPoseScore is better than other GrabPoseScore by comparing the Translational and..." alt="" coords="768,13,959,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="721,32,753,32,753,37,721,37"/>
+</map>

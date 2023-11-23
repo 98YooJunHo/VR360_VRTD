@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Surfaces.ClippedCylinderSurface" name="Oculus.Interaction.Surfaces.ClippedCylinderSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="779,48,964,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,3,140,3,313,6,448,12,583,23,755,45,779,49,778,54,754,51,582,29,448,17,313,12,140,8,130,8"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_cylinder_surface.html" title=" " alt="" coords="445,48,631,91"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="131,20,266,29,422,45,445,49,444,54,421,51,265,34,130,25"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_cylinder.html" title=" " alt="" coords="164,56,341,83"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="129,34,200,53,198,58,128,39"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_clipped_surface.html" title=" " alt="" coords="451,115,625,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="639,113,778,85,779,90,640,118"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="646,67,778,67,778,72,646,72"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html" title=" " alt="" coords="219,107,287,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="302,109,444,83,445,88,303,114"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_bounds.html" title=" " alt="" coords="219,157,287,184"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="301,155,340,143,393,122,444,100,475,89,477,94,446,105,395,127,342,148,303,160"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="357,67,445,67,445,72,357,72"/>
+</map>

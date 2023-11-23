@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.ValidatePartialIntent" name="Meta.WitAi.ValidatePartialIntent">
+<area shape="rect" id="Node000001" title="Triggers a method to be executed if it matches a voice command&#39;s intent." alt="" coords="5,155,180,197"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_conduit_1_1_conduit_action_attribute.html" title="Marks the method as a callback for voice commands. The method will be mapped to an intent and invoked..." alt="" coords="17,80,168,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,122,95,154,90,154,90,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,5,128,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,48,95,80,90,80,90,48"/>
+</map>

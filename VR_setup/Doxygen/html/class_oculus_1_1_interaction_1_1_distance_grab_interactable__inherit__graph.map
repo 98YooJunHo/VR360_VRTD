@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.DistanceGrabInteractable" name="Oculus.Interaction.DistanceGrabInteractable">
+<area shape="rect" id="Node000001" title="This interactable is used for grabbing items at a distance. Upon selection the Movement Provider spec..." alt="" coords="237,105,418,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="5,5,189,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,68,273,102,271,107,185,73"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_rigidbody_ref.html" title=" " alt="" coords="47,88,147,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,106,237,114,236,119,163,111"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_relative_to_ref.html" title=" " alt="" coords="46,139,148,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,142,236,134,237,139,164,147"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_colliders_ref.html" title=" " alt="" coords="50,189,144,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="158,184,188,175,269,146,270,151,190,180,159,189"/>
+</map>

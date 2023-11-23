@@ -1,0 +1,7 @@
+<map id="OVRSpatialAnchor.EraseOptions" name="OVRSpatialAnchor.EraseOptions">
+<area shape="rect" id="Node000001" title="Represents options for erasing OVRSpatialAnchor." alt="" coords="5,172,219,199"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="69,81,155,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,124,115,171,109,171,109,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="26,5,198,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,47,115,81,109,81,109,47"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="Meta.WitAi.Events.SpeechEvents" name="Meta.WitAi.Events.SpeechEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="695,283,873,325"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_events_1_1_event_registry.html" title=" " alt="" coords="338,5,439,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,17,506,23,564,35,621,56,673,87,696,109,716,134,747,188,768,240,780,282,775,283,763,242,742,190,711,137,692,112,670,91,619,60,562,40,506,28,454,23"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_speech_events.html" title=" " alt="" coords="335,56,442,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,68,509,74,565,85,621,104,673,132,710,167,740,208,762,248,777,281,772,284,758,251,736,211,706,170,670,137,619,109,563,91,508,79,458,74"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_event.html" title=" " alt="" coords="324,107,454,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="470,120,518,125,570,135,623,151,673,174,705,198,733,226,772,281,768,284,729,230,702,202,670,178,621,156,569,140,517,130,469,125"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_events.html" title=" " alt="" coords="327,157,451,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="467,168,567,179,621,191,672,210,700,225,725,243,765,280,761,284,722,247,697,229,670,214,619,196,566,184,466,174"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_request_options_event.html" title=" " alt="" coords="288,208,489,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="505,229,588,236,672,252,709,265,743,280,741,285,707,269,671,257,587,241,504,234"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,216,226,243"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="241,227,288,227,288,232,241,232"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_events_1_1_voice_service_request_event.html" title=" " alt="" coords="285,275,493,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="509,299,526,300,695,302,695,307,526,305,508,305"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="30,275,201,317"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="216,293,284,293,284,299,216,299"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_request_created_event.html" title=" " alt="" coords="288,341,489,384"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="504,347,671,324,695,320,696,325,672,329,505,353"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="28,349,203,376"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="219,360,287,360,287,365,219,365"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_transcription_event.html" title=" " alt="" coords="275,408,502,451"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="518,429,595,420,633,411,670,398,698,382,723,363,763,324,767,328,727,367,701,387,672,402,635,416,596,425,518,435"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="46,416,185,443"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="201,427,274,427,274,432,201,432"/>
+<area shape="rect" id="Node000014" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_response_event.html" title=" " alt="" coords="283,475,494,517"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="510,504,550,502,592,496,632,485,670,467,707,436,737,397,758,358,773,325,778,327,763,360,741,400,711,440,673,472,634,490,593,501,551,507,510,510"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="8,483,223,509"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="239,493,283,493,283,499,239,499"/>
+<area shape="rect" id="Node000016" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_error_event.html" title="An error event with two parameters." alt="" coords="298,541,479,584"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="495,570,539,568,585,561,629,548,670,526,694,505,714,480,745,425,765,369,776,325,781,327,771,371,750,427,719,484,698,509,673,530,631,553,586,566,540,573,495,575"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="50,541,181,584"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="197,560,298,560,298,565,197,565"/>
+<area shape="rect" id="Node000018" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_mic_level_changed_event.html" title=" " alt="" coords="302,608,476,651"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="491,638,537,636,584,629,629,615,670,591,699,563,722,529,741,492,755,454,772,381,779,325,784,326,777,382,760,455,746,494,727,532,703,566,673,595,631,620,585,635,537,642,492,643"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="50,616,181,643"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="197,627,301,627,301,632,197,632"/>
+</map>

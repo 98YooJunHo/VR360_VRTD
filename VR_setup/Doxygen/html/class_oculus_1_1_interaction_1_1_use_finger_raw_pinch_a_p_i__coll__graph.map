@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.UseFingerRawPinchAPI" name="Oculus.Interaction.UseFingerRawPinchAPI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,96,345,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,37,211,93,208,98,97,42"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_finger_use_a_p_i.html" title=" " alt="" coords="139,5,243,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,44,240,94,236,97,204,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="266,5,358,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,47,266,97,262,94,293,44"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_finger_a_p_i.html" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="382,5,573,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="435,41,300,98,298,93,433,36"/>
+</map>

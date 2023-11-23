@@ -1,0 +1,14 @@
+<map id="Meta.Voice.TranscriptionRequest.OnAudioActivation" name="Meta.Voice.TranscriptionRequest.OnAudioActivation">
+<area shape="rect" id="Node000001" title="Called when audio activation begins." alt="" coords="5,93,185,136"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="50,93,48,83,56,74,72,69,95,67,120,69,135,75,133,80,119,74,95,72,73,74,59,79,54,85,55,92"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request.html#acaf3c35e4a1637757a0c0097b6c75caa" title="Internal method for." alt="" coords="233,72,430,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,101,217,97,218,102,185,106"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_voice_request.html#a743debef6f9a70906913ef2a44fbdddb" title="Raises a voice request event." alt="" coords="243,123,420,165"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="185,123,228,129,228,134,184,128"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_voice_request.html#af8ad615a07dd434a5174a427907d274f" title="Append request specific data to log." alt="" coords="478,5,654,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,69,463,50,464,55,388,74"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="500,72,633,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="430,83,484,83,484,88,430,88"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="498,123,635,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,97,487,116,486,121,396,102"/>
+</map>

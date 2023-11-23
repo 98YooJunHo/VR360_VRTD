@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.FeatureStateProvider&lt; TFeature, TFeatureState &gt;" name="Oculus.Interaction.PoseDetection.FeatureStateProvider&lt; TFeature, TFeatureState &gt;">
+<area shape="rect" id="Node000001" title="A helper class that keeps track of the current state of features, quantized into corresponding Featur..." alt="" coords="444,39,663,97"/>
+<area shape="rect" id="Node000002" href="$struct_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_state_provider_1_1_feature_state_snapshot.html" title=" " alt="" coords="5,5,259,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,43,443,57,443,62,274,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,88,159,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,95,419,76,443,74,444,79,420,81,174,101"/>
+</map>

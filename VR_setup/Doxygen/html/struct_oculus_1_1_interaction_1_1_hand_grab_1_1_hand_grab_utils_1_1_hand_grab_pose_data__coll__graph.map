@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabUtils.HandGrabPoseData" name="Oculus.Interaction.HandGrab.HandGrabUtils.HandGrabPoseData">
+<area shape="rect" id="Node000001" title="Serializable data&#45;only version of the HandGrabPose so it can be stored when they are generated at Pla..." alt="" coords="5,112,230,155"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="21,5,214,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,64,120,111,115,111,115,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.VoiceServiceRequestEventsWrapper" name="Meta.WitAi.Requests.VoiceServiceRequestEventsWrapper">
+<area shape="rect" id="Node000001" title="A base class to provide quick overridable methods that map to events from VoiceServiceRequestEvents." alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_event_to_request_event_mapper.html" title="A Facade to easily map events from a VoiceServiceRequestEvents event object to a VoiceEvents object&#39;s..." alt="" coords="10,96,200,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,64,108,96,102,96,102,64"/>
+</map>

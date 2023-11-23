@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_meta_1_1_voice_1_1_telemetry_utilities_1_1_telemetry_1_1_telemetry_channel.html" title="The telemetry channel represents a target for telemetry. The default implementation sends live teleme..." alt="" coords="5,5,201,48"/>
+<area shape="rect" id="Node000001" href="$class_meta_1_1_voice_1_1_telemetry_utilities_1_1_telemetry_1_1_local_telemetry.html" title="This instance will be used when we don&#39;t have consent to collect telemetry." alt="" coords="249,5,444,48"/>
+<area shape="poly" id="edge1084_Node000000_Node000001" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.Interfaces.ITranscriptionEvent" name="Meta.WitAi.Interfaces.ITranscriptionEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,233,111"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_events_1_1_speech_events.html" title=" " alt="" coords="307,35,485,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,71,306,64,307,69,248,76"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_events_1_1_unity_event_listeners_1_1_transcription_event_listener.html" title=" " alt="" coords="281,101,511,144"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="248,102,280,106,280,111,248,108"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_events_1_1_dictation_events.html" title=" " alt="" coords="568,5,756,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,42,567,34,567,40,500,47"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_events_1_1_voice_events.html" title=" " alt="" coords="559,72,764,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="501,65,559,71,558,77,500,70"/>
+</map>

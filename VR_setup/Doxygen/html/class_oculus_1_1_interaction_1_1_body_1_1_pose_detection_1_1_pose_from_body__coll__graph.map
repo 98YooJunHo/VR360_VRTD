@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Body.PoseDetection.PoseFromBody" name="Oculus.Interaction.Body.PoseDetection.PoseFromBody">
+<area shape="rect" id="Node000001" title="Exposes an IBodyPose from an IBody" alt="" coords="137,112,338,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,46,204,109,201,114,93,51"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_i_body_pose.html" title=" " alt="" coords="139,13,224,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,52,229,110,224,113,193,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="248,13,339,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,55,251,113,246,110,277,52"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_body.html" title=" " alt="" coords="363,5,528,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="392,58,280,114,277,109,390,53"/>
+</map>

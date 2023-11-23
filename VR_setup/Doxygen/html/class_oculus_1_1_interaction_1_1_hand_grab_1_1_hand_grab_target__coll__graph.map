@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabTarget" name="Oculus.Interaction.HandGrab.HandGrabTarget">
+<area shape="rect" id="Node000001" title="All the relevant data needed for a snapping position. This includes the Interactor and the surface (i..." alt="" coords="79,309,271,352"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_result.html" title=" " alt="" coords="79,203,271,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,261,178,309,172,309,172,261"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,150,163,201,158,204,123,153"/>
+<area shape="rect" id="Node000004" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html" title="Stores the score of a grab. Score is measured on distance from the desired grab point to an ideal pos..." alt="" coords="222,96,384,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="267,151,202,204,198,200,264,147"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="276,5,330,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,48,306,95,300,95,300,48"/>
+</map>

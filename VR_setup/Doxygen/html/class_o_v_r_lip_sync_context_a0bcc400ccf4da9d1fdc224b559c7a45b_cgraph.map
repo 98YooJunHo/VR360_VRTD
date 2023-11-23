@@ -1,0 +1,17 @@
+<map id="OVRLipSyncContext.OnAudioFilterRead" name="OVRLipSyncContext.OnAudioFilterRead">
+<area shape="rect" id="Node000001" title="Raises the audio filter read event." alt="" coords="5,63,201,105"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context.html#a13e57e8b57d2b293c03ca451a027499a" title="Process F32 audio sample and pass it to the lip sync module for computation." alt="" coords="249,63,442,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,81,233,81,233,87,201,87"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="990,120,1154,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,60,431,35,489,15,567,4,646,5,724,14,800,30,871,49,934,71,1030,111,1028,116,932,76,869,54,799,35,724,19,646,10,567,10,491,20,433,39,383,64"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_context.html#a61b1ef9b53901bfcabd6feb89d7fcf9b" title="Postprocess F32 PCM audio buffer." alt="" coords="490,29,708,72"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="442,69,474,64,475,70,443,74"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_context.html#ad9778de9d878d298a3bb30dbb3eadac3" title="Preprocess F32 PCM audio buffer." alt="" coords="494,96,705,139"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,94,478,99,478,104,442,99"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_context.html#a99394e6ca2f2e49881dc3720d4e9677b" title="Pass F32 PCM audio buffer to the lip sync module." alt="" coords="503,163,696,205"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="391,104,491,148,509,155,507,160,489,153,389,108"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="696,165,756,156,974,136,975,142,757,161,697,170"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_lip_sync.html#a5de8606b28e6b130cd7cbef58315fff9" title="Process float[] audio buffer by lip&#45;sync engine." alt="" coords="756,171,942,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="696,181,741,181,741,187,696,187"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="910,167,995,148,996,153,912,173"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Meta.Voice.INLPTextRequestResults" name="Meta.Voice.INLPTextRequestResults">
+<area shape="rect" id="Node000001" title="Interface for text language processing request results." alt="" coords="5,155,198,197"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_results.html" title="Interface for NLP request results." alt="" coords="31,80,172,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,122,104,154,99,154,99,122"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request_results.html" title="The base interface for all request results." alt="" coords="27,5,176,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,48,104,80,99,80,99,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.DecodeResponse" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.DecodeResponse">
+<area shape="rect" id="Node000001" title="Decode a response node into text to be spoken or a specific voice setting Example Data: { &quot;q&quot;: &quot;Text ..." alt="" coords="5,5,204,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_wit_voice_settings.html#abf395ea5174a610d80ace9933c79ee26" title="Checks if request can be decoded for TTS data Example Data: { &quot;q&quot;: &quot;Text to be spoken&quot; &quot;voice&quot;: &quot;Char..." alt="" coords="252,5,468,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
+</map>

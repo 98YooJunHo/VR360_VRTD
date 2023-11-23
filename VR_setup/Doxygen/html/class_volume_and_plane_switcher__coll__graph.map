@@ -1,0 +1,13 @@
+<map id="VolumeAndPlaneSwitcher" name="VolumeAndPlaneSwitcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,491,177,517"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,275,123,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,316,92,490,87,490,69,316"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_scene_anchor.html" title="Represents a scene anchor." alt="" coords="107,384,235,411"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,311,161,382,157,385,89,315"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,424,103,492,98,489,150,421"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,5,219,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="193,48,174,384,169,383,188,47"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_plugin.html" title=" " alt="" coords="390,275,475,301"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="216,42,423,273,419,276,212,46"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="396,311,372,322,284,358,208,386,207,381,282,353,370,318,394,306"/>
+</map>

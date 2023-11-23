@@ -1,0 +1,10 @@
+<map id="OVRSceneAnchor" name="OVRSceneAnchor">
+<area shape="rect" id="Node000001" title="Represents a scene anchor." alt="" coords="99,384,226,411"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,275,115,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,311,152,382,149,385,81,315"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="212,5,265,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,48,204,140,177,256,168,328,166,384,160,383,163,328,172,256,199,138,227,46"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_plugin.html" title=" " alt="" coords="381,275,467,301"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="258,43,418,273,413,276,254,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="388,311,364,322,276,358,200,386,198,381,274,353,362,318,386,306"/>
+</map>

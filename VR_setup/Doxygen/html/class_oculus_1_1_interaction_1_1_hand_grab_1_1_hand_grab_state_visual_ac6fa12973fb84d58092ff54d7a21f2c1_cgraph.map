@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabStateVisual.UpdateFingers" name="Oculus.Interaction.HandGrab.HandGrabStateVisual.UpdateFingers">
+<area shape="rect" id="Node000001" title="Writes the desired rotation values for each joint based on the provided HandGrabState...." alt="" coords="5,39,240,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a3de8dacacc3cf44f29b76a1c0ca50a80" title="Stores the rotation data for all joints in the hand, to be applied during the ApplyHand event." alt="" coords="293,5,500,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,43,277,38,278,44,240,48"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a10cf1687329d30906d38fec86de654de" title="To use in conjunction with OverrideAllJoints, it sets the freedom state for a provided finger...." alt="" coords="288,72,505,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,72,273,76,272,81,240,77"/>
+</map>

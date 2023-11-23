@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Input.OVRNearTouch" name="Oculus.Interaction.Input.OVRNearTouch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,427,251,469"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,115,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,356,151,424,147,428,81,360"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_button.html" title=" " alt="" coords="138,320,201,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,362,172,426,167,426,167,362"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="224,320,301,347"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,360,188,428,184,425,241,357"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="236,5,289,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,48,265,320,260,320,260,48"/>
+</map>

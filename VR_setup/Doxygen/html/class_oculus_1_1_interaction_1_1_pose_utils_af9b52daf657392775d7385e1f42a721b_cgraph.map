@@ -1,0 +1,6 @@
+<map id="Oculus.Interaction.PoseUtils.Delta" name="Oculus.Interaction.PoseUtils.Delta">
+<area shape="rect" id="Node000001" title="Get the position/rotation difference between a transform and a pose. Unaffected by scale." alt="" coords="5,29,196,72"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adfdb18e6037038e1568c3a6a9fde175b" title="Get the position/rotation difference between two transforms. Unaffected by scale." alt="" coords="244,29,434,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,48,228,48,228,53,196,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,29,292,19,299,10,315,5,339,3,364,5,380,11,378,16,363,10,339,8,316,10,302,15,297,21,299,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OVRScreenFade.SetUIFade" name="OVRScreenFade.SetUIFade">
+<area shape="rect" id="Node000001" title="Set the UI fade level &#45; fade due to UI in foreground." alt="" coords="5,13,190,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_screen_fade.html#aba3ab4b582116174b13c2bce0b5efeb3" title="Update material alpha. UI fade and the current fade due to fade in/out animations (or explicit contro..." alt="" coords="238,5,427,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

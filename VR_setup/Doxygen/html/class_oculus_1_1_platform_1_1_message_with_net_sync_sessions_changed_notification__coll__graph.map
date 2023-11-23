@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.MessageWithNetSyncSessionsChangedNotification" name="Oculus.Platform.MessageWithNetSyncSessionsChangedNotification">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,246,231"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message.html" title=" " alt="" coords="30,96,221,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,154,128,188,123,188,123,154"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_error.html" title=" " alt="" coords="29,5,222,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,48,128,95,123,95,123,48"/>
+</map>

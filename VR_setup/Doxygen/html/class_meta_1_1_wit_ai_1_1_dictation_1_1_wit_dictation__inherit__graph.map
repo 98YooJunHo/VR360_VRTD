@@ -1,0 +1,23 @@
+<map id="Meta.WitAi.Dictation.WitDictation" name="Meta.WitAi.Dictation.WitDictation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="666,175,832,217"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html" title=" " alt="" coords="474,81,588,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,111,619,118,672,144,717,172,714,177,669,149,617,122,601,116"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="253,5,363,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,34,397,41,496,78,495,83,395,47,373,39"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_dictation_1_1_i_dictation_service.html" title=" " alt="" coords="249,56,367,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,75,474,86,473,91,382,80"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_i_telemetry_events_provider.html" title=" " alt="" coords="5,56,172,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,67,249,67,249,72,187,72"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_event_provider.html" title=" " alt="" coords="240,107,376,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="391,108,473,98,474,104,391,113"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_event_provider.html" title=" " alt="" coords="220,157,396,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="376,150,395,143,443,118,476,106,477,111,445,122,397,148,378,155"/>
+<area shape="rect" id="Node000008" href="$interface_meta_1_1_wit_ai_1_1_i_wit_runtime_config_provider.html" title=" " alt="" coords="444,132,618,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="607,160,667,174,665,179,606,165"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_wit_ai_1_1_i_voice_event_provider.html" title=" " alt="" coords="464,183,599,209"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="615,193,666,193,666,199,615,199"/>
+<area shape="rect" id="Node000010" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_wit_request_provider.html" title=" " alt="" coords="462,233,600,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="606,227,665,213,667,218,607,232"/>
+<area shape="rect" id="Node000011" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_wit_configuration_provider.html" title=" " alt="" coords="449,284,614,311"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="601,276,617,270,669,243,714,215,717,220,672,248,619,274,603,281"/>
+</map>

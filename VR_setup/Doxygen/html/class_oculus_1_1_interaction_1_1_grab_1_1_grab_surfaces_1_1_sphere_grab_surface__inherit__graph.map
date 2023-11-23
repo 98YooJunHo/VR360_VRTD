@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface" name="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface">
+<area shape="rect" id="Node000001" title="Specifies an entire sphere around an object in which the grip point is valid. One of the main advanta..." alt="" coords="14,80,231,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,43,109,78,105,81,77,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="139,5,235,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,46,141,81,137,78,165,43"/>
+</map>

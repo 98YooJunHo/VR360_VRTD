@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.PlaneSurfaceEditor" name="Oculus.Interaction.Editor.PlaneSurfaceEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,96,211,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,44,116,94,112,97,82,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,5,210,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,47,141,97,136,94,166,44"/>
+</map>

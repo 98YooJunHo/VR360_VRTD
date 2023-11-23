@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.Input.BodySkeletonMapping&lt; TSourceJointId &gt;.SkeletonTree" name="Oculus.Interaction.Body.Input.BodySkeletonMapping&lt; TSourceJointId &gt;.SkeletonTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,5,720,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping_1_1_skeleton_tree_1_1_node.html" title=" " alt="" coords="187,5,431,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,32,509,32,509,37,447,37"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,21,97,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,32,186,32,186,37,112,37"/>
+</map>

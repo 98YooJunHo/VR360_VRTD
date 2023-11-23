@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.WitRequest.Write" name="Meta.WitAi.WitRequest.Write">
+<area shape="rect" id="Node000001" title="Write request data to the Wit.ai post&#39;s body input stream." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="249,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,30,233,26,234,31,199,35"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="247,56,384,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,53,232,57,231,62,198,58"/>
+</map>

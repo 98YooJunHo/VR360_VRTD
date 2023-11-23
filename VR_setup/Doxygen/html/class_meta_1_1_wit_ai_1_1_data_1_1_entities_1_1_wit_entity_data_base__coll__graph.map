@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.Data.Entities.WitEntityDataBase&lt; T &gt;" name="Meta.WitAi.Data.Entities.WitEntityDataBase&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,188,263,231"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_json_1_1_wit_response_node.html" title=" " alt="" coords="5,89,235,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,128,169,186,165,189,132,131"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_json_1_1_wit_response_array.html" title=" " alt="" coords="259,81,458,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,135,215,190,213,185,309,130"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_json_1_1_wit_response_node.html" title=" " alt="" coords="226,5,355,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,42,344,80,340,83,309,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="380,5,473,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="409,46,377,83,373,80,404,42"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.GrabAPI.HandGrabAPI" name="Oculus.Interaction.GrabAPI.HandGrabAPI">
+<area shape="rect" id="Node000001" title="The HandGrabAPI wraps under the hood several IFingerAPIs to detect if the fingers are grabbing or not..." alt="" coords="92,112,276,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,163,110,160,114,83,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,47,187,112,181,112,181,47"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_finger_a_p_i.html" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="254,5,445,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,43,216,114,213,109,317,39"/>
+</map>

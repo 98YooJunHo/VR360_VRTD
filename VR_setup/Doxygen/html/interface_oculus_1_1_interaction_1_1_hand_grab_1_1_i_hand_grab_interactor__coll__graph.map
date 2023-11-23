@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandGrab.IHandGrabInteractor" name="Oculus.Interaction.HandGrab.IHandGrabInteractor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,198,123"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="45,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,48,104,80,99,80,99,48"/>
+</map>

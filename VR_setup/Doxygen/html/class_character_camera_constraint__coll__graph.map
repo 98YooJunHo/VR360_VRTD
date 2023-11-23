@@ -1,0 +1,12 @@
+<map id="CharacterCameraConstraint" name="CharacterCameraConstraint">
+<area shape="rect" id="Node000001" title="This component is responsible for moving the character capsule to match the HMD, fading out the camer..." alt="" coords="5,263,187,289"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,5,227,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,43,120,61,105,83,96,106,90,131,86,183,90,229,96,262,90,262,85,229,81,183,85,131,91,105,100,80,116,58,136,40"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="115,81,229,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="175,47,175,81,169,81,169,47"/>
+<area shape="rect" id="Node000004" href="$class_simple_capsule_with_stick_movement.html" title=" " alt="" coords="188,172,412,199"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="202,40,242,80,275,129,297,171,292,173,270,132,238,83,198,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,121,128,145,110,173,103,197,99,221,98,262,93,262,94,221,98,195,106,171,123,141,145,117"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="174,122,177,135,183,146,199,160,218,169,215,174,196,164,179,150,172,137,169,124"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="258,208,126,265,124,260,256,203"/>
+</map>

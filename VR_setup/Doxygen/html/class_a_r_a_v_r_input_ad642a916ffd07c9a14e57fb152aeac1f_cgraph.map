@@ -1,0 +1,5 @@
+<map id="ARAVRInput.GetAxis" name="ARAVRInput.GetAxis">
+<area shape="rect" id="Node000001" title="컨트롤러의 axis 입력을 반환하는 함수이다." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a8ed5f1b79ace01d32a26c222aa64c50c" title="Gets the current state of the given virtual button mask with the given controller mask...." alt="" coords="199,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,16,183,16,183,21,151,21"/>
+</map>

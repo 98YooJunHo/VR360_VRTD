@@ -1,0 +1,49 @@
+<map id="Meta.Voice.VoiceRequest.SetState" name="Meta.Voice.VoiceRequest.SetState">
+<area shape="rect" id="Node000001" title="Apply the voice request state." alt="" coords="5,344,182,387"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request.html#aa976e84d0e4ea097e0dc81ae4fdd2a3c" title="Handle cancelation in subclass." alt="" coords="230,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,343,109,287,133,211,151,170,172,130,198,92,228,58,231,55,235,59,232,62,202,95,177,132,156,172,138,213,114,288,101,344"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_voice_request.html#ad42b81718bf52e5bdb4309fd1ba65a4c" title="Child class send implementation Call HandleFailure, HandleCancel from this class." alt="" coords="230,72,406,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,343,115,298,142,240,179,178,202,150,228,125,232,121,235,126,231,129,206,154,184,182,147,242,120,300,104,345"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_voice_request.html#a68b6f838af469fbd24cdc71c3e3eb63f" title="Call after cancellation state set." alt="" coords="230,163,406,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,342,156,280,190,246,228,215,236,210,238,215,231,220,194,250,160,284,111,345"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_voice_1_1_voice_request.html#a743debef6f9a70906913ef2a44fbdddb" title="Raises a voice request event." alt="" coords="699,477,876,520"/>
+<area shape="poly" id="edge31_Node000001_Node000009" title=" " alt="" coords="176,385,230,396,294,405,348,410,442,412,535,417,589,425,652,439,693,452,731,468,729,473,691,457,651,444,588,430,534,422,442,417,348,415,293,410,229,401,175,390"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_voice_1_1_voice_request.html#a3d29b5b624b630b36ef1e8908979f9da" title="Call after failure, success or cancellation." alt="" coords="465,477,641,520"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="127,385,174,414,231,440,285,457,342,470,449,487,448,493,341,476,284,462,229,445,172,419,124,389"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_voice_1_1_voice_request.html#aeb1a6f5d83805444865680bf30f37c3a" title="Call after failure state set." alt="" coords="465,568,641,611"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="115,385,164,436,196,464,231,487,285,514,341,536,450,567,449,572,340,541,283,519,228,492,193,468,161,440,111,389"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_voice_1_1_voice_request.html#a5aba2df343cb324c96f5bc9d16e24b02" title="Call after initialization." alt="" coords="230,656,406,699"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="111,386,232,562,292,642,288,646,228,566,107,389"/>
+<area shape="rect" id="Node000015" href="$class_meta_1_1_voice_1_1_voice_request.html#ae0ffb6083e38965246a1de29189a6ec4" title="Call after transmission begins." alt="" coords="230,253,406,296"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="144,341,229,306,243,300,245,305,231,310,146,346"/>
+<area shape="rect" id="Node000016" href="$class_meta_1_1_voice_1_1_voice_request.html#ac4224997dc9ffd5eb48324b5f5566176" title="Call after success state set." alt="" coords="230,344,406,387"/>
+<area shape="poly" id="edge27_Node000001_Node000016" title=" " alt="" coords="182,363,214,363,214,368,182,368"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="275,163,273,153,281,144,296,138,318,136,342,138,356,145,354,150,341,144,318,141,297,143,284,148,279,154,280,162"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_voice_request.html#acaf3c35e4a1637757a0c0097b6c75caa" title="Internal method for." alt="" coords="454,200,651,227"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,192,439,196,438,202,406,198"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="378,203,407,215,455,236,512,254,558,263,602,277,653,307,692,343,725,385,772,462,767,465,721,388,688,347,650,311,600,282,557,268,510,259,453,241,405,220,376,208"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_voice_request.html#af8ad615a07dd434a5174a427907d274f" title="Append request specific data to log." alt="" coords="699,133,876,176"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="608,197,684,178,685,183,610,202"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="721,200,854,227"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="652,211,706,211,706,216,652,216"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="719,251,856,277"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="619,225,708,244,707,249,617,230"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="641,496,684,496,684,501,641,501"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="508,477,506,467,514,458,529,453,553,451,578,453,593,459,591,464,576,458,553,456,530,458,517,463,512,469,513,476"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="609,565,715,524,717,529,611,570"/>
+<area shape="poly" id="edge14_Node000011_Node000011" title=" " alt="" coords="508,568,506,558,514,549,529,543,553,541,578,544,593,550,591,555,576,549,553,547,530,549,517,553,512,559,513,567"/>
+<area shape="poly" id="edge18_Node000012_Node000009" title=" " alt="" coords="406,674,463,669,526,660,589,644,650,620,682,601,711,578,758,530,762,534,715,582,685,606,653,625,591,649,527,665,464,674,407,679"/>
+<area shape="poly" id="edge17_Node000012_Node000012" title=" " alt="" coords="275,656,273,646,281,637,296,631,318,629,342,632,356,638,354,643,341,637,318,635,297,637,284,641,279,647,280,655"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_voice_1_1_voice_request.html#a4933f170dcb5d973fcb2672435ceaa14" title="Set current request download progress." alt="" coords="465,685,641,728"/>
+<area shape="poly" id="edge19_Node000012_Node000013" title=" " alt="" coords="407,686,450,691,449,696,406,691"/>
+<area shape="rect" id="Node000014" href="$class_meta_1_1_voice_1_1_voice_request.html#a2419fae89dcfb71559875c0655af61ef" title="Set current request upload progress." alt="" coords="465,752,641,795"/>
+<area shape="poly" id="edge21_Node000012_Node000014" title=" " alt="" coords="364,697,455,738,471,744,470,749,453,742,362,702"/>
+<area shape="poly" id="edge20_Node000013_Node000009" title=" " alt="" coords="619,682,650,665,685,633,717,598,764,531,768,534,721,601,689,637,653,669,622,687"/>
+<area shape="poly" id="edge22_Node000014_Node000009" title=" " alt="" coords="633,749,650,738,673,716,694,690,729,635,755,580,773,534,778,536,760,582,734,638,698,694,677,719,653,742,636,754"/>
+<area shape="poly" id="edge24_Node000015_Node000005" title=" " alt="" coords="402,250,483,229,485,234,403,255"/>
+<area shape="poly" id="edge26_Node000015_Node000009" title=" " alt="" coords="407,282,464,292,527,308,592,330,653,359,686,382,716,409,764,463,760,467,713,413,683,386,650,364,590,335,526,313,463,297,406,287"/>
+<area shape="poly" id="edge25_Node000015_Node000015" title=" " alt="" coords="275,253,273,243,281,234,296,229,318,227,342,229,356,235,354,240,341,234,318,232,297,234,284,239,279,245,280,252"/>
+<area shape="poly" id="edge28_Node000016_Node000005" title=" " alt="" coords="351,341,517,233,519,237,354,346"/>
+<area shape="poly" id="edge30_Node000016_Node000009" title=" " alt="" coords="406,358,463,360,525,365,590,376,652,395,682,409,710,427,756,465,753,469,707,431,679,414,650,400,589,381,525,370,462,365,406,364"/>
+<area shape="poly" id="edge29_Node000016_Node000016" title=" " alt="" coords="275,344,273,334,281,325,296,319,318,317,342,320,356,326,354,331,341,325,318,323,297,325,284,329,279,335,280,343"/>
+</map>

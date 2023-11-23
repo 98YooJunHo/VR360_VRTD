@@ -1,0 +1,7 @@
+<map id="Meta.Voice.Audio.AudioClipStream.UpdateState" name="Meta.Voice.Audio.AudioClipStream.UpdateState">
+<area shape="rect" id="Node000001" title="Calls to determine if completion method should be called." alt="" coords="5,39,189,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_clip_stream.html#af1164f71bff6651a9b92a899bcb1db4f" title="Perform on stream complete invocation." alt="" coords="237,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,45,221,40,221,46,189,50"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_clip_stream.html#a11f513c34ec66ba35244c0df742e1b51" title="Perform on stream updated invocation." alt="" coords="246,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,70,231,76,230,81,189,75"/>
+</map>

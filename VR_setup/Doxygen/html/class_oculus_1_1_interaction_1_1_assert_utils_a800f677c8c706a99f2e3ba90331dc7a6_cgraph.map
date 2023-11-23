@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.AssertUtils.AssertCollectionField&lt; TValue &gt;" name="Oculus.Interaction.AssertUtils.AssertCollectionField&lt; TValue &gt;">
+<area shape="rect" id="Node000001" title="Asserts that a Serialized collection in a Component is not null, is not empty and all of its items ex..." alt="" coords="5,5,180,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_assert_utils.html#a4a3a112f5a53c3f4b81ddd168d2affd6" title="Make a displayable name for a variable. This function will insert spaces before capital letters and r..." alt="" coords="228,13,396,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,32,212,32,212,37,180,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.SimplifiedEditor" name="Oculus.Interaction.Editor.SimplifiedEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,112,239,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,133,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,50,140,110,135,113,87,54"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html" title="A utility class for building custom editors with less work required." alt="" coords="157,5,325,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,62,173,113,169,110,212,58"/>
+</map>

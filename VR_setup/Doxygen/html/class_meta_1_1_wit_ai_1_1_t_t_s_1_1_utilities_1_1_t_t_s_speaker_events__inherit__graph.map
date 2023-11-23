@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeakerEvents" name="Meta.WitAi.TTS.Utilities.TTSSpeakerEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,170,197"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_events.html" title="A collection of events used for speaker tts playback." alt="" coords="11,80,164,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,122,90,154,85,154,85,122"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_speech_events.html" title=" " alt="" coords="19,5,156,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,48,90,80,85,80,85,48"/>
+</map>

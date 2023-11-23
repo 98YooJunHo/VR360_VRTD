@@ -1,0 +1,11 @@
+<map id="OculusSpatializerUserParamsEditor" name="OculusSpatializerUserParamsEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,201,229"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,96,91,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,136,97,185,92,187,72,138"/>
+<area shape="rect" id="Node000003" href="$class_o_n_s_p_audio_source.html" title=" " alt="" coords="114,96,247,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,137,122,188,118,184,159,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="72,5,182,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,44,175,94,170,97,140,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="206,5,259,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,47,190,97,185,94,215,44"/>
+</map>

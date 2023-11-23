@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.PoseDetection.OVRBodyPoseSkeletonProvider" name="Oculus.Interaction.Body.PoseDetection.OVRBodyPoseSkeletonProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,80,267,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,42,118,78,114,81,80,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,315,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,45,172,81,168,78,202,42"/>
+</map>

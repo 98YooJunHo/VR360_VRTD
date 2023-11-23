@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandWristOffset" name="Oculus.Interaction.HandWristOffset">
+<area shape="rect" id="Node000001" title="Specifies a position and rotation offset from the wrist of the given hand." alt="" coords="88,128,280,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,41,166,126,162,129,80,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,47,187,128,181,128,181,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,5,307,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,48,260,77,242,106,217,129,213,126,238,102,256,74,269,46"/>
+</map>

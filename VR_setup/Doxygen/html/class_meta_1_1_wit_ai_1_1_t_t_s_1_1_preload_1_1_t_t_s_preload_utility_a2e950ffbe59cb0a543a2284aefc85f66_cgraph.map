@@ -1,0 +1,8 @@
+<map id="Meta.WitAi.TTS.Preload.TTSPreloadUtility.ImportPhrases" name="Meta.WitAi.TTS.Preload.TTSPreloadUtility.ImportPhrases">
+<area shape="rect" id="Node000001" title="Find all ITTSPhraseProviders loaded in scenes &amp; generate data file to import all phrases associated w..." alt="" coords="5,51,238,93"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_i_t_t_s_phrase_provider.html#ac926ce54dc7e4f44b3e1fec3e5e5d1b8" title="The supported voice ids." alt="" coords="297,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,51,281,43,282,49,239,56"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_preload_1_1_t_t_s_preload_utility.html#a6cd3eaf0064d3b719471618ca64f1705" title="Prompt user for a json file to be imported into an existing TTSPreloadSettings asset." alt="" coords="286,96,518,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,88,271,93,270,99,238,93"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="349,96,347,86,356,77,374,71,402,69,432,72,450,78,448,83,431,77,402,75,375,77,359,81,352,87,354,95"/>
+</map>

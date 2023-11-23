@@ -1,0 +1,7 @@
+<map id="Oculus.Voice.Bindings.Android.VoiceSDKImpl.Activate" name="Oculus.Voice.Bindings.Android.VoiceSDKImpl.Activate">
+<area shape="rect" id="Node000001" title="Send text data for NLU processing with custom request options &amp; events." alt="" coords="5,5,211,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_n_l_p_request.html#a68baf2b7683471dccae337ee339be148" title="Applies the specified text to the options if possible &amp; then submits." alt="" coords="259,13,457,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request.html#a8688e3baff8c970cfc1361f72750f504" title="Begin the transmission of data." alt="" coords="505,13,714,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,24,489,24,489,29,458,29"/>
+</map>

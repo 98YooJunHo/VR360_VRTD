@@ -1,0 +1,18 @@
+<map id="Oculus.Interaction.PoseDetection.Debug.JointRotationDebugVisual" name="Oculus.Interaction.PoseDetection.Debug.JointRotationDebugVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="752,49,971,92"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,21,752,60,752,66,196,26"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_joint_rotation_active_state.html" title=" " alt="" coords="402,108,621,151"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="197,27,284,44,379,69,467,105,465,110,377,75,283,49,195,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="636,106,751,86,752,92,636,111"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="81,64,171,91"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="187,76,277,82,378,93,433,105,432,110,377,99,277,87,186,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="80,115,172,141"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="187,126,401,126,401,132,187,131"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_joint_rotation_active_state_1_1_joint_rotation_feature_config_list.html" title=" " alt="" coords="5,165,247,224"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="261,169,401,145,402,151,262,174"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_joint_delta_config.html" title=" " alt="" coords="16,248,236,291"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="222,241,246,233,312,213,377,190,466,149,468,154,379,194,314,218,247,239,223,246"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_joint_delta_provider.html" title=" " alt="" coords="16,315,236,357"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="238,307,308,283,376,248,409,225,440,198,489,149,493,153,444,202,413,229,379,253,311,288,240,312"/>
+</map>

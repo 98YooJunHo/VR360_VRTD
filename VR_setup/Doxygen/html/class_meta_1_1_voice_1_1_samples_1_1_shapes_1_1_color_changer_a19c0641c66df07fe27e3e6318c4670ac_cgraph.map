@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Samples.Shapes.ColorChanger.UpdateColorAllShapes" name="Meta.Voice.Samples.Shapes.ColorChanger.UpdateColorAllShapes">
+<area shape="rect" id="Node000001" title="Updates the colors of the shapes, with colours split across the shapes." alt="" coords="5,5,239,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_shapes_1_1_color_changer.html#aa877a0a31ae1bd0bd85dce2b9bb93ee3" title="Sets the color of the specified transform." alt="" coords="287,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,24,271,24,271,29,239,29"/>
+</map>

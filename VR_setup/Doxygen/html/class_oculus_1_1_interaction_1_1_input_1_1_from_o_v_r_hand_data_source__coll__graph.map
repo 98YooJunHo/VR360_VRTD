@@ -1,0 +1,40 @@
+<map id="Oculus.Interaction.Input.FromOVRHandDataSource" name="Oculus.Interaction.Input.FromOVRHandDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1125,252,1303,294"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html" title=" " alt="" coords="704,12,908,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="891,6,942,3,997,6,1052,17,1078,28,1103,41,1129,63,1150,89,1182,147,1202,205,1212,251,1207,252,1197,207,1177,149,1146,92,1125,67,1100,46,1076,32,1051,22,997,11,942,8,891,12"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="761,73,852,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="868,84,920,88,981,98,1044,115,1103,141,1135,165,1163,195,1203,250,1198,253,1159,198,1132,169,1100,146,1042,120,980,103,920,94,867,89"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html" title=" " alt="" coords="712,124,901,166"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="916,158,1008,177,1102,207,1145,227,1182,249,1179,253,1142,231,1100,211,1007,182,915,163"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand_skeleton_provider.html" title=" " alt="" coords="725,190,887,233"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="903,222,1102,252,1126,256,1125,261,1101,257,902,228"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_data_asset.html" title=" " alt="" coords="725,321,887,364"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="903,333,999,322,1101,305,1149,292,1150,297,1102,310,1000,328,903,338"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_copy_from.html" title=" " alt="" coords="361,321,560,348"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="575,334,725,338,725,343,575,340"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_data_source_config.html" title="A set of constants that are passed to each child of a Hand modifier tree from the root DataSource." alt="" coords="379,253,542,296"/>
+<area shape="poly" id="edge19_Node000001_Node000008" title=" " alt="" coords="557,271,1125,270,1125,276,557,277"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="557,296,598,305,725,328,724,333,596,310,556,301"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_hand.html" title=" " alt="" coords="767,514,846,541"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="845,504,960,438,1100,352,1183,293,1186,297,1103,357,963,443,847,509"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="406,540,515,566"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="530,545,766,528,766,533,531,551"/>
+<area shape="rect" id="Node000011" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="365,590,556,633"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="565,584,765,535,767,540,567,589"/>
+<area shape="rect" id="Node000012" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="365,708,556,766"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="558,699,572,693,627,669,678,639,743,586,790,540,794,543,746,590,682,643,630,674,574,698,560,704"/>
+<area shape="rect" id="Node000013" href="$interface_o_v_r_mesh_1_1_i_o_v_r_mesh_data_provider.html" title=" " alt="" coords="348,372,573,398"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="550,400,574,408,635,433,694,461,783,511,781,516,691,466,633,438,572,413,549,405"/>
+<area shape="rect" id="Node000014" href="$interface_o_v_r_mesh_renderer_1_1_i_o_v_r_mesh_renderer_data_provider.html" title=" " alt="" coords="358,422,563,465"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="579,465,681,489,767,513,765,518,679,494,577,470"/>
+<area shape="rect" id="Node000015" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="422,657,499,684"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="514,666,633,653,709,640,790,621,873,595,955,560,1031,516,1099,460,1135,419,1164,373,1202,294,1207,296,1169,375,1139,422,1103,464,1034,520,957,565,875,600,791,626,710,646,634,659,515,671"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="513,658,572,642,634,619,693,590,782,539,785,544,695,595,636,624,574,648,514,663"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="5,574,59,601"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="37,616,42,643,50,671,64,698,84,719,115,738,144,750,172,756,199,757,227,753,256,745,322,719,330,714,334,707,346,693,384,678,421,671,422,676,385,683,349,698,338,711,333,717,325,723,258,750,228,758,199,762,171,762,143,755,113,743,81,723,59,701,45,673,36,644,32,617"/>
+<area shape="rect" id="Node000017" href="$class_o_v_r_plugin.html" title=" " alt="" coords="418,489,503,516"/>
+<area shape="poly" id="edge17_Node000017_Node000016" title=" " alt="" coords="35,558,50,516,63,495,81,479,109,468,146,463,238,466,337,478,418,491,417,497,336,483,238,471,146,469,110,473,84,483,67,499,55,518,40,560"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="519,504,766,522,766,527,518,509"/>
+<area shape="rect" id="Node000018" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_o_v_r_camera_rig_ref.html" title=" " alt="" coords="725,716,887,758"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="903,749,953,749,1005,743,1056,728,1079,716,1099,700,1121,671,1141,626,1159,569,1173,507,1196,384,1208,295,1213,295,1201,385,1179,508,1164,571,1146,628,1126,674,1103,704,1081,720,1058,733,1006,748,953,755,903,754"/>
+</map>

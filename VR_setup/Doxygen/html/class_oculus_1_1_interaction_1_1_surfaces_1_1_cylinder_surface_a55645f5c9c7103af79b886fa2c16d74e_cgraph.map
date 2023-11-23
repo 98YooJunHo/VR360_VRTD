@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Surfaces.CylinderSurface.ClosestSurfacePoint" name="Oculus.Interaction.Surfaces.CylinderSurface.ClosestSurfacePoint">
+<area shape="rect" id="Node000001" title="Find nearest point to surface." alt="" coords="5,5,240,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_cylinder_surface.html#a8929f94a5106c8653808b1710958f371" title="Local to world transformation of a float, assuming uniform scale." alt="" coords="288,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,24,272,24,272,29,240,29"/>
+</map>

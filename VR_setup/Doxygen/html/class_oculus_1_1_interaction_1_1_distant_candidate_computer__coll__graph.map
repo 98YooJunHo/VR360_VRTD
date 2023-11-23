@@ -1,0 +1,12 @@
+<map id="Oculus.Interaction.DistantCandidateComputer&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.DistantCandidateComputer&lt; TInteractor, TInteractable &gt;">
+<area shape="rect" id="Node000001" title="This Candidate Computer uses DistantPointDetectorFrustums in order to find the best candidate...." alt="" coords="1064,24,1276,83"/>
+<area shape="rect" id="Node000002" href="$struct_oculus_1_1_interaction_1_1_distant_point_detector_frustums.html" title=" " alt="" coords="506,32,678,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,43,702,43,790,40,1040,44,1063,45,1063,50,1040,49,790,45,702,48,693,48"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_distant_point_detector.html" title="This class contains the logic for finding the best candidate among a series of colliders...." alt="" coords="787,67,958,109"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="694,63,787,75,786,80,693,68"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_conical_frustum.html" title=" " alt="" coords="164,32,337,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,51,506,51,506,56,353,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,40,115,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,51,164,51,164,56,131,56"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="973,74,1063,63,1064,68,974,79"/>
+</map>

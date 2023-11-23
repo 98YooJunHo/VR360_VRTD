@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.GetDirection" name="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.GetDirection">
+<area shape="rect" id="Node000001" title="The forward direction of the rectangle (based on its rotation)" alt="" coords="5,5,209,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface.html#addeefaffe4add97bab4caa8c7fda1c30" title="The rotation of the rectangle from the Grip point." alt="" coords="257,5,460,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,241,32,241,37,209,37"/>
+</map>

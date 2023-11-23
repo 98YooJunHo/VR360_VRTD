@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Data.Info.ComposerGraph" name="Meta.WitAi.Data.Info.ComposerGraph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,235,210,277"/>
+<area shape="rect" id="Node000002" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_context_map_paths.html" title="Path names and values of variables referenced in a context map." alt="" coords="12,128,203,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,186,110,234,105,234,105,186"/>
+<area shape="rect" id="Node000003" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_composer_graph_values.html" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,63,110,128,105,128,105,63"/>
+</map>

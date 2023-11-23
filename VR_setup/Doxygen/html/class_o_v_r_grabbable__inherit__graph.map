@@ -1,0 +1,9 @@
+<map id="OVRGrabbable" name="OVRGrabbable">
+<area shape="rect" id="Node000001" title="An object that can be grabbed and thrown by OVRGrabber." alt="" coords="172,80,280,107"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_color_grabbable.html" title=" " alt="" coords="5,155,210,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,118,139,156,136,152,194,113"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_distance_grabbable.html" title=" " alt="" coords="234,155,459,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,113,317,152,314,156,256,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="172,5,281,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,48,229,80,224,80,224,48"/>
+</map>

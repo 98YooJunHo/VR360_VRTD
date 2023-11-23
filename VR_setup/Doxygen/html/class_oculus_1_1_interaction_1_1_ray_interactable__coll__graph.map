@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.RayInteractable" name="Oculus.Interaction.RayInteractable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,81,610,108"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="5,5,226,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,26,304,32,366,43,422,59,470,78,468,83,420,64,365,48,303,38,241,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,81,161,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,92,389,92,389,97,177,97"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html" title=" " alt="" coords="23,132,208,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,135,365,113,412,106,413,111,366,119,224,140"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PressureSquishable" name="Oculus.Interaction.PressureSquishable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="48,80,230,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,121,78,117,82,81,45"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_use_delegate.html" title=" " alt="" coords="139,5,296,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,45,160,82,157,78,193,41"/>
+</map>

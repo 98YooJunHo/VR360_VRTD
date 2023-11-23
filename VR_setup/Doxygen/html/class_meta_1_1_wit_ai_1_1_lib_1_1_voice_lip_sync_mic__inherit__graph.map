@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Lib.VoiceLipSyncMic" name="Meta.WitAi.Lib.VoiceLipSyncMic">
+<area shape="rect" id="Node000001" title="Applies the current Voice Mic mic output to an audio source clip for use with external lip sync scrip..." alt="" coords="5,80,218,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="57,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,48,114,80,109,80,109,48"/>
+</map>

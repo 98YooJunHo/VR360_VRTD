@@ -1,0 +1,9 @@
+<map id="OVRBody" name="OVRBody">
+<area shape="rect" id="Node000001" title="Manages data related to body tracking." alt="" coords="244,64,323,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,155,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,34,197,41,249,61,247,66,195,47,169,39"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="5,56,196,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,75,243,75,243,80,211,80"/>
+<area shape="rect" id="Node000004" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="5,123,196,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,114,247,89,249,94,189,119"/>
+</map>

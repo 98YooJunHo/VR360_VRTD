@@ -1,0 +1,9 @@
+<map id="OVRSkeleton" name="OVRSkeleton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,80,223,107"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_custom_skeleton.html" title=" " alt="" coords="5,163,151,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,119,94,165,91,160,144,115"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_unity_humanoid_skeleton_retargeter.html" title=" " alt="" coords="175,155,363,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,115,246,152,242,156,197,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="118,5,227,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,48,175,80,170,80,170,48"/>
+</map>

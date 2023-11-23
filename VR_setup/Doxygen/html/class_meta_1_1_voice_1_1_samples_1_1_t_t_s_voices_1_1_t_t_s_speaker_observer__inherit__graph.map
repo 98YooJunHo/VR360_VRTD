@@ -1,0 +1,11 @@
+<map id="Meta.Voice.Samples.TTSVoices.TTSSpeakerObserver" name="Meta.Voice.Samples.TTSVoices.TTSSpeakerObserver">
+<area shape="rect" id="Node000001" title="A demo script that provides access to a TTSSpeaker and overrides all TTSSpeaker callback events." alt="" coords="163,72,376,115"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_effect_select.html" title="A demo script that uses two dropdown menus to adjust the SSML tags of a TTSSpeaker." alt="" coords="424,5,637,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="370,65,444,46,445,51,371,70"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_status_label.html" title="A simple script for providing clip information to a Text label." alt="" coords="424,72,637,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="392,91,424,91,424,96,392,96"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_voice_select.html" title="A demo script that uses a dropdown menu to adjust the voice setting id of a TTSSpeaker." alt="" coords="424,139,637,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="371,116,445,135,444,141,370,122"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,91,162,91,162,96,130,96"/>
+</map>

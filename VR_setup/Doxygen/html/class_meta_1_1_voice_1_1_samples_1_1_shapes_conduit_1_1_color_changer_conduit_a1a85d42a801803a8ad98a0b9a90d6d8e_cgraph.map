@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Samples.ShapesConduit.ColorChangerConduit.ChangeColor" name="Meta.Voice.Samples.ShapesConduit.ColorChangerConduit.ChangeColor">
+<area shape="rect" id="Node000001" title="Gets called automatically by ConduitDispatcher. Updates the colors of a shape." alt="" coords="5,5,275,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_shapes_conduit_1_1_color_changer_conduit.html#a7df27c7430b3d6e0ffb9db68bd848c14" title="Sets the ColorName of the specified transform." alt="" coords="323,5,568,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,24,307,24,307,29,275,29"/>
+</map>

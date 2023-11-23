@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Events.TelemetryEvents" name="Meta.WitAi.Events.TelemetryEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,188,208,231"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_events_1_1_audio_duration_tracker_finished_event.html" title=" " alt="" coords="5,81,220,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,140,115,187,110,187,110,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="24,5,201,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,48,115,81,110,81,110,48"/>
+</map>

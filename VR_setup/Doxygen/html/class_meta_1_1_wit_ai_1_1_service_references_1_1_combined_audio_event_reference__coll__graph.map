@@ -1,0 +1,22 @@
+<map id="Meta.WitAi.ServiceReferences.CombinedAudioEventReference" name="Meta.WitAi.ServiceReferences.CombinedAudioEventReference">
+<area shape="rect" id="Node000001" title="Finds all audio event listeners in the scene and subscribes to them. This is good for creating generi..." alt="" coords="919,116,1121,159"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_service_references_1_1_audio_input_service_reference.html" title=" " alt="" coords="579,160,761,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,160,918,145,919,150,777,165"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="225,137,334,164"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,152,578,165,578,171,349,157"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_events_1_1_unity_event_listeners_1_1_audio_event_listener.html" title=" " alt="" coords="572,93,768,136"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="349,142,572,121,572,126,350,147"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_event_provider.html" title=" " alt="" coords="212,220,347,247"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,234,452,231,548,219,597,203,640,185,642,190,599,208,549,224,453,237,363,239"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_events.html" title=" " alt="" coords="217,5,341,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="357,19,449,25,549,35,723,61,895,99,948,113,947,118,894,104,722,66,548,40,449,30,357,24"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="357,28,449,46,549,69,613,90,611,95,548,75,448,51,356,33"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_mic_level_changed_event.html" title=" " alt="" coords="192,271,366,313"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,278,562,252,767,212,867,185,955,157,957,162,868,190,768,217,563,257,382,283"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="358,262,371,256,460,210,547,159,571,146,600,134,602,139,573,150,550,164,463,215,373,261,360,267"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,279,137,305"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="152,289,191,289,191,295,152,295"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="783,119,918,128,918,133,783,125"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_events.html" title=" " alt="" coords="186,61,372,104"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="388,89,572,104,572,109,388,94"/>
+</map>

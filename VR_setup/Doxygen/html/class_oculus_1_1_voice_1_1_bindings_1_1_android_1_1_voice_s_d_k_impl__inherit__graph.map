@@ -1,0 +1,17 @@
+<map id="Oculus.Voice.Bindings.Android.VoiceSDKImpl" name="Oculus.Voice.Bindings.Android.VoiceSDKImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="599,64,805,107"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_android_1_1_base_android_connection_impl.html" title=" " alt="" coords="367,5,551,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,50,611,61,610,66,564,55"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_voice_1_1_interfaces_1_1_i_platform_voice_service.html" title=" " alt="" coords="386,72,533,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="548,83,599,83,599,88,548,88"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_i_voice_service.html" title=" " alt="" coords="220,72,319,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="334,83,385,83,385,88,334,88"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_i_voice_event_provider.html" title=" " alt="" coords="21,21,156,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="154,50,220,69,218,74,153,55"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_i_telemetry_events_provider.html" title=" " alt="" coords="5,72,172,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="187,83,219,83,219,88,187,88"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_i_voice_activation_handler.html" title=" " alt="" coords="10,123,167,149"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="153,115,218,97,220,102,154,120"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_voice_1_1_bindings_1_1_android_1_1_i_v_c_binding_events.html" title=" " alt="" coords="397,123,521,149"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="536,117,598,104,600,109,537,123"/>
+</map>

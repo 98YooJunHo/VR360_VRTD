@@ -1,0 +1,9 @@
+<map id="OVRPassthroughColorLut" name="OVRPassthroughColorLut">
+<area shape="rect" id="Node000001" title="Passthrough Color Look&#45;Up Tables (LUTs)." alt="" coords="36,347,207,373"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,256,147,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,296,117,345,112,347,87,298"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_plugin.html" title=" " alt="" coords="171,256,256,283"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,296,136,348,133,344,187,292"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,5,240,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,48,216,256,211,256,211,48"/>
+</map>

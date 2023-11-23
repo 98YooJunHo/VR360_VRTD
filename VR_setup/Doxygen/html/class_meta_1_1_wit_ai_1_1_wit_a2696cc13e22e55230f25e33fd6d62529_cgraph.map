@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.Wit.ActivateImmediately" name="Meta.WitAi.Wit.ActivateImmediately">
+<area shape="rect" id="Node000001" title="Activate the microphone and send data for NLU processing with custom request options." alt="" coords="5,47,236,73"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a0e7db9049d1867e5222546657f0d84bb" title="Activate the microphone and immediately send data to Wit for NLU processing." alt="" coords="284,5,486,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,43,268,39,268,44,232,49"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_voice_service.html#adafc7332d13f52c5a5afc7aed3ac1f8c" title="Called on creation." alt="" coords="300,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,71,285,78,284,83,231,77"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_voice_service.html#a1d62e1ece1a3c558ff6ac284dc87230a" title="Called after request cancellation, failure or success." alt="" coords="534,72,703,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,91,519,91,519,96,470,96"/>
+</map>

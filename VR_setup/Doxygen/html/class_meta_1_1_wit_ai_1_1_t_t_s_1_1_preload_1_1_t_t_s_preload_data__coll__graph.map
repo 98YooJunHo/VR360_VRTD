@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.TTS.Preload.TTSPreloadData" name="Meta.WitAi.TTS.Preload.TTSPreloadData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,265,245"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_preload_1_1_t_t_s_preload_voice_data.html" title=" " alt="" coords="19,112,251,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,170,138,218,132,218,132,170"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_preload_1_1_t_t_s_preload_phrase_data.html" title=" " alt="" coords="19,5,251,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,64,138,111,132,111,132,64"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="OVRRoomLayout" name="OVRRoomLayout">
+<area shape="rect" id="Node000001" title="Represents a room described by its floor, ceiling and walls OVRAnchors." alt="" coords="128,96,250,123"/>
+<area shape="rect" id="Node000002" href="$interface_i_o_v_r_anchor_component.html" title=" " alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,56,168,93,164,98,114,60"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="134,55,181,93,178,98,130,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="189,13,397,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,51,200,98,196,94,256,47"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="274,52,213,98,210,93,271,48"/>
+</map>

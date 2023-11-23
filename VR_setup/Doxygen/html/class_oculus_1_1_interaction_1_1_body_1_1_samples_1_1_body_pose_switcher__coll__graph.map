@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Body.Samples.BodyPoseSwitcher" name="Oculus.Interaction.Body.Samples.BodyPoseSwitcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,128,331,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,47,209,125,206,130,89,51"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_i_body_pose.html" title=" " alt="" coords="139,13,224,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,53,230,126,225,129,191,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="248,13,339,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,55,249,129,244,126,279,53"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_i_body_pose.html" title=" " alt="" coords="363,5,536,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="407,59,327,106,281,130,279,125,324,102,404,54"/>
+</map>

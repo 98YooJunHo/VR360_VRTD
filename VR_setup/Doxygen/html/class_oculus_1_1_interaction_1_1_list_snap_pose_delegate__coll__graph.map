@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.ListSnapPoseDelegate" name="Oculus.Interaction.ListSnapPoseDelegate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="930,75,1112,117"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="642,5,751,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="766,31,907,63,941,72,940,77,906,68,765,36"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_snap_pose_delegate.html" title="A SnapPoseDelegate can be used to provide custom snap pose logic given a set of elements that are eit..." alt="" coords="629,56,764,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="780,73,930,86,930,91,779,79"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_list_layout.html" title=" " alt="" coords="281,140,471,167"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,141,495,140,930,101,930,107,495,145,486,146"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_list_layout_ease.html" title=" " alt="" coords="586,171,806,197"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="487,161,586,171,585,176,486,167"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_list_layout_1_1_list_element.html" title=" " alt="" coords="5,132,200,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,151,280,151,280,156,215,156"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="78,114,87,108,102,105,117,107,126,113,131,122,130,132,124,131,125,123,122,117,115,112,103,111,89,113,81,119"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="821,173,864,166,905,155,948,137,986,116,988,120,950,142,907,160,865,171,822,178"/>
+</map>

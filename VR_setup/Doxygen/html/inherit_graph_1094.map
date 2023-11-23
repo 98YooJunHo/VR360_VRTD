@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,131,126,157"/>
+<area shape="rect" id="Node000001" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_scriptable_wizard.html" title=" " alt="" coords="174,5,399,48"/>
+<area shape="poly" id="edge1371_Node000000_Node000001" title=" " alt="" coords="90,118,127,87,172,58,199,46,201,51,175,62,130,91,93,122"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_screenshot_wizard.html" title="From the selected transform, takes a cubemap screenshot that can be submitted with the application as..." alt="" coords="208,72,365,99"/>
+<area shape="poly" id="edge1374_Node000000_Node000004" title=" " alt="" coords="122,123,173,108,219,97,221,102,174,113,124,128"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_editor_1_1_hand_animator_wizard.html" title="This wizard helps creating a set of fixed Animation Clips using HandTracking to be used in a skinned ..." alt="" coords="190,123,383,165"/>
+<area shape="poly" id="edge1375_Node000000_Node000005" title=" " alt="" coords="141,141,190,141,190,147,141,147"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_editor_1_1_hand_wrist_offset_undo_wizard.html" title=" " alt="" coords="174,189,399,232"/>
+<area shape="poly" id="edge1376_Node000000_Node000006" title=" " alt="" coords="126,160,174,175,212,186,211,191,173,180,125,165"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_voice_1_1_windows_1_1_voice_s_d_k_wizard_window.html" title=" " alt="" coords="190,256,383,299"/>
+<area shape="poly" id="edge1377_Node000000_Node000007" title=" " alt="" coords="89,167,127,206,175,242,199,253,197,258,172,246,123,210,86,171"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_welcome_wizard.html" title=" " alt="" coords="447,5,669,48"/>
+<area shape="poly" id="edge1372_Node000001_Node000002" title=" " alt="" coords="415,24,447,24,447,29,415,29"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_windows_1_1_welcome_wizard.html" title=" " alt="" coords="717,5,933,48"/>
+<area shape="poly" id="edge1373_Node000002_Node000003" title=" " alt="" coords="685,24,717,24,717,29,685,29"/>
+</map>

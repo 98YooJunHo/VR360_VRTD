@@ -1,0 +1,20 @@
+<map id="Oculus.Interaction.IPointable" name="Oculus.Interaction.IPointable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,193,148"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_pointable_element.html" title=" " alt="" coords="241,39,428,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,114,264,79,266,84,159,119"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="249,105,420,164"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="208,132,248,132,248,137,208,137"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_virtual_pointable.html" title="This Virtual Pointable can broadcasts grab events that can be toggled from within the Unity inspector..." alt="" coords="251,188,418,231"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="159,151,266,185,264,190,157,156"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_pointable_canvas.html" title=" " alt="" coords="476,5,663,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,42,475,37,476,43,444,47"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pointable_element.html" title=" " alt="" coords="478,72,662,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="444,73,477,78,477,83,443,78"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointable_canvas.html" title="PointableCanvas allows any IPointable to forward its events onto an associated Canvas via the IPointa..." alt="" coords="714,9,898,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="679,26,713,26,713,32,679,31"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="667,65,722,50,724,55,668,70"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_grabbable.html" title=" " alt="" coords="711,77,901,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="677,89,711,89,711,94,677,95"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_mesh.html" title=" " alt="" coords="714,128,898,171"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="678,116,714,125,713,130,676,121"/>
+</map>

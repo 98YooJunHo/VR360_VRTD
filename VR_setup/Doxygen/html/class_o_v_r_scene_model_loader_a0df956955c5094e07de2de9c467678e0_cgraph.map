@@ -1,0 +1,5 @@
+<map id="OVRSceneModelLoader.OnNoSceneModelToLoad" name="OVRSceneModelLoader.OnNoSceneModelToLoad">
+<area shape="rect" id="Node000001" title="Invoked when there is no scene model available. The default behavior requests scene capture using OVR..." alt="" coords="5,5,203,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_scene_manager.html#ada66e0a27c16e78d9f79e505ffb251f0" title="Requests scene capture from the Room Setup." alt="" coords="251,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
+</map>

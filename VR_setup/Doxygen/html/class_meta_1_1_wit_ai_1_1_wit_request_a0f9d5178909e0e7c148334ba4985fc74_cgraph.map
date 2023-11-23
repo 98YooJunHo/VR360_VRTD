@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.WitRequest.OnInit" name="Meta.WitAi.WitRequest.OnInit">
+<area shape="rect" id="Node000001" title="Finalize initialization." alt="" coords="5,13,202,40"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_configuration_1_1_wit_endpoint_config.html#ab9eb854380a350259da60594b96ad626" title="Generates a configuration using a preset if possible." alt="" coords="250,5,490,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,234,24,234,29,202,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OVRLipSyncContextBase.OnDestroy" name="OVRLipSyncContextBase.OnDestroy">
+<area shape="rect" id="Node000001" title="Raises the destroy event." alt="" coords="5,5,198,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync.html#a7e1554ff937e8dc8b1d03db0a9519a8e" title="Destroy a lip&#45;sync context." alt="" coords="246,13,436,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="484,13,648,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,24,468,24,468,29,437,29"/>
+</map>

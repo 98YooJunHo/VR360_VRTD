@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Editor.HandWristOffsetEditor" name="Oculus.Interaction.Editor.HandWristOffsetEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,235,175,277"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,136,133,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,177,89,234,84,235,72,179"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html" title="Specifies a position and rotation offset from the wrist of the given hand." alt="" coords="157,128,349,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,182,124,236,121,232,207,177"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="74,5,184,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,41,235,126,231,129,149,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="207,5,299,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="256,47,256,128,250,128,250,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="322,5,376,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="342,48,329,77,311,106,286,129,282,126,307,102,325,74,338,46"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Oculus.Interaction.Input.OVRCameraRigRef" name="Oculus.Interaction.Input.OVRCameraRigRef">
+<area shape="rect" id="Node000001" title="Points to an OVRCameraRig instance. This level of indirection provides a single configuration point o..." alt="" coords="978,95,1141,137"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="406,5,515,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,16,617,19,724,27,840,42,955,68,1016,92,1014,97,954,73,839,47,723,32,617,24,531,21"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="715,65,828,92"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="531,29,715,65,714,70,530,35"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_hand.html" title=" " alt="" coords="732,139,811,165"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="531,26,574,42,587,53,599,65,639,85,681,102,746,136,744,140,679,106,636,90,595,69,583,57,572,46,529,31"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_o_v_r_camera_rig_ref.html" title=" " alt="" coords="704,189,839,216"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="852,183,954,155,1006,135,1008,140,955,160,853,188"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="844,85,978,103,978,108,844,91"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="827,149,888,147,954,140,979,135,980,141,955,145,888,152,827,155"/>
+<area shape="rect" id="Node000006" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="365,56,556,99"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="568,100,732,140,731,145,567,105"/>
+<area shape="rect" id="Node000007" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="365,123,556,181"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="571,149,732,149,732,155,571,155"/>
+<area shape="rect" id="Node000008" href="$interface_o_v_r_mesh_1_1_i_o_v_r_mesh_data_provider.html" title=" " alt="" coords="348,205,573,232"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="540,199,731,158,732,163,542,204"/>
+<area shape="rect" id="Node000009" href="$interface_o_v_r_mesh_renderer_1_1_i_o_v_r_mesh_renderer_data_provider.html" title=" " alt="" coords="358,256,563,299"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="553,248,572,242,627,220,679,192,703,175,730,163,732,167,705,180,681,197,629,225,574,246,555,253"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="422,323,499,349"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="513,324,572,308,631,289,654,276,678,253,687,234,689,215,691,196,702,176,715,165,730,158,733,163,718,170,706,179,696,197,694,216,693,235,682,256,657,280,634,294,574,313,515,330"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,387,59,413"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="41,371,57,345,81,323,110,314,148,309,242,309,341,317,421,328,421,333,341,323,242,314,148,314,111,319,84,328,61,348,46,374"/>
+<area shape="rect" id="Node000012" href="$class_o_v_r_plugin.html" title=" " alt="" coords="418,412,503,439"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="41,428,56,467,68,485,84,499,116,516,145,527,172,531,198,530,254,518,323,499,357,487,389,470,440,437,443,441,392,475,359,492,324,504,256,523,199,535,171,536,143,532,114,521,81,504,64,488,51,469,36,430"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="517,412,558,399,602,381,644,355,678,321,688,303,692,285,689,250,686,214,690,195,702,176,715,164,730,157,732,162,718,169,706,179,695,197,691,214,694,249,697,285,693,304,682,324,647,359,604,386,560,404,519,417"/>
+</map>

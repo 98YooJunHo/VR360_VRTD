@@ -1,0 +1,23 @@
+<map id="Oculus.Interaction.DistanceReticles.TeleportReticleDrawer" name="Oculus.Interaction.DistanceReticles.TeleportReticleDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="834,248,1033,291"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_distance_reticles_1_1_interactor_reticle.html" title=" " alt="" coords="526,56,676,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="687,102,702,108,759,134,812,167,866,207,910,246,907,250,862,212,809,172,756,139,700,113,685,107"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_teleport_interactor.html" title="TeleportInteractor uses a provided ITeleportArc and an external Selector to find the best interactabl..." alt="" coords="500,123,701,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="679,168,811,218,881,245,879,250,809,222,677,173"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="174,72,365,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,108,500,126,499,131,380,113"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_locomotion_1_1_i_locomotion_event_broadcaster.html" title=" " alt="" coords="173,139,366,165"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="382,143,394,143,500,141,500,146,394,148,382,148"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="224,207,315,233"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="331,222,834,259,834,265,331,227"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="330,216,401,210,475,196,518,181,558,163,560,168,520,186,477,201,401,215,331,221"/>
+<area shape="rect" id="Node000007" href="$struct_oculus_1_1_interaction_1_1_locomotion_1_1_teleport_hit.html" title=" " alt="" coords="169,5,370,48"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="352,51,371,57,477,98,501,108,532,120,530,125,499,113,475,102,369,63,350,56"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,265,59,292"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="74,276,834,268,834,273,75,281"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="41,250,59,208,86,156,122,103,167,58,185,46,188,51,170,62,126,107,90,159,64,210,46,252"/>
+<area shape="rect" id="Node000009" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="520,337,682,380"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="697,353,753,345,810,332,857,312,898,289,901,294,859,317,811,337,754,351,698,358"/>
+<area shape="rect" id="Node000010" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="517,404,685,447"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="699,409,755,394,809,372,839,354,867,332,911,289,915,293,871,336,842,358,812,377,757,399,701,414"/>
+</map>

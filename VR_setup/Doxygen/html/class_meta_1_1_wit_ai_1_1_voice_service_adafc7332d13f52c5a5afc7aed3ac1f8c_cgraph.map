@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.VoiceService.OnAudioRequestCreated" name="Meta.WitAi.VoiceService.OnAudioRequestCreated">
+<area shape="rect" id="Node000001" title="Called on creation." alt="" coords="5,5,175,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_voice_service.html#a1d62e1ece1a3c558ff6ac284dc87230a" title="Called after request cancellation, failure or success." alt="" coords="223,5,392,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,24,207,24,207,29,175,29"/>
+</map>

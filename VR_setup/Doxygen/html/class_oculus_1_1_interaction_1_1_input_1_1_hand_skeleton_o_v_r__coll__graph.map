@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.HandSkeletonOVR" name="Oculus.Interaction.Input.HandSkeletonOVR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="662,48,824,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="411,5,521,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,29,662,52,661,57,535,34"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand_skeleton_provider.html" title=" " alt="" coords="390,56,542,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="557,67,661,67,661,72,557,72"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_skeleton.html" title=" " alt="" coords="385,107,547,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="561,105,661,84,662,89,563,110"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_read_only_hand_skeleton.html" title=" " alt="" coords="29,36,192,63"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,63,361,95,394,104,393,109,360,100,206,68"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_read_only_hand_skeleton_joint_list.html" title=" " alt="" coords="5,87,216,113"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="231,107,385,119,384,124,231,112"/>
+<area shape="rect" id="Node000007" href="$struct_oculus_1_1_interaction_1_1_input_1_1_hand_skeleton_joint.html" title=" " alt="" coords="29,137,192,180"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="207,151,360,139,384,136,384,141,361,144,208,156"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="84,205,137,232"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="152,216,249,210,305,201,360,187,399,169,434,148,437,152,402,174,362,192,306,207,249,215,153,222"/>
+</map>

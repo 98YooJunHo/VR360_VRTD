@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop">
+<area shape="rect" id="Node000001" title="Stops loading &amp; playback immediately." alt="" coords="5,39,170,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#afa2a4d200937b9324bbcb3fc09e5bab5" title="Abort loading of all items in the load queue." alt="" coords="222,5,391,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,45,206,39,207,44,170,50"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a71f1d77995d6daafa0e6ecf4a368da98" title="Stop playback of currently played audio clip." alt="" coords="218,72,395,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,70,203,75,202,80,170,75"/>
+</map>

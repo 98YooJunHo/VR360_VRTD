@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandSphereMap" name="Oculus.Interaction.HandSphereMap">
+<area shape="rect" id="Node000001" title="Generate a mapping of joints to spheres from a HandPrefabDataSource that has a set of transforms repr..." alt="" coords="16,80,243,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,41,119,78,115,81,80,45"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_hand_sphere_map.html" title="A mapping of hand joints to spheres that can be used for collision testing." alt="" coords="139,5,259,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,45,143,81,139,78,174,41"/>
+</map>

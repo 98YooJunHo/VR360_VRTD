@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Input.HandFilterParameterBlock" name="Oculus.Interaction.Input.HandFilterParameterBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,144,237,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,123,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,52,140,142,135,145,78,55"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_input_1_1_one_euro_filter_property_block.html" title="Property block for OneEuroFilter parameters." alt="" coords="147,5,330,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,63,166,145,162,142,215,60"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="OculusSampleFramework.DistanceGrabbable" name="OculusSampleFramework.DistanceGrabbable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="827,560,1052,603"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_grabbable.html" title="An object that can be grabbed and thrown by OVRGrabber." alt="" coords="466,488,575,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="590,512,827,557,826,562,589,517"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_grabber.html" title="Allows grabbing and throwing of objects with the OVRGrabbable component on them." alt="" coords="892,405,987,432"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="589,489,802,451,891,429,892,434,804,456,590,494"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,516,115,543"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,522,466,502,466,507,131,528"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="104,507,138,496,283,465,397,452,513,445,661,435,891,418,892,424,661,440,513,451,398,457,284,471,139,501,106,512"/>
+<area shape="rect" id="Node000008" href="$class_oculus_sample_framework_1_1_grabbable_crosshair.html" title=" " alt="" coords="404,539,637,581"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="131,531,403,550,403,555,130,537"/>
+<area shape="rect" id="Node000009" href="$class_oculus_sample_framework_1_1_grab_manager.html" title=" " alt="" coords="419,607,622,649"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="113,546,139,553,286,587,419,610,418,616,284,592,138,559,112,551"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="912,444,864,476,834,491,804,503,743,514,681,518,624,516,574,512,575,507,624,511,681,513,743,509,802,497,832,486,861,472,909,439"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="482,232,559,259"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="575,240,625,241,684,247,745,260,804,282,846,309,883,343,931,403,927,406,879,346,843,313,802,286,744,265,683,252,625,247,574,246"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="33,232,87,259"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="102,243,481,243,481,248,102,248"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="475,355,566,381"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="582,372,803,399,892,410,891,415,803,404,581,378"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="653,577,661,577,827,582,826,587,661,583,652,582"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="636,619,803,604,826,601,827,606,803,609,637,625"/>
+</map>

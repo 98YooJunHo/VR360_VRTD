@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.ActiveStateNot" name="Oculus.Interaction.ActiveStateNot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,112,324,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,46,207,109,204,114,94,50"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="139,13,229,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,52,232,110,228,113,196,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,13,344,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,55,255,113,250,110,282,52"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="368,5,536,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="410,59,355,90,300,114,298,109,352,86,407,54"/>
+</map>

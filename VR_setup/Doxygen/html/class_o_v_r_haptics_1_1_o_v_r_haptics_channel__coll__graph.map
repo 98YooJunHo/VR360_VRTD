@@ -1,0 +1,11 @@
+<map id="OVRHaptics.OVRHapticsChannel" name="OVRHaptics.OVRHapticsChannel">
+<area shape="rect" id="Node000001" title="A track of haptics data that can be mixed or sequenced with another track." alt="" coords="36,263,252,289"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_haptics_1_1_o_v_r_haptics_output.html" title=" " alt="" coords="40,172,248,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,214,147,262,141,262,141,214"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_native_buffer.html" title="Encapsulates an 8&#45;byte&#45;aligned of unmanaged memory." alt="" coords="5,81,123,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,123,77,147,90,159,107,169,104,174,87,164,72,149,63,124"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="20,5,108,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,47,67,81,61,81,61,47"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_haptics_clip.html" title="A PCM buffer of data for a haptics effect." alt="" coords="146,81,262,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="189,123,155,173,150,170,185,120"/>
+</map>

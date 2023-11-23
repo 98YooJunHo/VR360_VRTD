@@ -1,0 +1,7 @@
+<map id="OVRSpatialAnchor.SaveOptions" name="OVRSpatialAnchor.SaveOptions">
+<area shape="rect" id="Node000001" title="Represents options for saving OVRSpatialAnchor." alt="" coords="5,172,213,199"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="66,81,152,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,124,112,171,106,171,106,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,5,195,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,47,112,81,106,81,106,47"/>
+</map>

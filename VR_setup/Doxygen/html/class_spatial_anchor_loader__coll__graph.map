@@ -1,0 +1,19 @@
+<map id="SpatialAnchorLoader" name="SpatialAnchorLoader">
+<area shape="rect" id="Node000001" title="Demonstrates loading existing spatial anchors from storage." alt="" coords="51,465,192,492"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,172,115,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,214,121,465,116,466,63,215"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_spatial_anchor.html" title="Represents a spatial anchor." alt="" coords="178,375,308,401"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="99,205,120,221,159,261,193,304,238,373,233,376,189,307,155,264,117,225,96,209"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,413,140,467,137,463,212,408"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_spatial_anchor_1_1_save_options.html" title="Represents options for saving OVRSpatialAnchor." alt="" coords="139,172,346,199"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="245,214,245,374,240,374,240,214"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="317,81,403,108"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="333,120,261,174,258,169,329,116"/>
+<area shape="rect" id="Node000007" href="$struct_o_v_r_spatial_anchor_1_1_erase_options.html" title="Represents options for erasing OVRSpatialAnchor." alt="" coords="371,172,584,199"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="391,116,462,169,459,174,387,120"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="274,5,446,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="363,47,363,81,357,81,357,47"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="470,214,434,284,406,321,372,353,342,370,309,380,307,375,339,365,369,349,402,317,429,281,465,212"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="608,172,661,199"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="639,214,639,247,633,284,620,321,596,353,581,360,555,366,480,375,308,387,308,381,479,370,554,360,579,355,593,349,616,319,628,283,634,246,634,214"/>
+</map>

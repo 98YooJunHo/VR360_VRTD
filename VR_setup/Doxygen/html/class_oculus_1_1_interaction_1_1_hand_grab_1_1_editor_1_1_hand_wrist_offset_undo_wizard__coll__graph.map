@@ -1,0 +1,21 @@
+<map id="Oculus.Interaction.HandGrab.Editor.HandWristOffsetUndoWizard" name="Oculus.Interaction.HandGrab.Editor.HandWristOffsetUndoWizard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="722,83,947,125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="446,32,566,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,56,722,81,721,87,581,61"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html" title="Specifies a position and rotation offset from the wrist of the given hand." alt="" coords="410,83,602,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="617,101,722,101,722,107,617,107"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="47,69,156,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,76,273,74,386,79,410,82,410,87,385,84,273,79,172,81"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_pose.html" title="The HandGrabPose defines the local point in an object to which the grip point of the hand should alig..." alt="" coords="410,189,602,232"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="172,76,221,77,276,82,333,93,387,112,400,123,411,135,477,187,473,191,408,139,397,127,384,117,331,98,275,87,221,82,172,81"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="56,244,147,271"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="161,246,196,230,204,221,207,212,211,202,220,191,249,178,300,161,425,123,426,128,301,166,251,183,223,195,216,204,212,214,208,224,199,234,163,251"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="163,252,267,245,385,232,409,228,410,234,386,237,267,250,163,257"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="75,5,128,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="144,19,254,32,321,44,386,59,411,68,442,80,440,85,409,73,385,64,319,49,253,38,143,25"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="588,181,765,123,767,128,589,187"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="12,295,191,337"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="206,305,294,292,385,269,429,251,468,230,471,235,431,256,387,275,295,297,207,311"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,177,198,220"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="213,206,222,207,410,210,409,215,222,212,213,212"/>
+</map>

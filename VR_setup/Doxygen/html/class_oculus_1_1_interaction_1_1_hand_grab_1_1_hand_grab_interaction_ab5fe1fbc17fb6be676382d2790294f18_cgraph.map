@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabInteraction.GetHandGrabPose" name="Oculus.Interaction.HandGrab.HandGrabInteraction.GetHandGrabPose">
+<area shape="rect" id="Node000001" title="Gets the current pose of the current grabbing point." alt="" coords="5,5,258,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#af1212de139ba68862471a9625e9bc01d" title="Compose two poses, applying the first to the second one." alt="" coords="306,5,496,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,24,290,24,290,29,258,29"/>
+</map>

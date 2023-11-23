@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandGrab.Visuals.Editor.Generated.HandGhostEditorFallback" name="Oculus.Interaction.HandGrab.Visuals.Editor.Generated.HandGhostEditorFallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,188,272,247"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_simplified_editor.html" title=" " alt="" coords="99,112,210,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,154,157,188,152,188,152,154"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,13,133,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,50,145,110,141,114,88,54"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html" title="A utility class for building custom editors with less work required." alt="" coords="157,5,325,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,61,168,113,164,110,211,58"/>
+</map>

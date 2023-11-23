@@ -1,0 +1,13 @@
+<map id="Meta.WitAi.Requests.WitVRequest" name="Meta.WitAi.Requests.WitVRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,113,358,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="436,5,625,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,104,405,57,442,46,443,51,407,63,291,109"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="420,72,642,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,109,419,104,419,109,374,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="431,139,630,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,139,431,146,430,151,373,144"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_t_t_s_v_request.html" title=" " alt="" coords="406,205,655,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,144,344,168,407,191,450,202,449,207,405,196,343,173,287,149"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html" title="Class for performing web requests using UnityWebRequest." alt="" coords="5,113,84,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,124,131,124,131,129,99,129"/>
+</map>

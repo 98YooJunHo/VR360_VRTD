@@ -1,0 +1,8 @@
+<map id="OVRControllerDrivenHandPosesSample" name="OVRControllerDrivenHandPosesSample">
+<area shape="rect" id="Node000001" title="Simple script for running the ControllerDrivenHandPosesSample." alt="" coords="5,172,212,215"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,48,111,171,105,172,101,48"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="125,81,239,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="129,41,171,79,167,83,126,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,122,126,173,122,170,161,119"/>
+</map>

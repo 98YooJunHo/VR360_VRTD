@@ -1,0 +1,11 @@
+<map id="OVRVirtualKeyboard.BaseInputSource" name="OVRVirtualKeyboard.BaseInputSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,80,319,123"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_virtual_keyboard_1_1_controller_input_source.html" title=" " alt="" coords="5,171,206,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,135,133,172,130,168,178,130"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_virtual_keyboard_1_1_hand_input_source.html" title=" " alt="" coords="229,171,433,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,130,306,168,303,172,254,134"/>
+<area shape="rect" id="Node000002" href="$interface_o_v_r_virtual_keyboard_1_1_i_input_source.html" title=" " alt="" coords="114,5,207,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,43,205,78,201,81,176,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="231,5,319,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,47,234,81,230,78,255,43"/>
+</map>

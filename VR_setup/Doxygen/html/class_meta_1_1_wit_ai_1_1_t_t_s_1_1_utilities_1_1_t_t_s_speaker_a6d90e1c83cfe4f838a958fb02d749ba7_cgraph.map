@@ -1,0 +1,12 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.RefreshPlayback" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.RefreshPlayback">
+<area shape="rect" id="Node000001" title="Refreshes playback queue to play next available clip if possible." alt="" coords="5,88,200,131"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_player.html#a5d9e798c01ffcaea3020c59e660eab95" title="A string returned to describe any reasons playback is currently unavailable." alt="" coords="261,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,85,247,57,269,50,271,56,248,63,167,90"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_player.html#a3816d7d394ba5a73b742d5007537737f" title="Stops previous playback if applicable, sets clip stream and begins local playback." alt="" coords="248,96,476,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,107,232,107,232,112,200,112"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a16b6845b1734deb0207e1927306825a1" title="Resume playback for current and future audio clips." alt="" coords="280,147,444,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="200,129,265,144,264,149,199,134"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="319,97,311,87,316,77,333,71,362,69,393,72,409,79,407,84,392,77,362,75,334,77,319,82,316,87,323,94"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_player.html#a2790fbf417254ef38bc0be236cc92203" title="Stops playback &amp; removes the current clip reference." alt="" coords="524,96,753,123"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="477,107,508,107,508,112,477,112"/>
+</map>

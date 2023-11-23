@@ -1,0 +1,23 @@
+<map id="Oculus.Interaction.PoseDetection.FingerFeatureStateProvider" name="Oculus.Interaction.PoseDetection.FingerFeatureStateProvider">
+<area shape="rect" id="Node000001" title="Interprets finger feature values using FingerShapes and uses the given FingerFeatureStateThresholds t..." alt="" coords="1247,128,1467,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="932,5,1041,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1057,31,1097,41,1161,58,1224,80,1318,125,1315,130,1222,85,1160,63,1096,47,1056,37"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html" title=" " alt="" coords="896,56,1077,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1093,83,1224,108,1287,125,1285,130,1223,113,1092,88"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="941,107,1032,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1048,122,1247,138,1247,143,1048,127"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="877,157,1096,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1112,166,1223,157,1247,155,1247,161,1224,163,1112,172"/>
+<area shape="rect" id="Node000006" href="$struct_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_dictionary_1_1_hand_finger_state.html" title=" " alt="" coords="373,105,664,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="680,135,853,153,877,157,876,162,853,159,679,141"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_state_provider.html" title=" " alt="" coords="5,97,244,156"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="260,124,372,124,372,129,260,129"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_shapes.html" title=" " alt="" coords="877,224,1096,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1100,217,1223,187,1285,169,1287,174,1224,192,1102,223"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="492,240,545,267"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="561,251,853,249,877,249,877,254,853,255,561,256"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_input_1_1_read_only_hand_joint_poses.html" title=" " alt="" coords="901,291,1073,333"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1074,283,1096,276,1160,258,1222,234,1278,202,1325,169,1329,173,1281,206,1224,238,1162,263,1097,281,1075,288"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="440,299,597,325"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="612,309,900,309,900,315,612,315"/>
+</map>

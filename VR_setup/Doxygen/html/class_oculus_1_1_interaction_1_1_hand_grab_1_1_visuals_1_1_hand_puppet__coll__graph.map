@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.Visuals.HandPuppet" name="Oculus.Interaction.HandGrab.Visuals.HandPuppet">
+<area shape="rect" id="Node000001" title="This class is a visual representation of a rigged hand (typically a skin&#45;mesh renderer) that can move..." alt="" coords="51,112,243,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,50,132,110,127,113,78,54"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_joint_collection.html" title="A collection of joint maps to quick access the joints that are actually available in the hand rig...." alt="" coords="139,5,331,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,62,166,113,162,110,206,58"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html" title="Class for performing web requests using UnityWebRequest." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="Node000001" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_v_request.html" title=" " alt="" coords="260,5,486,32"/>
+<area shape="poly" id="edge1107_Node000000_Node000001" title=" " alt="" coords="227,16,259,16,259,21,227,21"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_t_t_s_v_request.html" title=" " alt="" coords="534,5,783,32"/>
+<area shape="poly" id="edge1108_Node000001_Node000002" title=" " alt="" coords="502,16,533,16,533,21,502,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Meta.Voice.Hub.Content.SamplesPage" name="Meta.Voice.Hub.Content.SamplesPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,254,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,128,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,42,121,78,117,81,87,46"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_page_info.html" title=" " alt="" coords="152,5,227,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,46,142,81,138,78,167,42"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="OVRPlugin.EyeGazesStateInternal" name="OVRPlugin.EyeGazesStateInternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,384,240,411"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_eye_gaze_state.html" title=" " alt="" coords="41,277,216,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,319,131,384,126,384,126,319"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_posef.html" title=" " alt="" coords="67,187,190,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,229,131,277,126,277,126,229"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_plugin_1_1_quatf.html" title=" " alt="" coords="68,96,189,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,138,131,186,126,186,126,138"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="102,5,155,32"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="89,37,46,61,27,77,13,97,8,111,10,124,17,136,28,148,59,168,93,184,90,188,56,173,25,152,13,140,5,126,3,111,8,95,24,74,43,56,86,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,48,131,95,126,95,126,48"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="213,96,350,123"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="165,38,261,93,258,98,162,42"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="252,134,202,165,156,189,154,184,199,160,249,129"/>
+</map>

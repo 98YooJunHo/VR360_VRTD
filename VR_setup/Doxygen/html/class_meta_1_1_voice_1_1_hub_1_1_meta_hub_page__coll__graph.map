@@ -1,0 +1,9 @@
+<map id="Meta.Voice.Hub.MetaHubPage" name="Meta.Voice.Hub.MetaHubPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,80,300,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,37,177,77,175,82,100,42"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_meta_hub_page.html" title=" " alt="" coords="147,5,253,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,48,203,80,197,80,197,48"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_page_info.html" title=" " alt="" coords="278,5,352,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,43,222,82,219,77,280,38"/>
+</map>

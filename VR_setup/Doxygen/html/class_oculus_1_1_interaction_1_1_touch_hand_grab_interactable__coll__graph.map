@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.TouchHandGrabInteractable" name="Oculus.Interaction.TouchHandGrabInteractable">
+<area shape="rect" id="Node000001" title="TouchHandGrabInteractable provides a hand&#45;specific grab interactable that owns a set of colliders tha..." alt="" coords="338,51,503,93"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="5,5,203,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,45,337,60,337,65,218,51"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_collider_group.html" title=" " alt="" coords="17,88,191,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,95,337,79,337,84,206,100"/>
+</map>

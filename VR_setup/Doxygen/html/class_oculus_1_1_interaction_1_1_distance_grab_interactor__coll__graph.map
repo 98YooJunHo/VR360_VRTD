@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.DistanceGrabInteractor" name="Oculus.Interaction.DistanceGrabInteractor">
+<area shape="rect" id="Node000001" title="This interactor allows grabbing objects at a distance and will move them using configurable IMovement..." alt="" coords="644,131,826,173"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="205,5,388,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,42,510,60,621,89,663,107,700,128,698,132,661,112,619,95,509,65,403,48"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_distance_interactor.html" title=" " alt="" coords="232,88,361,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,98,492,102,621,116,670,128,668,133,620,121,492,107,377,103"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,88,112,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,99,231,99,231,104,127,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="251,139,342,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="358,149,644,149,644,155,358,155"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_distant_candidate_computer.html" title=" " alt="" coords="161,189,432,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="448,200,620,171,644,166,644,172,621,176,449,205"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="201,288,393,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="403,282,510,257,566,240,619,219,663,196,702,172,705,176,666,201,621,224,567,245,511,262,405,287"/>
+</map>

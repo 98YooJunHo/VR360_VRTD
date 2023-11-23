@@ -1,0 +1,5 @@
+<map id="Meta.Conduit.HandleEntityResolutionFailure" name="Meta.Conduit.HandleEntityResolutionFailure">
+<area shape="rect" id="Node000001" title="Triggers a method to be executed if it error happens." alt="" coords="5,80,182,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,48,96,80,91,80,91,48"/>
+</map>

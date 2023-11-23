@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.OneGrabPhysicsJointTransformer.AddJoint" name="Oculus.Interaction.OneGrabPhysicsJointTransformer.AddJoint">
+<area shape="rect" id="Node000001" title="Attaches the grabbable to a rigidbody using a joint. It will use the desired joint configuration set ..." alt="" coords="5,80,223,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_one_grab_physics_joint_transformer.html#a500578f6cf53ae993086ceafe9f33e68" title="Copy all the properties of a ConfigurableJoint onto a new one." alt="" coords="271,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,77,289,50,290,55,195,82"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_one_grab_physics_joint_transformer.html#a10c5c470dce26f579f0d623425ffd13a" title="When no custom joint is specified, this joint is used. An unbreakable Fixed joint without Preprocessi..." alt="" coords="282,72,487,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,99,266,99,266,104,223,104"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_one_grab_physics_joint_transformer.html#a3dd9a5f1bda89b9ce3842baaa3dcd497" title="Destroys the current joint. Ideally it should just disable it, but Unity does not allow it." alt="" coords="278,155,491,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,121,272,147,271,152,186,126"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Input.ControllerRef" name="Oculus.Interaction.Input.ControllerRef">
+<area shape="rect" id="Node000001" title="ControllerRef is a utility component that delegates all of its IController implementation to the prov..." alt="" coords="280,99,442,141"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,5,141,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,35,169,41,257,74,311,96,309,101,255,78,167,47,146,40"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_controller.html" title=" " alt="" coords="47,56,126,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,77,280,102,279,108,141,82"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="41,107,132,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,117,279,117,279,123,147,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="41,157,132,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="147,158,255,139,279,134,280,139,256,144,148,163"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_controller.html" title=" " alt="" coords="5,208,168,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,200,255,172,321,139,323,144,257,177,180,205"/>
+</map>

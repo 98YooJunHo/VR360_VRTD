@@ -1,0 +1,14 @@
+<map id="OVRLipSyncContext.DebugShowVisemesAndLaughter" name="OVRLipSyncContext.DebugShowVisemesAndLaughter">
+<area shape="rect" id="Node000001" title="Print the visemes and laughter score to game window." alt="" coords="5,39,220,81"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_debug_console.html#a47a5ea8e58baf26e1c9892131ef9c446" title="Clear this instance." alt="" coords="268,17,482,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,45,252,42,253,47,220,51"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_debug_console.html#a64b0f548fd21e02a746863a32c169669" title="Log the specified message." alt="" coords="272,72,478,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="220,68,257,71,256,77,220,73"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_debug_console.html#a3b41e35627b5102bd737bb80f320358e" title="Clears the messages." alt="" coords="530,5,744,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,26,515,26,515,31,483,32"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_debug_console.html#aa3e6bcfc16a4fc79b472d4505d90a665" title="Display this instance." alt="" coords="792,47,1020,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="745,37,778,42,778,47,745,43"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_debug_console.html#a69814f0df859c61d0ea9c1ceb950851e" title="Adds the message." alt="" coords="534,72,741,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="478,86,518,87,518,92,478,91"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="741,78,778,73,779,78,742,83"/>
+</map>

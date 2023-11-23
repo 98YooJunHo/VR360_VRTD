@@ -1,0 +1,5 @@
+<map id="Meta.Voice.NLPRequest.Send" name="Meta.Voice.NLPRequest.Send">
+<area shape="rect" id="Node000001" title="Applies the specified text to the options if possible &amp; then submits." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_voice_request.html#a8688e3baff8c970cfc1361f72750f504" title="Begin the transmission of data." alt="" coords="252,5,461,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,16,236,16,236,21,204,21"/>
+</map>

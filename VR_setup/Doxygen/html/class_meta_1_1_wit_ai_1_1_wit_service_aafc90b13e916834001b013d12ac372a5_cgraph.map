@@ -1,0 +1,10 @@
+<map id="Meta.WitAi.WitService.HandleComplete" name="Meta.WitAi.WitService.HandleComplete">
+<area shape="rect" id="Node000001" title="Handle request completion." alt="" coords="5,39,202,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="57,39,55,29,63,20,79,14,104,12,130,14,145,21,143,26,128,20,103,17,80,19,66,24,61,30,62,38"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a431babc1a2053f914c1a0250b6be8f85" title="Main thread call to handle partial response callbacks." alt="" coords="250,5,446,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="202,44,234,40,234,45,202,49"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#ac309f2334312fb256b79a9d9c1732c00" title="Main thread call to handle result callbacks." alt="" coords="250,72,446,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="202,71,234,75,234,80,202,76"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="494,80,627,107"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="446,91,479,91,479,96,446,96"/>
+</map>

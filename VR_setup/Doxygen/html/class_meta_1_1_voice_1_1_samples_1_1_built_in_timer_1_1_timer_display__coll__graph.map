@@ -1,0 +1,11 @@
+<map id="Meta.Voice.Samples.BuiltInTimer.TimerDisplay" name="Meta.Voice.Samples.BuiltInTimer.TimerDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,203,195,245"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,116,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,45,26,66,14,89,8,114,13,138,24,157,39,173,73,200,70,204,36,177,20,160,8,140,3,113,9,87,22,63,37,42"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_samples_1_1_built_in_timer_1_1_timer_controller.html" title="Represents a countdown timer." alt="" coords="23,96,195,139"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="76,45,101,94,96,97,72,47"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,154,112,202,106,202,106,154"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="150,5,196,32"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="196,43,202,55,218,97,218,117,210,140,198,160,183,177,148,204,145,200,179,173,194,157,205,138,213,116,213,98,197,57,191,46"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="159,46,125,97,121,94,154,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.WitUnityRequest.HandleSend" name="Meta.WitAi.Requests.WitUnityRequest.HandleSend">
+<area shape="rect" id="Node000001" title="Performs a wit message request." alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_unity_request.html#a04eaade52eead2a24cec8ddcdd39b617" title="Set status code prior to handling response." alt="" coords="253,5,471,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+</map>

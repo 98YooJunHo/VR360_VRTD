@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.ISelector" name="Oculus.Interaction.ISelector">
+<area shape="rect" id="Node000001" title="ISelector defines an input abstraction that can broadcast select and release events." alt="" coords="5,147,187,173"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_active_state_selector.html" title=" " alt="" coords="245,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,134,173,96,233,58,258,46,260,51,236,62,176,100,126,139"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_controller_selector.html" title=" " alt="" coords="235,72,420,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,139,250,113,251,118,161,144"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_index_pinch_safe_release_selector.html" title="This Selector selects for a frame when the Pinch is released, as opposed to when it is pinching...." alt="" coords="240,139,415,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,157,239,157,239,163,202,163"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_index_pinch_selector.html" title=" " alt="" coords="247,205,408,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,176,251,202,250,207,159,181"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_virtual_selector.html" title="This Virtual Selector can provide interactions with a sample selector that can be toggled from within..." alt="" coords="244,272,411,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="126,181,176,220,236,258,260,269,258,274,233,262,173,224,123,186"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.OneGrabTranslateTransformer" name="Oculus.Interaction.OneGrabTranslateTransformer">
+<area shape="rect" id="Node000001" title="A Transformer that translates the target, with optional parent&#45;space constraints." alt="" coords="696,115,878,157"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="320,5,429,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,21,554,37,614,50,673,68,718,89,756,112,754,117,715,93,671,73,613,55,553,42,444,27"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_transformer.html" title=" " alt="" coords="328,56,421,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="436,69,547,77,673,96,728,112,727,117,671,101,546,82,436,74"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_one_grab_translate_transformer_1_1_one_grab_translate_constraints.html" title=" " alt="" coords="249,107,500,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,133,696,133,696,139,516,139"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_float_constraint.html" title=" " alt="" coords="5,115,165,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="180,133,248,133,248,139,180,139"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="329,189,420,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="435,198,546,190,671,171,727,155,728,160,673,176,546,195,436,203"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_grabbable.html" title=" " alt="" coords="278,240,471,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="486,249,578,237,625,227,671,212,720,186,760,156,763,160,723,191,673,217,627,232,579,243,486,254"/>
+</map>

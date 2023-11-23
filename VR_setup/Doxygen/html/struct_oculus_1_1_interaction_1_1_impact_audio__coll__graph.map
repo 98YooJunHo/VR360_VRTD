@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.ImpactAudio" name="Oculus.Interaction.ImpactAudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,235,234,277"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_audio_trigger.html" title=" " alt="" coords="68,112,231,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,170,152,234,147,234,147,170"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,43,135,110,131,113,77,46"/>
+<area shape="rect" id="Node000004" href="$struct_oculus_1_1_interaction_1_1_min_max_pair.html" title=" " alt="" coords="139,5,338,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,46,168,113,164,110,217,43"/>
+</map>

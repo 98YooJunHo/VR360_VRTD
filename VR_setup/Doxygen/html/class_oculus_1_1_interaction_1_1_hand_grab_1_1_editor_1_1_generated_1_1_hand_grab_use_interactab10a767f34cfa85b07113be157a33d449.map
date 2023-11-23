@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.Editor.Generated.HandGrabUseInteractableEditorFallback" name="Oculus.Interaction.HandGrab.Editor.Generated.HandGrabUseInteractableEditorFallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,277,213"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_simplified_editor.html" title=" " alt="" coords="85,80,197,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,123,144,154,138,154,138,123"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,5,205,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,48,144,80,138,80,138,48"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Meta.WitAi.Lib.Mic.StartRecording" name="Meta.WitAi.Lib.Mic.StartRecording">
+<area shape="rect" id="Node000001" title="Starts to stream the input of the current Mic device." alt="" coords="5,5,170,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="487,13,620,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,24,471,24,471,29,170,29"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_lib_1_1_mic.html#adbd8f778174975384db61620257ce302" title="Ends the Mic stream." alt="" coords="218,39,439,65"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,33,202,36,202,41,170,38"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="439,37,471,33,472,39,439,42"/>
+</map>

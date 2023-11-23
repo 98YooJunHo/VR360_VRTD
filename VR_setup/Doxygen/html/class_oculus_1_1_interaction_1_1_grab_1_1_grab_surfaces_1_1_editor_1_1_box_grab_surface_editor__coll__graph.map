@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.Editor.BoxGrabSurfaceEditor" name="Oculus.Interaction.Grab.GrabSurfaces.Editor.BoxGrabSurfaceEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,325,243,384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="39,227,166,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,268,121,325,116,326,105,269"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface.html" title="This GrabSurface defines a Rectangle around which the grip point is valid. Since the grip point might..." alt="" coords="191,219,390,261"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,272,168,327,165,323,246,268"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="109,120,219,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,155,267,216,264,220,189,159"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="243,120,339,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="293,162,293,218,288,218,288,162"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface_data.html" title=" " alt="" coords="363,112,589,155"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="427,165,329,220,326,216,425,160"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="381,5,462,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="436,45,468,110,464,113,432,47"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="486,5,578,32"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="521,47,489,113,484,110,517,45"/>
+</map>

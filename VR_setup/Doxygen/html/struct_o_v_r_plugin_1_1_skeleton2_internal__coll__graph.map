@@ -1,0 +1,18 @@
+<map id="OVRPlugin.Skeleton2Internal" name="OVRPlugin.Skeleton2Internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,704,311,731"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_bone.html" title=" " alt="" coords="98,379,217,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,421,173,535,185,607,202,679,212,703,207,705,197,681,179,608,167,536,156,421"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_posef.html" title=" " alt="" coords="80,203,203,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,245,159,378,154,379,141,245"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_plugin_1_1_quatf.html" title=" " alt="" coords="68,96,188,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,138,116,158,118,178,132,201,127,204,113,180,111,158,115,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="101,5,155,32"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="88,37,56,52,27,72,16,83,10,95,8,108,12,121,32,148,57,170,110,200,107,205,54,174,28,152,8,124,3,108,5,94,12,80,23,68,53,47,86,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,48,131,95,125,95,125,48"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="213,96,350,123"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="164,38,261,93,258,98,162,42"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="240,133,215,149,199,164,185,181,158,204,155,200,181,177,195,160,211,145,238,128"/>
+<area shape="rect" id="Node000007" href="$struct_o_v_r_plugin_1_1_bone_capsule.html" title=" " alt="" coords="204,253,370,280"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="285,138,289,253,284,253,280,138"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="294,295,303,366,306,464,303,519,295,575,281,629,260,681,250,695,238,705,235,701,246,691,255,679,276,628,289,574,297,518,300,464,297,366,289,296"/>
+</map>

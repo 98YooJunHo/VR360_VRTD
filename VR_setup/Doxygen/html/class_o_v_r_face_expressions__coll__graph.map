@@ -1,0 +1,16 @@
+<map id="OVRFaceExpressions" name="OVRFaceExpressions">
+<area shape="rect" id="Node000001" title="This class manages the face expressions data." alt="" coords="647,161,797,188"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="307,5,417,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,33,525,61,576,80,624,103,670,131,706,159,703,163,667,136,622,108,574,85,523,66,431,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="293,56,431,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="447,93,624,139,683,158,682,163,622,144,445,98"/>
+<area shape="rect" id="Node000004" href="$interface_o_v_r_face_expressions_1_1_weight_provider.html" title=" " alt="" coords="287,123,437,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,149,647,166,647,171,452,154"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_plugin.html" title=" " alt="" coords="319,253,405,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="420,266,516,261,570,252,622,238,668,213,704,186,707,191,671,218,624,242,571,257,517,266,420,271"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,291,59,317"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="40,275,56,246,82,222,304,202,646,177,647,183,304,208,84,226,60,250,45,278"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="42,332,57,368,69,385,84,398,128,420,167,429,186,428,205,422,246,398,256,387,260,375,259,348,256,319,260,305,270,290,292,275,318,267,319,272,295,280,274,294,265,307,262,320,264,348,265,376,261,389,249,402,208,427,187,433,167,434,126,425,81,402,65,388,52,371,37,334"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="272,304,452,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="467,320,546,312,585,301,622,286,652,264,677,237,711,187,716,190,682,240,655,268,624,290,587,306,546,317,468,325"/>
+</map>

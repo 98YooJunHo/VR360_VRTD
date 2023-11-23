@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Audio.UnityAudioClipStream.SetTotalSamples" name="Meta.Voice.Audio.UnityAudioClipStream.SetTotalSamples">
+<area shape="rect" id="Node000001" title="Calls on occassions where the total samples are known. Either prior to a disk load or following a str..." alt="" coords="5,5,197,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="245,13,378,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
+</map>

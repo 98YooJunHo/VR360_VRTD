@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.VLog.Log" name="Meta.WitAi.VLog.Log">
+<area shape="rect" id="Node000001" title="Filters out unwanted logs, appends category information and performs UnityEngine.Debug...." alt="" coords="5,80,151,107"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#ae215cf5289e0d580a8f7d226f34914ba" title="Determines a category from the script name that called the previous method." alt="" coords="199,5,383,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,77,205,51,207,56,124,82"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a7952036c30f75ba0c5e035546075f69d" title="Determines a category from the script name that called the previous method." alt="" coords="200,72,382,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,91,184,91,184,96,151,96"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_v_log.html#afb33898fef6f5df3df6bd0047aa7ae7f" title="Get hex value for each log type." alt="" coords="200,139,382,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,105,207,131,205,136,123,110"/>
+</map>

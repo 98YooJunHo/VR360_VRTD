@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;">
+<area shape="rect" id="Node000001" title="Interactor provides a base template for any kind of interaction. Interactions can be wholly defined b..." alt="" coords="25,155,213,197"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="33,245,204,304"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,213,121,245,116,245,116,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,118,106,153,102,156,76,121"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="138,80,217,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,121,136,156,131,153,157,118"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="62,5,168,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,42,169,78,165,81,134,46"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="191,5,289,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,46,190,81,186,78,217,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.InterfaceSupport.InterfacePicker" name="Oculus.Interaction.InterfaceSupport.InterfacePicker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,96,206,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,44,105,94,101,97,70,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="130,5,222,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,47,131,97,127,94,158,44"/>
+</map>

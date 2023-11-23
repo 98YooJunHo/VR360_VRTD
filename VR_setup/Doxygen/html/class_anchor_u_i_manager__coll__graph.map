@@ -1,0 +1,24 @@
+<map id="AnchorUIManager" name="AnchorUIManager">
+<area shape="rect" id="Node000001" title="Manages UI of anchor sample." alt="" coords="70,375,194,401"/>
+<area shape="rect" id="Node000004" href="$class_anchor.html" title="Specific functionality for spawned anchors." alt="" coords="90,497,153,524"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="83,411,69,427,61,449,69,472,79,485,93,495,89,499,75,489,64,475,56,449,64,424,79,408"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,172,115,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,214,60,279,67,316,81,349,92,362,106,372,103,376,88,366,76,352,61,317,54,280,54,214"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="53,214,39,265,29,332,28,369,31,405,40,440,56,472,71,488,91,498,88,503,68,492,51,475,35,441,26,406,23,369,24,332,34,264,48,212"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_spatial_anchor.html" title="Represents a spatial anchor." alt="" coords="235,375,365,401"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="74,212,77,222,86,260,88,292,95,321,103,334,116,348,160,362,235,375,234,380,159,367,113,353,99,338,90,323,83,293,81,261,72,223,69,214"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,172,239,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,200,155,210,141,224,132,243,126,263,122,306,125,345,131,374,126,375,120,345,117,306,120,262,127,241,137,221,151,206,169,196"/>
+<area shape="poly" id="edge13_Node000005_Node000003" title=" " alt="" coords="207,214,202,245,200,280,205,316,220,349,232,362,249,372,246,376,229,366,215,352,200,318,195,280,197,244,202,214"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,483,140,473,143,454,142,435,134,402,139,401,147,434,148,454,145,474,141,485"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="293,417,276,448,251,475,227,490,202,500,153,510,152,504,200,494,225,485,248,471,272,444,288,414"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_spatial_anchor_1_1_save_options.html" title="Represents options for saving OVRSpatialAnchor." alt="" coords="284,172,492,199"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="412,210,417,222,429,258,437,290,434,320,417,352,394,372,367,383,365,378,391,367,413,349,429,318,431,290,424,260,412,224,407,212"/>
+<area shape="rect" id="Node000007" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="462,81,549,108"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="478,120,406,174,403,169,475,116"/>
+<area shape="rect" id="Node000009" href="$struct_o_v_r_spatial_anchor_1_1_erase_options.html" title="Represents options for erasing OVRSpatialAnchor." alt="" coords="516,172,729,199"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="536,116,607,169,604,174,533,120"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="420,5,591,32"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="508,47,508,81,503,81,503,47"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="623,214,618,247,608,284,590,322,563,353,529,368,478,378,366,388,365,382,477,373,527,363,560,349,586,319,603,283,613,246,618,213"/>
+</map>

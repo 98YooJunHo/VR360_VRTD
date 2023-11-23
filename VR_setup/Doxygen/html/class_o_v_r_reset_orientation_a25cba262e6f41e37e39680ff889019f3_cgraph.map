@@ -1,0 +1,7 @@
+<map id="OVRResetOrientation.Update" name="OVRResetOrientation.Update">
+<area shape="rect" id="Node000001" title="Check input and reset orientation if necessary See the input mapping setup in the Unity Integration g..." alt="" coords="5,31,197,57"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a9c2ccada669b0054fd25a82e84d659c9" title="Gets the current down state of the given virtual button mask with the given controller mask...." alt="" coords="267,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,31,251,25,252,30,198,36"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_display.html#a1c09006fa35ba398fa166c87573f56a7" title="Recenters the head pose." alt="" coords="245,56,423,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,52,229,55,229,61,197,57"/>
+</map>

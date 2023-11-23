@@ -1,0 +1,13 @@
+<map id="OVRLipSyncContextMorphTarget" name="OVRLipSyncContextMorphTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,341,219,368"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="76,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,47,119,251,115,341,110,341,113,251,126,47"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_context_base.html" title="OVRLipSyncContextBase interfaces into the Oculus phoneme recognizer. This component should be added i..." alt="" coords="128,251,299,277"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="138,47,150,104,169,170,189,214,208,249,204,252,184,217,164,172,145,105,133,48"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync.html" title="OVRLipSync interfaces into the Oculus lip sync engine. This component should be added into the scene ..." alt="" coords="179,144,275,171"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="153,43,162,54,221,142,217,145,158,58,149,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,290,128,343,125,339,186,286"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="226,186,218,251,212,250,221,186"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="209,5,263,32"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="237,48,230,144,225,143,231,48"/>
+</map>

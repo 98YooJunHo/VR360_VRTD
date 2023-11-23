@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.AudioStreamHandler.CanDecodeType" name="Meta.WitAi.Requests.AudioStreamHandler.CanDecodeType">
+<area shape="rect" id="Node000001" title="Currently can only decode pcm." alt="" coords="5,5,212,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html#aa6a8d4cdb80e96bca795d1f4110c3bca" title="Determine decode type based on audio type." alt="" coords="260,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,24,244,24,244,29,212,29"/>
+</map>

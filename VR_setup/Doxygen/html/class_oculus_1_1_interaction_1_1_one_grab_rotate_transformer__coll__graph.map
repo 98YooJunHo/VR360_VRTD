@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.OneGrabRotateTransformer" name="Oculus.Interaction.OneGrabRotateTransformer">
+<area shape="rect" id="Node000001" title="A Transformer that rotates the target about an axis. Updates apply relative rotational changes of a G..." alt="" coords="711,115,893,157"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="331,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,27,566,48,688,81,759,112,757,116,686,87,564,53,455,32"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_transformer.html" title=" " alt="" coords="339,56,432,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="447,75,687,112,711,116,710,121,687,117,447,80"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_one_grab_rotate_transformer_1_1_one_grab_rotate_constraints.html" title=" " alt="" coords="275,107,496,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,133,710,133,710,139,512,139"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_float_constraint.html" title=" " alt="" coords="5,115,165,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,133,274,133,274,139,181,139"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_grabbable.html" title=" " alt="" coords="289,189,482,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="497,184,687,155,710,151,711,156,687,160,497,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="340,257,431,284"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="447,271,500,271,561,266,625,254,686,234,715,217,741,197,781,156,785,160,744,201,717,222,688,238,626,259,562,271,500,276,447,277"/>
+</map>

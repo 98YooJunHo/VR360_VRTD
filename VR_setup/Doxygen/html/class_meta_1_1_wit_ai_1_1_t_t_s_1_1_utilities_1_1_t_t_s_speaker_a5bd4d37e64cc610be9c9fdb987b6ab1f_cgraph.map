@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.SpeakQueuedAsync" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.SpeakQueuedAsync">
+<area shape="rect" id="Node000001" title="Load a tts clip using the specified text phrases, disk cache settings &amp; playback events and then wait..." alt="" coords="5,39,221,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a1e55f8c0b9d9eead982a9f955122e9f4" title="Set a voice override for future requests." alt="" coords="278,5,475,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,44,262,38,263,44,221,49"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a8ababca461e90c2efa0f25750f493a8e" title="Load a tts clip using the specified text phrases, disk cache settings &amp; playback events and then wait..." alt="" coords="269,72,484,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,71,254,75,253,80,221,76"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a8b086101f0e25b6bc4a2795a96b72d89" title="Load a tts clip using the specified text, disk cache settings &amp; playback events. Cancels all previous..." alt="" coords="532,72,696,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,91,516,91,516,96,485,96"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="OVRSceneSampleController.Update" name="OVRSceneSampleController.Update">
+<area shape="rect" id="Node000001" title="Update this instance." alt="" coords="5,123,195,165"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_scene_sample_controller.html#a9fd112658de1a66e1d509a01e1a3b318" title="Recenter pose." alt="" coords="276,27,465,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,120,293,73,294,78,163,125"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_scene_sample_controller.html#aa4b85be523ca67b0a3f9d0eddc14f9fe" title="Updates the speed and rotation scale multiplier." alt="" coords="243,123,498,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,141,227,141,227,147,195,147"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_scene_sample_controller.html#ae57b6d3bf3125d907eb159791aafd834" title="Updates the vision mode." alt="" coords="276,189,465,232"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,163,267,182,266,188,189,169"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_display.html#a1c09006fa35ba398fa166c87573f56a7" title="Recenters the head pose." alt="" coords="564,5,742,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,36,548,27,549,32,466,41"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_player_controller.html#a78d025669f94edceac2d9a2e533d3f0c" title="Gets the move scale multiplier." alt="" coords="555,56,751,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,119,544,100,546,105,464,125"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_player_controller.html#a6398eaeae9a9a7cb2bcf05130ce024de" title="Gets the rotation scale multiplier." alt="" coords="546,123,760,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="499,141,530,141,530,147,499,147"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_player_controller.html#af1fc4270fae3033baec271faf3f127e1" title="Sets the move scale multiplier." alt="" coords="556,189,751,232"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="464,163,546,183,544,188,463,169"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_player_controller.html#abbfe1cf986525a06c85c2808ca86dd3e" title="Sets the rotation scale multiplier." alt="" coords="547,256,760,299"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="479,164,500,175,516,192,525,209,532,226,548,242,554,246,551,251,544,246,528,229,520,212,512,195,496,179,476,168"/>
+</map>

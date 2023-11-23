@@ -1,0 +1,23 @@
+<map id="Meta.WitAi.Windows.WitPropertyDrawer" name="Meta.WitAi.Windows.WitPropertyDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,239,380,281"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_confidence_range_drawer.html" title=" " alt="" coords="438,5,649,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,224,312,185,343,140,382,96,426,58,447,46,450,51,430,62,385,100,347,143,316,188,293,226"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_application_property_drawer.html" title=" " alt="" coords="428,72,659,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,226,356,174,390,147,427,124,452,113,455,118,429,129,393,152,360,178,305,229"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_composer_info_property_drawer.html" title=" " alt="" coords="431,139,657,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="333,229,427,191,462,179,463,184,429,196,335,234"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_endpoint_config_drawer.html" title=" " alt="" coords="435,205,653,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="395,242,434,237,435,243,396,248"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_entity_property_drawer.html" title=" " alt="" coords="443,272,644,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="396,272,443,278,442,284,395,278"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_intent_property_drawer.html" title=" " alt="" coords="444,339,643,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="335,286,429,324,463,336,462,341,427,329,333,291"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_trait_property_drawer.html" title=" " alt="" coords="448,405,640,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="305,291,360,342,393,368,429,391,455,402,452,407,427,396,390,373,356,346,301,294"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_voice_info_property_drawer.html" title=" " alt="" coords="444,472,644,515"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="293,294,316,332,347,377,385,420,430,458,450,469,447,474,426,462,382,424,343,380,312,335,289,296"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,247,116,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,257,163,257,163,263,131,263"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_windows_1_1_voice_application_detail_provider.html" title=" " alt="" coords="707,72,901,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="675,91,707,91,707,96,675,96"/>
+</map>

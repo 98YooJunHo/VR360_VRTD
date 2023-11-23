@@ -1,0 +1,17 @@
+<map id="OVRInput.OVRControllerBase" name="OVRInput.OVRControllerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="607,180,801,207"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_button_map.html" title=" " alt="" coords="272,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,51,471,57,529,77,584,103,643,141,688,177,685,181,640,146,582,108,527,82,469,63,451,56"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_touch_map.html" title=" " alt="" coords="272,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="471,117,584,149,666,177,664,182,582,155,469,122"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_near_touch_map.html" title=" " alt="" coords="272,139,470,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,169,607,181,606,186,485,174"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_axis1_d_map.html" title=" " alt="" coords="272,205,470,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="485,213,606,200,607,206,486,218"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_axis2_d_map.html" title=" " alt="" coords="272,272,470,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="473,265,582,233,665,205,667,210,584,239,474,270"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_plugin.html" title=" " alt="" coords="328,340,414,367"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="428,343,503,327,544,313,582,296,615,275,645,250,689,205,693,209,648,254,618,280,584,301,545,318,505,332,429,349"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,340,59,367"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="74,351,328,351,328,356,74,356"/>
+</map>

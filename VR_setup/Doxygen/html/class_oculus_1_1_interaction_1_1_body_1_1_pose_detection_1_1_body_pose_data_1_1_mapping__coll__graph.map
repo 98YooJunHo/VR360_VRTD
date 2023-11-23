@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.PoseDetection.BodyPoseData.Mapping" name="Oculus.Interaction.Body.PoseDetection.BodyPoseData.Mapping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,112,293,155"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_skeleton_mapping.html" title=" " alt="" coords="5,13,130,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,49,150,110,146,113,88,53"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_collections_1_1_enumerable_hash_set.html" title=" " alt="" coords="153,5,385,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,61,189,113,186,110,237,57"/>
+</map>

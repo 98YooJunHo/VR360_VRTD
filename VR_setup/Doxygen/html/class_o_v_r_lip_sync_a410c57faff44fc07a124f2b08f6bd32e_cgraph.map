@@ -1,0 +1,5 @@
+<map id="OVRLipSync.Awake" name="OVRLipSync.Awake">
+<area shape="rect" id="Node000001" title="Awake this instance." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="193,5,357,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,16,177,16,177,21,145,21"/>
+</map>

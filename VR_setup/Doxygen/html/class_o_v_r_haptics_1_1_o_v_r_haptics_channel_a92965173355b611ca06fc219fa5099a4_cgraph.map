@@ -1,0 +1,7 @@
+<map id="OVRHaptics.OVRHapticsChannel.Mix" name="OVRHaptics.OVRHapticsChannel.Mix">
+<area shape="rect" id="Node000001" title="Adds the specified clip to play simultaneously to the currently&#45;playing clip(s)." alt="" coords="5,5,247,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_haptics_1_1_o_v_r_haptics_output.html#ae84d6c944df0a602c0de2b35c45f06eb" title="Adds the samples from the specified clip to the ones in the currently&#45;playing clip(s)." alt="" coords="295,5,528,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,16,279,16,279,21,247,21"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_haptics_clip.html#a60e1b457d28f375908cac1e2ae8eec23" title="Adds the specified sample to the end of the clip." alt="" coords="576,5,770,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,16,560,16,560,21,529,21"/>
+</map>

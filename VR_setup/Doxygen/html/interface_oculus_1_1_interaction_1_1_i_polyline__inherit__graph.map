@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.IPolyline" name="Oculus.Interaction.IPolyline">
+<area shape="rect" id="Node000001" title="Defines an sequence of points in 3D space." alt="" coords="16,5,196,32"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_teleport_arc_gravity.html" title="This is a parabolic shot. Gravity and speed are used to calculate the points along the arc...." alt="" coords="5,80,207,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ONSPReflectionZone.OnTriggerEnter" name="ONSPReflectionZone.OnTriggerEnter">
+<area shape="rect" id="Node000001" title="Raises the trigger enter event." alt="" coords="5,39,209,81"/>
+<area shape="rect" id="Node000002" href="$class_o_n_s_p_reflection_zone.html#ad44f579fe43eafa1296fc3fbb2ba8fe0" title="Checks for audio listener." alt="" coords="274,5,459,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,44,258,38,259,43,209,50"/>
+<area shape="rect" id="Node000003" href="$class_o_n_s_p_reflection_zone.html#a150462ab5bd12709b66cca8fac896f37" title="Pushs the current mixer snapshot onto the snapshot stack." alt="" coords="257,72,476,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,70,241,75,241,80,209,76"/>
+<area shape="rect" id="Node000004" href="$class_o_n_s_p_reflection_zone.html#a5d0749c6d7863a369c5c763a72e91b43" title="Sets the reflection values. This is done when entering a zone (use zone values)." alt="" coords="524,72,748,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,91,509,91,509,96,476,96"/>
+</map>

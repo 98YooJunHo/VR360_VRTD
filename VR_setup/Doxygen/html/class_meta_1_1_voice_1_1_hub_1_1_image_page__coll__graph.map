@@ -1,0 +1,18 @@
+<map id="Meta.Voice.Hub.ImagePage" name="Meta.Voice.Hub.ImagePage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="899,68,1082,94"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,9,123,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,7,146,6,215,3,269,4,392,14,634,29,875,57,921,64,920,70,874,62,633,35,391,20,269,10,215,8,147,12,138,12"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_hub_1_1_meta_hub_context.html" title=" " alt="" coords="581,68,797,94"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="139,23,329,35,558,57,610,64,609,70,557,62,328,41,138,28"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_hub_1_1_meta_hub_page.html" title=" " alt="" coords="182,126,382,153"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="89,45,126,80,173,112,202,123,200,128,171,117,123,84,85,49"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_page_info.html" title=" " alt="" coords="27,169,101,196"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,178,242,173,391,162,674,128,906,92,907,98,675,133,392,168,242,178,117,184"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="116,169,210,151,211,156,117,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="813,78,898,78,898,84,813,84"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="397,122,557,100,604,92,605,98,558,105,398,127"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_meta_hub_page.html" title=" " alt="" coords="11,110,117,137"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="133,126,181,130,181,135,132,131"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_hub_1_1_meta_hub_context_1_1_scriptable_object_reflection_page.html" title=" " alt="" coords="172,60,391,102"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="407,78,581,78,581,84,407,84"/>
+</map>

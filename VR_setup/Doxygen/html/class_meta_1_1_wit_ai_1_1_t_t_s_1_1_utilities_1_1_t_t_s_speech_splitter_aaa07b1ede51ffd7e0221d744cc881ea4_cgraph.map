@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeechSplitter.OnPreprocessTTS" name="Meta.WitAi.TTS.Utilities.TTSSpeechSplitter.OnPreprocessTTS">
+<area shape="rect" id="Node000001" title="Split each phrase larger than min text length into multiple phrases." alt="" coords="5,5,245,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="293,13,430,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,24,277,24,277,29,245,29"/>
+</map>

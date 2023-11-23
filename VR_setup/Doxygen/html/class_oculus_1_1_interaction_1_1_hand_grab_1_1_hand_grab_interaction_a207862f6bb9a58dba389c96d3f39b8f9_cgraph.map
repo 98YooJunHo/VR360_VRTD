@@ -1,0 +1,6 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabInteraction.GetGrabOffset" name="Oculus.Interaction.HandGrab.HandGrabInteraction.GetGrabOffset">
+<area shape="rect" id="Node000001" title="Calculates the offset from the Wrist to the actual grabbing point defined by the current anchor in th..." alt="" coords="5,29,232,72"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adfdb18e6037038e1568c3a6a9fde175b" title="Get the position/rotation difference between two transforms. Unaffected by scale." alt="" coords="280,29,470,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,48,264,48,264,53,232,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="326,29,325,19,333,10,349,5,375,3,402,5,418,11,417,16,401,10,375,8,351,10,336,15,330,21,332,28"/>
+</map>

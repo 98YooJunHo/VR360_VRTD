@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.FingerFeatureStateProviderRef" name="Oculus.Interaction.FingerFeatureStateProviderRef">
+<area shape="rect" id="Node000001" title="FingerFeatureStateProviderRef is a utility component that delegates all of its IFingerFeatureStatePro..." alt="" coords="146,96,313,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,38,194,93,192,98,94,42"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html" title=" " alt="" coords="139,5,320,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,48,232,95,227,95,227,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="344,5,435,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="357,43,265,98,262,93,354,38"/>
+</map>

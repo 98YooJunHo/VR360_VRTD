@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BezierControlPoint" name="Oculus.Interaction.Grab.GrabSurfaces.BezierControlPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,218,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,48,114,95,109,95,109,48"/>
+</map>

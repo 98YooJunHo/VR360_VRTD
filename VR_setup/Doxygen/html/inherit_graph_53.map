@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_provider.html" title="A simple interface for receiving an AudioClip." alt="" coords="240,5,426,48"/>
+<area shape="rect" id="Node000001" href="$class_meta_1_1_voice_1_1_audio_1_1_unity_audio_clip_stream.html" title="A class for generating and appending to audio clips while streaming." alt="" coords="474,39,665,81"/>
+<area shape="poly" id="edge1026_Node000000_Node000001" title=" " alt="" coords="442,39,474,44,473,49,441,45"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_stream.html" title="An interface to be used for audio clip streams. Samples added to this stream are always decoded to 0f..." alt="" coords="5,72,192,115"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_audio_clip_stream.html" title="A simple abstract class that can be used to simplify the code required for a custom IAudioClipStream." alt="" coords="241,72,425,115"/>
+<area shape="poly" id="edge1027_Node000003_Node000002" title=" " alt="" coords="207,91,241,91,241,96,207,96"/>
+<area shape="poly" id="edge1028_Node000002_Node000001" title=" " alt="" coords="440,76,473,71,474,76,441,81"/>
+</map>

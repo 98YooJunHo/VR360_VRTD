@@ -1,0 +1,14 @@
+<map id="Oculus.Interaction.InteractableColorVisual" name="Oculus.Interaction.InteractableColorVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,81,727,124"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,9,209,5,304,6,406,17,457,27,506,41,550,59,589,78,587,83,547,64,504,47,456,33,405,23,303,12,209,10,130,14"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html" title=" " alt="" coords="175,27,351,69"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="130,26,174,33,174,38,130,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="217,93,308,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="324,103,529,101,529,106,324,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,60,506,80,529,84,528,89,505,85,366,65"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_interactable_color_visual_1_1_color_state.html" title=" " alt="" coords="164,192,361,235"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="376,212,441,204,504,187,533,174,559,157,603,122,606,126,562,161,535,178,506,192,442,209,377,217"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="236,259,289,285"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="305,271,348,269,399,264,453,251,504,231,538,208,568,179,611,123,615,126,572,182,542,212,507,236,455,257,400,269,348,275,305,276"/>
+</map>

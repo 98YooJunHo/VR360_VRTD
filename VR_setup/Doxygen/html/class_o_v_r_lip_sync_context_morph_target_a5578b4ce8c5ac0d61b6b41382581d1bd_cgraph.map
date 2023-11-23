@@ -1,0 +1,16 @@
+<map id="OVRLipSyncContextMorphTarget.CheckForKeys" name="OVRLipSyncContextMorphTarget.CheckForKeys">
+<area shape="rect" id="Node000001" title="Sends the signals." alt="" coords="5,39,223,81"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context_morph_target.html#a9846630aaa5dd94ccbbb520604eabebd" title="Sends the laughter signal." alt="" coords="271,5,488,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,44,255,40,255,45,224,49"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_context_morph_target.html#a32558237d44039037cd3d45e60cad363" title="Sends the viseme signal." alt="" coords="271,72,488,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="224,71,255,75,255,80,223,76"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_context_base.html#a1aa71252254fae5ce45097a782d70dba" title="Sets a given viseme id blend weight to a given amount." alt="" coords="536,5,731,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,24,520,24,520,29,488,29"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync.html#a68f403c474a05e328364540c8c60f32f" title="Sends a signal to the lip&#45;sync engine." alt="" coords="779,47,946,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="732,38,764,43,763,48,731,44"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="994,47,1158,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="946,57,978,57,978,63,946,63"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_lip_sync_context_base.html#a76a56e5d2831a9e56debb8f4064df270" title="Sets a given viseme id blend weight to a given amount." alt="" coords="536,72,731,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="488,91,520,91,520,96,488,96"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="731,76,763,72,764,77,732,82"/>
+</map>

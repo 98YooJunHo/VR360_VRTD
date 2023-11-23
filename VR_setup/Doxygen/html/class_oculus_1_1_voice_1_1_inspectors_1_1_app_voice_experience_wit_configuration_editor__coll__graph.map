@@ -1,0 +1,21 @@
+<map id="Oculus.Voice.Inspectors.AppVoiceExperienceWitConfigurationEditor" name="Oculus.Voice.Inspectors.AppVoiceExperienceWitConfigurationEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="968,148,1205,207"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html" title=" " alt="" coords="768,164,918,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="934,175,967,175,967,180,934,180"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="472,5,527,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="542,10,586,7,639,9,694,18,745,39,780,67,807,101,827,135,839,162,834,165,822,138,802,104,776,70,743,44,692,23,638,14,587,12,542,15"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="473,133,526,160"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="542,148,768,168,767,173,541,153"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="412,184,587,227"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="602,202,744,193,776,189,777,194,744,199,602,208"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_i_wit_request_configuration.html" title="Configuration interface." alt="" coords="5,104,242,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,131,374,164,433,181,431,186,373,169,221,137"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="23,155,224,197"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="240,182,412,196,412,201,239,188"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="55,221,192,248"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="207,227,373,215,412,211,412,217,374,220,207,232"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="35,272,212,315"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="227,275,373,244,397,236,431,225,433,230,399,241,374,249,228,280"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_tabs_1_1_wit_configuration_editor_tab.html" title=" " alt="" coords="398,251,601,293"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="616,254,680,241,743,223,783,207,817,189,819,194,785,211,745,228,681,246,617,259"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="OculusSampleFramework.TrainLocomotive" name="OculusSampleFramework.TrainLocomotive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,571,294,613"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_train_car_base.html" title=" " alt="" coords="232,472,331,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,512,213,572,209,568,259,509"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="371,112,480,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,149,460,161,495,241,508,278,516,312,518,346,511,379,494,411,466,442,435,463,400,476,364,484,331,487,331,482,363,478,398,471,432,458,462,438,490,408,506,377,513,346,511,313,503,279,490,243,455,164,448,152"/>
+<area shape="rect" id="Node000005" href="$class_oculus_sample_framework_1_1_train_track.html" title=" " alt="" coords="264,357,466,400"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="436,153,444,191,448,237,446,287,440,312,430,335,420,348,408,359,405,355,417,345,426,332,435,310,440,286,443,238,439,192,431,155"/>
+<area shape="rect" id="Node000006" href="$class_oculus_sample_framework_1_1_track_segment.html" title=" " alt="" coords="157,235,363,277"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="399,150,288,236,285,232,396,146"/>
+<area shape="rect" id="Node000009" href="$class_oculus_sample_framework_1_1_train_car_base.html" title=" " alt="" coords="5,464,208,507"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="426,154,422,183,413,217,398,250,376,279,357,292,338,296,318,297,296,304,270,320,243,336,207,343,177,341,149,343,136,348,122,359,107,383,101,410,101,439,104,463,99,464,96,439,95,410,102,381,118,356,133,344,148,337,177,336,207,337,242,331,267,316,293,299,317,292,337,291,355,287,373,275,394,248,408,215,416,182,421,154"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="132,365,185,392"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="175,404,203,438,227,456,252,469,250,474,224,460,199,442,171,407"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="133,404,118,425,112,444,109,464,104,463,106,443,113,423,129,401"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="392,413,394,427,390,441,378,455,364,465,333,478,330,473,362,460,375,451,386,439,389,427,386,414"/>
+<area shape="poly" id="edge14_Node000009_Node000005" title=" " alt="" coords="323,411,262,442,194,466,192,461,260,438,321,406"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="290,287,349,355,345,359,286,291"/>
+<area shape="rect" id="Node000007" href="$class_oculus_sample_framework_1_1_pose.html" title=" " alt="" coords="18,112,222,139"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="123,154,130,212,137,245,148,276,173,320,199,350,228,380,258,423,279,471,275,473,254,425,224,383,195,354,168,323,143,278,132,246,124,212,118,154"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="146,147,239,232,236,236,143,151"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="107,154,74,219,58,260,47,302,44,337,47,379,52,416,58,439,78,462,74,465,53,441,47,417,41,379,39,337,42,301,53,258,69,217,102,151"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="74,5,166,32"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="123,47,123,112,117,112,117,47"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="135,517,178,568,174,572,131,520"/>
+</map>

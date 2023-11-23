@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.IDistanceInteractor" name="Oculus.Interaction.IDistanceInteractor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,190,123"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="44,5,151,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,100,80,95,80,95,48"/>
+</map>

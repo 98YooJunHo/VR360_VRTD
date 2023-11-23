@@ -1,0 +1,18 @@
+<map id="Oculus.Interaction.HandGrab.AutoMoveTowardsTarget" name="Oculus.Interaction.HandGrab.AutoMoveTowardsTarget">
+<area shape="rect" id="Node000001" title="This IMovement stores the initial Pose, and in case of an aborted movement it will finish it itself." alt="" coords="563,83,755,126"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="5,7,89,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,11,190,5,300,4,421,14,481,26,540,42,584,60,623,80,620,85,581,65,538,47,480,31,420,20,300,9,190,10,104,16"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_tween.html" title=" " alt="" coords="224,32,392,59"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="105,23,224,35,223,40,104,29"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_hand_grab_1_1_pose_travel_data.html" title=" " alt="" coords="212,83,404,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="420,102,563,102,563,107,420,107"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_pointable_element.html" title=" " alt="" coords="214,150,402,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,148,562,120,563,125,417,153"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="8,158,86,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="101,168,214,168,214,174,101,174"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_unique_identifier.html" title=" " alt="" coords="223,216,393,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="407,211,472,191,538,167,622,124,624,128,540,172,474,196,409,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="20,224,74,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="89,235,222,235,222,240,89,240"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="407,58,539,80,563,84,562,90,539,86,406,64"/>
+</map>

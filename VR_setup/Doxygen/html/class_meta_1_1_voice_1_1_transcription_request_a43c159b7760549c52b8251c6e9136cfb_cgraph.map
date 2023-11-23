@@ -1,0 +1,47 @@
+<map id="Meta.Voice.TranscriptionRequest.ActivateAudio" name="Meta.Voice.TranscriptionRequest.ActivateAudio">
+<area shape="rect" id="Node000001" title="Public request to activate audio input." alt="" coords="5,232,171,275"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_transcription_request.html#ae3ffd0f270e7865ba2d0439f0a261fb8" title="Implementations need to provide errors when audio input is not found." alt="" coords="219,165,420,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,229,227,210,229,215,165,234"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_voice_request.html#ae4e4854e41e952f9bfac7740cc995b57" title="Method for handling failure with only an error string." alt="" coords="231,232,408,275"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,251,216,251,216,256,171,256"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_transcription_request.html#a78c013b235afb502b07bd48560f6e051" title="Set audio input state." alt="" coords="227,299,412,341"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,273,229,291,227,296,163,278"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_transcription_request.html#ad092df496687d7b78aa8f25fcbdf34c3" title="Child class audio activation handler needs to call SetAudioInputState when complete." alt="" coords="475,5,677,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="405,296,418,285,436,257,444,229,444,201,441,173,438,145,438,116,446,87,466,58,468,57,471,60,470,62,451,90,444,117,443,145,446,173,450,201,449,230,441,259,422,288,409,300"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_transcription_request.html#a807efd42f83cfb3554651541f0738690" title="Child class audio deactivation handler needs to call SetAudioInputState when complete." alt="" coords="468,72,684,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="404,296,418,285,432,265,439,246,441,206,443,166,451,145,466,125,469,122,472,126,470,128,455,148,448,167,446,207,445,247,437,268,422,289,408,300"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_transcription_request.html#a01e22328538853b50c2a242d85a0f774" title="Called when audio activation begins." alt="" coords="487,163,666,205"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="400,296,418,285,434,268,441,251,450,233,466,215,473,211,476,215,470,219,454,236,446,253,438,271,422,289,402,300"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_voice_1_1_voice_request.html#a743debef6f9a70906913ef2a44fbdddb" title="Raises a voice request event." alt="" coords="743,344,919,387"/>
+<area shape="poly" id="edge28_Node000004_Node000012" title=" " alt="" coords="334,340,354,375,384,417,423,457,445,474,469,487,527,508,575,514,624,506,683,487,698,479,708,470,730,446,791,395,794,399,734,450,712,474,701,484,685,492,625,512,575,519,525,513,467,492,442,478,419,461,380,420,350,378,329,343"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_voice_1_1_transcription_request.html#aa7989a15b15c91662db2468ed89a490c" title="Called when audio deactivation begins." alt="" coords="480,253,673,296"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="412,301,463,292,464,297,413,306"/>
+<area shape="rect" id="Node000014" href="$class_meta_1_1_voice_1_1_transcription_request.html#ac7af1aa7e10ab1d90b79ced85589b1b5" title="Called when audio activation is in effect and input is being listened to." alt="" coords="491,344,661,387"/>
+<area shape="poly" id="edge17_Node000004_Node000014" title=" " alt="" coords="413,334,476,345,475,350,412,339"/>
+<area shape="rect" id="Node000015" href="$class_meta_1_1_voice_1_1_transcription_request.html#afcca4422470b44de78de02521ab5642f" title="Called when audio input state is no longer being listened to." alt="" coords="492,435,661,477"/>
+<area shape="poly" id="edge21_Node000004_Node000015" title=" " alt="" coords="363,339,522,425,519,429,360,344"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="528,163,526,153,534,144,551,138,576,136,603,138,620,145,618,150,602,144,576,141,552,143,537,148,531,154,533,162"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_voice_1_1_voice_request.html#acaf3c35e4a1637757a0c0097b6c75caa" title="Internal method for." alt="" coords="732,277,930,304"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="654,203,685,215,743,241,794,267,791,272,741,246,683,220,652,208"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="668,203,686,215,705,240,712,265,718,289,734,314,760,334,757,338,730,318,713,291,707,266,700,242,683,219,665,207"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_voice_1_1_voice_request.html#af8ad615a07dd434a5174a427907d274f" title="Append request specific data to log." alt="" coords="978,211,1154,253"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="887,274,962,255,964,260,888,279"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a0799087ed87b85568a5380f4b5bb4070" title="Performs a Debug.Log with custom categorization and using the global log level." alt="" coords="999,277,1133,304"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="930,288,984,288,984,293,930,293"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="997,328,1135,355"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="897,302,986,322,985,327,896,307"/>
+<area shape="poly" id="edge14_Node000013_Node000008" title=" " alt="" coords="673,278,717,281,717,286,673,283"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="651,294,685,305,764,335,762,340,683,311,649,299"/>
+<area shape="poly" id="edge15_Node000013_Node000013" title=" " alt="" coords="528,253,526,243,534,234,551,229,576,227,603,229,620,235,618,240,602,234,576,232,552,234,537,239,531,245,533,252"/>
+<area shape="poly" id="edge18_Node000014_Node000008" title=" " alt="" coords="651,341,767,306,769,311,653,346"/>
+<area shape="poly" id="edge20_Node000014_Node000012" title=" " alt="" coords="662,363,727,363,727,368,662,368"/>
+<area shape="poly" id="edge19_Node000014_Node000014" title=" " alt="" coords="528,344,526,334,534,325,551,319,576,317,603,320,620,326,618,331,602,325,576,323,552,325,537,329,531,335,533,343"/>
+<area shape="poly" id="edge25_Node000015_Node000008" title=" " alt="" coords="628,432,656,416,683,397,697,380,706,364,714,347,731,330,768,308,770,313,734,334,719,350,710,366,702,383,686,401,659,420,631,436"/>
+<area shape="poly" id="edge27_Node000015_Node000012" title=" " alt="" coords="638,432,754,390,755,395,639,437"/>
+<area shape="poly" id="edge26_Node000015_Node000015" title=" " alt="" coords="528,435,526,425,534,416,551,410,576,408,603,410,620,417,618,422,602,416,576,413,552,415,537,420,531,426,533,434"/>
+<area shape="rect" id="Node000016" href="$class_meta_1_1_voice_1_1_transcription_request.html#a179f3678f777bc73709d5d61ed0ab2a1" title="Ensure audio is deactivated prior to cancellation." alt="" coords="748,460,914,503"/>
+<area shape="poly" id="edge22_Node000015_Node000016" title=" " alt="" coords="662,462,733,469,732,474,661,467"/>
+<area shape="rect" id="Node000017" href="$class_meta_1_1_voice_1_1_transcription_request.html#a61da0045474282c2ea3ee93bad424c53" title="Public request to deactivate audio input." alt="" coords="983,515,1149,557"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="915,498,968,511,967,516,914,503"/>
+<area shape="poly" id="edge24_Node000017_Node000004" title=" " alt="" coords="983,559,875,576,810,582,742,584,671,580,601,570,532,552,467,525,442,509,419,490,381,445,352,398,332,357,337,354,357,396,386,442,423,486,445,505,469,520,533,547,602,565,672,575,742,578,810,576,874,571,982,553"/>
+</map>

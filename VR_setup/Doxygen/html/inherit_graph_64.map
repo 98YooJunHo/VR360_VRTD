@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_meta_1_1_voice_1_1_i_voice_request.html" title="All publicly accessible properties &amp; methods of a voice request." alt="" coords="5,72,181,131"/>
+<area shape="rect" id="Node000001" href="$interface_meta_1_1_voice_1_1_i_n_l_p_text_request.html" title="Interface for text based language processing requests." alt="" coords="744,5,936,64"/>
+<area shape="poly" id="edge1042_Node000000_Node000001" title=" " alt="" coords="194,65,228,57,368,39,508,30,637,27,743,28,743,34,637,33,508,36,368,45,229,63,195,70"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_voice_1_1_i_transcription_request.html" title="Interface for audio transcription based voice requests." alt="" coords="229,72,443,131"/>
+<area shape="poly" id="edge1044_Node000000_Node000005" title=" " alt="" coords="196,99,228,99,228,104,196,104"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_voice_request.html" title="Abstract class for all voice requests." alt="" coords="250,155,422,213"/>
+<area shape="poly" id="edge1050_Node000000_Node000007" title=" " alt="" coords="196,134,250,152,248,157,194,139"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_n_l_p_request.html" title="Abstract class for NLP text &amp; audio requests." alt="" coords="987,47,1153,105"/>
+<area shape="poly" id="edge1043_Node000001_Node000002" title=" " alt="" coords="952,52,987,58,986,64,951,57"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request.html" title="Interface for audio based language processing requests." alt="" coords="492,72,692,131"/>
+<area shape="poly" id="edge1045_Node000005_Node000004" title=" " alt="" coords="459,99,492,99,492,104,459,104"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_transcription_request.html" title="Abstract class for all transcription requests." alt="" coords="491,155,693,213"/>
+<area shape="poly" id="edge1048_Node000005_Node000006" title=" " alt="" coords="444,133,500,151,498,157,443,139"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_n_l_p_audio_request.html" title="Abstract class for all NLP audio requests." alt="" coords="741,88,939,147"/>
+<area shape="poly" id="edge1046_Node000004_Node000003" title=" " alt="" coords="708,106,741,108,741,114,708,111"/>
+<area shape="poly" id="edge1047_Node000003_Node000002" title=" " alt="" coords="953,94,986,88,987,94,954,99"/>
+<area shape="poly" id="edge1049_Node000006_Node000003" title=" " alt="" coords="708,150,740,141,741,147,709,155"/>
+<area shape="poly" id="edge1051_Node000007_Node000006" title=" " alt="" coords="437,181,491,181,491,187,437,187"/>
+</map>

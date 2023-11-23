@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Data.Configuration.WitConfiguration" name="Meta.WitAi.Data.Configuration.WitConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,80,247,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,41,128,78,124,82,86,45"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_i_wit_request_configuration.html" title="Configuration interface." alt="" coords="147,5,314,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,45,170,82,166,78,205,41"/>
+</map>

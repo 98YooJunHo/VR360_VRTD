@@ -1,0 +1,14 @@
+<map id="Oculus.Interaction.PoseDetection.TransformFeatureStateProvider" name="Oculus.Interaction.PoseDetection.TransformFeatureStateProvider">
+<area shape="rect" id="Node000001" title="Interprets transform feature values from a TransformFeatureValueProvider and uses the given Transform..." alt="" coords="753,133,972,176"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="344,5,453,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,27,591,52,730,91,821,130,819,135,728,96,590,57,468,32"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_transform_feature_state_provider.html" title=" " alt="" coords="297,56,500,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="491,83,753,132,752,137,490,89"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,176,97,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,172,120,171,293,154,466,147,624,146,753,148,753,153,624,151,466,152,293,160,121,176,113,177"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_joint_data.html" title=" " alt="" coords="289,203,508,245"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="112,201,121,203,206,213,288,218,288,223,206,218,120,208,111,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="523,213,624,202,729,187,785,174,786,179,729,192,625,208,524,218"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="289,269,508,312"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="523,279,625,263,677,250,728,234,785,206,832,174,835,179,787,210,730,238,679,255,626,268,524,284"/>
+</map>

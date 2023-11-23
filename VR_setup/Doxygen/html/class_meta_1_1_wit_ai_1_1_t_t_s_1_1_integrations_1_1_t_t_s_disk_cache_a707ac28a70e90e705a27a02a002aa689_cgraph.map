@@ -1,0 +1,22 @@
+<map id="Meta.WitAi.TTS.Integrations.TTSDiskCache.StreamFromDiskCache" name="Meta.WitAi.TTS.Integrations.TTSDiskCache.StreamFromDiskCache">
+<area shape="rect" id="Node000001" title="Performs async load request." alt="" coords="5,117,252,160"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#af0bb24aeb83f5416db64eca7b515a444" title="Clean the url prior to use." alt="" coords="306,51,516,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,114,302,95,303,100,222,119"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_disk_cache.html#a8a71e25f9891e66d6cd70f486d521b9d" title="Builds full cache path." alt="" coords="300,117,522,160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,136,284,136,284,141,252,141"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#ad23882db3ac3570a9006be27af98800f" title="Request audio clip with url, type, progress delegate &amp; ready delegate." alt="" coords="306,213,516,256"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="195,158,332,205,330,210,193,163"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_utilities_1_1_i_o_utility.html#a5e335dc19357ef721535268d3c81681b" title="Creates a directory recursively if desired and returns true if successful." alt="" coords="591,29,778,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,114,521,103,569,82,589,75,590,80,571,86,523,108,490,119"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="618,96,751,123"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="522,124,602,115,602,121,523,129"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_disk_cache.html#a521490f0ded5cbb87d669ebd9232107c" title="Determine if should cache to disk or not." alt="" coords="570,147,798,189"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="523,148,555,151,554,157,522,153"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="634,29,632,19,641,10,658,5,684,3,712,5,729,11,727,16,711,10,684,8,659,10,644,15,638,21,640,28"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html#ae70a36808e77691ec505568b1a9004e0" title="Currently can only decode pcm." alt="" coords="581,213,787,256"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="516,232,566,232,566,237,516,237"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="616,280,753,307"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="514,254,604,274,603,279,513,259"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_audio_stream_handler.html#aa6a8d4cdb80e96bca795d1f4110c3bca" title="Determine decode type based on audio type." alt="" coords="846,213,1051,256"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="788,232,830,232,830,237,788,237"/>
+</map>

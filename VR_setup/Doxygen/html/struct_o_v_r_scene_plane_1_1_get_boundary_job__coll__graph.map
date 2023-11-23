@@ -1,0 +1,9 @@
+<map id="OVRScenePlane.GetBoundaryJob" name="OVRScenePlane.GetBoundaryJob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,225,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,81,104,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,122,113,170,108,172,89,124"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="128,81,214,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,123,125,173,121,170,153,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="85,5,257,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,47,174,81,168,81,168,47"/>
+</map>

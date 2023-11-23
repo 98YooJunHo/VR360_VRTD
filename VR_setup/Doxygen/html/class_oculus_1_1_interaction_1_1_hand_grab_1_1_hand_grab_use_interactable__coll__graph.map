@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabUseInteractable" name="Oculus.Interaction.HandGrab.HandGrabUseInteractable">
+<area shape="rect" id="Node000001" title="This interactable specifies the final pose a hand will have, via HandGrabPoints, when using the inter..." alt="" coords="410,64,602,107"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactable.html" title=" " alt="" coords="5,5,249,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,43,386,61,410,65,409,71,385,67,263,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,72,173,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,83,409,83,409,88,188,88"/>
+<area shape="rect" id="Node000004" href="$struct_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_grabbing_rule.html" title="This struct indicates which fingers should be taken in count for performing an interaction (typically..." alt="" coords="35,123,219,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,127,385,104,409,100,410,105,386,109,234,132"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Meta.Voice.VoiceRequest.OnFailed" name="Meta.Voice.VoiceRequest.OnFailed">
+<area shape="rect" id="Node000001" title="Call after failure state set." alt="" coords="5,29,182,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="51,29,49,19,56,10,71,5,94,3,118,5,132,11,130,16,116,10,93,8,72,10,59,15,54,21,56,28"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request.html#a743debef6f9a70906913ef2a44fbdddb" title="Raises a voice request event." alt="" coords="230,29,406,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="182,48,214,48,214,53,182,53"/>
+</map>

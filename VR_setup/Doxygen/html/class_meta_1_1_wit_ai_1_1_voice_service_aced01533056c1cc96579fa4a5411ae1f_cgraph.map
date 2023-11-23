@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.VoiceService.OnFinalTranscription" name="Meta.WitAi.VoiceService.OnFinalTranscription">
+<area shape="rect" id="Node000001" title="Activate message if transcription provider returns a final transcription." alt="" coords="5,5,175,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_voice_service.html#a84b239705147925153437a7108ffafe3" title="Start listening for sound or speech from the user and start sending data to Wit.ai once sound or spee..." alt="" coords="223,5,392,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,24,207,24,207,29,175,29"/>
+</map>

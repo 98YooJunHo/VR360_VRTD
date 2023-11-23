@@ -1,0 +1,27 @@
+<map id="Oculus.Interaction.SnapInteractor" name="Oculus.Interaction.SnapInteractor">
+<area shape="rect" id="Node000001" title="SnapInteractors can snap to poses provided by SnapInteractables. SnapInteractors select and unselect ..." alt="" coords="881,216,1095,243"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="511,17,687,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,63,714,69,788,95,858,130,923,173,972,213,969,217,920,178,855,134,786,100,712,75,691,68"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_rigidbody_ref.html" title=" " alt="" coords="177,299,277,325"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,304,461,288,880,240,881,245,462,293,293,309"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_snap_interactable.html" title="SnapInteractables provide Pose targets for SnapInteractors to translate and rotate towards." alt="" coords="485,216,713,243"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="292,295,535,241,536,246,293,300"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointable_element.html" title=" " alt="" coords="507,84,691,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="684,129,944,213,942,218,682,134"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,56,282,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,73,507,94,506,99,297,79"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_pointable_element.html" title=" " alt="" coords="164,5,290,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="306,31,462,65,521,81,520,86,461,71,305,36"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="5,5,84,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="99,16,164,16,164,21,99,21"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="182,115,273,141"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="288,122,506,108,506,114,289,127"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="289,142,548,213,546,218,287,147"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="728,227,880,227,880,232,728,232"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_interactable.html" title=" " alt="" coords="133,175,321,217"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="337,203,485,216,485,222,336,208"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="201,241,254,268"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="269,252,358,250,461,244,496,241,496,246,462,249,358,255,270,257"/>
+<area shape="rect" id="Node000012" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="503,363,695,389"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="710,383,784,378,821,370,856,358,895,333,930,301,957,268,976,242,980,245,961,271,934,304,899,337,858,362,822,375,785,383,711,389"/>
+</map>

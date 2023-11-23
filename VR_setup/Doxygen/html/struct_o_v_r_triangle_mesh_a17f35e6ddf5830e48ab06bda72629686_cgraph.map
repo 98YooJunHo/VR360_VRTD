@@ -1,0 +1,5 @@
+<map id="OVRTriangleMesh.TryGetMesh" name="OVRTriangleMesh.TryGetMesh">
+<area shape="rect" id="Node000001" title="Gets the triangle mesh." alt="" coords="5,13,207,40"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_triangle_mesh.html#ac0c2f50d5cb74fde4d8b472c1eb0104c" title="Gets the raw, untransformed triangle mesh." alt="" coords="255,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,24,239,24,239,29,207,29"/>
+</map>

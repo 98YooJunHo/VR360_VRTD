@@ -1,0 +1,18 @@
+<map id="OVRLipSyncContext.HandleKeyboard" name="OVRLipSyncContext.HandleKeyboard">
+<area shape="rect" id="Node000001" title="Handle keyboard input." alt="" coords="5,72,191,115"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_debug_console.html#a47a5ea8e58baf26e1c9892131ef9c446" title="Clear this instance." alt="" coords="239,17,453,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,69,275,46,276,51,186,74"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_debug_console.html#ae81d6005f76d909bc93a21b85d461adf" title="Calls clear after a certain time." alt="" coords="239,72,453,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,91,223,91,223,96,191,96"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_lip_sync_debug_console.html#a64b0f548fd21e02a746863a32c169669" title="Log the specified message." alt="" coords="243,143,449,169"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="186,113,276,136,275,141,184,118"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_debug_console.html#a3b41e35627b5102bd737bb80f320358e" title="Clears the messages." alt="" coords="501,5,715,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,26,486,26,486,31,454,32"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_debug_console.html#aa3e6bcfc16a4fc79b472d4505d90a665" title="Display this instance." alt="" coords="763,80,991,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="698,46,806,73,805,78,696,51"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_debug_console.html#a92b798f4776c0bc915f628be880d510d" title="Sets the clear timeout." alt="" coords="506,72,710,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="454,91,491,91,491,96,454,96"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_lip_sync_debug_console.html#a69814f0df859c61d0ea9c1ceb950851e" title="Adds the message." alt="" coords="505,139,712,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="449,155,489,156,489,161,449,160"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="696,135,805,108,806,114,698,141"/>
+</map>

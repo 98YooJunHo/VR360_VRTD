@@ -1,0 +1,19 @@
+<map id="OVRInput.OVRControllerRHand" name="OVRInput.OVRControllerRHand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="791,180,994,207"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input_1_1_o_v_r_controller_base.html" title=" " alt="" coords="607,180,741,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,191,790,191,790,196,757,196"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_button_map.html" title=" " alt="" coords="272,5,470,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,51,529,73,584,103,631,141,664,178,660,182,627,145,582,108,527,78,470,56"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_touch_map.html" title=" " alt="" coords="272,72,470,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,117,584,151,646,177,643,182,582,156,474,122"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_near_touch_map.html" title=" " alt="" coords="272,139,470,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="486,170,607,183,606,189,485,175"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_axis1_d_map.html" title=" " alt="" coords="272,205,470,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="485,212,583,201,606,199,607,204,583,207,486,217"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_input_1_1_o_v_r_controller_base_1_1_virtual_axis2_d_map.html" title=" " alt="" coords="272,272,470,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="480,265,582,234,646,205,648,210,584,238,482,270"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_plugin.html" title=" " alt="" coords="328,340,414,367"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="428,346,505,332,544,318,582,299,609,278,632,252,663,206,668,208,636,255,612,282,584,304,546,323,506,337,430,352"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,340,59,367"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="74,351,328,351,328,356,74,356"/>
+</map>

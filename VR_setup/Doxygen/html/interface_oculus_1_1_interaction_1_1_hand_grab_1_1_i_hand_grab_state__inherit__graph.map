@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.IHandGrabState" name="Oculus.Interaction.HandGrab.IHandGrabState">
+<area shape="rect" id="Node000001" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="5,39,198,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_use_interactor.html" title="This interactor allows sending use&#45;strength values to an interactable to create use interactions...." alt="" coords="246,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,42,245,37,246,43,214,47"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_interactor.html" title=" " alt="" coords="246,72,438,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,73,246,77,245,83,213,78"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_distance_hand_grab_interactor.html" title="The DistanceHandGrabInteractor allows grabbing DistanceHandGrabInteractables at a distance...." alt="" coords="486,39,678,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="453,75,485,71,486,76,454,81"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_interactor.html" title="The HandGrabInteractor allows grabbing objects while having the hands snap to them adopting a previou..." alt="" coords="486,105,678,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="454,106,486,111,485,116,453,111"/>
+</map>

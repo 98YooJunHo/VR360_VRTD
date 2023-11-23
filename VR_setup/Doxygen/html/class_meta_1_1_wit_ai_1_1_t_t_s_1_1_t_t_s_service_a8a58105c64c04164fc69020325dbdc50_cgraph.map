@@ -1,0 +1,28 @@
+<map id="Meta.WitAi.TTS.TTSService.Load" name="Meta.WitAi.TTS.TTSService.Load">
+<area shape="rect" id="Node000001" title="Perform a request for a TTS audio clip." alt="" coords="5,231,220,257"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_runtime_cache_handler.html#a6e3a8d9b9d3eef1faee5e472113a8cef" title="Method for adding a clip to the cache." alt="" coords="290,5,515,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,229,140,194,172,148,215,99,266,58,275,53,278,57,269,62,219,103,177,151,144,197,123,232"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a8501926c7e884f6a21a0c4ee9f30eff9" title="Creates new clip data or returns existing cached clip." alt="" coords="309,72,496,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,228,184,177,224,149,266,124,293,113,295,118,269,129,227,153,187,182,130,232"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_v_log.html#a8cc5f3b6bd51657b5929d2a867e2878d" title="Performs a Debug.LogError with custom categorization and using the global log level." alt="" coords="336,139,469,165"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="140,228,197,201,267,175,320,162,321,167,268,180,199,206,142,232"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_disk_cache_handler.html#ad1c558558e7c3e91e63bd00282b4da54" title="A method for obtaining the path to a specific cache clip." alt="" coords="268,189,537,232"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="220,229,252,225,252,231,220,234"/>
+<area shape="rect" id="Node000010" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_web_handler.html#a98dbc85176b27a736bd21ea0651b6b74" title="Method for determining if text to speak is valid." alt="" coords="309,256,496,299"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="220,254,294,262,293,267,220,259"/>
+<area shape="rect" id="Node000011" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_web_handler.html#aaf32e83d0a959df9859fa431ae4b0d13" title="Method for performing a web load request." alt="" coords="268,323,537,365"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="143,256,201,282,269,308,292,315,290,321,267,313,198,287,141,260"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a8f56db807563dce3920cce12b63c0676" title="Whether a specific clip should be cached." alt="" coords="309,389,496,432"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="127,256,184,314,225,347,269,375,295,386,293,391,266,380,221,351,181,318,124,260"/>
+<area shape="rect" id="Node000013" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_disk_cache_handler.html#af869780c1fbe0906376d6669644a4747" title="Method for streaming from disk cache." alt="" coords="287,456,518,515"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="123,256,143,293,175,343,218,396,269,442,276,446,273,451,266,446,214,400,171,346,138,296,118,259"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_voice_provider.html#acf630974daffeac970eeafe0a641dabd" title="Encode voice data to be transmitted." alt="" coords="819,9,1075,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,72,536,58,549,49,559,40,569,31,584,24,639,11,695,5,751,4,804,6,804,12,751,9,695,10,640,17,586,29,572,36,562,44,553,53,538,62,497,77"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a653d2c17da827365f932ed9eb1a7a367" title="Obtain unique id for clip data." alt="" coords="585,39,771,81"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="496,79,569,70,570,76,496,85"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a17da72a66abbba735e1955d51de54e31" title="Gets the text to be spoken after applying all relevant voice settings." alt="" coords="585,105,771,148"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="496,102,570,111,569,116,496,107"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a071b90b77b1177cb02122fa93c22de89" title="Obtain a clip from the runtime cache, if applicable." alt="" coords="585,172,771,215"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="497,109,538,124,563,141,586,158,597,163,595,168,584,162,560,145,536,129,495,114"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="772,47,803,44,804,49,772,52"/>
+</map>

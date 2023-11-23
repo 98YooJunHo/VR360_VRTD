@@ -1,0 +1,12 @@
+<map id="OculusSampleFramework.TrainTrack" name="OculusSampleFramework.TrainTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,341,208,384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,112,140,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,154,107,341,102,341,85,155"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_track_segment.html" title=" " alt="" coords="122,235,328,277"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="112,147,205,232,201,236,108,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,290,132,343,128,339,188,286"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_pose.html" title=" " alt="" coords="164,112,369,139"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="260,154,234,235,229,233,255,152"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="221,5,312,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="269,47,269,112,264,112,264,47"/>
+</map>

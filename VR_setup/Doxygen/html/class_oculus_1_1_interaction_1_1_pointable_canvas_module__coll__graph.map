@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.PointableCanvasModule" name="Oculus.Interaction.PointableCanvasModule">
+<area shape="rect" id="Node000001" title="IPointerInteractableModule manages all InteractableCanvas events in the scene and translates them int..." alt="" coords="97,203,281,245"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,138,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,139,167,200,164,204,95,143"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="162,104,216,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,146,192,202,186,202,186,146"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_module_1_1_pointer.html" title="Pointer class that is used for state associated with IPointables that are currently tracked by any IP..." alt="" coords="239,96,424,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="296,151,256,181,222,204,219,200,253,177,293,146"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,5,377,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="334,48,334,95,329,95,329,48"/>
+</map>

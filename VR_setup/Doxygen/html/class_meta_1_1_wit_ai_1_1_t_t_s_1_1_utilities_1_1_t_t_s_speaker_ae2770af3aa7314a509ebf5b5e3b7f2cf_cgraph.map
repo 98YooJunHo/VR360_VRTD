@@ -1,0 +1,8 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop" name="Meta.WitAi.TTS.Utilities.TTSSpeaker.Stop">
+<area shape="rect" id="Node000001" title="Stop load &amp; playback of a specific clip." alt="" coords="5,63,170,105"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_clip_data.html#a8749eb7464db0fb4b1ba4c7338c1583c" title="Compare clips if possible." alt="" coords="218,29,411,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,69,202,64,203,70,170,75"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html#a71f1d77995d6daafa0e6ecf4a368da98" title="Stop playback of currently played audio clip." alt="" coords="226,96,403,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="170,93,211,99,210,105,169,99"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="271,29,270,19,277,10,292,5,314,3,339,5,353,11,351,16,337,10,314,8,293,10,280,15,275,21,276,28"/>
+</map>

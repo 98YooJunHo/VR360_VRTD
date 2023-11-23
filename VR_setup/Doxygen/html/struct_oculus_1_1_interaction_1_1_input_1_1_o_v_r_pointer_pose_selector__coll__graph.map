@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.OVRPointerPoseSelector" name="Oculus.Interaction.Input.OVRPointerPoseSelector">
+<area shape="rect" id="Node000001" title="Returns the Pointer Pose for the active controller model as found in the official prefabs...." alt="" coords="5,112,174,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,116,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,47,92,112,87,112,87,47"/>
+</map>

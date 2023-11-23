@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.HandGrab.Visuals.HandGhost" name="Oculus.Interaction.HandGrab.Visuals.HandGhost">
+<area shape="rect" id="Node000001" title="A static (non&#45;user controlled) representation of a hand. This script is used to be able to manually v..." alt="" coords="666,83,858,125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,91,156,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,101,665,101,665,107,172,107"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_puppet.html" title="This class is a visual representation of a rigged hand (typically a skin&#45;mesh renderer) that can move..." alt="" coords="329,24,521,67"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="171,89,328,60,329,65,172,94"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_pose.html" title="The HandGrabPose defines the local point in an object to which the grip point of the hand should alig..." alt="" coords="329,152,521,195"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="172,116,329,150,328,155,171,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="537,62,666,85,665,90,536,67"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_joint_collection.html" title="A collection of joint maps to quick access the joints that are actually available in the hand rig...." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="214,30,329,37,328,42,213,36"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="536,156,641,136,690,123,692,129,643,141,537,161"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="56,153,147,180"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="163,167,222,169,328,171,328,176,222,175,163,172"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="12,204,191,247"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="206,208,304,192,328,188,329,193,305,197,207,213"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,271,198,313"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="196,263,304,227,380,193,382,198,306,232,198,268"/>
+</map>

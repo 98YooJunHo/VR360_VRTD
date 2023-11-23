@@ -1,0 +1,5 @@
+<map id="OVRInput.SetControllerLocalizedVibration" name="OVRInput.SetControllerLocalizedVibration">
+<area shape="rect" id="Node000001" title="Activates vibration with the given frequency and amplitude with the given controller mask...." alt="" coords="5,5,217,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a53bfdaf8b68f660d37acaabdd79c26e9" title="Activates vibration with the given frequency and amplitude with the given controller mask...." alt="" coords="265,13,472,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,249,24,249,29,217,29"/>
+</map>

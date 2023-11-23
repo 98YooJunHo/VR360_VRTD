@@ -1,0 +1,11 @@
+<map id="OVRInput.Update" name="OVRInput.Update">
+<area shape="rect" id="Node000001" title="Updates the internal state of OVRInput. Must be called manually if used independently from OVRManager..." alt="" coords="5,64,128,91"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a8ed5f1b79ace01d32a26c222aa64c50c" title="Gets the current state of the given virtual button mask with the given controller mask...." alt="" coords="221,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,61,175,41,205,33,207,38,176,47,112,66"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input.html#ab0dbe87b9ccffbc990a5ce9e8ebdf381" title="Runs once a frame to update cross&#45;platform haptic playback." alt="" coords="176,56,369,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,75,160,75,160,80,128,80"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html#a91a2644fb07e4e2931cdf59b7c470bf8" title="Associates OpenVR device IDs with left and right motion controllers, for later haptic playback." alt="" coords="176,123,369,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,89,191,115,189,120,110,94"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input.html#af22222b30db5822d5066b205b9bdee98" title="Accesses OpenVR properties about a given deviceID. Especially useful for differentiating per type of ..." alt="" coords="417,123,602,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="369,141,402,141,402,147,369,147"/>
+</map>

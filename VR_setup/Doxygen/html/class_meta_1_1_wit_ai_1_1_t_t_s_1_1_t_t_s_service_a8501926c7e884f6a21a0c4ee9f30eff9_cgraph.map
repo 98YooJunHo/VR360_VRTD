@@ -1,0 +1,12 @@
+<map id="Meta.WitAi.TTS.TTSService.CreateClipData" name="Meta.WitAi.TTS.TTSService.CreateClipData">
+<area shape="rect" id="Node000001" title="Creates new clip data or returns existing cached clip." alt="" coords="5,68,192,111"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_voice_provider.html#acf630974daffeac970eeafe0a641dabd" title="Encode voice data to be transmitted." alt="" coords="474,5,729,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,65,182,40,239,20,294,11,351,6,459,7,459,13,351,11,295,16,240,25,184,45,136,70"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a653d2c17da827365f932ed9eb1a7a367" title="Obtain unique id for clip data." alt="" coords="240,35,426,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,73,224,69,225,74,192,79"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a17da72a66abbba735e1955d51de54e31" title="Gets the text to be spoken after applying all relevant voice settings." alt="" coords="240,101,426,144"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="192,100,225,105,224,110,192,105"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a071b90b77b1177cb02122fa93c22de89" title="Obtain a clip from the runtime cache, if applicable." alt="" coords="240,168,426,211"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="144,109,241,154,255,159,253,164,239,158,142,114"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="426,43,458,40,459,45,427,48"/>
+</map>

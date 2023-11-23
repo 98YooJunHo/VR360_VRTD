@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.TTS.Data.TTSClipData" name="Meta.WitAi.TTS.Data.TTSClipData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="371,80,591,107"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_voice_settings.html" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,45,402,77,401,82,224,50"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_disk_cache_settings.html" title=" " alt="" coords="9,72,206,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,91,371,91,371,96,222,96"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_stream.html" title="An interface to be used for audio clip streams. Samples added to this stream are always decoded to 0f..." alt="" coords="14,139,201,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,138,402,105,403,110,216,143"/>
+</map>

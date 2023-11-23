@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Audio.IAudioSourceProvider" name="Meta.Voice.Audio.IAudioSourceProvider">
+<area shape="rect" id="Node000001" title="A simple interface for receiving a Unity AudioSource." alt="" coords="5,5,211,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_audio_1_1_unity_audio_player.html" title="Unity specific audio player that will play any IAudioClipStream that includes an IAudioClipProvider." alt="" coords="12,96,204,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,64,111,96,105,96,105,64"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.Process" name="UnityEngine.EventSystems.OVRInputModule.Process">
+<area shape="rect" id="Node000001" title="Process this InputModule. Same as the StandaloneInputModule version, except that it calls ProcessMous..." alt="" coords="5,523,189,565"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a118ed5ea055cae39a0311086c741a24c" title="Get state for pointer which is a pointer moving in world space across the surface of a world space ca..." alt="" coords="237,77,491,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,521,158,414,234,276,286,197,334,131,339,134,291,200,239,279,163,416,111,523"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7942780a6fac1c5d491b18294b854755" title="State for a pointer controlled by a world space ray. E.g. gaze pointer." alt="" coords="242,289,486,332"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,520,325,341,328,345,125,524"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#ab7066218906907c70433880c0886435c" title="Process all mouse events. This is the same as the StandaloneInputModule version except that it takes ..." alt="" coords="243,523,485,565"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="189,541,227,541,227,547,189,547"/>
+<area shape="rect" id="Node000021" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a763db244969d02ef5397be4fc2dd7e78" title="Process keyboard events." alt="" coords="249,589,479,648"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="177,563,243,582,241,587,175,569"/>
+<area shape="rect" id="Node000022" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#af7ff667a3530148c56fa889f15fa87f5" title="Process submit keys." alt="" coords="251,672,477,731"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="121,564,172,611,204,636,238,658,248,663,245,667,235,662,201,640,168,615,117,568"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a55d7568087c3c06a66dc4a7b8fdf7478" title="Convenience function for cloning PointerEventData." alt="" coords="563,107,760,149"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,109,547,114,547,119,491,114"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_raycaster.html#a6fc85b88c671a4c78ce79839135d8e78" title="Get screen position of worldPosition contained in this RaycastResult." alt="" coords="551,56,772,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,83,535,79,535,84,492,89"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_raycaster.html#a4b87696c0a98c70c5e601f8905574375" title="Performs a raycast using the pointer object attached to this OVRRaycaster." alt="" coords="561,5,762,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="429,74,538,41,572,33,573,38,540,47,430,79"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="382,287,447,224,491,189,538,159,550,153,552,158,540,164,494,193,451,228,386,291"/>
+<area shape="poly" id="edge14_Node000006_Node000004" title=" " alt="" coords="378,287,455,181,500,127,537,92,548,87,550,91,541,97,503,131,459,184,382,290"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a8d69d7c769bbd868a6ae552631b3a432" title="Get extra scroll delta from gamepad." alt="" coords="542,389,780,432"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="419,330,540,375,563,382,561,387,538,380,417,335"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a66332be5498256e4fcdb1f754760b7b3" title="Get state of button corresponding to gaze pointer." alt="" coords="539,456,783,499"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="389,330,454,386,496,416,540,442,553,447,551,452,538,446,493,420,451,390,386,334"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a1961c23aa2f9f36e2224188c81f09716" title="For RectTransform, calculate it&#39;s normal in world space." alt="" coords="547,173,775,232"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="420,286,538,241,556,235,558,240,540,247,422,291"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a505c8b3f2d8142894479356dad2d4d41" title="Get screen position of this world position as seen by the event camera of this OVRPhysicsRaycaster." alt="" coords="539,256,783,299"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="486,294,523,290,524,295,486,300"/>
+<area shape="rect" id="Node000014" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a377d56e034c74f26748334777b37683d" title="Perform a Spherecast using the worldSpaceRay in eventData." alt="" coords="549,323,774,365"/>
+<area shape="poly" id="edge15_Node000006_Node000014" title=" " alt="" coords="486,322,533,327,533,332,486,327"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_input.html#a8ed5f1b79ace01d32a26c222aa64c50c" title="Gets the current state of the given virtual button mask with the given controller mask...." alt="" coords="889,384,992,411"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="781,402,873,398,874,403,781,408"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_input.html#a9c2ccada669b0054fd25a82e84d659c9" title="Gets the current down state of the given virtual button mask with the given controller mask...." alt="" coords="873,485,1008,512"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="784,484,858,490,858,495,784,489"/>
+<area shape="rect" id="Node000011" href="$class_o_v_r_input.html#a27ab53793953a2222097e5664852c6ad" title="Gets the current up state of the given virtual button mask with the given controller mask...." alt="" coords="881,435,1000,461"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="784,462,865,453,866,458,784,467"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a89c2706d1f38fb877c31112faee008a9" title="Exactly the same as the code from PointerInputModule, except that we call our own IsPointerMoving." alt="" coords="562,589,760,632"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="463,563,549,583,548,588,461,569"/>
+<area shape="rect" id="Node000019" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a226a34c4464497b02a7ef49491782bfe" title="Process the current mouse press." alt="" coords="539,656,783,699"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="472,564,493,575,509,592,517,609,525,626,541,642,547,646,544,651,537,646,521,629,513,612,505,595,489,579,469,568"/>
+<area shape="rect" id="Node000020" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a86ad0ef663162c20f46280e5c22fdb96" title="Decide if mouse events need to be processed this frame. Same as StandloneInputModule except that the ..." alt="" coords="569,523,754,565"/>
+<area shape="poly" id="edge21_Node000015_Node000020" title=" " alt="" coords="485,541,553,541,553,547,485,547"/>
+<area shape="rect" id="Node000017" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a96b195af713535578aa7107a8e0a5527" title="The purpose of this function is to allow us to switch between using the standard IsPointerMoving meth..." alt="" coords="833,536,1048,579"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="760,589,818,578,819,583,761,594"/>
+<area shape="rect" id="Node000018" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7eae6d189e9be2631d986c04325d1706" title="New version of ShouldStartDrag implemented first in PointerInputModule. This version differs in that ..." alt="" coords="831,603,1050,645"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="761,613,816,615,815,621,761,618"/>
+<area shape="poly" id="edge22_Node000020_Node000017" title=" " alt="" coords="754,546,818,549,818,554,754,551"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Meta.Voice.TranscriptionRequest&lt; TUnityEvent, TOptions, TEvents, TResults &gt;" name="Meta.Voice.TranscriptionRequest&lt; TUnityEvent, TOptions, TEvents, TResults &gt;">
+<area shape="rect" id="Node000001" title="Abstract class for all transcription requests." alt="" coords="506,35,708,93"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_n_l_p_audio_request.html" title="Abstract class for all NLP audio requests." alt="" coords="756,35,954,93"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="724,61,756,61,756,67,724,67"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request.html" title="Abstract class for all voice requests." alt="" coords="256,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,41,506,46,505,52,473,47"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request.html" title="All publicly accessible properties &amp; methods of a voice request." alt="" coords="5,43,208,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,44,255,39,256,44,224,49"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_transcription_request.html" title="Interface for audio transcription based voice requests." alt="" coords="274,72,440,131"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="223,79,274,86,273,92,223,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,84,505,76,506,82,456,89"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_n_l_p_request.html" title="Abstract class for NLP text &amp; audio requests." alt="" coords="1002,35,1168,93"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="969,61,1001,61,1001,67,969,67"/>
+</map>

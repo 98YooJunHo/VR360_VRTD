@@ -1,0 +1,7 @@
+<map id="OVRScenePlane" name="OVRScenePlane">
+<area shape="rect" id="Node000001" title="A OVRSceneAnchor that has a 2D bounds associated with it." alt="" coords="78,80,197,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,41,126,78,122,82,83,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,294,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,45,153,82,149,78,189,41"/>
+</map>

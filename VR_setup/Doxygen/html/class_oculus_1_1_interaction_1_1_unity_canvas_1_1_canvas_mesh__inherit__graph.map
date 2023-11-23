@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasMesh" name="Oculus.Interaction.UnityCanvas.CanvasMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,39,323,81"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_cylinder.html" title=" " alt="" coords="371,5,531,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,42,370,37,371,42,339,47"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_rect.html" title=" " alt="" coords="371,72,531,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,73,371,78,370,83,338,78"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,115,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,57,162,57,162,63,130,63"/>
+</map>

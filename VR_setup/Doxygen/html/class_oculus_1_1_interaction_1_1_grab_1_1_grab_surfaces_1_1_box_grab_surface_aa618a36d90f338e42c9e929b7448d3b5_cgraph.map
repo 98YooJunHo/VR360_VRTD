@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.CalculateBestPoseAtSurface" name="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface.CalculateBestPoseAtSurface">
+<area shape="rect" id="Node000001" title="Finds the Pose at the surface that is the closest to the given ray." alt="" coords="5,47,209,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface.html#a18d816f352de2f705ac3a1049f056f78" title="The origin pose of the surface. This is the point from which the base of the box must start." alt="" coords="257,5,460,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,57,241,51,242,57,210,62"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface.html#addeefaffe4add97bab4caa8c7fda1c30" title="The rotation of the rectangle from the Grip point." alt="" coords="257,88,460,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,90,242,95,241,101,209,95"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="508,13,698,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,32,492,32,492,37,461,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.SurfaceUtils.ComputeDistanceFrom" name="Oculus.Interaction.SurfaceUtils.ComputeDistanceFrom">
+<area shape="rect" id="Node000001" title="The distance from the closest point as computed by the proximity field and surface...." alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html#a1e8e88cb104ba7b22da4ee2250683a8d" title="Find nearest point to surface." alt="" coords="238,5,428,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

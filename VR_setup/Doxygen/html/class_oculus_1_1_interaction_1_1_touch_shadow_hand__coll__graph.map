@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.TouchShadowHand" name="Oculus.Interaction.TouchShadowHand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,112,263,155"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_shadow_hand.html" title="A thin HandJoint skeleton implementation that can be used for computing world joints from local joint..." alt="" coords="5,5,168,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,58,163,110,159,113,113,61"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_hand_sphere_map.html" title="A mapping of hand joints to spheres that can be used for collision testing." alt="" coords="192,5,355,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,62,232,90,207,114,204,110,229,86,250,59"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.IInteractor" name="Oculus.Interaction.IInteractor">
+<area shape="rect" id="Node000001" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="28,80,215,107"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,5,112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,42,112,78,108,81,77,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="135,5,233,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,46,134,81,130,78,161,42"/>
+</map>

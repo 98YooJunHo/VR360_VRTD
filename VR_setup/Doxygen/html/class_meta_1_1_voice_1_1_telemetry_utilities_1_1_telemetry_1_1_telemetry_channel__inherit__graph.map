@@ -1,0 +1,5 @@
+<map id="Meta.Voice.TelemetryUtilities.Telemetry.TelemetryChannel" name="Meta.Voice.TelemetryUtilities.Telemetry.TelemetryChannel">
+<area shape="rect" id="Node000001" title="The telemetry channel represents a target for telemetry. The default implementation sends live teleme..." alt="" coords="5,5,201,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_telemetry_utilities_1_1_telemetry_1_1_local_telemetry.html" title="This instance will be used when we don&#39;t have consent to collect telemetry." alt="" coords="5,96,201,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,64,106,96,100,96,100,64"/>
+</map>

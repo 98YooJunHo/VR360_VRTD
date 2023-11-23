@@ -1,0 +1,24 @@
+<map id="OVRLipSyncContext.Update" name="OVRLipSyncContext.Update">
+<area shape="rect" id="Node000001" title="Run processes that need to be updated in our game thread." alt="" coords="5,55,192,81"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context.html#a84eb3651f81d4b0eff3a8a834c097dd6" title="Print the visemes and laughter score to game window." alt="" coords="240,13,454,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,53,224,49,224,54,192,58"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_lip_sync_context.html#a027f8778f5cfc45263789f0a2fd0216d" title="Handle keyboard input." alt="" coords="254,80,440,123"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="192,78,239,84,238,90,192,83"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_debug_console.html#a47a5ea8e58baf26e1c9892131ef9c446" title="Clear this instance." alt="" coords="502,21,716,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,32,487,32,487,37,455,37"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_debug_console.html#a64b0f548fd21e02a746863a32c169669" title="Log the specified message." alt="" coords="507,80,712,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="446,54,532,73,530,79,445,59"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync_debug_console.html#a3b41e35627b5102bd737bb80f320358e" title="Clears the messages." alt="" coords="764,5,979,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="717,29,749,28,749,33,717,34"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_debug_console.html#aa3e6bcfc16a4fc79b472d4505d90a665" title="Display this instance." alt="" coords="1027,47,1254,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="980,37,1013,42,1012,47,979,43"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_lip_sync_debug_console.html#a69814f0df859c61d0ea9c1ceb950851e" title="Adds the message." alt="" coords="768,72,975,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="712,91,752,91,752,96,712,96"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="975,78,1012,73,1013,78,976,83"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="433,77,538,50,539,55,434,82"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="440,96,491,94,491,100,440,101"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_lip_sync_debug_console.html#ae81d6005f76d909bc93a21b85d461adf" title="Calls clear after a certain time." alt="" coords="502,135,716,177"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="441,118,489,128,488,134,440,123"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_lip_sync_debug_console.html#a92b798f4776c0bc915f628be880d510d" title="Sets the clear timeout." alt="" coords="769,139,974,181"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="717,155,754,156,754,161,717,160"/>
+</map>

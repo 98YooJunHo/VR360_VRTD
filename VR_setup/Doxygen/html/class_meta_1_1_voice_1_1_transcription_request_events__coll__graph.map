@@ -1,0 +1,14 @@
+<map id="Meta.Voice.TranscriptionRequestEvents&lt; TUnityEvent &gt;" name="Meta.Voice.TranscriptionRequestEvents&lt; TUnityEvent &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="564,72,766,115"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_voice_request_events.html" title=" " alt="" coords="221,5,362,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,39,564,73,563,78,377,44"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request_events.html" title="An interface base for all voice request events." alt="" coords="5,40,150,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,45,220,35,221,41,165,50"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_transcription_request_events.html" title="Interface for all specific audio transcription request events." alt="" coords="199,72,384,115"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="165,72,199,77,198,82,164,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="400,91,564,91,564,96,400,96"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_voice_1_1_transcription_request_event.html" title=" " alt="" coords="209,139,374,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="390,150,464,141,540,128,598,113,600,118,541,133,464,146,390,155"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="8,147,147,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="163,157,208,157,208,163,163,163"/>
+</map>

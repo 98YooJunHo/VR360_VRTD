@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.IInteractor" name="Oculus.Interaction.IInteractor">
+<area shape="rect" id="Node000001" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="160,96,347,123"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_interactor.html" title="Interactor provides a base template for any kind of interaction. Interactions can be wholly defined b..." alt="" coords="395,35,583,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,90,394,75,395,80,331,95"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_interactor_group.html" title=" " alt="" coords="397,121,581,164"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="363,122,397,127,396,132,362,127"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,71,112,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,90,160,94,159,100,126,95"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="10,121,107,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,124,159,119,160,124,123,129"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="643,5,814,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="599,44,642,40,643,45,599,49"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_best_hover_interactor_group.html" title="This interactor group allows only the highest&#45;priority interactor to be the one in Hover,..." alt="" coords="634,88,823,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="596,125,633,120,634,125,597,130"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_best_select_interactor_group.html" title="This interactor group allows many Interactors to be in Hover state but upon selection,..." alt="" coords="631,155,826,197"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="597,155,631,160,631,165,596,160"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_first_hover_interactor_group.html" title="This interactor group allows only the first interactor requesting it to be the one in Hover,..." alt="" coords="650,221,807,264"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="548,169,632,207,662,218,660,223,630,212,546,174"/>
+</map>

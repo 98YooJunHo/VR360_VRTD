@@ -1,0 +1,22 @@
+<map id="Oculus.Interaction.HandRayInteractorCursorVisual" name="Oculus.Interaction.HandRayInteractorCursorVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="929,71,1112,113"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="639,5,749,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,25,833,35,905,51,961,68,959,73,904,56,832,41,764,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="245,59,336,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,71,929,87,928,92,351,76"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_ray_interactor.html" title=" " alt="" coords="590,139,798,165"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="351,82,397,95,421,104,507,124,590,137,590,143,506,129,420,109,395,100,350,87"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="613,189,775,232"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="789,184,904,147,978,112,981,116,906,152,791,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="785,133,928,106,929,111,786,138"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="184,109,396,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,134,590,144,590,149,412,140"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_ray_interactor_1_1_ray_candidate_properties.html" title=" " alt="" coords="185,176,396,219"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="410,182,566,164,590,161,590,167,567,169,411,187"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_i_candidate_position.html" title=" " alt="" coords="5,184,135,211"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="150,195,184,195,184,200,150,200"/>
+<area shape="rect" id="Node000009" href="$interface_oculus_1_1_interaction_1_1_i_movement.html" title=" " alt="" coords="194,243,386,269"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="401,250,484,235,526,222,565,203,576,190,589,175,613,163,616,168,592,179,580,193,568,207,528,226,486,240,402,255"/>
+<area shape="rect" id="Node000010" href="$struct_oculus_1_1_interaction_1_1_surfaces_1_1_surface_hit.html" title=" " alt="" coords="198,293,383,336"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="398,321,442,318,486,310,528,294,565,269,573,258,577,248,576,225,576,200,579,188,588,175,604,164,607,168,592,179,584,190,581,201,581,224,582,249,578,261,568,273,530,298,488,315,443,323,399,327"/>
+</map>

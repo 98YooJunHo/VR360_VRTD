@@ -1,0 +1,5 @@
+<map id="OVRTrackedKeyboard.UpdateTextureQuality" name="OVRTrackedKeyboard.UpdateTextureQuality">
+<area shape="rect" id="Node000001" title="Apply the current texture quality settings and reapplies texture to material." alt="" coords="5,5,201,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_g_l_t_f_loader.html#aee4cc6a2bd60fc36969f28af3f9e9937" title="Applies the input Texture Quality setting into the ref Texture2D provided as input...." alt="" coords="249,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,24,233,24,233,29,201,29"/>
+</map>

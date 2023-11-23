@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Requests.VRequest.RequestFile" name="Meta.WitAi.Requests.VRequest.RequestFile">
+<area shape="rect" id="Node000001" title="Performs a simple http header request." alt="" coords="5,5,216,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#a52b46b3e4671f06c64cefb006b3fa919" title="Initialize with a request and an on completion callback." alt="" coords="264,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+</map>

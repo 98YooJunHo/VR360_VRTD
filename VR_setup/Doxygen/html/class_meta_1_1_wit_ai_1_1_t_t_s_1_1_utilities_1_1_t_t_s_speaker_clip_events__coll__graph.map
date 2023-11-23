@@ -1,0 +1,21 @@
+<map id="Meta.WitAi.TTS.Utilities.TTSSpeakerClipEvents" name="Meta.WitAi.TTS.Utilities.TTSSpeakerClipEvents">
+<area shape="rect" id="Node000001" title="A collection of events used for speaker tts playback." alt="" coords="1049,196,1213,239"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_speech_events.html" title=" " alt="" coords="687,40,825,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,39,885,38,933,41,981,51,1026,70,1061,96,1088,130,1109,165,1123,194,1119,197,1104,167,1084,133,1057,100,1023,74,979,56,932,46,884,43,840,44"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_text_event.html" title=" " alt="" coords="221,32,417,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,51,687,51,687,56,433,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="17,40,156,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,51,220,51,220,56,171,56"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_audio_event.html" title=" " alt="" coords="217,127,421,169"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="437,148,533,140,583,132,631,120,689,94,735,65,738,69,692,99,633,125,584,138,534,146,437,153"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,135,168,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,145,216,145,216,151,183,151"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_event.html" title="A unity event that returns a TTSSpeaker &amp; TTSClipData for a specific speaker playback request." alt="" coords="674,195,838,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="854,214,1048,214,1048,220,854,219"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="234,195,404,237"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="420,213,673,213,673,219,420,219"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_message_event.html" title="A unity event that returns a TTSSpeaker, TTSClipData &amp; text for a specific speaker playback request." alt="" coords="656,261,856,304"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="871,273,947,264,1024,251,1072,237,1074,242,1025,256,948,270,871,278"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="234,261,404,304"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="420,280,656,280,656,285,420,285"/>
+</map>

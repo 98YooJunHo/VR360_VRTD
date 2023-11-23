@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Input.HmdRef" name="Oculus.Interaction.Input.HmdRef">
+<area shape="rect" id="Node000001" title="A set of constants that are passed to each child of a Hand modifier tree from the root DataSource." alt="" coords="131,96,293,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,38,181,93,178,98,91,43"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hmd.html" title=" " alt="" coords="138,5,190,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,45,204,94,199,97,175,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="214,5,306,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,47,225,97,220,94,245,45"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hmd.html" title=" " alt="" coords="329,5,522,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,41,259,98,257,93,382,36"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="OVRSemanticLabels" name="OVRSemanticLabels">
+<area shape="rect" id="Node000001" title="Descriptive labels of the OVRAnchor, as comma separated strings." alt="" coords="239,112,381,139"/>
+<area shape="rect" id="Node000002" href="$interface_i_o_v_r_anchor_component.html" title=" " alt="" coords="5,5,172,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,52,275,109,273,114,141,57"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="159,52,288,109,286,114,156,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,13,424,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,56,306,112,301,112,299,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="321,56,319,112,313,112,315,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="447,13,501,40"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="441,50,333,114,330,109,438,46"/>
+</map>

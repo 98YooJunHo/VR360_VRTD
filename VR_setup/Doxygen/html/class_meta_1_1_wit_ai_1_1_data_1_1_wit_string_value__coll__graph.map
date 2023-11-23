@@ -1,0 +1,10 @@
+<map id="Meta.WitAi.Data.WitStringValue" name="Meta.WitAi.Data.WitStringValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,181,215"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_wit_value.html" title=" " alt="" coords="56,96,130,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,138,96,172,90,172,90,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="13,5,130,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,47,93,95,87,96,76,48"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_wit_response_reference.html" title=" " alt="" coords="155,5,381,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,42,119,98,117,93,228,37"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="398,11,407,19,399,26,382,29,381,23,397,21,402,19,395,16"/>
+</map>

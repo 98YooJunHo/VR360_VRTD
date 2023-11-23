@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Samples.BuiltInTimer.TimerController.AddTimeToTimer" name="Meta.Voice.Samples.BuiltInTimer.TimerController.AddTimeToTimer">
+<area shape="rect" id="Node000001" title="Adds time to the timer. It corresponds to the wit intent &quot;wit$add_time_timer&quot;." alt="" coords="5,5,215,64"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_built_in_timer_1_1_timer_controller.html#a674083cf8996db03fc08cf872001c603" title="Parses entity values to get a resulting time value in seconds." alt="" coords="263,13,483,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,32,247,32,247,37,215,37"/>
+</map>

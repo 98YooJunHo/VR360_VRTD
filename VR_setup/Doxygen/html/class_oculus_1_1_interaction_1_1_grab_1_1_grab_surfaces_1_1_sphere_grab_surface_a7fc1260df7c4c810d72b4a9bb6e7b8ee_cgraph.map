@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface.GetRadius" name="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface.GetRadius">
+<area shape="rect" id="Node000001" title="The radius of the sphere, this is automatically calculated as the distance between the center and the..." alt="" coords="5,47,227,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html#a80fe31275793302ec42124225154b0a6" title="The center of the sphere in world coordinates." alt="" coords="275,5,496,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,56,259,51,260,57,227,62"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html#a7e4cfcdf7fe751221c3b71422529d353" title="The reference pose of the surface. It defines the radius of the sphere as the point from the relative..." alt="" coords="275,88,496,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,90,260,95,259,101,227,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="544,96,734,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="496,115,528,115,528,120,496,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.SurfaceUtils.ComputeTangentDistance" name="Oculus.Interaction.SurfaceUtils.ComputeTangentDistance">
+<area shape="rect" id="Node000001" title="The distance to a surface along the tangent." alt="" coords="5,5,206,48"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html#a1e8e88cb104ba7b22da4ee2250683a8d" title="Find nearest point to surface." alt="" coords="254,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,24,238,24,238,29,206,29"/>
+</map>

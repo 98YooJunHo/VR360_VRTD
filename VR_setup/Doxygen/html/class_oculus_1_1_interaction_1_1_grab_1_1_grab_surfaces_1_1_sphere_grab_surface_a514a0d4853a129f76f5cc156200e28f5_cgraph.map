@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface.MirrorPose" name="Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface.MirrorPose">
+<area shape="rect" id="Node000001" title="Method for mirroring a Pose around the surface. Different surfaces will prefer mirroring along differ..." alt="" coords="5,47,227,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html#a00461575f6d4b32add5cd42f92a9b6be" title="The direction of the sphere, measured from the center to the original grip position." alt="" coords="275,47,496,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,73,259,73,259,79,227,79"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html#a80fe31275793302ec42124225154b0a6" title="The center of the sphere in world coordinates." alt="" coords="544,5,765,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,56,528,51,529,57,497,62"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html#a7e4cfcdf7fe751221c3b71422529d353" title="The reference pose of the surface. It defines the radius of the sphere as the point from the relative..." alt="" coords="544,88,765,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="497,90,529,95,528,101,496,96"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="813,96,1004,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="766,115,798,115,798,120,766,120"/>
+</map>

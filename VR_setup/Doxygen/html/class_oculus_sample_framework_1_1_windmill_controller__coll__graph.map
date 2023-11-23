@@ -1,0 +1,18 @@
+<map id="OculusSampleFramework.WindmillController" name="OculusSampleFramework.WindmillController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="713,100,937,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,99,115,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,109,377,108,689,112,712,113,712,118,689,117,377,113,130,114"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_selection_cylinder.html" title=" " alt="" coords="281,184,510,227"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="121,128,139,133,263,169,307,181,305,186,262,175,138,139,119,133"/>
+<area shape="rect" id="Node000005" href="$class_oculus_sample_framework_1_1_windmill_blades_controller.html" title=" " alt="" coords="283,16,508,59"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="105,90,138,79,211,61,282,49,283,54,212,67,139,84,107,95"/>
+<area shape="rect" id="Node000007" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="263,133,528,160"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="131,117,263,130,262,136,130,122"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="525,186,688,157,753,141,754,146,690,163,525,192"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="33,192,87,219"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="102,203,281,203,281,208,102,208"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="523,47,606,59,690,75,765,97,764,102,688,80,605,64,523,52"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="14,5,106,32"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="121,19,283,28,283,34,121,25"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="543,136,689,128,712,127,713,132,689,133,543,142"/>
+</map>

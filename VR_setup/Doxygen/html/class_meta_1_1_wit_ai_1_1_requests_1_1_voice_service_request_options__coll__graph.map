@@ -1,0 +1,15 @@
+<map id="Meta.WitAi.Requests.VoiceServiceRequestOptions" name="Meta.WitAi.Requests.VoiceServiceRequestOptions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,229,290,272"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request_options.html" title="Interface for all specific audio NLP request parameters." alt="" coords="13,155,189,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,189,175,227,172,231,126,193"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_options.html" title="Interface for NLP request parameters." alt="" coords="221,80,363,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,115,135,157,134,152,243,110"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_voice_1_1_i_n_l_p_text_request_options.html" title="Interface for text language processing request parameters." alt="" coords="213,155,381,181"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="296,122,299,154,293,154,291,123"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_voice_request_options.html" title="The base interface for all request options." alt="" coords="121,5,271,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,39,277,77,274,82,223,44"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_voice_1_1_i_transcription_request_options.html" title="Interface for audio transcription specific options." alt="" coords="5,80,197,107"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="169,44,119,82,116,77,165,40"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="104,122,104,154,98,154,98,122"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="272,193,225,231,222,227,268,189"/>
+</map>

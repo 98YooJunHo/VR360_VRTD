@@ -1,0 +1,11 @@
+<map id="CharacterCameraConstraint.CameraUpdate" name="CharacterCameraConstraint.CameraUpdate">
+<area shape="rect" id="Node000001" title="This method is the handler for the PlayerController.CameraUpdated event, which is used to handle whet..." alt="" coords="5,72,191,115"/>
+<area shape="rect" id="Node000002" href="$class_character_camera_constraint.html#a7357eb87689611d685fa3bc75ccaadb9" title="This method checks whether the camera is close enough to geometry to cause it to start clipping,..." alt="" coords="254,5,439,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,69,249,50,250,55,181,74"/>
+<area shape="rect" id="Node000003" href="$class_character_camera_constraint.html#a5d1bc99955de76231f513a5f853b596d" title="This method checks whether the camera is inside of geometry or has geometry between it and the charac..." alt="" coords="254,72,439,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,91,238,91,238,96,191,96"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_screen_fade.html#a8df1ac21b7aac08a9401a2d3187a95a1" title="Override current fade level." alt="" coords="239,139,454,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,113,239,124,272,132,271,137,238,129,191,118"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_screen_fade.html#aba3ab4b582116174b13c2bce0b5efeb3" title="Update material alpha. UI fade and the current fade due to fade in/out animations (or explicit contro..." alt="" coords="502,131,691,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,149,487,149,487,155,454,155"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.ProcessDrag" name="UnityEngine.EventSystems.OVRInputModule.ProcessDrag">
+<area shape="rect" id="Node000001" title="Exactly the same as the code from PointerInputModule, except that we call our own IsPointerMoving." alt="" coords="5,39,204,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a96b195af713535578aa7107a8e0a5527" title="The purpose of this function is to allow us to switch between using the standard IsPointerMoving meth..." alt="" coords="254,5,468,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,44,238,40,239,45,205,50"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7eae6d189e9be2631d986c04325d1706" title="New version of ShouldStartDrag implemented first in PointerInputModule. This version differs in that ..." alt="" coords="252,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,70,236,74,236,80,204,76"/>
+</map>

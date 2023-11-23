@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.GrabAPI.FingerPinchGrabAPI" name="Oculus.Interaction.GrabAPI.FingerPinchGrabAPI">
+<area shape="rect" id="Node000001" title="This Finger API uses an advanced calculation for the pinch value of the fingers to detect if they are..." alt="" coords="110,112,294,155"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_finger_a_p_i.html" title="This interface is used for tracking the grabbing strength of the fingers. Since said strength can be ..." alt="" coords="5,13,87,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,47,173,109,170,114,76,51"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_pinch_data.html" title=" " alt="" coords="110,5,294,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,64,205,111,199,111,199,64"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hmd.html" title=" " alt="" coords="318,13,510,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="376,50,245,114,243,109,374,45"/>
+</map>

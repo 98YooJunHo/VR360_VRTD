@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.WitService.IsConfigurationValid" name="Meta.WitAi.WitService.IsConfigurationValid">
+<area shape="rect" id="Node000001" title="Check configuration, client access token &amp; app id." alt="" coords="5,5,172,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html#ab6b7e16431b463e2c9c58413361e4505" title="Returns client access token." alt="" coords="220,5,473,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,24,204,24,204,29,172,29"/>
+</map>

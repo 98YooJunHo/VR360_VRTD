@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.PoseDetection.ShapeRecognizerActiveState.FingerFeatureStateUsage" name="Oculus.Interaction.PoseDetection.ShapeRecognizerActiveState.FingerFeatureStateUsage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="755,40,1028,99"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer.html" title=" " alt="" coords="450,48,669,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="684,67,755,67,755,72,684,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,196,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,17,314,23,426,35,477,45,476,50,425,40,313,28,211,23"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer_1_1_finger_feature_config_list.html" title=" " alt="" coords="5,97,270,140"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,125,355,123,425,115,469,104,509,89,511,94,470,109,426,120,356,128,285,130"/>
+</map>

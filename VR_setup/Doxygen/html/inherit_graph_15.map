@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,85,123,112"/>
+<area shape="rect" id="Node000001" href="$class_drawer_inspector_comment.html" title=" " alt="" coords="175,5,346,32"/>
+<area shape="poly" id="edge938_Node000000_Node000001" title=" " alt="" coords="101,75,170,42,203,30,205,35,172,46,103,80"/>
+<area shape="rect" id="Node000002" href="$class_drawer_inspector_note.html" title=" " alt="" coords="190,56,331,83"/>
+<area shape="poly" id="edge939_Node000000_Node000002" title=" " alt="" coords="138,85,189,77,190,83,138,90"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_drawers_1_1_tooltip_box_drawer.html" title=" " alt="" coords="171,107,350,149"/>
+<area shape="poly" id="edge940_Node000000_Node000003" title=" " alt="" coords="138,107,170,112,170,117,138,112"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_optional_drawer.html" title="Adds an [Optional] label in the inspector over any SerializedField with this attribute." alt="" coords="176,173,345,216"/>
+<area shape="poly" id="edge941_Node000000_Node000004" title=" " alt="" coords="100,118,172,159,198,170,196,175,169,164,98,123"/>
+</map>

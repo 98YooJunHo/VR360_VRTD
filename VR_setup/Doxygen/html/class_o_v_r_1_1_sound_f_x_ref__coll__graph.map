@@ -1,0 +1,10 @@
+<map id="OVR.SoundFXRef" name="OVR.SoundFXRef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,130,213"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x.html" title=" " alt="" coords="144,96,250,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,124,107,134,87,148,76,167,71,187,66,186,71,165,84,145,105,129,128,119"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_group.html" title=" " alt="" coords="189,187,314,213"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="192,138,192,150,195,161,206,174,220,184,217,188,202,178,190,164,186,151,186,138"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_o_s_p_props.html" title=" " alt="" coords="139,5,255,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,48,200,95,194,95,194,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="258,172,259,159,256,148,245,135,230,125,233,121,248,131,261,145,265,159,264,172"/>
+</map>

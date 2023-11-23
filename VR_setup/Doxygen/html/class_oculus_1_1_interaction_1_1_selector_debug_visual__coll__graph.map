@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.SelectorDebugVisual" name="Oculus.Interaction.SelectorDebugVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,96,273,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,40,159,93,156,97,86,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,48,187,95,181,95,181,48"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_selector.html" title="ISelector defines an input abstraction that can broadcast select and release events." alt="" coords="253,5,435,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,43,220,98,217,93,309,38"/>
+</map>

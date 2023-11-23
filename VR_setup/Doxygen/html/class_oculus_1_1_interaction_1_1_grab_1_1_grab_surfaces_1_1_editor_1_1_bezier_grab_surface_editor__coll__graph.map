@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.Editor.BezierGrabSurfaceEditor" name="Oculus.Interaction.Grab.GrabSurfaces.Editor.BezierGrabSurfaceEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,213,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,89,151,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,131,106,187,101,188,90,132"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_bezier_grab_surface.html" title="Defines a series of points that specify paths along with the snapping pose is valid...." alt="" coords="176,81,389,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,135,154,190,152,185,237,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="165,5,274,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,43,269,80,265,83,236,46"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="298,5,395,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="329,46,300,83,296,80,325,42"/>
+</map>

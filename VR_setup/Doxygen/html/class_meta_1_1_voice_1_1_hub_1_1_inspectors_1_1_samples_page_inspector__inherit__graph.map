@@ -1,0 +1,7 @@
+<map id="Meta.Voice.Hub.Inspectors.SamplesPageInspector" name="Meta.Voice.Hub.Inspectors.SamplesPageInspector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,188,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,5,75,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,44,86,78,82,81,61,47"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_hub_1_1_interfaces_1_1_i_override_size.html" title=" " alt="" coords="99,5,196,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,47,112,81,107,78,129,44"/>
+</map>

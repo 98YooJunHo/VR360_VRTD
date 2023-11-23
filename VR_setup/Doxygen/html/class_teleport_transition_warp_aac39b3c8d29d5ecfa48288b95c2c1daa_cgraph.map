@@ -1,0 +1,7 @@
+<map id="TeleportTransitionWarp.DoWarp" name="TeleportTransitionWarp.DoWarp">
+<area shape="rect" id="Node000001" title="This coroutine will be active during the teleport transition and will move the camera according to th..." alt="" coords="5,35,211,61"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a720336cde8b2bf093c4fe7be9189a604" title="Warp just the position towards the destination." alt="" coords="274,5,459,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,34,258,28,259,34,211,39"/>
+<area shape="rect" id="Node000003" href="$class_locomotion_teleport.html#a993656ef64bfa3c9937cc1469f0034d9" title="Convenience method for finding the character&#39;s position." alt="" coords="259,56,474,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,57,243,61,243,66,211,62"/>
+</map>

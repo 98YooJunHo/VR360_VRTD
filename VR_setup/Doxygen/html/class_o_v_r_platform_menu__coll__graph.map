@@ -1,0 +1,12 @@
+<map id="OVRPlatformMenu" name="OVRPlatformMenu">
+<area shape="rect" id="Node000001" title="Shows the Oculus plaform UI." alt="" coords="143,411,273,437"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,115,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,353,145,384,187,408,184,413,143,389,91,358"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="260,320,337,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,360,223,412,219,408,273,356"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="157,5,211,32"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="182,48,174,103,168,178,167,262,178,346,189,381,203,409,198,411,184,383,172,347,162,262,162,178,169,103,176,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,46,297,319,292,320,191,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="362,320,428,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="373,359,331,389,299,403,267,413,266,408,297,398,328,384,370,355"/>
+</map>

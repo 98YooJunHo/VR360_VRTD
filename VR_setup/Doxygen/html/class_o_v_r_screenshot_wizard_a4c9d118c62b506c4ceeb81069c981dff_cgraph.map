@@ -1,0 +1,9 @@
+<map id="OVRScreenshotWizard.OnWizardCreate" name="OVRScreenshotWizard.OnWizardCreate">
+<area shape="rect" id="Node000001" title="Renders the cubemap." alt="" coords="5,39,224,81"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_screenshot_wizard.html#a3c1ca021153083631fa4e22a9a6500f2" title="Create the asset path if it is not available. Assuming the newFolderPath is stated with &quot;Assets&quot;,..." alt="" coords="279,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,44,263,38,264,44,225,49"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_screenshot_wizard.html#a481d75f1362df2da9b197f40e0a4cc69" title="Generates a NPOT 6x1 cubemap in the following format PX NX PY NY PZ NZ." alt="" coords="272,72,485,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,71,257,75,256,81,224,76"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_cubemap_capture.html#a88c311b12d6591a47acc38b873f3fc0e" title="Save unity cubemap into NPOT 6x1 cubemap/texture atlas in the following format PX NX PY NY PZ NZ." alt="" coords="533,72,769,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,91,517,91,517,96,485,96"/>
+</map>

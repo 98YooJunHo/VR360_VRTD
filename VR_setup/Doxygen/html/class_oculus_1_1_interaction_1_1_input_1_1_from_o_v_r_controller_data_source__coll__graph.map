@@ -1,0 +1,24 @@
+<map id="Oculus.Interaction.Input.FromOVRControllerDataSource" name="Oculus.Interaction.Input.FromOVRControllerDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="881,224,1083,267"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html" title=" " alt="" coords="478,5,661,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="677,16,722,18,769,24,815,37,858,58,881,74,902,95,936,140,960,185,976,223,971,225,955,188,931,143,898,98,878,79,856,62,813,42,768,30,721,23,676,21"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="524,72,615,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="631,86,739,102,800,118,858,140,889,158,918,180,963,222,959,226,915,184,886,163,856,145,798,123,738,107,630,91"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html" title=" " alt="" coords="475,123,664,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="680,158,767,175,858,197,927,221,926,226,856,203,766,181,679,164"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_controller_data_asset.html" title=" " alt="" coords="488,189,651,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="666,216,881,234,880,240,666,221"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_copy_from.html" title=" " alt="" coords="6,171,185,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,193,488,205,488,210,200,199"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_controller_data_source_config.html" title="A set of constants that are passed to each child of a Controller modifier tree from the root DataSour..." alt="" coords="5,244,186,287"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="201,263,664,257,881,248,881,254,664,263,201,268"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="201,253,450,225,488,220,488,226,451,231,201,258"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="531,435,608,461"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="623,440,674,431,734,417,797,396,856,368,889,345,919,317,963,265,967,269,922,321,892,349,858,373,799,401,736,422,675,436,624,445"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="69,583,122,609"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="99,567,110,519,130,460,162,401,183,375,208,352,244,342,318,330,530,301,857,263,880,259,881,264,857,268,531,307,318,335,245,347,211,357,187,379,166,404,135,462,115,520,104,568"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="137,597,213,604,304,607,390,605,424,600,449,592,468,574,498,537,556,460,560,463,503,540,472,578,452,597,426,605,390,610,304,613,212,609,137,603"/>
+<area shape="rect" id="Node000010" href="$struct_oculus_1_1_interaction_1_1_input_1_1_o_v_r_pointer_pose_selector.html" title="Returns the Pointer Pose for the active controller model as found in the official prefabs...." alt="" coords="485,587,654,629"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="129,616,167,638,210,655,277,669,330,673,383,667,450,655,490,643,526,627,529,632,492,648,451,660,384,673,330,678,276,674,209,660,164,643,126,620"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="644,578,695,555,750,526,805,491,855,450,895,404,928,353,970,266,975,268,932,355,899,407,859,454,808,495,753,531,697,560,647,583"/>
+</map>

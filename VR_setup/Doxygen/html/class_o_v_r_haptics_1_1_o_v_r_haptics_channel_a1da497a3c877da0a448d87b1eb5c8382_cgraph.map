@@ -1,0 +1,5 @@
+<map id="OVRHaptics.OVRHapticsChannel.Preempt" name="OVRHaptics.OVRHapticsChannel.Preempt">
+<area shape="rect" id="Node000001" title="Cancels any currently&#45;playing clips and immediatly plays the specified clip instead." alt="" coords="5,5,226,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_haptics_1_1_o_v_r_haptics_output.html#a7a27e2dfa9c2889f864f0589d9f88694" title="Immediately plays the specified clip without waiting for any currently&#45;playing clip to finish." alt="" coords="274,5,486,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
+</map>

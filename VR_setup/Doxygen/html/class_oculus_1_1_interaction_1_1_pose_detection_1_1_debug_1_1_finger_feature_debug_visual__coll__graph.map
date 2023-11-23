@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.PoseDetection.Debug.FingerFeatureDebugVisual" name="Oculus.Interaction.PoseDetection.Debug.FingerFeatureDebugVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="834,56,1053,99"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="505,5,614,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,26,810,53,834,57,833,62,810,59,629,31"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html" title=" " alt="" coords="450,56,669,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="684,75,834,75,834,80,684,80"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer.html" title=" " alt="" coords="450,123,669,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="684,120,834,94,834,99,685,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="79,80,196,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,92,314,97,426,109,477,119,476,125,425,115,313,103,211,97"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_shape_recognizer_1_1_finger_feature_config_list.html" title=" " alt="" coords="5,172,270,215"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="285,200,355,198,425,189,469,178,509,163,511,168,470,183,426,195,356,203,285,205"/>
+</map>

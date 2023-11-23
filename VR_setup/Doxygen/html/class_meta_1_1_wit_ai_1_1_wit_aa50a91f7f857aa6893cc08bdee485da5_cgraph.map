@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Wit.DeactivateAndAbortRequest" name="Meta.WitAi.Wit.DeactivateAndAbortRequest">
+<area shape="rect" id="Node000001" title="Stop listening and abort any requests that may be active without waiting for a response." alt="" coords="5,5,180,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a59a666c39dc1e093ca260c10d0e40619" title="Stop listening and cancel a specific report." alt="" coords="228,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,24,212,24,212,29,180,29"/>
+</map>

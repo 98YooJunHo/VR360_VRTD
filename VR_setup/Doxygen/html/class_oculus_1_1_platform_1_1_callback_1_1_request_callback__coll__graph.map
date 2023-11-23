@@ -1,0 +1,15 @@
+<map id="Oculus.Platform.Callback.RequestCallback&lt; T &gt;" name="Oculus.Platform.Callback.RequestCallback&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,251,337,293"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,160,125,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,192,212,248,209,252,101,197"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_message.html" title=" " alt="" coords="149,160,352,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,203,253,250,248,250,248,203"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="87,5,161,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,42,242,158,238,161,142,46"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_models_1_1_error.html" title=" " alt="" coords="185,5,377,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="278,48,255,160,250,159,273,47"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_callback.html" title=" " alt="" coords="376,160,544,187"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="426,197,363,229,307,253,305,248,361,224,424,192"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="433,5,486,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="462,48,462,159,457,159,457,48"/>
+</map>

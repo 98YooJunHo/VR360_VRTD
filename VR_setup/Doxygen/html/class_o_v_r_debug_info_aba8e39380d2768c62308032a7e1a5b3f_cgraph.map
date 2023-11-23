@@ -1,0 +1,20 @@
+<map id="OVRDebugInfo.UpdateVariable" name="OVRDebugInfo.UpdateVariable">
+<area shape="rect" id="Node000001" title="Update VR Variables." alt="" coords="5,189,204,216"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_debug_info.html#a18ea5014293a629f1a706e15b813f135" title="Updates the eye depth offset." alt="" coords="254,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,187,168,125,207,89,250,58,260,52,262,57,253,62,210,93,172,129,118,190"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_debug_info.html#ad2b61258d6e15138e4747dbfe4103d3b" title="Updates the eye height offset." alt="" coords="252,72,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,186,183,156,251,124,267,118,269,123,253,129,186,161,131,191"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_debug_info.html#adbecde311e7f64965b0557d697396c3a" title="Updates the FOV." alt="" coords="269,139,447,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,186,272,166,273,172,176,191"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_debug_info.html#a66c96ed7b24ae7e2bbf5e0926b2aacff" title="Updates the FPS." alt="" coords="269,189,447,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="204,200,254,200,254,205,204,205"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_debug_info.html#ae0093a790c1be0ebba04472bdc0fa442" title="Updates the IPD." alt="" coords="272,240,444,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,214,273,234,272,239,174,219"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_debug_info.html#a76729b9d6faf53ca1775ef2ca1854052" title="Updates latency values." alt="" coords="259,291,457,333"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,214,186,244,253,276,269,283,267,288,251,281,183,249,128,219"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_debug_info.html#a71c1126c181ba1e1d095d43b8c542a97" title="Updates resolution of eye texture." alt="" coords="252,357,464,400"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="118,215,172,276,210,312,253,343,262,348,260,353,250,348,207,316,168,280,114,218"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_display.html#a16797f4cb157584ee6d83d54d79c8bb3" title="Gets the resolution and field of view for the given eye." alt="" coords="512,252,723,279"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="430,163,465,175,531,207,585,241,583,245,528,212,463,180,428,168"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="433,354,463,343,525,314,579,284,581,289,527,319,465,348,435,359"/>
+</map>

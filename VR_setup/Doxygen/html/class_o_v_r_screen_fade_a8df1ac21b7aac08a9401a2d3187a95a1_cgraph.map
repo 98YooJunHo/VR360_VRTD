@@ -1,0 +1,5 @@
+<map id="OVRScreenFade.SetExplicitFade" name="OVRScreenFade.SetExplicitFade">
+<area shape="rect" id="Node000001" title="Override current fade level." alt="" coords="5,13,221,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_screen_fade.html#aba3ab4b582116174b13c2bce0b5efeb3" title="Update material alpha. UI fade and the current fade due to fade in/out animations (or explicit contro..." alt="" coords="269,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,24,253,24,253,29,221,29"/>
+</map>

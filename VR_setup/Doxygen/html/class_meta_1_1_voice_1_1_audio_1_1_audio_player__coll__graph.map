@@ -1,0 +1,7 @@
+<map id="Meta.Voice.Audio.AudioPlayer" name="Meta.Voice.Audio.AudioPlayer">
+<area shape="rect" id="Node000001" title="Custom MonoBehaviour audio player that handles some custom method handling." alt="" coords="24,80,222,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,42,114,78,110,81,79,46"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_player.html" title="An interface for performing playback and interactions for an audio clip." alt="" coords="138,5,233,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,46,135,81,131,78,162,42"/>
+</map>

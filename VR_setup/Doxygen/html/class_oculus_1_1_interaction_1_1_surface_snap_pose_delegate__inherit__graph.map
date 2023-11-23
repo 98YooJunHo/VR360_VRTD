@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.SurfaceSnapPoseDelegate" name="Oculus.Interaction.SurfaceSnapPoseDelegate">
+<area shape="rect" id="Node000001" title="Uses a Surface to determine the closest pose to snap to." alt="" coords="46,80,221,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,42,117,78,113,82,80,45"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_snap_pose_delegate.html" title="A SnapPoseDelegate can be used to provide custom snap pose logic given a set of elements that are eit..." alt="" coords="139,5,274,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,45,154,82,150,78,183,42"/>
+</map>

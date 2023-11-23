@@ -1,0 +1,27 @@
+<map id="Meta.WitAi.ITelemetryEventsProvider" name="Meta.WitAi.ITelemetryEventsProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,195,232"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_dictation_1_1_i_dictation_service.html" title=" " alt="" coords="243,131,442,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,183,250,171,252,177,206,188"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_i_voice_service.html" title=" " alt="" coords="258,197,427,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,208,258,208,258,213,210,213"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_wit_ai_1_1_wit_service.html" title=" " alt="" coords="266,248,419,275"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="210,231,275,245,274,250,209,236"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html" title=" " alt="" coords="498,64,694,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,124,512,105,513,110,442,129"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_voice_1_1_dictation_1_1_bindings_1_1_android_1_1_platform_dictation_impl.html" title=" " alt="" coords="490,131,702,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="458,149,489,149,489,155,458,155"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_wit_dictation.html" title=" " alt="" coords="780,5,945,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="709,58,779,42,780,47,710,63"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_dictation_1_1_app_dictation_experience.html" title=" " alt="" coords="772,72,953,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="710,86,772,88,771,93,710,91"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_voice_service.html" title=" " alt="" coords="514,197,679,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="442,208,513,208,513,213,442,213"/>
+<area shape="rect" id="Node000011" href="$interface_oculus_1_1_voice_1_1_interfaces_1_1_i_platform_voice_service.html" title=" " alt="" coords="515,248,678,291"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="419,225,514,248,513,253,417,231"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_wit.html" title=" " alt="" coords="807,147,918,173"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="684,191,807,168,808,173,685,197"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html" title=" " alt="" coords="750,197,975,224"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="694,208,750,208,750,213,694,213"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_voice_1_1_bindings_1_1_android_1_1_voice_s_d_k_impl.html" title=" " alt="" coords="760,248,965,291"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="694,267,759,267,759,272,694,272"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Meta.Voice.NLPAudioRequestEvents&lt; TUnityEvent &gt;" name="Meta.Voice.NLPAudioRequestEvents&lt; TUnityEvent &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="981,139,1178,181"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_transcription_request_events.html" title=" " alt="" coords="614,139,797,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="812,157,980,157,980,163,812,163"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_voice_request_events.html" title=" " alt="" coords="236,139,377,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,157,614,157,614,163,393,163"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_voice_1_1_i_voice_request_events.html" title="An interface base for all voice request events." alt="" coords="5,72,150,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="165,116,236,137,235,142,164,121"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_voice_1_1_i_transcription_request_events.html" title="Interface for all specific audio transcription request events." alt="" coords="214,72,399,115"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="165,91,214,91,214,96,165,96"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_events.html" title="Interface for NLP request events callbacks." alt="" coords="235,5,379,48"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="163,66,233,45,235,50,165,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="415,109,614,142,613,147,414,114"/>
+<area shape="rect" id="Node000008" href="$interface_meta_1_1_voice_1_1_i_n_l_p_audio_request_events.html" title="Interface for all specific audio NLP request events." alt="" coords="621,72,790,115"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="415,91,620,91,620,96,415,96"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_voice_1_1_transcription_request_event.html" title=" " alt="" coords="224,205,389,248"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="404,217,485,208,570,195,633,179,634,184,571,200,486,213,405,222"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="8,213,147,240"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="162,224,223,224,223,229,162,229"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="806,108,981,140,980,145,805,114"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="394,39,621,77,620,82,394,44"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_voice_1_1_n_l_p_request_response_event.html" title=" " alt="" coords="594,235,817,277"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="821,228,956,195,1009,179,1010,185,957,200,822,233"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="199,272,414,299"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="430,274,594,262,594,267,430,279"/>
+</map>

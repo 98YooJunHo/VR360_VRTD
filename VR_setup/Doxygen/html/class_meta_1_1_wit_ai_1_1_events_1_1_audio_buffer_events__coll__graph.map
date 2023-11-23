@@ -1,0 +1,11 @@
+<map id="Meta.WitAi.Events.AudioBufferEvents" name="Meta.WitAi.Events.AudioBufferEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,220,292,263"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_mic_level_changed_event.html" title=" " alt="" coords="5,97,180,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,153,133,194,159,217,155,221,128,198,103,156"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,13,158,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,56,95,97,90,97,90,56"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_byte_data_event.html" title=" " alt="" coords="204,97,384,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,155,255,198,228,222,224,218,250,194,277,152"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="228,5,360,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,64,297,97,291,97,291,64"/>
+</map>

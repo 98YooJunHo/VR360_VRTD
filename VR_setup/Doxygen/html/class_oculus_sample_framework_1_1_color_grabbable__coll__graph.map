@@ -1,0 +1,18 @@
+<map id="OculusSampleFramework.ColorGrabbable" name="OculusSampleFramework.ColorGrabbable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,496,210,539"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_grabbable.html" title="An object that can be grabbed and thrown by OVRGrabber." alt="" coords="303,323,411,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,354,265,365,243,378,221,401,210,423,199,448,179,474,148,497,145,493,175,470,194,445,205,421,217,398,239,374,262,360,287,350"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_grabber.html" title="Allows grabbing and throwing of objects with the OVRGrabbable component on them." alt="" coords="311,504,406,531"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="290,357,276,366,266,378,253,402,249,424,253,446,266,470,286,490,311,503,309,508,282,494,261,474,248,448,243,424,248,400,261,374,273,362,287,352"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="369,5,478,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,48,362,323,357,322,415,47"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="437,45,462,123,474,176,484,234,488,295,485,357,471,417,446,473,428,493,405,506,402,501,424,489,441,471,466,416,479,356,483,295,479,235,469,177,457,125,432,47"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,488,354,350,360,350,361,488"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="173,323,250,349"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="180,361,168,377,157,403,152,426,155,448,168,470,186,479,222,488,311,506,310,511,221,493,184,484,164,474,150,449,146,426,152,402,164,375,176,358"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="60,5,113,32"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="76,47,73,57,50,138,36,204,34,269,44,351,55,392,70,432,99,494,94,497,65,434,50,394,39,353,28,269,31,203,45,137,68,55,71,45"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="84,48,78,99,78,164,82,198,90,232,103,265,120,294,141,308,174,320,172,325,139,312,117,298,98,267,85,234,77,199,73,164,73,98,78,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="499,323,591,349"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="541,365,521,420,504,449,483,474,446,497,407,510,406,505,444,492,479,470,500,446,516,417,536,363"/>
+</map>

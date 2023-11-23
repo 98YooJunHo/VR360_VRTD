@@ -1,0 +1,34 @@
+<map id="FlashlightController" name="FlashlightController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="972,127,1105,153"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="406,144,515,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,153,972,139,972,145,530,158"/>
+<area shape="rect" id="Node000004" href="$class_grab_object.html" title=" " alt="" coords="726,76,813,103"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="529,138,596,123,724,95,726,101,598,128,531,143"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_skeleton.html" title=" " alt="" coords="719,217,819,244"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="530,159,610,169,696,189,748,214,745,219,694,195,610,174,530,164"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_hand.html" title=" " alt="" coords="730,336,809,363"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="531,172,632,200,697,223,714,243,733,274,764,334,759,337,728,277,709,246,693,228,631,205,529,177"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="415,32,506,59"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="521,36,607,32,716,34,834,48,893,61,949,79,990,100,1023,124,1020,129,988,105,947,84,891,66,833,53,715,39,607,37,521,42"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="521,51,726,81,725,86,521,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="829,97,949,119,972,123,971,129,948,124,828,102"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="831,210,947,172,1002,151,1004,156,949,177,833,215"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="746,200,754,193,769,191,783,193,792,199,795,208,791,218,786,216,790,208,788,202,781,198,769,196,756,198,749,204"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_plugin.html" title=" " alt="" coords="418,224,503,251"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="519,233,719,229,719,234,519,239"/>
+<area shape="poly" id="edge19_Node000008_Node000006" title=" " alt="" coords="519,245,574,260,668,297,743,333,740,338,666,302,572,265,518,251"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,383,59,409"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="37,366,53,329,65,311,81,295,122,271,166,252,213,240,260,232,347,227,417,230,417,235,348,232,260,237,214,245,168,257,124,275,84,299,69,314,58,331,42,368"/>
+<area shape="rect" id="Node000013" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="422,541,499,568"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="37,425,40,454,48,486,62,516,84,541,125,564,169,578,216,586,263,588,351,579,421,564,422,569,352,584,263,593,215,591,168,584,122,569,81,545,58,519,43,487,35,455,31,425"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="806,325,873,282,947,227,990,187,1023,152,1027,155,994,191,950,231,876,286,808,330"/>
+<area shape="rect" id="Node000009" href="$interface_o_v_r_skeleton_1_1_i_o_v_r_skeleton_data_provider.html" title=" " alt="" coords="365,275,556,317"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="571,312,729,340,728,345,570,318"/>
+<area shape="rect" id="Node000010" href="$interface_o_v_r_skeleton_renderer_1_1_i_o_v_r_skeleton_renderer_data_provider.html" title=" " alt="" coords="365,341,556,400"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="571,360,729,349,729,355,571,366"/>
+<area shape="rect" id="Node000011" href="$interface_o_v_r_mesh_1_1_i_o_v_r_mesh_data_provider.html" title=" " alt="" coords="348,424,573,451"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="541,417,572,409,728,360,730,365,574,415,543,423"/>
+<area shape="rect" id="Node000012" href="$interface_o_v_r_mesh_renderer_1_1_i_o_v_r_mesh_renderer_data_provider.html" title=" " alt="" coords="358,475,563,517"/>
+<area shape="poly" id="edge16_Node000008_Node000012" title=" " alt="" coords="560,467,627,442,694,408,726,385,753,361,756,365,730,389,696,413,630,447,562,472"/>
+<area shape="poly" id="edge17_Node000008_Node000013" title=" " alt="" coords="514,546,557,538,604,524,651,503,693,474,718,447,737,416,761,362,766,364,742,418,722,450,697,478,654,508,606,529,558,543,515,552"/>
+</map>

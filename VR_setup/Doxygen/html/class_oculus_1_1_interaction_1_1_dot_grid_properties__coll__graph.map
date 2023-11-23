@@ -1,0 +1,8 @@
+<map id="Oculus.Interaction.DotGridProperties" name="Oculus.Interaction.DotGridProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,180,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,142,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,47,95,188,89,188,85,48"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html" title=" " alt="" coords="108,81,285,124"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="118,39,171,79,167,83,114,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,137,115,189,111,186,164,133"/>
+</map>

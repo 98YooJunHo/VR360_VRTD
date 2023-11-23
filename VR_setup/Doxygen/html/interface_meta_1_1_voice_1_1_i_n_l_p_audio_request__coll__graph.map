@@ -1,0 +1,7 @@
+<map id="Meta.Voice.INLPAudioRequest&lt; TUnityEvent, TOptions, TEvents, TResults &gt;" name="Meta.Voice.INLPAudioRequest&lt; TUnityEvent, TOptions, TEvents, TResults &gt;">
+<area shape="rect" id="Node000001" title="Interface for audio based language processing requests." alt="" coords="6,203,207,261"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_transcription_request.html" title="Interface for audio transcription based voice requests." alt="" coords="23,96,190,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,170,109,202,104,202,104,170"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request.html" title="All publicly accessible properties &amp; methods of a voice request." alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,63,109,96,104,96,104,63"/>
+</map>

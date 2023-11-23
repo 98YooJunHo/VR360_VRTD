@@ -1,0 +1,7 @@
+<map id="Meta.WitAi.Requests.VRequest.RequestFileDownload" name="Meta.WitAi.Requests.VRequest.RequestFileDownload">
+<area shape="rect" id="Node000001" title="Download a file using a unityrequest." alt="" coords="5,35,216,77"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#a52b46b3e4671f06c64cefb006b3fa919" title="Initialize with a request and an on completion callback." alt="" coords="264,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,41,248,38,248,43,216,47"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="300,72,438,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,65,285,73,285,79,216,71"/>
+</map>

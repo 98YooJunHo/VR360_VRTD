@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.OVRControllerMatchesProfileActiveState" name="Oculus.Interaction.OVRControllerMatchesProfileActiveState">
+<area shape="rect" id="Node000001" title="An ActiveState that is active when the controller matches the interaction profile." alt="" coords="77,427,291,469"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,320,115,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,355,163,424,160,428,83,359"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="139,320,229,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,362,187,426,181,426,181,362"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html" title="Provides a unified input system for Oculus controllers and gamepads." alt="" coords="253,320,331,347"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,360,206,428,202,424,268,356"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="265,5,319,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,48,295,320,289,320,289,48"/>
+</map>

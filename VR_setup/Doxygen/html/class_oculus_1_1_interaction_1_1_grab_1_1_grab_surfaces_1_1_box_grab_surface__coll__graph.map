@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface" name="Oculus.Interaction.Grab.GrabSurfaces.BoxGrabSurface">
+<area shape="rect" id="Node000001" title="This GrabSurface defines a Rectangle around which the grip point is valid. Since the grip point might..." alt="" coords="87,219,286,261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,120,115,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,155,163,216,160,220,85,159"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="139,120,235,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,162,189,218,184,218,184,162"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface_data.html" title=" " alt="" coords="259,112,485,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,165,225,220,222,216,321,160"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="277,5,358,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="332,45,364,110,360,113,328,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="382,5,474,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="417,47,385,113,380,110,413,45"/>
+</map>

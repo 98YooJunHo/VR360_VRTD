@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.Editor.CylinderGrabSurfaceEditor" name="Oculus.Interaction.Grab.GrabSurfaces.Editor.CylinderGrabSurfaceEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="831,19,1021,77"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="555,5,682,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="698,24,831,36,830,42,698,29"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_cylinder_grab_surface.html" title="This type of surface defines a cylinder in which the grip pose is valid around an object...." alt="" coords="507,56,730,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="746,63,831,54,831,60,746,68"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="257,13,367,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="382,35,507,56,506,62,381,41"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="264,64,360,91"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="375,75,507,75,507,80,375,80"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_cylinder_surface_data.html" title=" " alt="" coords="201,115,423,157"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="438,109,506,96,507,101,439,115"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="10,96,92,123"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="108,112,201,122,200,127,107,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,148,97,175"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="112,160,176,157,200,155,200,160,177,163,112,165"/>
+</map>

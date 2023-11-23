@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Body.Input.BodySkeletonMapping&lt; TSourceJointId &gt;" name="Oculus.Interaction.Body.Input.BodySkeletonMapping&lt; TSourceJointId &gt;">
+<area shape="rect" id="Node000001" title="Maps a skeleton with joint id TSourceJointId to BodyJointId, and exposes parent/child relationships w..." alt="" coords="834,56,1018,115"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_skeleton_mapping.html" title=" " alt="" coords="565,5,689,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="705,33,745,41,834,62,833,67,744,47,704,38"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping_1_1_skeleton_tree.html" title=" " alt="" coords="522,56,732,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="748,83,834,83,834,88,748,88"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_skeleton_mapping_1_1_skeleton_tree_1_1_node.html" title=" " alt="" coords="187,56,431,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,83,521,83,521,88,446,88"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,72,97,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,83,186,83,186,88,112,88"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_collections_1_1_i_enumerable_hash_set.html" title=" " alt="" coords="510,139,744,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="730,132,833,106,835,111,731,137"/>
+</map>

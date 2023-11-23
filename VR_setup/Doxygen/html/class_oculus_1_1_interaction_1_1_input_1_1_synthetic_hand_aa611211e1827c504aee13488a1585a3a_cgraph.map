@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.SyntheticHand.UpdateJointsRotation" name="Oculus.Interaction.Input.SyntheticHand.UpdateJointsRotation">
+<area shape="rect" id="Node000001" title="Updates the rotation of the joints in the hand using the visual provided values. Sometimes this might..." alt="" coords="5,5,239,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a9e774581dfb33b79c7791c8beaad3b78" title="Indicates whether a joint&#39;s tracked rotation is past a given rotation. Works in local Unity Joint coo..." alt="" coords="287,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,24,271,24,271,29,239,29"/>
+</map>

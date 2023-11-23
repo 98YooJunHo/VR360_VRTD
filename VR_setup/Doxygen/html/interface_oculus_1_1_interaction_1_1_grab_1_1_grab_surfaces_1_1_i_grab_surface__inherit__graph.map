@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.IGrabSurface" name="Oculus.Interaction.Grab.GrabSurfaces.IGrabSurface">
+<area shape="rect" id="Node000001" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="5,139,185,181"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_bezier_grab_surface.html" title="Defines a series of points that specify paths along with the snapping pose is valid...." alt="" coords="238,5,451,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,126,177,91,231,58,258,46,260,51,234,62,180,95,134,130"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_box_grab_surface.html" title="This GrabSurface defines a Rectangle around which the grip point is valid. Since the grip point might..." alt="" coords="245,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,132,261,113,263,118,192,137"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_collider_grab_surface.html" title=" " alt="" coords="235,139,454,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,157,234,157,234,163,200,163"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_cylinder_grab_surface.html" title="This type of surface defines a cylinder in which the grip pose is valid around an object...." alt="" coords="233,205,456,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,183,263,202,261,207,191,188"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_sphere_grab_surface.html" title="Specifies an entire sphere around an object in which the grip point is valid. One of the main advanta..." alt="" coords="236,272,453,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="134,190,180,225,234,258,260,269,258,274,231,262,177,229,131,194"/>
+</map>

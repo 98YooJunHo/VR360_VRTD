@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.PinchPointerVisual" name="Oculus.Interaction.PinchPointerVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,91,628,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="200,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,18,383,26,441,42,484,63,520,88,517,92,481,68,439,46,382,31,325,24"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="209,72,300,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,88,464,102,464,107,315,93"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="161,123,348,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="363,134,440,129,464,126,464,131,441,135,364,139"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,97,112,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="127,117,161,121,160,127,127,122"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_update_driver.html" title=" " alt="" coords="10,148,107,175"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="122,150,160,146,161,151,123,156"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="174,173,336,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="351,178,440,156,501,131,503,136,441,161,352,183"/>
+</map>

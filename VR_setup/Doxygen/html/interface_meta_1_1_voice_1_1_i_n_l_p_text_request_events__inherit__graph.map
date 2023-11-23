@@ -1,0 +1,9 @@
+<map id="Meta.Voice.INLPTextRequestEvents&lt; TUnityEvent &gt;" name="Meta.Voice.INLPTextRequestEvents&lt; TUnityEvent &gt;">
+<area shape="rect" id="Node000001" title="Interface for text language processing request event callbacks." alt="" coords="11,187,203,229"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_voice_1_1_n_l_p_request_events.html" title=" " alt="" coords="5,277,209,320"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,245,110,277,104,277,104,245"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_voice_1_1_i_n_l_p_request_events.html" title="Interface for NLP request events callbacks." alt="" coords="35,96,179,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,154,110,186,104,186,104,154"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_voice_1_1_i_voice_request_events.html" title="An interface base for all voice request events." alt="" coords="35,5,179,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,64,110,96,104,96,104,64"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Meta.WitAi.Windows.BaseWitWindow" name="Meta.WitAi.Windows.BaseWitWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,39,352,81"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_configuration_window.html" title=" " alt="" coords="400,39,642,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,57,400,57,400,63,368,63"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,107,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,57,154,57,154,63,122,63"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_understanding_viewer.html" title=" " alt="" coords="690,8,941,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,43,690,40,690,45,658,48"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_windows_1_1_wit_window.html" title=" " alt="" coords="709,76,922,103"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="658,71,709,76,708,81,657,76"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_windows_1_1_understanding_viewer_window.html" title=" " alt="" coords="989,5,1232,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="956,25,988,25,988,30,956,31"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_voice_1_1_windows_1_1_settings_window.html" title=" " alt="" coords="1012,72,1209,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="938,88,1012,89,1012,95,938,94"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_voice_1_1_hub_1_1_settings_window_page.html" title=" " alt="" coords="1280,21,1522,48"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1223,68,1331,46,1332,51,1224,73"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_voice_1_1_windows_1_1_settings_window_page.html" title=" " alt="" coords="1303,72,1499,115"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="1224,91,1303,91,1303,96,1224,96"/>
+<area shape="rect" id="Node000010" href="$class_meta_1_1_voice_1_1_windows_1_1_wit_config_window_page.html" title=" " alt="" coords="1299,139,1503,181"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="1222,116,1306,135,1304,141,1221,121"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="Oculus.Interaction.HandPokeOvershootGlow" name="Oculus.Interaction.HandPokeOvershootGlow">
+<area shape="rect" id="Node000001" title="HandPokeOvershootGlow controls the glow properties of the OculusHand material to get a glow effect wh..." alt="" coords="1533,809,1723,852"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="391,845,501,872"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,866,619,879,735,889,920,895,1063,889,1391,857,1508,847,1532,844,1532,849,1509,852,1392,863,1064,894,920,900,735,895,619,885,516,872"/>
+<area shape="rect" id="Node000014" href="$class_oculus_1_1_interaction_1_1_hand_visual.html" title=" " alt="" coords="1186,764,1383,791"/>
+<area shape="poly" id="edge19_Node000014_Node000002" title=" " alt="" coords="494,837,602,799,668,780,735,767,856,755,978,752,1091,756,1186,764,1186,769,1091,762,978,757,856,760,735,772,669,785,604,804,495,842"/>
+<area shape="rect" id="Node000016" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html" title=" " alt="" coords="761,837,937,880"/>
+<area shape="poly" id="edge23_Node000016_Node000002" title=" " alt="" coords="516,856,760,856,760,861,516,861"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="400,555,492,581"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,576,881,647,1392,749,1451,761,1510,776,1584,806,1582,811,1508,781,1450,766,1391,755,880,652,506,582"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_poke_interactor.html" title="Defines a near&#45;poke interaction that is driven by a near&#45;distance proximity computation and a raycast..." alt="" coords="1177,357,1392,384"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="507,573,597,581,711,584,837,577,900,568,962,553,1009,537,1056,517,1144,468,1216,419,1265,382,1268,387,1219,424,1147,473,1059,522,1011,542,963,559,901,573,838,582,711,590,596,586,507,579"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_poke_interactable.html" title=" " alt="" coords="735,213,962,240"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="469,541,520,494,586,446,622,431,653,426,682,418,695,409,709,396,719,378,723,362,719,328,717,294,721,276,733,258,761,238,764,243,737,262,726,278,722,294,725,328,728,362,724,380,713,399,699,414,684,423,655,431,623,436,588,450,524,498,473,545"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_interaction_1_1_poke_interactor_1_1_surface_hit_cache.html" title=" " alt="" coords="740,389,958,432"/>
+<area shape="poly" id="edge17_Node000013_Node000003" title=" " alt="" coords="501,546,599,509,710,462,734,448,779,430,781,435,736,453,712,466,601,514,503,551"/>
+<area shape="poly" id="edge21_Node000014_Node000003" title=" " alt="" coords="480,588,529,618,588,646,671,672,742,688,806,698,867,703,994,713,1068,722,1154,739,1238,761,1237,766,1153,744,1067,728,993,718,867,709,806,703,741,694,669,677,586,650,527,623,477,593"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1314,393,1406,484,1460,545,1511,609,1546,663,1577,719,1620,808,1615,810,1572,721,1541,666,1506,612,1456,548,1402,488,1311,397"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="736,272,962,315"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="978,303,1065,315,1154,331,1242,354,1240,359,1153,336,1064,320,977,309"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="942,241,1045,265,1154,300,1214,327,1262,355,1260,359,1211,332,1152,305,1043,271,940,246"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="329,139,563,181"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="579,179,764,210,763,215,578,184"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_min_thresholds_config.html" title=" " alt="" coords="330,205,562,248"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="577,224,734,224,734,229,577,229"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_drag_thresholds_config.html" title=" " alt="" coords="330,272,562,315"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="576,269,763,238,764,243,577,274"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_progress_curve.html" title="ProgressCurve provides a helper for creating curves for easing. In some respects it works like an Ani..." alt="" coords="5,272,188,315"/>
+<area shape="poly" id="edge15_Node000004_Node000010" title=" " alt="" coords="203,308,329,324,566,342,802,355,1177,366,1177,372,802,360,566,348,328,329,202,313"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="203,291,330,291,330,296,203,296"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_position_pinning_config.html" title=" " alt="" coords="330,5,562,48"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="120,258,156,213,204,159,262,104,327,58,351,46,353,51,330,62,266,108,208,162,160,216,124,261"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="541,50,564,57,640,79,673,91,712,111,750,136,785,163,836,211,832,215,781,167,747,140,710,116,671,96,638,84,562,63,540,56"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_interaction_1_1_poke_interactable_1_1_recoil_assist_config.html" title=" " alt="" coords="330,72,562,115"/>
+<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="540,117,564,124,712,172,813,210,811,215,710,177,562,129,538,122"/>
+<area shape="poly" id="edge16_Node000004_Node000013" title=" " alt="" coords="973,399,1153,384,1177,381,1177,387,1154,389,974,405"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="1390,791,1533,813,1532,819,1390,796"/>
+<area shape="rect" id="Node000015" href="$interface_oculus_1_1_interaction_1_1_i_hand_visual.html" title=" " alt="" coords="804,781,894,808"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="909,790,1186,779,1186,784,910,795"/>
+<area shape="poly" id="edge24_Node000001_Node000016" title=" " alt="" coords="952,856,1153,852,1532,834,1532,839,1153,857,952,861"/>
+<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="952,852,1050,842,1153,824,1206,808,1252,789,1254,794,1208,813,1154,829,1051,848,953,857"/>
+<area shape="rect" id="Node000017" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="1203,965,1366,1008"/>
+<area shape="poly" id="edge25_Node000001_Node000017" title=" " alt="" coords="1381,989,1445,981,1477,973,1507,960,1541,937,1571,908,1612,851,1616,854,1575,911,1545,941,1510,965,1479,978,1446,986,1381,994"/>
+</map>

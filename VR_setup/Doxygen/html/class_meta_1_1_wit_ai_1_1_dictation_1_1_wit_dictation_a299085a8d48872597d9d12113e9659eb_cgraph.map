@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.Dictation.WitDictation.Cancel" name="Meta.WitAi.Dictation.WitDictation.Cancel">
+<area shape="rect" id="Node000001" title="Deactivates and ignores any pending transcription content." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_wit_service.html#a59a666c39dc1e093ca260c10d0e40619" title="Stop listening and cancel a specific report." alt="" coords="219,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
+</map>

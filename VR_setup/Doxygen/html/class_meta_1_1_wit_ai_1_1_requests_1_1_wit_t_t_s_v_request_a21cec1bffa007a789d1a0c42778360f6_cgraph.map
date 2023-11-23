@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.Requests.WitTTSVRequest.RequestDownload" name="Meta.WitAi.Requests.WitTTSVRequest.RequestDownload">
+<area shape="rect" id="Node000001" title="TTS streaming audio request." alt="" coords="5,35,259,77"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#a4b2e15efff04fbe31b239d598209126c" title="Download a file using a unityrequest." alt="" coords="307,35,517,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,53,291,53,291,59,259,59"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html#a52b46b3e4671f06c64cefb006b3fa919" title="Initialize with a request and an on completion callback." alt="" coords="565,5,775,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,41,549,38,550,43,518,47"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_v_log.html#abc80d7969567ac0b680bb1e8256bb473" title="Performs a Debug.LogWarning with custom categorization and using the global log level." alt="" coords="602,72,739,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="518,65,587,73,586,79,517,71"/>
+</map>

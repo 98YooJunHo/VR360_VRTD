@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.Body.Input.Body" name="Oculus.Interaction.Body.Input.Body">
+<area shape="rect" id="Node000001" title=" " alt="" coords="985,48,1149,91"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_modifier.html" title=" " alt="" coords="619,5,828,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="843,31,961,48,985,52,984,57,960,53,843,36"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_body.html" title=" " alt="" coords="696,56,751,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="766,67,984,67,984,72,766,72"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_body_joints_cache.html" title=" " alt="" coords="641,107,806,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="821,111,960,88,984,84,985,89,961,93,822,116"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_body_1_1_input_1_1_read_only_body_joint_poses.html" title=" " alt="" coords="211,63,415,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,94,641,117,641,122,430,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,71,162,97"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="178,81,211,81,211,87,178,87"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_body_1_1_input_1_1_i_skeleton_mapping.html" title=" " alt="" coords="231,129,395,172"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="411,146,595,137,640,134,641,139,595,143,411,151"/>
+</map>

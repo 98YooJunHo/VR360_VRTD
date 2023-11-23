@@ -1,0 +1,7 @@
+<map id="Oculus.Voice.Core.Bindings.Interfaces.IVoiceSDKLogger" name="Oculus.Voice.Core.Bindings.Interfaces.IVoiceSDKLogger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,194,97"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_android_1_1_platform_logger_1_1_voice_s_d_k_console_logger_impl.html" title=" " alt="" coords="242,5,510,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,57,241,52,242,57,210,62"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_android_1_1_platform_logger_1_1_voice_s_d_k_platform_logger_impl.html" title=" " alt="" coords="242,88,510,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,90,242,95,241,100,209,95"/>
+</map>

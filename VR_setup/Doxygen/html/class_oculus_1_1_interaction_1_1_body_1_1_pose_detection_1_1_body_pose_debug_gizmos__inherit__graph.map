@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.PoseDetection.BodyPoseDebugGizmos" name="Oculus.Interaction.Body.PoseDetection.BodyPoseDebugGizmos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,258,197"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_body_1_1_skeleton_debug_gizmos.html" title=" " alt="" coords="54,80,209,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,122,134,154,129,154,129,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,5,186,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,48,134,80,129,80,129,48"/>
+</map>

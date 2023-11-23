@@ -1,0 +1,15 @@
+<map id="OVRManager" name="OVRManager">
+<area shape="rect" id="Node000001" title="Configuration data for Oculus virtual reality." alt="" coords="382,539,482,565"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="481,534,500,539,508,552,504,562,494,568,465,569,465,563,493,562,500,558,503,552,497,543,480,540"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,331,115,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,369,99,401,128,430,192,469,261,500,327,522,383,537,381,543,325,528,259,505,190,474,125,434,95,404,72,372"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_mixed_reality_capture_configuration.html" title=" " alt="" coords="139,331,384,357"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,367,424,537,420,540,279,371"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="427,5,480,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,48,435,539,430,538,450,47"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_plugin.html" title=" " alt="" coords="705,331,791,357"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="480,41,575,131,633,191,689,254,742,329,738,332,685,258,629,195,571,135,477,45"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="737,372,717,404,688,434,635,471,578,501,523,524,476,541,475,536,521,519,576,496,633,467,685,430,712,400,733,369"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="814,331,906,357"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="849,372,832,401,808,434,777,466,741,490,674,517,604,535,538,546,482,551,482,546,537,540,603,530,672,512,739,486,774,462,804,431,827,398,845,370"/>
+</map>

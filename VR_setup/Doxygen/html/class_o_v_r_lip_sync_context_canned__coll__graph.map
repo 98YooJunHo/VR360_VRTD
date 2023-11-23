@@ -1,0 +1,16 @@
+<map id="OVRLipSyncContextCanned" name="OVRLipSyncContextCanned">
+<area shape="rect" id="Node000001" title="OVRLipSyncContextCanned drives a canned phoneme sequence based on a pre&#45;generated asset." alt="" coords="106,341,291,368"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context_base.html" title="OVRLipSyncContextBase interfaces into the Oculus phoneme recognizer. This component should be added i..." alt="" coords="21,251,192,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,287,187,339,184,343,129,290"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,47,88,170,106,250,101,251,83,171,61,48"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync.html" title="OVRLipSync interfaces into the Oculus lip sync engine. This component should be added into the scene ..." alt="" coords="97,144,194,171"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="78,44,140,142,135,145,74,47"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="138,186,114,251,109,249,133,184"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="139,5,192,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="164,48,150,144,145,143,159,47"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_sequence.html" title=" " alt="" coords="216,251,371,277"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="271,290,214,343,210,339,267,286"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="235,144,352,171"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="296,186,296,250,291,250,291,186"/>
+</map>

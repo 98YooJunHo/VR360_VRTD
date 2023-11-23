@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.MessageWithSystemVoipState" name="Oculus.Platform.MessageWithSystemVoipState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,172,205,215"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message.html" title=" " alt="" coords="5,96,206,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,138,108,172,103,172,103,138"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_error.html" title=" " alt="" coords="9,5,202,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,48,108,95,103,95,103,48"/>
+</map>

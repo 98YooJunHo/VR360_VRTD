@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.PointableCanvasUnityEventWrapper" name="Oculus.Interaction.PointableCanvasUnityEventWrapper">
+<area shape="rect" id="Node000001" title="This component makes it possible to connect PointableCanvases in the inspector to Unity Events that a..." alt="" coords="92,264,276,307"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,165,115,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,200,161,261,158,265,85,204"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,165,230,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,207,187,263,181,263,181,207"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_pointable_canvas.html" title=" " alt="" coords="254,157,442,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="326,214,296,242,252,266,249,261,293,238,323,210"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_pointable_element.html" title=" " alt="" coords="285,81,411,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="351,124,351,157,345,157,345,124"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="309,5,387,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="351,47,351,81,345,81,345,47"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Oculus.Interaction.IInteractorView" name="Oculus.Interaction.IInteractorView">
+<area shape="rect" id="Node000001" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,113,221,140"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_distance_interactor.html" title=" " alt="" coords="270,72,455,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,108,270,103,270,108,233,113"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="269,147,456,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,140,269,145,268,150,233,145"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_distance_grab_interactor.html" title="This interactor allows grabbing objects at a distance and will move them using configurable IMovement..." alt="" coords="510,5,691,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,65,521,46,522,51,456,70"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_distance_hand_grab_interactor.html" title="The DistanceHandGrabInteractor allows grabbing DistanceHandGrabInteractables at a distance...." alt="" coords="504,72,696,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="470,91,503,91,503,96,470,96"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_interactor.html" title="Interactor provides a base template for any kind of interaction. Interactions can be wholly defined b..." alt="" coords="506,139,694,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="472,157,505,157,505,163,472,163"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_interactor_group.html" title=" " alt="" coords="508,225,692,268"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="417,177,540,222,539,227,415,182"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="756,109,927,168"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="710,148,755,144,756,149,710,153"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_best_hover_interactor_group.html" title="This interactor group allows only the highest&#45;priority interactor to be the one in Hover,..." alt="" coords="747,192,936,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="707,229,746,224,747,229,708,234"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_best_select_interactor_group.html" title="This interactor group allows many Interactors to be in Hover state but upon selection,..." alt="" coords="744,259,939,301"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="708,259,744,264,743,269,707,264"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_first_hover_interactor_group.html" title="This interactor group allows only the first interactor requesting it to be the one in Hover,..." alt="" coords="763,325,920,368"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="660,273,745,311,775,322,773,327,743,316,658,278"/>
+</map>

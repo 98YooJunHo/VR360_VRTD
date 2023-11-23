@@ -1,0 +1,13 @@
+<map id="HandMeshMask" name="HandMeshMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,437,139,464"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,256,115,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,298,83,437,77,437,61,298"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_skeleton.html" title=" " alt="" coords="98,347,198,373"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="85,292,137,344,134,348,81,296"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,388,93,438,89,435,127,384"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="215,351,225,360,217,368,199,371,198,366,214,364,220,360,212,356"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_plugin.html" title=" " alt="" coords="139,256,224,283"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="174,298,155,347,150,345,169,296"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,5,208,32"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="184,48,184,256,179,256,179,48"/>
+</map>

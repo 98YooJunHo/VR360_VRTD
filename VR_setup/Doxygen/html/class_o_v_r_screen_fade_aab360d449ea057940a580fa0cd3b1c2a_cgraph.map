@@ -1,0 +1,9 @@
+<map id="OVRScreenFade.OnLevelFinishedLoading" name="OVRScreenFade.OnLevelFinishedLoading">
+<area shape="rect" id="Node000001" title="Starts a fade in when a new level is loaded." alt="" coords="5,5,224,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_screen_fade.html#a723f0f2bf6cecada79d5bdff8f3d5e5d" title="Start a fade in." alt="" coords="272,13,434,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,24,256,24,256,29,224,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_screen_fade.html#ab4e818db7e93d9287389172708a9692a" title="Fades alpha from 1.0 to 0.0." alt="" coords="482,13,634,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,24,467,24,467,29,434,29"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_screen_fade.html#aba3ab4b582116174b13c2bce0b5efeb3" title="Update material alpha. UI fade and the current fade due to fade in/out animations (or explicit contro..." alt="" coords="682,5,872,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="634,24,666,24,666,29,634,29"/>
+</map>

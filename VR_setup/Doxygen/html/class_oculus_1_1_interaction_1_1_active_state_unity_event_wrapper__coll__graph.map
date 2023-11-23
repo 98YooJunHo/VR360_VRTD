@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.ActiveStateUnityEventWrapper" name="Oculus.Interaction.ActiveStateUnityEventWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,112,267,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,48,161,109,158,113,85,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,13,230,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,55,187,111,181,111,181,55"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="253,5,422,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,61,265,90,226,114,223,109,263,86,301,56"/>
+</map>

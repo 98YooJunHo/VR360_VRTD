@@ -1,0 +1,14 @@
+<map id="Meta.WitAi.TTS.TTSService.DownloadToDiskCache" name="Meta.WitAi.TTS.TTSService.DownloadToDiskCache">
+<area shape="rect" id="Node000001" title="Perform a download for a TTS audio clip." alt="" coords="5,68,192,111"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a8501926c7e884f6a21a0c4ee9f30eff9" title="Creates new clip data or returns existing cached clip." alt="" coords="240,68,426,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,87,224,87,224,92,192,92"/>
+<area shape="rect" id="Node000003" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_t_t_s_voice_provider.html#acf630974daffeac970eeafe0a641dabd" title="Encode voice data to be transmitted." alt="" coords="708,5,964,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,65,416,40,473,20,528,11,585,6,693,7,693,13,585,11,529,16,475,25,418,45,370,70"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a653d2c17da827365f932ed9eb1a7a367" title="Obtain unique id for clip data." alt="" coords="474,35,660,77"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="426,73,458,69,459,74,427,79"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a17da72a66abbba735e1955d51de54e31" title="Gets the text to be spoken after applying all relevant voice settings." alt="" coords="474,101,660,144"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="427,100,459,105,458,110,426,105"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html#a071b90b77b1177cb02122fa93c22de89" title="Obtain a clip from the runtime cache, if applicable." alt="" coords="474,168,660,211"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="378,109,475,154,490,159,488,164,473,158,376,114"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="661,43,692,40,693,45,661,48"/>
+</map>

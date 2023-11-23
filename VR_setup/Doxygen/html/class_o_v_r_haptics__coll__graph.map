@@ -1,0 +1,5 @@
+<map id="OVRHaptics" name="OVRHaptics">
+<area shape="rect" id="Node000001" title="Plays tactile effects on a tracked VR controller." alt="" coords="5,144,99,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,79,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,48,55,143,49,143,49,48"/>
+</map>

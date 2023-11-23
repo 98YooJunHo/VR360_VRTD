@@ -1,0 +1,5 @@
+<map id="OVRTask.ContinueWith" name="OVRTask.ContinueWith">
+<area shape="rect" id="Node000001" title="Registers a delegate that will get called on completion of the task." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_task.html#af55d648604f7aed3492b76df960b9ec2" title="Gets the result of the Task." alt="" coords="213,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,16,197,16,197,21,165,21"/>
+</map>

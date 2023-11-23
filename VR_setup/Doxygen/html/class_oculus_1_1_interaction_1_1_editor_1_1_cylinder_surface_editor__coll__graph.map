@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.CylinderSurfaceEditor" name="Oculus.Interaction.Editor.CylinderSurfaceEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,112,211,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,45,118,110,114,113,80,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,5,210,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,47,139,113,134,110,168,45"/>
+</map>

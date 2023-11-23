@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Body.Samples.LockedBodyPose.GetJointPoseFromRoot" name="Oculus.Interaction.Body.Samples.LockedBodyPose.GetJointPoseFromRoot">
+<area shape="rect" id="Node000001" title="Attempts to return the pose of the requested body joint relative to the root joint BodyJointId...." alt="" coords="5,43,236,101"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_body_1_1_pose_detection_1_1_i_body_pose.html#a2a6729e4ca3b2117ab7e4348cbe7fbbd" title="Attempts to return the pose of the requested body joint relative to the root joint BodyJointId...." alt="" coords="284,5,509,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,54,268,49,269,55,236,59"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#af1212de139ba68862471a9625e9bc01d" title="Compose two poses, applying the first to the second one." alt="" coords="301,88,492,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,85,286,92,285,97,236,90"/>
+</map>

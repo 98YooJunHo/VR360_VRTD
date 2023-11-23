@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['offsety_0',['offsetY',['../class_o_v_r_debug_info.html#a62d435a9e7c4999d6e9a2020865ca3fb',1,'OVRDebugInfo']]],
+  ['onadditionalguilayout_1',['onAdditionalGuiLayout',['../class_meta_1_1_wit_ai_1_1_windows_1_1_field_g_u_i.html#aa7409718f2848509eb11266bb4263052',1,'Meta::WitAi::Windows::FieldGUI']]],
+  ['oncustomguilayout_2',['onCustomGuiLayout',['../class_meta_1_1_wit_ai_1_1_windows_1_1_field_g_u_i.html#a6a05a9d23080e170885449535842872d',1,'Meta::WitAi::Windows::FieldGUI']]],
+  ['oncustomizeuri_3',['onCustomizeUri',['../class_meta_1_1_wit_ai_1_1_wit_request.html#af79ceadb324c2a25db5474bd26ea9510',1,'Meta::WitAi::WitRequest']]],
+  ['ondownloadcomplete_4',['onDownloadComplete',['../class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_clip_data.html#a4e8d84888ed2fc49083f81443cc7c69d',1,'Meta::WitAi::TTS::Data::TTSClipData']]],
+  ['onplaybackready_5',['onPlaybackReady',['../class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_clip_data.html#a3a990715ff95db72c731140feb0f17e6',1,'Meta::WitAi::TTS::Data::TTSClipData']]],
+  ['onpresendrequest_6',['onPreSendRequest',['../class_meta_1_1_wit_ai_1_1_wit_request.html#adefe4a5ca520130e23d3bc857431f144',1,'Meta::WitAi::WitRequest']]],
+  ['onrawresponse_7',['onRawResponse',['../class_meta_1_1_wit_ai_1_1_wit_request.html#a55efe32030496a09ec64fd61cea87c1a',1,'Meta::WitAi::WitRequest']]],
+  ['onresponse_8',['onResponse',['../class_meta_1_1_wit_ai_1_1_configuration_1_1_wit_request_options.html#acb5ed5814f3df4bb02ca04eea34827f3',1,'Meta::WitAi::Configuration::WitRequestOptions']]],
+  ['onshortpress_9',['OnShortPress',['../class_o_v_r_platform_menu.html#a40daa390d52b179d53c044be41311b81',1,'OVRPlatformMenu']]],
+  ['orientation_10',['orientation',['../struct_o_v_r_pose.html#aac81c38f4076ade5669058d402e6f1c9',1,'OVRPose']]],
+  ['orientationmode_11',['orientationmode',['../class_teleport_orientation_handler_h_m_d.html#a0fdf3a04679a11af12907bea7f8a4d13',1,'TeleportOrientationHandlerHMD.OrientationMode'],['../class_teleport_orientation_handler_thumbstick.html#a1cc9ff792a07e37273c2250fd6ea3c06',1,'TeleportOrientationHandlerThumbstick.OrientationMode']]],
+  ['originaljoint_12',['OriginalJoint',['../class_o_v_r_unity_humanoid_skeleton_retargeter_1_1_o_v_r_skeleton_metadata_1_1_bone_data.html#ac60c4783924a91ee2f909b201a5895e1',1,'OVRUnityHumanoidSkeletonRetargeter::OVRSkeletonMetadata::BoneData']]],
+  ['other_13',['Other',['../class_o_v_r_scene_manager_1_1_classification.html#a4c3f692f5137977fa19b979b14ce13c3',1,'OVRSceneManager::Classification']]],
+  ['overlaytype_14',['overlayType',['../class_o_v_r_passthrough_layer.html#a7d01a4dd0e955d5757513a02797abf7f',1,'OVRPassthroughLayer']]],
+  ['overrideperlayercolorscaleandoffset_15',['overridePerLayerColorScaleAndOffset',['../class_o_v_r_passthrough_layer.html#a7c89b172cddaf66b005e27e0a6c69a8f',1,'OVRPassthroughLayer']]],
+  ['ovroverlayid_16',['ovrOverlayID',['../class_oculus_sample_framework_1_1_o_v_r_overlay_sample.html#a726b400433a2d02948b44f6891533ebe',1,'OculusSampleFramework::OVROverlaySample']]]
+];

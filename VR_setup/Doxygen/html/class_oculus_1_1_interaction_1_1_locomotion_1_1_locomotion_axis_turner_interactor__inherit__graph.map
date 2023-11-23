@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Locomotion.LocomotionAxisTurnerInteractor" name="Oculus.Interaction.Locomotion.LocomotionAxisTurnerInteractor">
+<area shape="rect" id="Node000001" title="LocomotionAxisTurner transforms Axis2D value into Axis1D value. When the value becomes bigger than th..." alt="" coords="266,47,470,89"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="5,5,218,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,48,265,52,265,57,233,53"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_axis1_d.html" title=" " alt="" coords="78,88,145,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,93,265,79,265,84,160,98"/>
+</map>

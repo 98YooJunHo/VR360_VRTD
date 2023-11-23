@@ -1,0 +1,28 @@
+<map id="OVRPassthroughLayer.StylesHandler" name="OVRPassthroughLayer.StylesHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="988,189,1183,232"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_passthrough_layer_1_1_none_style_handler.html" title=" " alt="" coords="362,5,551,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="566,22,656,27,759,41,865,67,916,85,965,108,1022,147,1065,187,1062,191,1018,151,963,113,914,90,863,72,758,46,656,33,566,27"/>
+<area shape="rect" id="Node000003" href="$interface_o_v_r_passthrough_layer_1_1_i_style_handler.html" title=" " alt="" coords="5,99,104,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,90,152,76,260,53,361,37,362,42,261,59,154,81,107,95"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_passthrough_layer_1_1_color_lut_handler.html" title=" " alt="" coords="362,60,551,103"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="119,103,127,103,362,85,362,90,128,108,120,109"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_passthrough_layer_1_1_color_lut_handler.html" title=" " alt="" coords="189,127,302,153"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="119,119,189,129,188,134,119,124"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_passthrough_layer_1_1_base_generated_style_handler.html" title=" " alt="" coords="153,233,338,260"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="89,132,227,231,224,235,86,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="566,79,654,84,756,95,862,114,965,144,1010,164,1050,186,1048,191,1008,169,963,149,861,119,755,100,654,89,566,84"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_passthrough_layer_1_1_interpolated_color_lut_handler.html" title=" " alt="" coords="575,123,800,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="816,162,964,187,988,191,987,196,964,192,815,167"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="318,138,574,140,574,146,318,143"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_passthrough_layer_1_1_mono_to_rgba_style_handler.html" title=" " alt="" coords="592,189,783,232"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="798,208,987,208,987,213,798,213"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="353,235,591,216,592,221,354,241"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_passthrough_layer_1_1_mono_to_mono_style_handler.html" title=" " alt="" coords="592,256,783,299"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="354,251,592,268,591,273,353,257"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_passthrough_layer_1_1_b_c_s_style_handler.html" title=" " alt="" coords="580,323,795,365"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="322,261,363,271,584,319,583,325,362,276,321,267"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="797,257,964,229,987,225,988,231,964,235,798,262"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="809,318,886,299,963,274,1008,253,1048,230,1051,235,1011,258,965,278,888,304,811,324"/>
+<area shape="rect" id="Node000011" href="$interface_o_v_r_passthrough_layer_1_1_i_style_handler.html" title=" " alt="" coords="592,389,783,432"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="798,394,881,372,923,356,963,336,995,312,1025,284,1068,231,1072,234,1029,288,999,317,965,341,925,361,883,377,799,399"/>
+</map>

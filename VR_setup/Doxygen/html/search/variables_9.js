@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['iapstatus_0',['IapStatus',['../class_oculus_1_1_platform_1_1_models_1_1_asset_details.html#a4c69dfe09d63af0ff4fb04872494badc',1,'Oculus::Platform::Models::AssetDetails']]],
+  ['id_1',['id',['../class_oculus_1_1_platform_1_1_models_1_1_blocked_user.html#a31b79dad642b2539281b77de4b89288d',1,'Oculus.Platform.Models.BlockedUser.Id'],['../class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_joint_map.html#ac33d209b9da2ecfcd90278f66959ffe1',1,'Oculus.Interaction.HandGrab.Visuals.HandJointMap.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_app_info.html#a70c11314e4f65955c82b2cfb530b1a30',1,'Meta.WitAi.Data.Info.WitAppInfo.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_entity_info.html#a3e1fdc3cb2110ea936776d3afd71700f',1,'Meta.WitAi.Data.Info.WitEntityInfo.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_entity_role_info.html#a49c2776dda6e87c9792776963303c285',1,'Meta.WitAi.Data.Info.WitEntityRoleInfo.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_intent_entity_info.html#a561398d0439f802954a17f725ea3ec75',1,'Meta.WitAi.Data.Info.WitIntentEntityInfo.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_intent_info.html#ad1754257593c0d285c63a9492a216bf8',1,'Meta.WitAi.Data.Info.WitIntentInfo.id'],['../class_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_trait_info.html#aaf37311ff95a9450a9eab675ed01ddf7',1,'Meta.WitAi.Data.Info.WitTraitInfo.id'],['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_trait_value_info.html#af103971a8cff3e3330e8a6cef1af9bfb',1,'Meta.WitAi.Data.Info.WitTraitValueInfo.id']]],
+  ['inituicomponent_2',['initUIComponent',['../class_o_v_r_debug_info.html#af8eb4d3233c62e3ea7cb199a4be92774',1,'OVRDebugInfo']]],
+  ['inputcode_3',['inputCode',['../class_o_v_r_platform_menu.html#a826854a2d72fef616ef123d15b66d75a',1,'OVRPlatformMenu']]],
+  ['inputhandler_4',['InputHandler',['../class_locomotion_teleport.html#aa05d3e12214c8fe2bfb77694550ddc5d',1,'LocomotionTeleport']]],
+  ['instance_5',['Instance',['../class_anchor_u_i_manager.html#ab7a4d232ca955e9a85a190fe62cca30c',1,'AnchorUIManager']]],
+  ['intent_6',['intent',['../class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_intent_matcher.html#a3271098e1e56e23e52cd2ab572ce1e49',1,'Meta::WitAi::CallbackHandlers::WitIntentMatcher']]],
+  ['intents_7',['intents',['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_app_info.html#a19ad0e3691832e93a33e36df2b347f11',1,'Meta::WitAi::Data::Info::WitAppInfo']]],
+  ['invisiblewallface_8',['InvisibleWallFace',['../class_o_v_r_scene_manager_1_1_classification.html#a5156ff10fbf041da4c80108cceb678fe',1,'OVRSceneManager::Classification']]],
+  ['invitedusers_9',['InvitedUsers',['../class_oculus_1_1_platform_1_1_models_1_1_launch_invite_panel_flow_result.html#aaed4018ef54268baf79fa0ebf720c4fa',1,'Oculus::Platform::Models::LaunchInvitePanelFlowResult']]],
+  ['invites_10',['Invites',['../class_oculus_1_1_platform_1_1_models_1_1_send_invites_result.html#a12aca749928e56a110c2d3276dfcec4c',1,'Oculus::Platform::Models::SendInvitesResult']]],
+  ['invitessent_11',['InvitesSent',['../class_oculus_1_1_platform_1_1_models_1_1_invite_panel_result_info.html#a318ba578d570897b73e81b83909c1558',1,'Oculus::Platform::Models::InvitePanelResultInfo']]],
+  ['isdemoonly_12',['isDemoOnly',['../class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html#a91dfd30465fefa48cac6af621d07e841',1,'Meta::WitAi::Data::Configuration::WitConfiguration']]],
+  ['isdynamic_13',['isDynamic',['../class_o_v_r_overlay.html#a6422c98db8d87604a5efcff9698e2ba8',1,'OVROverlay']]],
+  ['isenabled_14',['IsEnabled',['../class_oculus_1_1_platform_1_1_models_1_1_user_capability.html#ad744faedbe400965b49bcc1dc09baa53',1,'Oculus::Platform::Models::UserCapability']]],
+  ['isexternalsurface_15',['isExternalSurface',['../class_o_v_r_overlay.html#a4eb6c0455379a0d3b77705306f8046fa',1,'OVROverlay']]],
+  ['isinsightpassthroughenabled_16',['isInsightPassthroughEnabled',['../class_o_v_r_manager.html#a10fd7bd957490b396fcbd41f901917e0',1,'OVRManager']]],
+  ['isjoinable_17',['IsJoinable',['../class_group_presence_sample.html#a89954c857de2c70f174766bb47ad0a32',1,'GroupPresenceSample']]],
+  ['ispostteleportrequested_18',['IsPostTeleportRequested',['../class_locomotion_teleport.html#a7cff094eb8fb13dd42726295c12f8155',1,'LocomotionTeleport']]],
+  ['ispreteleportrequested_19',['IsPreTeleportRequested',['../class_locomotion_teleport.html#aa5314131e346562c44d86c91e8499354',1,'LocomotionTeleport']]],
+  ['isprivate_20',['isPrivate',['../struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_app_info.html#acfd88f7deaf2bf9e527afa0829920275',1,'Meta::WitAi::Data::Info::WitAppInfo']]],
+  ['isprotectedcontent_21',['isProtectedContent',['../class_o_v_r_overlay.html#a1d52f454d07dddb73992d5b57d7154b5',1,'OVROverlay']]],
+  ['istransitioning_22',['IsTransitioning',['../class_locomotion_teleport.html#adedec57d048e8022bf60733b807fca64',1,'LocomotionTeleport']]]
+];

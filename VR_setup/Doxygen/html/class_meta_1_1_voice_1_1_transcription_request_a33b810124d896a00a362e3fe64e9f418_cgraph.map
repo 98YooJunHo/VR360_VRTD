@@ -1,0 +1,5 @@
+<map id="Meta.Voice.TranscriptionRequest.OnSuccess" name="Meta.Voice.TranscriptionRequest.OnSuccess">
+<area shape="rect" id="Node000001" title="Method for subclass success handling." alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_transcription_request.html#ae5fd3527982031f4f8855715cc28fa76" title="Applies a transcription to the current results." alt="" coords="219,5,399,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Meta.Conduit.ConduitActionAttribute" name="Meta.Conduit.ConduitActionAttribute">
+<area shape="rect" id="Node000001" title="Marks the method as a callback for voice commands. The method will be mapped to an intent and invoked..." alt="" coords="88,80,271,123"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_match_intent.html" title="Triggers a method to be executed if it matches a voice command&#39;s intent." alt="" coords="5,179,164,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,135,100,180,96,176,144,131"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_validate_partial_intent.html" title="Triggers a method to be executed if it matches a voice command&#39;s intent." alt="" coords="188,171,362,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,131,255,168,251,172,211,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="144,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,48,182,80,177,80,177,48"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Surfaces.AxisAlignedBox" name="Oculus.Interaction.Surfaces.AxisAlignedBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,96,266,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,40,151,93,147,97,84,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html" title=" " alt="" coords="139,5,208,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,48,176,95,171,95,171,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="232,5,323,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,45,197,97,194,93,251,41"/>
+</map>

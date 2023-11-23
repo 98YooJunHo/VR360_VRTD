@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Samples.BuiltInTimer.TimerController.GetTimerIntent" name="Meta.Voice.Samples.BuiltInTimer.TimerController.GetTimerIntent">
+<area shape="rect" id="Node000001" title="Displays current timer value. It corresponds to &quot;wit$get_timer&quot;." alt="" coords="5,5,217,64"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_built_in_timer_1_1_timer_controller.html#a533a255332d39fe1f6a7fb99a38faa3f" title="Returns time in the format of min:sec." alt="" coords="265,5,503,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,32,249,32,249,37,217,37"/>
+</map>

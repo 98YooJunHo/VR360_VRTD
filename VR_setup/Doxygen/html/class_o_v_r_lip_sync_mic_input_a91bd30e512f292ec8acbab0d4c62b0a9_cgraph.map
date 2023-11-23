@@ -1,0 +1,11 @@
+<map id="OVRLipSyncMicInput.OnApplicationFocus" name="OVRLipSyncMicInput.OnApplicationFocus">
+<area shape="rect" id="Node000001" title="Raises the application focus event." alt="" coords="5,5,236,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_mic_input.html#afc113fb9eccc45c9f4931da0ad27e3e0" title="Stops the microphone." alt="" coords="284,13,527,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,24,268,24,268,29,236,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_context_base.html#af1caeeabc44f2b620bc4c3625bff20a5" title="Resets the context." alt="" coords="575,5,784,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,24,559,24,559,29,527,29"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync.html#a14acb0e2fc85c2bb644aa95551028e23" title="Resets the context." alt="" coords="832,13,1012,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="785,24,817,24,817,29,785,29"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync.html#ae63511a03fbace2768a94a131a46d296" title="Determines if is initialized." alt="" coords="1060,13,1224,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1012,24,1044,24,1044,29,1012,29"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Oculus.Voice.Core.Bindings.Android.PlatformLogger.VoiceSDKPlatformLoggerImpl" name="Oculus.Voice.Core.Bindings.Android.PlatformLogger.VoiceSDKPlatformLoggerImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="634,56,902,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_android_1_1_base_android_connection_impl.html" title=" " alt="" coords="247,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,39,634,64,633,70,449,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_interfaces_1_1_i_voice_s_d_k_logger.html" title=" " alt="" coords="5,81,129,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,91,633,84,633,90,144,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_android_1_1_platform_logger_1_1_voice_s_d_k_console_logger_impl.html" title=" " alt="" coords="207,123,474,181"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="144,108,207,121,206,127,143,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="489,134,610,117,635,113,636,118,610,123,490,140"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="40,141,94,168"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="109,152,207,151,207,156,109,157"/>
+</map>

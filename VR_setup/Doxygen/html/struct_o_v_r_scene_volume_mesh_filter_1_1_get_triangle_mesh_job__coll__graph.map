@@ -1,0 +1,9 @@
+<map id="OVRSceneVolumeMeshFilter.GetTriangleMeshJob" name="OVRSceneVolumeMeshFilter.GetTriangleMeshJob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,201,215"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,81,92,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,122,98,170,93,172,76,124"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_space.html" title="Represents a &quot;space&quot; in the Oculus Runtime." alt="" coords="116,81,202,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,123,117,173,113,170,142,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="73,5,245,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="162,47,162,81,156,81,156,47"/>
+</map>

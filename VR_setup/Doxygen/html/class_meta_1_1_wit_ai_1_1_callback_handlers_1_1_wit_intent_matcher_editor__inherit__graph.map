@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.CallbackHandlers.WitIntentMatcherEditor" name="Meta.WitAi.CallbackHandlers.WitIntentMatcherEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,39,304,81"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_simple_intent_handler_editor.html" title=" " alt="" coords="358,5,553,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,42,357,37,358,42,320,48"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_simple_string_entity_handler_editor.html" title=" " alt="" coords="352,72,559,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,72,352,77,351,82,319,78"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,61,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,57,108,57,108,63,76,63"/>
+</map>

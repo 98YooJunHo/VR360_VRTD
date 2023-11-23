@@ -1,0 +1,9 @@
+<map id="OVRStorable" name="OVRStorable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,112,328,139"/>
+<area shape="rect" id="Node000002" href="$interface_i_o_v_r_anchor_component.html" title=" " alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,53,255,109,253,114,139,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="189,13,371,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,56,282,112,277,112,277,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="394,13,448,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="391,51,300,114,297,109,388,47"/>
+</map>

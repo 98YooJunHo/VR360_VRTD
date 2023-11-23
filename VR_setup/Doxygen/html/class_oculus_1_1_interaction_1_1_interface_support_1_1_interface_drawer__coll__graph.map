@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.InterfaceSupport.InterfaceDrawer" name="Oculus.Interaction.InterfaceSupport.InterfaceDrawer">
+<area shape="rect" id="Node000001" title="This property drawer is the meat of the interface support implementation. When the value of field wit..." alt="" coords="23,96,202,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,116,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,45,104,94,99,97,72,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,193,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,47,126,97,122,94,149,45"/>
+</map>

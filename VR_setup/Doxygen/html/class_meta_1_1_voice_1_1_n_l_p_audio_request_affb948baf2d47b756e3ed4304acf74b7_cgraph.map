@@ -1,0 +1,7 @@
+<map id="Meta.Voice.NLPAudioRequest.HandlePartialNlpResponse" name="Meta.Voice.NLPAudioRequest.HandlePartialNlpResponse">
+<area shape="rect" id="Node000001" title="Method to be called when an NLP request had completed." alt="" coords="5,39,207,81"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_n_l_p_audio_request.html#a1c1fd8872612eec64cb25a4d3e4f9c70" title="Applies response data to the current results." alt="" coords="255,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,44,239,40,240,45,208,49"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_n_l_p_audio_request.html#ae9cb8124fb9c48a8b633cc5ea0e8335e" title="Called when response data has been updated." alt="" coords="255,72,456,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,71,240,75,239,80,207,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OVRModeParms.Update" name="OVRModeParms.Update">
+<area shape="rect" id="Node000001" title="Change default vr mode parms dynamically." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a9c2ccada669b0054fd25a82e84d659c9" title="Gets the current down state of the given virtual button mask with the given controller mask...." alt="" coords="218,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GroupPresenceSample" name="GroupPresenceSample">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,112,188,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,45,107,111,102,113,70,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,185,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,47,119,113,114,111,146,45"/>
+</map>

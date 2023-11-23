@@ -1,0 +1,14 @@
+<map id="OVRGLTFAnimatinonNode" name="OVRGLTFAnimatinonNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="651,157,827,184"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_node.html" title=" " alt="" coords="265,107,457,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,128,627,148,664,154,664,159,627,153,472,134"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,77,59,104"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="55,65,82,48,123,38,156,38,233,48,433,63,520,78,628,109,677,131,718,154,715,159,675,136,626,115,519,83,433,68,232,53,156,43,124,43,84,53,57,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,115,66,132,84,144,123,157,155,157,232,144,305,131,306,137,233,149,156,162,122,162,81,149,62,136,47,119"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_binary_chunk.html" title=" " alt="" coords="299,157,423,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="438,168,651,168,651,173,438,173"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_g_l_t_f_animatinon_node_1_1_input_node_state.html" title=" " alt="" coords="257,208,465,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="480,211,627,189,668,182,669,187,627,195,481,217"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_g_l_t_f_animation_node_morph_target_handler.html" title=" " alt="" coords="258,275,464,317"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="478,273,552,255,626,231,675,207,716,182,719,187,678,212,628,236,553,260,479,278"/>
+</map>

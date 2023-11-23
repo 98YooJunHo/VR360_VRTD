@@ -1,0 +1,11 @@
+<map id="OVRVirtualKeyboard.BaseInputSource" name="OVRVirtualKeyboard.BaseInputSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,172,268,215"/>
+<area shape="rect" id="Node000002" href="$interface_o_v_r_virtual_keyboard_1_1_i_input_source.html" title=" " alt="" coords="5,81,99,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,116,144,169,140,173,77,120"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,81,211,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,124,169,171,164,171,164,124"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="235,81,349,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,120,195,173,192,169,262,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="237,5,347,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,47,295,81,289,81,289,47"/>
+</map>

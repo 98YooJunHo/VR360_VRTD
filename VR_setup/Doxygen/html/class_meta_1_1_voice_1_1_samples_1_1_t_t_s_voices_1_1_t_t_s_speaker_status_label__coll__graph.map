@@ -1,0 +1,102 @@
+<map id="Meta.Voice.Samples.TTSVoices.TTSSpeakerStatusLabel" name="Meta.Voice.Samples.TTSVoices.TTSSpeakerStatusLabel">
+<area shape="rect" id="Node000001" title="A simple script for providing clip information to a Text label." alt="" coords="2485,168,2698,211"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_t_t_s_speaker_observer.html" title="A demo script that provides access to a TTSSpeaker and overrides all TTSSpeaker callback events." alt="" coords="2256,143,2399,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2415,164,2485,173,2484,179,2414,170"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1197,37,1306,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1321,37,1443,23,1603,13,1691,11,1783,13,1874,20,1963,32,2060,55,2154,84,2296,140,2294,145,2152,89,2058,60,1962,37,1873,25,1782,18,1691,16,1603,18,1443,29,1322,43"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker.html" title=" " alt="" coords="1986,533,2151,576"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="1321,55,1698,99,1877,124,1936,135,1964,145,1986,174,2005,218,2021,271,2035,330,2056,447,2067,532,2062,533,2051,448,2030,331,2016,272,2000,219,1981,177,1961,149,1934,140,1876,129,1697,104,1321,60"/>
+<area shape="rect" id="Node000021" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_t_t_s_service.html" title=" " alt="" coords="1578,667,1760,693"/>
+<area shape="poly" id="edge22_Node000021_Node000003" title=" " alt="" coords="1295,69,1389,108,1429,116,1464,116,1495,122,1511,131,1526,147,1536,180,1540,240,1538,402,1536,563,1541,622,1545,642,1550,653,1563,664,1579,672,1576,677,1560,669,1546,656,1540,643,1535,623,1531,564,1533,402,1535,240,1531,181,1522,149,1508,135,1494,127,1463,122,1428,121,1387,113,1293,74"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="2076,518,2096,447,2132,357,2156,309,2184,262,2216,218,2254,179,2272,168,2275,172,2257,183,2220,222,2188,265,2160,311,2137,359,2101,449,2081,519"/>
+<area shape="rect" id="Node000005" href="$interface_meta_1_1_wit_ai_1_1_speech_1_1_i_speech_event_provider.html" title=" " alt="" coords="1596,483,1742,509"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1758,503,1963,531,1986,535,1986,540,1962,536,1757,508"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_events.html" title=" " alt="" coords="1587,600,1751,643"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="1766,605,1962,573,1985,569,1986,574,1963,579,1767,610"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_events.html" title="A collection of events used for speaker tts playback." alt="" coords="1175,628,1328,655"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1344,630,1388,627,1586,620,1586,625,1388,632,1344,635"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_speech_events.html" title=" " alt="" coords="725,653,863,680"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="878,679,991,689,1053,689,1114,683,1169,670,1216,653,1218,658,1170,675,1115,688,1053,694,991,694,878,684"/>
+<area shape="rect" id="Node000041" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_events.html" title="A collection of events used for speaker tts playback." alt="" coords="1169,543,1334,585"/>
+<area shape="poly" id="edge49_Node000041_Node000008" title=" " alt="" coords="855,646,937,624,1168,576,1169,581,938,629,857,651"/>
+<area shape="rect" id="Node000009" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_text_event.html" title=" " alt="" coords="239,623,435,665"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="450,647,725,661,725,666,450,652"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="25,631,165,657"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="180,641,238,641,238,647,180,647"/>
+<area shape="rect" id="Node000011" href="$class_meta_1_1_wit_ai_1_1_speech_1_1_voice_audio_event.html" title=" " alt="" coords="235,717,439,760"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="454,752,502,753,552,750,602,741,649,726,661,715,673,702,700,688,729,678,730,683,702,693,676,706,665,719,652,730,603,746,553,755,502,758,454,757"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="14,725,176,752"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="192,736,234,736,234,741,192,741"/>
+<area shape="rect" id="Node000013" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_event.html" title="A unity event that returns a TTSSpeaker &amp; TTSClipData for a specific speaker playback request." alt="" coords="712,396,876,439"/>
+<area shape="poly" id="edge13_Node000007_Node000013" title=" " alt="" coords="837,446,884,477,939,503,965,510,988,511,1031,507,1072,507,1094,514,1117,529,1128,545,1130,563,1132,579,1141,596,1163,613,1190,625,1187,630,1160,617,1137,599,1127,581,1125,563,1123,547,1113,533,1091,519,1071,512,1031,512,988,516,964,515,937,508,881,481,834,450"/>
+<area shape="poly" id="edge50_Node000041_Node000013" title=" " alt="" coords="844,386,902,360,972,339,1009,334,1045,334,1082,340,1116,354,1143,372,1166,394,1204,446,1230,499,1246,541,1241,543,1225,501,1199,449,1162,398,1139,376,1113,358,1080,345,1045,339,1009,339,973,345,904,365,846,391"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="252,396,422,439"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="437,415,711,415,711,420,437,420"/>
+<area shape="rect" id="Node000015" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_message_event.html" title="A unity event that returns a TTSSpeaker, TTSClipData &amp; text for a specific speaker playback request." alt="" coords="694,548,894,591"/>
+<area shape="poly" id="edge15_Node000007_Node000015" title=" " alt="" coords="893,592,938,601,1063,620,1175,632,1174,638,1062,625,937,607,892,597"/>
+<area shape="poly" id="edge51_Node000041_Node000015" title=" " alt="" coords="909,565,1169,562,1169,568,909,571"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="252,548,422,591"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="438,567,694,567,694,572,438,572"/>
+<area shape="rect" id="Node000017" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_clip_data_event.html" title=" " alt="" coords="470,872,644,915"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="659,897,870,900,992,895,1114,884,1180,878,1239,877,1341,874,1386,867,1431,851,1476,823,1522,781,1532,766,1536,751,1534,719,1531,687,1535,670,1546,653,1564,638,1586,628,1588,633,1567,643,1550,656,1540,672,1536,687,1539,719,1542,751,1537,768,1526,784,1479,828,1433,856,1388,872,1341,879,1239,882,1181,883,1115,889,993,901,870,905,659,902"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="5,944,185,971"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="199,940,469,903,470,908,200,946"/>
+<area shape="rect" id="Node000025" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_event.html" title=" " alt="" coords="234,1001,439,1044"/>
+<area shape="poly" id="edge27_Node000025_Node000018" title=" " alt="" coords="162,973,256,998,254,1003,161,978"/>
+<area shape="rect" id="Node000019" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_event.html" title=" " alt="" coords="1169,717,1334,760"/>
+<area shape="poly" id="edge19_Node000006_Node000019" title=" " alt="" coords="1328,762,1376,772,1427,775,1478,767,1501,758,1522,745,1531,735,1535,725,1535,702,1534,678,1537,665,1546,653,1565,639,1586,629,1588,634,1567,643,1550,657,1542,667,1539,678,1540,702,1540,726,1536,738,1526,749,1503,763,1479,772,1428,780,1376,777,1327,767"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="709,716,879,759"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="895,735,1169,736,1169,741,895,740"/>
+<area shape="poly" id="edge21_Node000004_Node000021" title=" " alt="" coords="1775,665,1867,647,1961,618,2002,597,2037,574,2040,579,2004,602,1963,622,1869,652,1776,670"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1225,923,1278,949"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="1294,945,1346,955,1407,959,1439,956,1469,949,1497,936,1522,918,1531,902,1535,877,1534,814,1533,749,1537,723,1546,704,1560,692,1576,684,1579,688,1563,696,1550,707,1542,724,1538,749,1540,814,1541,878,1536,904,1526,922,1500,941,1471,954,1440,961,1408,964,1345,961,1293,950"/>
+<area shape="rect" id="Node000023" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_system.html" title="An interface for an audio system that can be used to return custom audio clip streams and audio playe..." alt="" coords="1147,973,1356,1000"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="1372,997,1463,998,1499,992,1522,981,1534,960,1538,928,1535,846,1531,762,1534,728,1546,704,1560,691,1577,683,1579,688,1563,696,1550,707,1540,730,1536,762,1540,845,1544,928,1539,961,1526,985,1500,997,1463,1003,1372,1003"/>
+<area shape="rect" id="Node000024" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_service_events.html" title=" " alt="" coords="1139,1024,1364,1067"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="1380,1065,1418,1064,1457,1057,1492,1043,1522,1021,1535,996,1540,959,1535,865,1529,770,1533,731,1546,704,1560,691,1576,683,1579,688,1563,696,1550,707,1538,733,1534,770,1540,865,1545,959,1540,998,1526,1024,1494,1048,1458,1062,1419,1069,1380,1070"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="455,1024,463,1024,674,1031,1138,1041,1138,1046,674,1036,463,1029,455,1029"/>
+<area shape="rect" id="Node000026" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_web_request_events.html" title="Events related to web requests." alt="" coords="689,947,899,989"/>
+<area shape="poly" id="edge29_Node000026_Node000025" title=" " alt="" coords="455,1020,550,1015,650,1004,723,987,724,993,651,1009,551,1021,455,1025"/>
+<area shape="rect" id="Node000029" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_stream_events.html" title=" " alt="" coords="681,1171,907,1213"/>
+<area shape="poly" id="edge33_Node000029_Node000025" title=" " alt="" coords="355,1057,372,1091,396,1127,427,1162,465,1188,520,1208,579,1217,638,1217,692,1211,693,1217,638,1222,579,1222,519,1213,462,1193,424,1166,392,1131,368,1093,350,1059"/>
+<area shape="poly" id="edge28_Node000024_Node000026" title=" " alt="" coords="915,986,1139,1024,1138,1029,914,991"/>
+<area shape="rect" id="Node000027" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_error_event.html" title=" " alt="" coords="234,1215,439,1257"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="362,1201,406,1154,462,1108,489,1094,513,1085,558,1076,601,1067,624,1057,649,1041,656,1033,660,1024,664,1015,673,1006,705,988,707,992,676,1010,669,1018,665,1026,660,1035,652,1045,627,1061,603,1072,559,1082,515,1090,491,1099,465,1113,410,1157,366,1204"/>
+<area shape="poly" id="edge34_Node000029_Node000027" title=" " alt="" coords="455,1243,551,1243,650,1235,695,1225,737,1211,738,1216,696,1230,651,1240,551,1249,455,1248"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="9,1252,181,1295"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="196,1255,233,1249,234,1255,197,1260"/>
+<area shape="rect" id="Node000031" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_download_event.html" title=" " alt="" coords="234,1281,439,1324"/>
+<area shape="poly" id="edge37_Node000031_Node000028" title=" " alt="" coords="196,1283,234,1288,233,1293,196,1288"/>
+<area shape="poly" id="edge32_Node000024_Node000029" title=" " alt="" coords="873,1163,1138,1076,1175,1065,1176,1070,1139,1081,875,1168"/>
+<area shape="rect" id="Node000030" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_download_events.html" title=" " alt="" coords="674,1296,914,1339"/>
+<area shape="poly" id="edge35_Node000024_Node000030" title=" " alt="" coords="899,1288,955,1268,1012,1240,1066,1205,1113,1161,1123,1140,1123,1120,1124,1099,1137,1077,1151,1065,1155,1069,1141,1080,1129,1100,1128,1120,1128,1142,1117,1164,1070,1209,1015,1245,957,1273,901,1293"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="455,1313,463,1313,674,1317,674,1322,463,1319,455,1318"/>
+<area shape="rect" id="Node000032" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_events_1_1_t_t_s_clip_download_error_event.html" title=" " alt="" coords="234,1348,439,1391"/>
+<area shape="poly" id="edge38_Node000030_Node000032" title=" " alt="" coords="455,1358,650,1337,674,1334,674,1339,651,1343,455,1363"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="9,1348,181,1391"/>
+<area shape="poly" id="edge39_Node000032_Node000033" title=" " alt="" coords="197,1367,233,1367,233,1372,197,1372"/>
+<area shape="rect" id="Node000034" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_integrations_1_1_t_t_s_wit_voice_settings.html" title=" " alt="" coords="1575,717,1763,760"/>
+<area shape="poly" id="edge40_Node000004_Node000034" title=" " alt="" coords="1779,731,1824,725,1871,714,1918,699,1961,678,1991,655,2017,628,2053,575,2058,578,2021,631,1994,659,1964,682,1920,704,1872,719,1825,730,1779,737"/>
+<area shape="rect" id="Node000035" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_voice_settings.html" title=" " alt="" coords="1189,1091,1314,1117"/>
+<area shape="poly" id="edge41_Node000034_Node000035" title=" " alt="" coords="1330,1116,1379,1119,1431,1114,1481,1099,1503,1087,1522,1070,1534,1047,1539,1012,1535,923,1530,834,1534,797,1546,770,1573,750,1576,754,1550,774,1539,798,1535,834,1540,923,1544,1012,1539,1048,1526,1074,1506,1091,1483,1104,1432,1120,1379,1124,1330,1121"/>
+<area shape="rect" id="Node000036" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_voice_settings.html" title=" " alt="" coords="692,5,896,48"/>
+<area shape="poly" id="edge42_Node000004_Node000036" title=" " alt="" coords="911,5,962,4,1014,8,1067,19,1116,39,1125,48,1129,57,1133,66,1140,74,1170,91,1197,100,1248,106,1301,108,1331,113,1365,124,1472,172,1578,226,1680,285,1775,344,1937,454,2041,531,2038,535,1934,458,1772,349,1677,290,1575,231,1470,177,1363,129,1330,118,1300,113,1247,111,1196,105,1168,96,1137,78,1128,69,1125,59,1121,51,1113,44,1065,24,1014,13,962,9,912,11"/>
+<area shape="rect" id="Node000038" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_clip_data.html" title=" " alt="" coords="1141,139,1362,165"/>
+<area shape="poly" id="edge45_Node000038_Node000036" title=" " alt="" coords="912,49,938,55,989,62,1030,64,1069,71,1116,91,1129,105,1140,118,1180,136,1178,141,1137,122,1125,108,1113,96,1068,76,1029,69,988,67,937,60,911,54"/>
+<area shape="rect" id="Node000037" href="$struct_meta_1_1_wit_ai_1_1_t_t_s_1_1_utilities_1_1_t_t_s_speaker_1_1_t_t_s_speaker_request_data.html" title=" " alt="" coords="1548,533,1790,576"/>
+<area shape="poly" id="edge43_Node000004_Node000037" title=" " alt="" coords="1806,552,1986,552,1986,557,1806,557"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="1269,178,1309,248,1371,340,1409,389,1452,437,1499,481,1549,519,1571,531,1568,535,1547,524,1495,485,1448,440,1405,392,1366,343,1304,250,1264,181"/>
+<area shape="rect" id="Node000039" href="$class_meta_1_1_wit_ai_1_1_t_t_s_1_1_data_1_1_t_t_s_disk_cache_settings.html" title=" " alt="" coords="695,143,893,185"/>
+<area shape="poly" id="edge46_Node000038_Node000039" title=" " alt="" coords="908,158,1141,152,1141,158,908,164"/>
+<area shape="rect" id="Node000040" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_clip_stream.html" title="An interface to be used for audio clip streams. Samples added to this stream are always decoded to 0f..." alt="" coords="701,76,887,119"/>
+<area shape="poly" id="edge47_Node000038_Node000040" title=" " alt="" coords="903,107,1115,132,1142,135,1141,141,1114,137,902,112"/>
+<area shape="poly" id="edge48_Node000037_Node000041" title=" " alt="" coords="1349,559,1548,555,1548,560,1349,565"/>
+<area shape="rect" id="Node000042" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_speaker_text_preprocessor.html" title=" " alt="" coords="1581,784,1758,827"/>
+<area shape="poly" id="edge52_Node000004_Node000042" title=" " alt="" coords="1773,804,1820,799,1869,789,1917,772,1961,747,1981,729,1999,708,2028,660,2048,613,2060,575,2065,577,2053,615,2033,663,2004,711,1985,733,1964,752,1919,777,1871,794,1821,804,1773,810"/>
+<area shape="rect" id="Node000043" href="$interface_meta_1_1_wit_ai_1_1_t_t_s_1_1_interfaces_1_1_i_speaker_text_postprocessor.html" title=" " alt="" coords="1579,851,1760,893"/>
+<area shape="poly" id="edge53_Node000004_Node000043" title=" " alt="" coords="1775,876,1823,872,1871,863,1919,847,1961,821,1987,794,2009,763,2026,729,2039,694,2056,627,2063,576,2068,577,2061,628,2044,696,2031,731,2013,766,1991,798,1964,825,1921,851,1873,868,1823,878,1776,881"/>
+<area shape="rect" id="Node000044" href="$interface_meta_1_1_voice_1_1_audio_1_1_i_audio_player.html" title="An interface for performing playback and interactions for an audio clip." alt="" coords="1569,41,1770,68"/>
+<area shape="poly" id="edge54_Node000004_Node000044" title=" " alt="" coords="1786,51,1891,60,1935,70,1964,85,1988,119,2009,170,2026,232,2040,301,2059,436,2068,533,2063,533,2054,437,2034,302,2021,233,2004,171,1984,121,1961,89,1933,75,1890,65,1785,57"/>
+<area shape="rect" id="Node000045" title=" " alt="" coords="2304,193,2351,220"/>
+<area shape="poly" id="edge55_Node000001_Node000045" title=" " alt="" coords="2366,202,2461,196,2484,194,2485,200,2461,201,2366,207"/>
+</map>

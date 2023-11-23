@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.TouchHandGrabInteractor" name="Oculus.Interaction.TouchHandGrabInteractor">
+<area shape="rect" id="Node000001" title="TouchHandGrabInteractor provides a hand&#45;specific grab interaction model where selection begins when f..." alt="" coords="700,247,865,289"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="329,5,526,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,17,576,19,612,24,646,35,677,51,701,71,721,95,752,149,770,203,780,245,775,247,765,204,747,151,717,98,698,75,675,56,644,39,611,29,576,24,541,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="382,132,473,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="489,142,580,150,629,161,677,178,703,192,727,209,764,244,761,248,723,213,700,196,675,182,628,166,579,156,489,147"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_hand_sphere_map.html" title="A mapping of hand joints to spheres that can be used for collision testing." alt="" coords="5,215,169,257"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,223,193,223,329,217,435,218,541,226,676,244,700,248,699,253,676,249,541,232,435,223,329,222,193,228,184,228"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_touch_shadow_hand.html" title=" " alt="" coords="345,247,510,289"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="185,242,344,258,344,263,184,248"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="343,409,512,452"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="527,431,602,420,640,410,675,394,705,371,732,343,768,288,772,291,736,346,709,375,677,398,641,415,603,426,527,436"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_touch_hand_grab_interactor_1_1_finger_status.html" title=" " alt="" coords="322,476,533,519"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="548,493,614,478,645,465,674,449,712,412,740,368,760,324,773,289,778,290,765,326,745,371,716,416,678,453,648,470,615,483,549,498"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="525,265,699,265,699,271,525,271"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_shadow_hand.html" title="A thin HandJoint skeleton implementation that can be used for computing world joints from local joint..." alt="" coords="6,295,168,337"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="184,333,260,345,347,353,441,355,533,347,586,336,639,320,730,287,732,292,641,325,587,341,533,352,441,360,347,358,259,350,183,338"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="183,300,344,277,345,282,184,305"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.InteractableRegistry&lt; TInteractor, TInteractable &gt;.InteractableSet.Enumerator" name="Oculus.Interaction.InteractableRegistry&lt; TInteractor, TInteractable &gt;.InteractableSet.Enumerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,23,772,81"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="264,5,453,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,28,547,37,547,42,468,33"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_interactable_registry_1_1_interactable_set.html" title="Allocation&#45;free collection that can be iterated over to provide a pruned list of Interactables." alt="" coords="246,56,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,69,547,62,547,67,486,74"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,72,197,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,83,246,83,246,88,212,88"/>
+</map>

@@ -1,0 +1,103 @@
+<map id="Meta.WitAi.CallbackHandlers.SimpleStringEntityHandler" name="Meta.WitAi.CallbackHandlers.SimpleStringEntityHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2196,1381,2391,1424"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_intent_matcher.html" title=" " alt="" coords="2026,968,2146,995"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2103,1007,2284,1380,2279,1382,2098,1010"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_wit_response_handler.html" title=" " alt="" coords="1833,315,1977,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1917,356,2084,967,2079,968,1911,357"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="1216,145,1325,172"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1341,157,1445,165,1503,172,1560,184,1654,213,1745,248,1878,312,1876,316,1742,253,1652,218,1558,189,1502,178,1444,170,1340,162"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_voice_service.html" title=" " alt="" coords="1583,315,1748,341"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="1341,164,1447,186,1505,205,1560,230,1590,249,1616,271,1655,312,1651,316,1613,275,1586,253,1558,234,1503,210,1446,191,1340,169"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1763,325,1833,325,1833,331,1763,331"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_i_voice_service.html" title=" " alt="" coords="1221,196,1320,223"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1336,215,1442,235,1502,249,1560,268,1606,289,1645,312,1642,317,1604,294,1558,273,1500,255,1441,240,1335,220"/>
+<area shape="rect" id="Node000007" href="$interface_meta_1_1_wit_ai_1_1_i_voice_event_provider.html" title=" " alt="" coords="775,95,910,121"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="926,110,1031,126,1088,141,1142,162,1154,172,1166,182,1193,192,1221,200,1219,205,1191,197,1163,186,1151,176,1139,166,1086,146,1030,131,925,115"/>
+<area shape="rect" id="Node000008" href="$interface_meta_1_1_wit_ai_1_1_i_telemetry_events_provider.html" title=" " alt="" coords="759,145,926,172"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="941,166,1141,188,1221,199,1220,204,1140,193,941,171"/>
+<area shape="rect" id="Node000009" href="$interface_meta_1_1_wit_ai_1_1_i_voice_activation_handler.html" title=" " alt="" coords="764,196,921,223"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="937,207,1220,207,1220,212,937,212"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1209,247,1332,273"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="1347,266,1448,280,1560,299,1614,311,1613,317,1558,304,1448,285,1347,271"/>
+<area shape="rect" id="Node000011" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_event_provider.html" title=" " alt="" coords="1203,297,1338,324"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="1354,312,1583,322,1582,327,1353,317"/>
+<area shape="rect" id="Node000012" href="$class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html" title=" " alt="" coords="1170,348,1371,391"/>
+<area shape="poly" id="edge12_Node000005_Node000012" title=" " alt="" coords="1386,359,1559,343,1583,339,1584,345,1559,348,1386,365"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="784,247,901,273"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="917,263,1025,280,1085,296,1142,316,1154,325,1166,334,1192,345,1190,350,1163,338,1151,329,1139,321,1083,301,1024,286,916,268"/>
+<area shape="rect" id="Node000014" href="$interface_meta_1_1_wit_ai_1_1_i_wit_request_configuration.html" title="Configuration interface." alt="" coords="759,297,926,324"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="942,319,1141,345,1170,350,1169,355,1140,351,941,325"/>
+<area shape="rect" id="Node000015" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_app_info.html" title=" " alt="" coords="760,348,925,391"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="941,367,1170,367,1170,372,941,372"/>
+<area shape="rect" id="Node000016" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_intent_info.html" title=" " alt="" coords="296,15,461,57"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="477,19,537,19,601,26,632,35,662,47,689,64,713,85,724,106,729,136,727,210,725,284,728,314,737,334,761,353,758,357,733,338,723,315,720,285,722,210,724,137,719,108,709,88,686,68,659,52,630,40,600,32,537,24,477,25"/>
+<area shape="rect" id="Node000017" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_intent_entity_info.html" title=" " alt="" coords="5,15,171,57"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="186,33,295,33,295,39,186,39"/>
+<area shape="rect" id="Node000018" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_entity_info.html" title=" " alt="" coords="296,81,461,124"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="477,103,545,108,615,117,674,131,697,141,713,153,729,176,734,199,733,222,728,244,722,267,720,289,724,312,737,334,761,352,758,357,733,338,719,314,715,290,717,266,722,243,727,221,729,199,724,178,709,157,694,146,672,136,614,122,545,113,476,108"/>
+<area shape="rect" id="Node000019" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_entity_role_info.html" title=" " alt="" coords="5,81,171,124"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="186,100,295,100,295,105,186,105"/>
+<area shape="rect" id="Node000021" href="$class_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_trait_info.html" title=" " alt="" coords="296,148,461,191"/>
+<area shape="poly" id="edge20_Node000015_Node000021" title=" " alt="" coords="477,170,545,175,614,183,674,197,697,207,713,218,724,233,729,248,727,277,725,306,728,320,737,334,761,352,758,356,733,338,723,322,719,307,722,277,724,248,720,235,710,222,694,211,672,203,613,189,545,180,476,175"/>
+<area shape="rect" id="Node000023" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_version_tag_info.html" title=" " alt="" coords="296,215,461,257"/>
+<area shape="poly" id="edge21_Node000015_Node000023" title=" " alt="" coords="477,233,533,239,595,251,656,270,713,299,722,308,726,317,730,326,737,334,761,347,758,352,734,338,725,329,721,319,717,311,710,303,654,275,593,256,533,244,476,239"/>
+<area shape="rect" id="Node000024" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_voice_info.html" title=" " alt="" coords="296,281,461,324"/>
+<area shape="poly" id="edge22_Node000015_Node000024" title=" " alt="" coords="477,313,712,345,760,353,759,358,711,351,476,318"/>
+<area shape="rect" id="Node000025" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_composer_info.html" title=" " alt="" coords="296,348,461,391"/>
+<area shape="poly" id="edge23_Node000015_Node000025" title=" " alt="" coords="477,367,759,367,759,372,477,372"/>
+<area shape="rect" id="Node000029" href="$struct_meta_1_1_wit_ai_1_1_data_1_1_info_1_1_wit_character_info.html" title=" " alt="" coords="296,415,461,457"/>
+<area shape="poly" id="edge24_Node000015_Node000029" title=" " alt="" coords="476,421,711,388,759,380,760,386,712,393,477,426"/>
+<area shape="rect" id="Node000031" href="$class_meta_1_1_wit_ai_1_1_configuration_1_1_wit_endpoint_config.html" title=" " alt="" coords="758,473,927,516"/>
+<area shape="poly" id="edge25_Node000012_Node000031" title=" " alt="" coords="932,466,1194,389,1195,394,934,471"/>
+<area shape="rect" id="Node000032" href="$interface_meta_1_1_wit_ai_1_1_i_wit_request_endpoint_info.html" title="Endpoint overrides." alt="" coords="297,481,460,508"/>
+<area shape="poly" id="edge26_Node000031_Node000032" title=" " alt="" coords="476,492,757,492,757,497,476,497"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="352,532,405,559"/>
+<area shape="poly" id="edge27_Node000031_Node000033" title=" " alt="" coords="420,540,550,530,711,513,757,507,758,512,712,519,550,535,421,545"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="1165,415,1376,441"/>
+<area shape="poly" id="edge28_Node000005_Node000034" title=" " alt="" coords="1391,415,1474,402,1558,380,1603,361,1641,340,1644,344,1606,366,1560,385,1476,407,1392,420"/>
+<area shape="rect" id="Node000035" href="$class_meta_1_1_wit_ai_1_1_events_1_1_voice_events.html" title=" " alt="" coords="1168,929,1373,956"/>
+<area shape="poly" id="edge29_Node000005_Node000035" title=" " alt="" coords="1286,915,1653,340,1658,343,1291,918"/>
+<area shape="rect" id="Node000036" href="$class_meta_1_1_wit_ai_1_1_events_1_1_speech_events.html" title=" " alt="" coords="790,881,895,908"/>
+<area shape="poly" id="edge30_Node000035_Node000036" title=" " alt="" coords="910,899,1168,929,1167,934,910,905"/>
+<area shape="rect" id="Node000037" href="$class_meta_1_1_wit_ai_1_1_events_1_1_event_registry.html" title=" " alt="" coords="328,583,429,609"/>
+<area shape="poly" id="edge31_Node000036_Node000037" title=" " alt="" coords="444,590,505,592,576,601,647,622,681,637,713,657,741,681,766,710,803,775,828,836,841,880,835,881,823,838,798,777,761,714,737,685,710,661,679,642,646,627,575,607,505,597,444,595"/>
+<area shape="rect" id="Node000038" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_speech_events.html" title=" " alt="" coords="325,633,432,660"/>
+<area shape="poly" id="edge32_Node000036_Node000038" title=" " alt="" coords="448,641,508,644,577,653,647,671,681,685,713,703,738,722,760,745,797,795,823,844,839,880,834,882,818,846,792,798,756,748,734,726,710,708,679,690,645,676,576,658,507,649,447,646"/>
+<area shape="rect" id="Node000039" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_event.html" title=" " alt="" coords="313,684,444,711"/>
+<area shape="poly" id="edge33_Node000036_Node000039" title=" " alt="" coords="459,692,517,695,582,704,649,720,713,747,755,777,790,814,818,851,836,880,831,882,813,854,786,818,751,781,710,752,648,725,581,709,516,701,458,698"/>
+<area shape="rect" id="Node000040" href="$interface_meta_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_events.html" title=" " alt="" coords="316,735,441,761"/>
+<area shape="poly" id="edge34_Node000036_Node000040" title=" " alt="" coords="456,743,514,744,579,751,647,764,712,786,750,806,783,832,831,879,828,883,780,836,747,811,710,790,646,769,578,756,513,750,456,748"/>
+<area shape="rect" id="Node000041" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_request_options_event.html" title=" " alt="" coords="278,785,479,828"/>
+<area shape="poly" id="edge35_Node000036_Node000041" title=" " alt="" coords="495,805,601,813,657,821,712,833,770,855,818,878,816,883,768,859,711,839,656,827,600,818,494,810"/>
+<area shape="rect" id="Node000043" href="$class_meta_1_1_wit_ai_1_1_events_1_1_voice_service_request_event.html" title=" " alt="" coords="274,852,483,895"/>
+<area shape="poly" id="edge36_Node000036_Node000043" title=" " alt="" coords="498,880,516,881,790,891,790,896,516,887,498,886"/>
+<area shape="rect" id="Node000045" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_request_created_event.html" title=" " alt="" coords="278,919,479,961"/>
+<area shape="poly" id="edge37_Node000036_Node000045" title=" " alt="" coords="494,930,711,911,790,900,790,905,712,916,495,935"/>
+<area shape="rect" id="Node000047" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_transcription_event.html" title=" " alt="" coords="265,985,492,1028"/>
+<area shape="poly" id="edge38_Node000036_Node000047" title=" " alt="" coords="508,1023,559,1024,611,1018,663,1005,710,982,718,973,722,962,725,949,733,937,760,918,789,906,791,910,763,923,737,941,730,952,727,963,723,975,713,986,665,1010,612,1023,559,1029,507,1029"/>
+<area shape="rect" id="Node000048" title=" " alt="" coords="18,1304,158,1331"/>
+<area shape="poly" id="edge39_Node000047_Node000048" title=" " alt="" coords="97,1289,119,1235,154,1168,202,1098,231,1066,263,1038,282,1026,285,1031,266,1042,235,1070,206,1101,159,1170,124,1238,102,1291"/>
+<area shape="rect" id="Node000062" href="$class_meta_1_1_wit_ai_1_1_callback_handlers_1_1_string_entity_match_event.html" title=" " alt="" coords="516,1407,711,1449"/>
+<area shape="poly" id="edge51_Node000062_Node000048" title=" " alt="" coords="123,1337,187,1374,226,1392,265,1405,329,1419,395,1427,515,1430,515,1436,394,1432,328,1424,264,1411,224,1397,185,1379,121,1342"/>
+<area shape="rect" id="Node000049" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_response_event.html" title=" " alt="" coords="273,1052,484,1095"/>
+<area shape="poly" id="edge40_Node000036_Node000049" title=" " alt="" coords="467,1096,527,1105,592,1106,624,1102,655,1094,683,1081,710,1063,721,1050,726,1036,724,1005,720,972,723,954,733,937,759,916,789,902,791,907,762,920,737,940,728,956,725,972,729,1005,731,1036,726,1052,713,1067,686,1086,656,1099,625,1107,592,1112,527,1111,467,1101"/>
+<area shape="rect" id="Node000051" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_error_event.html" title="An error event with two parameters." alt="" coords="288,1119,469,1161"/>
+<area shape="poly" id="edge41_Node000036_Node000051" title=" " alt="" coords="465,1163,525,1173,591,1175,623,1171,655,1162,684,1149,709,1130,726,1109,732,1087,731,1064,725,1040,719,1015,716,990,719,964,733,937,759,915,789,902,791,907,762,920,737,940,724,965,721,990,724,1014,730,1039,736,1063,737,1087,731,1111,713,1134,686,1154,656,1167,624,1176,591,1180,525,1178,464,1168"/>
+<area shape="rect" id="Node000053" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_mic_level_changed_event.html" title=" " alt="" coords="291,1185,466,1228"/>
+<area shape="poly" id="edge42_Node000036_Node000053" title=" " alt="" coords="462,1230,523,1241,590,1243,623,1239,654,1231,683,1217,709,1198,721,1178,726,1149,724,1072,720,994,724,961,733,937,758,915,789,902,791,907,761,919,738,940,729,962,726,994,729,1072,731,1149,726,1180,713,1202,686,1222,656,1236,624,1245,590,1249,523,1246,461,1235"/>
+<area shape="rect" id="Node000055" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_byte_data_event.html" title=" " alt="" coords="752,951,933,993"/>
+<area shape="poly" id="edge43_Node000035_Node000055" title=" " alt="" coords="948,972,1042,970,1140,964,1206,954,1206,959,1141,969,1042,976,948,977"/>
+<area shape="rect" id="Node000056" title=" " alt="" coords="312,1252,445,1295"/>
+<area shape="poly" id="edge44_Node000055_Node000056" title=" " alt="" coords="460,1287,522,1292,589,1288,623,1281,654,1270,684,1255,709,1234,726,1212,732,1190,731,1167,727,1144,718,1094,721,1068,733,1040,758,1012,788,992,791,996,761,1016,738,1043,726,1069,724,1094,732,1143,737,1167,737,1190,731,1214,713,1238,686,1259,656,1275,624,1286,590,1293,522,1297,460,1292"/>
+<area shape="rect" id="Node000057" href="$class_meta_1_1_wit_ai_1_1_events_1_1_wit_validation_event.html" title=" " alt="" coords="737,1053,948,1096"/>
+<area shape="poly" id="edge45_Node000035_Node000057" title=" " alt="" coords="954,1047,1045,1022,1140,993,1238,954,1240,959,1142,999,1047,1028,955,1052"/>
+<area shape="rect" id="Node000058" title=" " alt="" coords="285,1319,472,1345"/>
+<area shape="poly" id="edge46_Node000057_Node000058" title=" " alt="" coords="473,1345,532,1347,596,1341,657,1324,684,1309,710,1290,720,1278,725,1266,726,1241,724,1212,726,1197,733,1180,750,1155,770,1131,810,1094,814,1098,773,1135,754,1158,738,1183,732,1198,729,1213,731,1241,730,1267,724,1281,713,1294,687,1314,659,1328,597,1347,533,1352,473,1350"/>
+<area shape="rect" id="Node000059" href="$class_meta_1_1_wit_ai_1_1_events_1_1_telemetry_events.html" title=" " alt="" coords="1175,1023,1366,1065"/>
+<area shape="poly" id="edge47_Node000005_Node000059" title=" " alt="" coords="1317,1011,1374,966,1434,911,1479,866,1517,817,1557,747,1582,689,1604,629,1635,509,1653,407,1660,342,1666,342,1658,408,1640,511,1609,631,1587,691,1561,749,1521,819,1483,870,1437,915,1378,970,1320,1016"/>
+<area shape="rect" id="Node000060" href="$class_meta_1_1_wit_ai_1_1_events_1_1_audio_duration_tracker_finished_event.html" title=" " alt="" coords="735,1193,950,1236"/>
+<area shape="poly" id="edge48_Node000059_Node000060" title=" " alt="" coords="912,1185,1214,1063,1215,1068,914,1190"/>
+<area shape="rect" id="Node000061" title=" " alt="" coords="290,1369,467,1396"/>
+<area shape="poly" id="edge49_Node000060_Node000061" title=" " alt="" coords="483,1388,537,1387,596,1381,654,1369,710,1348,747,1324,780,1294,826,1235,830,1238,784,1297,751,1328,713,1353,656,1374,596,1387,537,1393,483,1393"/>
+<area shape="poly" id="edge50_Node000001_Node000062" title=" " alt="" coords="727,1422,1056,1416,2087,1416,2195,1411,2196,1416,2088,1421,1056,1421,727,1427"/>
+</map>

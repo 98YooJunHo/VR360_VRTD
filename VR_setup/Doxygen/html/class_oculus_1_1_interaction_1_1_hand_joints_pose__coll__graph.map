@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandJointsPose" name="Oculus.Interaction.HandJointsPose">
+<area shape="rect" id="Node000001" title="Updates the transform to be the interpolated position of a series of joints in the associated IHand." alt="" coords="9,128,234,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,45,117,126,113,129,71,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,47,130,129,125,126,168,45"/>
+</map>

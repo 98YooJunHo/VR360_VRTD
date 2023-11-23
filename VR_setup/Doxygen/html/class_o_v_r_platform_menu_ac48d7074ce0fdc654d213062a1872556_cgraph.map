@@ -1,0 +1,5 @@
+<map id="OVRPlatformMenu.Awake" name="OVRPlatformMenu.Awake">
+<area shape="rect" id="Node000001" title="Instantiate the cursor timer." alt="" coords="5,13,178,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_platform_menu.html#a746492b0f4a953804f157eafaec4529c" title="Sample handler for short press which retreats to the previous scene that used OVRPlatformMenu." alt="" coords="226,5,425,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,24,210,24,210,29,178,29"/>
+</map>

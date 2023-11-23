@@ -1,0 +1,13 @@
+<map id="Oculus.Voice.AppVoiceExperience.ActivateImmediately" name="Oculus.Voice.AppVoiceExperience.ActivateImmediately">
+<area shape="rect" id="Node000001" title="Activate the microphone and send data for NLU processing with custom request options." alt="" coords="5,72,234,115"/>
+<area shape="rect" id="Node000002" href="$interface_meta_1_1_wit_ai_1_1_i_voice_activation_handler.html#adf170116911ccd3582b2537c370af02b" title="Activate the microphone and send data for NLU processing with custom request options." alt="" coords="303,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,69,289,50,290,55,211,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html#a43fa70a3669817bcd5dfe5f4d0474ad5" title="Whether audio can be activated or not." alt="" coords="282,72,510,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,91,266,91,266,96,234,96"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html#ae493d7001dce1b80670dcb4774654f2b" title="Whether voice requests can be sent or not." alt="" coords="282,139,510,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,113,290,132,289,137,210,118"/>
+<area shape="rect" id="Node000004" href="$interface_meta_1_1_wit_ai_1_1_i_voice_service.html#af5d258f61c88a26bf533f023e5eaab02" title="Whether or not this service can listen to audio." alt="" coords="558,72,730,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="511,91,542,91,542,96,511,96"/>
+<area shape="rect" id="Node000006" href="$interface_meta_1_1_wit_ai_1_1_i_voice_service.html#a462a0edb0bc7fad802e7288e9226411b" title="Whether or not this service can perform requests." alt="" coords="558,139,730,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="511,157,542,157,542,163,511,163"/>
+</map>

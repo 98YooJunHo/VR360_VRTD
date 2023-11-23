@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.CylinderGrabSurface.GetReferencePose" name="Oculus.Interaction.Grab.GrabSurfaces.CylinderGrabSurface.GetReferencePose">
+<area shape="rect" id="Node000001" title="The reference pose of the surface. It defines the radius of the cylinder as the point from the relati..." alt="" coords="5,5,233,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="281,13,471,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,32,265,32,265,37,233,37"/>
+</map>

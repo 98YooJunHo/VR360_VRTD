@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Locomotion.LocomotorSound" name="Oculus.Interaction.Locomotion.LocomotorSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="615,71,817,113"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,79,144,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,89,615,89,615,95,159,95"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_player_locomotor.html" title="Moves a player when receiving events from ILocomotionEventBroadcasters. The movement can be a combina..." alt="" coords="222,129,423,172"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,107,236,126,234,131,158,112"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_adjustable_audio.html" title=" " alt="" coords="222,12,423,55"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="158,72,234,53,236,58,159,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,142,514,135,591,124,645,111,646,116,592,129,515,141,439,148"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_locomotion_1_1_i_locomotion_event_handler.html" title=" " alt="" coords="5,145,173,172"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="188,153,221,151,222,157,188,158"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="439,48,592,71,615,74,614,79,591,76,438,53"/>
+</map>

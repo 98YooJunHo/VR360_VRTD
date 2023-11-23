@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.IAxis1D" name="Oculus.Interaction.Input.IAxis1D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,205,168,248"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_axis1_d_switch.html" title="An Axis1D that switches between two Axis1D based on an ActiveState." alt="" coords="236,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,190,149,123,179,88,214,58,234,46,237,51,217,62,183,92,153,126,108,193"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_finger_pinch_value.html" title=" " alt="" coords="235,72,401,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,193,163,157,214,124,239,113,242,118,217,129,167,162,123,197"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_locomotion_axis_turner_interactor.html" title="LocomotionAxisTurner transforms Axis2D value into Axis1D value. When the value becomes bigger than th..." alt="" coords="216,139,420,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,198,240,179,242,185,178,203"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_locomotion_turner_interactor.html" title="LocomotionTurnerInteractor is an interactor that processes the position of a point in space and outpu..." alt="" coords="217,205,419,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,224,217,224,217,229,183,229"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_o_v_r_1_1_input_1_1_o_v_r_axis1_d.html" title=" " alt="" coords="221,272,415,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,250,242,269,240,274,176,255"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_o_v_r_button_axis1_d.html" title="Takes a set of OVR Near, Touch and Button bools and remaps them to an Axis1D float." alt="" coords="220,339,416,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="123,256,167,292,217,324,242,336,239,340,214,329,163,296,120,261"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_unity_1_1_input_1_1_input_axis.html" title=" " alt="" coords="236,405,400,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="108,260,153,327,183,361,217,391,237,403,234,407,214,396,179,365,149,330,104,263"/>
+</map>

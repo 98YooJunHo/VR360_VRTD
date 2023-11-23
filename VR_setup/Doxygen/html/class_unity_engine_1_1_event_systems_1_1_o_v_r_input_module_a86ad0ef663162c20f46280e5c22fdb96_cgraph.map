@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.UseMouse" name="UnityEngine.EventSystems.OVRInputModule.UseMouse">
+<area shape="rect" id="Node000001" title="Decide if mouse events need to be processed this frame. Same as StandloneInputModule except that the ..." alt="" coords="5,5,191,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a96b195af713535578aa7107a8e0a5527" title="The purpose of this function is to allow us to switch between using the standard IsPointerMoving meth..." alt="" coords="239,5,453,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,223,24,223,29,191,29"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard" name="Oculus.Interaction.HandGrab.Editor.HandGrabPoseWizard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1532,184,1724,227"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1215,109,1316,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1332,129,1416,143,1508,163,1568,181,1566,186,1507,168,1415,148,1331,134"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html" title=" " alt="" coords="1169,160,1362,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1378,181,1531,194,1531,200,1377,186"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_modifier.html" title=" " alt="" coords="747,160,955,187"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="971,171,1169,171,1169,176,971,176"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="824,211,878,237"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="893,216,1169,182,1169,188,894,222"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_cache.html" title=" " alt="" coords="770,43,932,85"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="948,64,992,69,1039,79,1085,94,1128,115,1136,123,1141,131,1145,139,1152,146,1175,157,1172,162,1149,150,1140,142,1136,134,1132,126,1125,120,1083,99,1037,84,991,74,948,69"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_read_only_hand_joint_poses.html" title=" " alt="" coords="348,5,520,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="536,33,770,54,769,59,535,38"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="23,13,180,40"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="195,24,347,24,347,29,195,29"/>
+<area shape="rect" id="Node000009" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_read_only_hand_skeleton_joint_list.html" title=" " alt="" coords="329,72,539,115"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="554,88,723,79,769,73,770,79,723,84,555,94"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="825,109,878,136"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="894,125,1127,152,1169,158,1169,163,1126,157,893,130"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_ghost_provider.html" title="Holds references to the prefabs for Ghost&#45;Hands, so they can be instantiated in runtime to represent ..." alt="" coords="1169,277,1362,320"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1377,279,1507,249,1576,225,1578,230,1508,255,1378,284"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="793,264,910,291"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="926,278,1169,291,1169,296,925,284"/>
+<area shape="rect" id="Node000021" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_interactable_data_collection.html" title="A collection of HandGrabInteractable Data, to be used to store the information of several HandGrabInt..." alt="" coords="1150,211,1381,253"/>
+<area shape="poly" id="edge23_Node000021_Node000012" title=" " alt="" coords="925,267,1149,242,1150,247,926,272"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_ghost.html" title="A static (non&#45;user controlled) representation of a hand. This script is used to be able to manually v..." alt="" coords="755,319,947,361"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="963,338,1043,334,1126,327,1176,318,1177,323,1127,332,1044,340,963,343"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="47,327,156,353"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="172,337,754,337,754,343,172,343"/>
+<area shape="rect" id="Node000015" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_puppet.html" title="This class is a visual representation of a rigged hand (typically a skin&#45;mesh renderer) that can move..." alt="" coords="338,377,530,420"/>
+<area shape="poly" id="edge15_Node000015_Node000014" title=" " alt="" coords="172,350,338,379,337,384,171,355"/>
+<area shape="rect" id="Node000017" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_pose.html" title="The HandGrabPose defines the local point in an object to which the grip point of the hand should alig..." alt="" coords="338,241,530,284"/>
+<area shape="poly" id="edge18_Node000017_Node000014" title=" " alt="" coords="170,321,338,282,339,287,172,327"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="545,392,632,384,723,372,778,359,779,365,723,377,633,390,546,397"/>
+<area shape="rect" id="Node000016" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_joint_collection.html" title="A collection of joint maps to quick access the joints that are actually available in the hand rig...." alt="" coords="5,388,198,431"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="213,407,305,405,337,404,337,409,305,411,213,413"/>
+<area shape="poly" id="edge17_Node000013_Node000017" title=" " alt="" coords="546,281,755,320,754,325,545,286"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="56,196,147,223"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="163,216,337,245,337,250,162,222"/>
+<area shape="rect" id="Node000019" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html" title="This interface defines the method needed to use grab surfaces. They allow finding the nearest poses a..." alt="" coords="12,247,191,289"/>
+<area shape="poly" id="edge20_Node000017_Node000019" title=" " alt="" coords="207,264,337,262,337,267,207,269"/>
+<area shape="rect" id="Node000020" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,129,198,172"/>
+<area shape="poly" id="edge21_Node000017_Node000020" title=" " alt="" coords="201,174,306,207,385,238,383,243,304,212,200,179"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="1396,228,1507,221,1531,219,1532,224,1508,227,1396,233"/>
+</map>

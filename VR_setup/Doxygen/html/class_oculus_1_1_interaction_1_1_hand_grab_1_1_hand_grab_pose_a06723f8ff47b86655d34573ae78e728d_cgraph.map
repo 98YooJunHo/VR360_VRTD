@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabPose.CompareNearPoses" name="Oculus.Interaction.HandGrab.HandGrabPose.CompareNearPoses">
+<area shape="rect" id="Node000001" title="Finds the most similar pose to the provided pose. If the HandGrabPose contains a surface it will defe..." alt="" coords="5,51,235,93"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_grab_surfaces_1_1_i_grab_surface.html#a347d48f7229e7440c8f38b541793546a" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="283,5,520,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,54,267,50,267,55,235,59"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="306,88,497,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,85,291,92,290,97,235,90"/>
+</map>

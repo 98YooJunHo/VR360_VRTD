@@ -1,0 +1,5 @@
+<map id="Meta.Voice.Samples.TTSVoices.SimpleDropdownList.OnToggleClick" name="Meta.Voice.Samples.TTSVoices.SimpleDropdownList.OnToggleClick">
+<area shape="rect" id="Node000001" title="Called when toggle button is clicked." alt="" coords="5,5,233,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_voice_1_1_samples_1_1_t_t_s_voices_1_1_simple_dropdown_list.html#a1d17df6be28aaf5b22680610f2e5e9e4" title="Show or hide the popup." alt="" coords="281,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,24,265,24,265,29,233,29"/>
+</map>

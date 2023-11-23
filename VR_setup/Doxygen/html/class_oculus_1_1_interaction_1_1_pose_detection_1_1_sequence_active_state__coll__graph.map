@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.PoseDetection.SequenceActiveState" name="Oculus.Interaction.PoseDetection.SequenceActiveState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,309,239,352"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="120,104,229,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,146,157,203,136,310,130,309,152,202,165,145"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_sequence.html" title="Chains together a number of IActiveStates into a sequence. The Sequence._stepsToActivate field contai..." alt="" coords="166,203,386,245"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="199,140,258,200,254,204,195,144"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="5,104,96,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="63,145,124,308,119,310,58,146"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="92,135,232,200,230,204,90,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,257,160,311,157,307,233,253"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_sequence_1_1_activation_step.html" title=" " alt="" coords="420,96,639,139"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="466,147,327,205,325,200,464,143"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="253,5,344,32"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="298,48,292,96,281,202,275,202,287,96,293,47"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="344,36,481,93,479,98,342,41"/>
+</map>

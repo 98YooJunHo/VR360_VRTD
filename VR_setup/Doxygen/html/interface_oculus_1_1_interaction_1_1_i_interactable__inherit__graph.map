@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.IInteractable" name="Oculus.Interaction.IInteractable">
+<area shape="rect" id="Node000001" title="An object that can be interacted with, an IInteractable can, in addition to an IInteractableView,..." alt="" coords="5,80,206,107"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactable.html" title="Interactable provides a base template for any kind of interactable object. An Interactable can have H..." alt="" coords="7,155,204,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,122,108,154,103,154,103,122"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_interactable_view.html" title="An IInteractableView defines the view for an object that can be interacted with." alt="" coords="46,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,48,108,80,103,80,103,48"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pointer_interactable.html" title=" " alt="" coords="20,245,191,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,213,108,245,103,245,103,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OVRLipSyncMicInput.InitializeMicrophone" name="OVRLipSyncMicInput.InitializeMicrophone">
+<area shape="rect" id="Node000001" title="Initializes the microphone." alt="" coords="5,5,202,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_mic_input.html#add285eed04e6d985975431066408aec7" title="Gets the mic caps." alt="" coords="250,13,471,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,234,24,234,29,202,29"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Surfaces.ClippedPlaneSurface" name="Oculus.Interaction.Surfaces.ClippedPlaneSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,85,669,128"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,18,234,24,350,37,405,48,460,63,518,82,517,87,459,68,404,53,349,43,234,30,130,23"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_plane_surface.html" title=" " alt="" coords="164,52,349,95"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="126,34,178,49,177,54,125,39"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_clipped_surface.html" title=" " alt="" coords="172,119,342,161"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="357,127,482,114,483,119,358,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="230,185,283,212"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,193,374,183,459,163,500,146,538,126,540,131,502,151,460,168,375,188,299,198"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="365,82,483,94,482,100,364,87"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_surface.html" title=" " alt="" coords="26,64,94,91"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="110,74,164,73,164,78,110,79"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_surfaces_1_1_i_bounds.html" title=" " alt="" coords="26,115,94,141"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="108,112,177,93,178,98,110,117"/>
+</map>

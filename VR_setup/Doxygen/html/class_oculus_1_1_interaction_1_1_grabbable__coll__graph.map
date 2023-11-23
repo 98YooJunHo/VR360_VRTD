@@ -1,0 +1,18 @@
+<map id="Oculus.Interaction.Grabbable" name="Oculus.Interaction.Grabbable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="359,300,548,327"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointable_element.html" title=" " alt="" coords="154,175,278,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,210,288,242,340,274,402,297,400,302,338,278,285,247,241,214"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,81,115,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,114,196,172,193,176,93,118"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_pointable_element.html" title=" " alt="" coords="138,81,265,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="208,123,217,174,211,175,203,124"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="162,5,241,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,47,204,81,199,81,199,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="304,81,395,108"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="353,123,359,162,372,203,387,231,406,258,442,298,438,301,402,261,383,234,367,205,354,163,348,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="290,108,263,118,241,134,227,154,221,175,216,173,222,151,237,130,261,114,288,103"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_grabbable.html" title=" " alt="" coords="509,175,592,201"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="533,215,465,301,461,298,529,212"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_i_transformer.html" title=" " alt="" coords="617,175,818,201"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="678,211,482,302,479,297,675,206"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.PoseDetection.Debug.ActiveStateDebugTree" name="Oculus.Interaction.PoseDetection.Debug.ActiveStateDebugTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,112,276,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,59,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,48,110,86,141,109,138,114,107,90,58,52"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="83,5,251,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,64,169,111,164,111,164,64"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,13,366,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,51,198,114,195,109,288,47"/>
+</map>

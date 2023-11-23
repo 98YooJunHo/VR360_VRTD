@@ -1,0 +1,5 @@
+<map id="OVRScreenFade.Fade" name="OVRScreenFade.Fade">
+<area shape="rect" id="Node000001" title="Fades alpha from 1.0 to 0.0." alt="" coords="5,13,158,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_screen_fade.html#aba3ab4b582116174b13c2bce0b5efeb3" title="Update material alpha. UI fade and the current fade due to fade in/out animations (or explicit contro..." alt="" coords="206,5,395,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,24,190,24,190,29,158,29"/>
+</map>

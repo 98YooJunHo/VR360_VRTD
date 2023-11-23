@@ -1,0 +1,5 @@
+<map id="OVRPassthroughColorLut.UpdateFrom" name="OVRPassthroughColorLut.UpdateFrom">
+<area shape="rect" id="Node000001" title="Update color LUT data from a texture. Color channels and resolution must match the original." alt="" coords="5,21,251,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_passthrough_color_lut_1_1_color_lut_texture_converter.html#a7f8dd7c35ce90451aa9f47fa3cf3b05a" title="Read colors from LUT texture and write them in the pre&#45;allocated target byte array." alt="" coords="299,5,526,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,32,283,32,283,37,251,37"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="OVRHandTest" name="OVRHandTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,432,248,459"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,259,115,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,297,113,349,158,406,182,429,179,433,154,410,109,352,74,300"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,259,185,285"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,301,166,351,177,407,189,430,184,433,172,409,160,352,158,301"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_plugin.html" title=" " alt="" coords="341,259,427,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,299,316,352,252,410,218,434,215,429,249,406,312,348,361,295"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="227,5,280,32"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="256,47,255,112,250,203,238,306,216,409,206,433,201,431,211,407,233,305,245,202,250,112,251,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,45,380,257,375,259,264,47"/>
+</map>

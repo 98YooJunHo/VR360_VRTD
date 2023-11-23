@@ -1,0 +1,24 @@
+<map id="OVRSceneManager" name="OVRSceneManager">
+<area shape="rect" id="Node000001" title="A manager for OVRSceneAnchors created using the Room Setup feature." alt="" coords="88,699,224,725"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,275,163,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,312,48,328,28,347,14,370,8,396,8,614,10,630,16,644,37,667,66,684,98,696,96,701,64,688,34,671,12,647,5,632,3,615,3,396,9,368,24,344,45,324,67,308"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_scene_anchor.html" title="Represents a scene anchor." alt="" coords="350,384,477,411"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,304,378,381,376,386,158,310"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_scene_plane.html" title="A OVRSceneAnchor that has a 2D bounds associated with it." alt="" coords="187,485,306,512"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="118,315,135,361,161,409,197,451,232,483,229,487,193,455,156,412,130,363,113,317"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="26,435,139,461"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="106,317,87,435,82,434,101,316"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,426,414,470,406,525,389,583,376,611,359,636,331,663,297,683,261,697,225,706,224,700,259,692,295,678,328,659,355,633,371,608,384,581,401,524,409,469,411,426"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="343,418,305,437,277,461,257,487,253,483,273,458,302,432,341,414"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="364,5,417,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="388,48,381,99,375,167,375,243,384,319,395,354,409,382,404,385,390,356,378,321,369,243,370,166,376,98,383,47"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_plugin.html" title=" " alt="" coords="588,275,673,301"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="414,42,622,273,618,276,410,46"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="594,311,571,322,440,386,438,381,568,318,591,306"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_scene_manager_1_1_room_layout_information.html" title="A container for the set of OVRSceneAnchors representing a room." alt="" coords="132,592,345,635"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="213,648,169,700,165,697,209,645"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="247,527,243,592,237,591,242,527"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="170,384,326,411"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="250,426,249,485,244,485,245,426"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="89,476,101,548,123,634,151,697,146,699,117,636,96,550,83,477"/>
+</map>

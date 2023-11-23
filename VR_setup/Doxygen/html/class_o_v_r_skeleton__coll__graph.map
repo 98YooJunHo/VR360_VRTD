@@ -1,0 +1,10 @@
+<map id="OVRSkeleton" name="OVRSkeleton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,347,152,373"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="169,351,178,360,170,368,152,371,152,366,168,364,173,360,165,356"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,256,115,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,296,98,345,93,347,70,298"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_plugin.html" title=" " alt="" coords="139,256,224,283"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="162,296,115,348,111,344,158,293"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="155,5,208,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="184,48,184,256,179,256,179,48"/>
+</map>

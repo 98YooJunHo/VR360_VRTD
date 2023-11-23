@@ -1,0 +1,17 @@
+<map id="Meta.WitAi.WitRequest" name="Meta.WitAi.WitRequest">
+<area shape="rect" id="Node000001" title="Manages a single request lifecycle when sending/receiving data from Wit.ai." alt="" coords="779,159,937,185"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request.html" title=" " alt="" coords="418,37,563,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,60,666,78,756,107,803,131,840,156,837,160,800,136,754,112,664,83,577,65"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_n_l_p_request.html" title=" " alt="" coords="5,5,232,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,43,418,46,418,52,247,48"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_audio_duration_tracker.html" title=" " alt="" coords="405,92,576,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="591,123,755,148,794,155,793,161,755,153,591,128"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_data_1_1_audio_encoding.html" title=" " alt="" coords="14,104,223,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,113,404,112,404,117,238,119"/>
+<area shape="rect" id="Node000006" href="$class_meta_1_1_wit_ai_1_1_json_1_1_wit_response_node.html" title=" " alt="" coords="376,159,605,185"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="620,169,779,169,779,175,620,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="464,209,517,236"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="532,217,634,207,755,191,795,183,796,189,755,196,634,212,533,222"/>
+<area shape="rect" id="Node000008" href="$class_meta_1_1_wit_ai_1_1_coroutine_utility.html" title=" " alt="" coords="401,260,580,287"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="594,263,674,250,754,228,799,207,836,184,839,188,802,212,756,233,675,255,595,268"/>
+</map>

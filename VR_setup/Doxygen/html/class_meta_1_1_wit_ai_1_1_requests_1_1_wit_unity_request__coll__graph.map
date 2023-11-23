@@ -1,0 +1,16 @@
+<map id="Meta.WitAi.Requests.WitUnityRequest" name="Meta.WitAi.Requests.WitUnityRequest">
+<area shape="rect" id="Node000001" title="A class used to track Wit text &#39;Message&#39; requests." alt="" coords="983,123,1182,165"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_voice_service_request.html" title=" " alt="" coords="695,67,840,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="852,94,983,121,982,126,851,100"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_voice_1_1_n_l_p_request.html" title=" " alt="" coords="379,5,605,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="621,57,695,68,695,73,620,63"/>
+<area shape="rect" id="Node000004" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_wit_v_request.html" title=" " alt="" coords="654,155,881,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="896,158,958,153,982,151,982,157,959,159,897,163"/>
+<area shape="rect" id="Node000005" href="$class_meta_1_1_wit_ai_1_1_requests_1_1_v_request.html" title="Class for performing web requests using UnityWebRequest." alt="" coords="453,216,531,243"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="545,215,703,179,704,185,546,220"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="68,179,121,205"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="137,187,208,184,654,169,654,174,208,189,137,193"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="137,201,208,216,342,227,452,228,452,233,342,232,207,221,136,206"/>
+<area shape="rect" id="Node000007" href="$class_meta_1_1_wit_ai_1_1_coroutine_utility.html" title=" " alt="" coords="5,253,184,280"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="199,261,354,249,452,234,452,240,355,255,199,266"/>
+</map>

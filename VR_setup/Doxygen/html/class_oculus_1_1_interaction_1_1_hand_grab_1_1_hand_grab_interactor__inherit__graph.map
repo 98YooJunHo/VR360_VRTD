@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.HandGrabInteractor" name="Oculus.Interaction.HandGrab.HandGrabInteractor">
+<area shape="rect" id="Node000001" title="The HandGrabInteractor allows grabbing objects while having the hands snap to them adopting a previou..." alt="" coords="377,80,569,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointer_interactor.html" title=" " alt="" coords="167,5,329,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,61,399,77,398,82,343,66"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_interactor.html" title=" " alt="" coords="180,88,316,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,99,377,99,377,104,332,104"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_hand_grab_1_1_i_hand_grab_state.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="5,88,119,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,99,179,99,179,104,134,104"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_rigidbody_ref.html" title=" " alt="" coords="198,139,298,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="313,135,376,120,377,126,314,140"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="OVRHeadsetEmulator" name="OVRHeadsetEmulator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="357,656,507,683"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,331,115,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,370,111,426,134,457,161,486,225,541,294,589,408,653,405,658,292,593,222,545,157,490,130,461,107,429,71,372"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_manager.html" title="Configuration data for Oculus virtual reality." alt="" coords="382,539,482,565"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="76,369,99,401,128,430,192,469,261,500,327,522,383,537,381,543,325,528,259,505,190,474,125,434,95,404,72,372"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,581,435,655,429,655,429,581"/>
+<area shape="poly" id="edge8_Node000003_Node000003" title=" " alt="" coords="498,539,505,544,508,552,500,564,483,568,482,563,497,559,503,552,501,548,495,544"/>
+<area shape="rect" id="Node000004" href="$interface_o_v_r_mixed_reality_capture_configuration.html" title=" " alt="" coords="139,331,384,357"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="283,367,424,537,420,540,279,371"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="427,5,480,32"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="455,48,435,539,430,538,450,47"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_plugin.html" title=" " alt="" coords="705,331,791,357"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="480,41,575,131,633,191,689,254,742,329,738,332,685,258,629,195,571,135,477,45"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="739,373,719,406,705,421,688,434,663,446,640,450,598,447,556,444,534,448,510,458,486,476,466,498,440,540,436,537,462,495,482,472,507,454,532,443,556,439,598,442,640,445,661,441,685,430,701,418,714,402,734,370"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="814,331,906,357"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="864,373,859,429,851,460,838,489,810,529,781,554,747,573,702,594,653,616,601,634,505,658,504,653,600,629,651,611,700,590,744,568,778,549,806,525,834,487,846,458,854,428,858,373"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="852,373,833,406,820,421,804,434,780,446,758,451,717,450,677,447,655,450,630,458,620,465,613,473,595,490,535,520,478,541,476,536,533,515,592,486,609,469,616,461,628,454,653,445,677,442,718,445,757,446,778,441,801,430,816,418,829,402,847,370"/>
+</map>

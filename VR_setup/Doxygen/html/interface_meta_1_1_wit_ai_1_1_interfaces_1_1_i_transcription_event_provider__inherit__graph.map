@@ -1,0 +1,9 @@
+<map id="Meta.WitAi.Interfaces.ITranscriptionEventProvider" name="Meta.WitAi.Interfaces.ITranscriptionEventProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,300,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_dictation_service.html" title=" " alt="" coords="89,96,285,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,64,189,96,184,96,184,64"/>
+<area shape="rect" id="Node000003" href="$class_meta_1_1_wit_ai_1_1_dictation_1_1_wit_dictation.html" title=" " alt="" coords="5,187,171,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,151,113,188,109,184,151,147"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_voice_1_1_dictation_1_1_app_dictation_experience.html" title=" " alt="" coords="195,187,376,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,147,264,184,260,188,219,151"/>
+</map>

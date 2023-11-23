@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.InteractorUnityEventWrapper" name="Oculus.Interaction.InteractorUnityEventWrapper">
+<area shape="rect" id="Node000001" title="This component makes it possible to connect Interactors in the inspector to Unity Events that broadca..." alt="" coords="92,96,276,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,40,159,93,156,97,86,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,48,187,95,181,95,181,48"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="254,5,469,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="334,43,284,74,236,98,233,93,281,70,331,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.HandGrab.GrabPoseFinder" name="Oculus.Interaction.HandGrab.GrabPoseFinder">
+<area shape="rect" id="Node000001" title="Utility class used by the grab interactors to find the best matching pose from a provided list of Han..." alt="" coords="79,432,271,475"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_grab_pose_finder_1_1_interpolation_cache.html" title=" " alt="" coords="62,325,288,368"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,384,178,431,172,431,172,384"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_grab_result.html" title=" " alt="" coords="79,203,271,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,261,178,325,172,325,172,261"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,150,163,201,158,204,123,153"/>
+<area shape="rect" id="Node000005" href="$struct_oculus_1_1_interaction_1_1_grab_1_1_grab_pose_score.html" title="Stores the score of a grab. Score is measured on distance from the desired grab point to an ideal pos..." alt="" coords="222,96,384,139"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="267,151,202,204,198,200,264,147"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="276,5,330,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,48,306,95,300,95,300,48"/>
+</map>

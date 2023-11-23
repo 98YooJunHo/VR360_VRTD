@@ -1,0 +1,5 @@
+<map id="Meta.WitAi.WitRequestFactory.CreateDictationRequest" name="Meta.WitAi.WitRequestFactory.CreateDictationRequest">
+<area shape="rect" id="Node000001" title="Creates a request for getting the transcription from the mic data." alt="" coords="5,5,212,48"/>
+<area shape="rect" id="Node000002" href="$class_meta_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html#abbc6da9943239ed3f0483f38d5490449" title="Return endpoint override." alt="" coords="260,5,472,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,24,244,24,244,29,212,29"/>
+</map>

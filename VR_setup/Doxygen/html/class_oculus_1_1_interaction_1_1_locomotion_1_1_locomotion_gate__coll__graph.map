@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Locomotion.LocomotionGate" name="Oculus.Interaction.Locomotion.LocomotionGate">
+<area shape="rect" id="Node000001" title="This Gate reads the Hand orientation towards the shoulder and decides if it should be in Teleport mod..." alt="" coords="502,124,704,166"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,6,115,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,8,204,4,293,5,388,16,434,26,479,41,511,57,541,79,585,121,581,125,537,83,509,62,477,46,433,31,387,21,293,10,204,9,131,13"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_virtual_active_state.html" title="An ActiveState that can be set publicly." alt="" coords="164,49,365,92"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="130,34,177,46,175,51,129,39"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="219,125,310,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,139,389,141,502,142,502,148,389,146,325,144"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_locomotion_1_1_locomotion_gate_1_1_gate_section.html" title=" " alt="" coords="164,176,365,218"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,177,478,162,501,159,502,164,479,168,381,182"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="381,76,479,93,556,120,554,125,478,98,380,81"/>
+<area shape="rect" id="Node000006" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="15,65,105,92"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="121,73,164,71,164,77,121,79"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="238,242,291,269"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="306,243,365,228,422,214,477,197,556,164,558,169,479,202,423,219,366,233,307,248"/>
+</map>

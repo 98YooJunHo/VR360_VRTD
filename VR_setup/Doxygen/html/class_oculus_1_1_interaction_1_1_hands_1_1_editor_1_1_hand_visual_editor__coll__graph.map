@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Hands.Editor.HandVisualEditor" name="Oculus.Interaction.Hands.Editor.HandVisualEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,144,212,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,45,121,143,116,145,77,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,5,210,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,47,137,145,132,143,171,45"/>
+</map>

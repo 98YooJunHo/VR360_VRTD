@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.HandGrab.Visuals.HandGhost.SetPose" name="Oculus.Interaction.HandGrab.Visuals.HandGhost.SetPose">
+<area shape="rect" id="Node000001" title="Relay to the Puppet to set the ghost hand to the desired static pose." alt="" coords="5,39,198,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_puppet.html#af4236e1d5a11b0e606306ba421b50077" title="Rotates all the joints in this puppet to the desired pose." alt="" coords="246,5,491,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,45,230,41,230,47,199,51"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_ghost.html#a268d7b618d47da28fa0ec43ee97a61e3" title="Moves the underlying puppet so the wrist point aligns with the given parameters." alt="" coords="261,72,476,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,69,246,75,245,81,198,75"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_utils.html#adebc00dc8e109e6663786ede7a2ec416" title="Get the world position/rotation of a relative position. Affected by the scale of the transform." alt="" coords="554,39,744,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,78,538,70,539,76,476,83"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_grab_1_1_visuals_1_1_hand_puppet.html#a4dbe3dd19454fc38c2d318478dc5b81f" title="Rotates and Translate the hand Wrist so it aligns with the given pose. It can apply an offset for whe..." alt="" coords="539,105,759,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="476,103,524,109,523,114,476,109"/>
+</map>

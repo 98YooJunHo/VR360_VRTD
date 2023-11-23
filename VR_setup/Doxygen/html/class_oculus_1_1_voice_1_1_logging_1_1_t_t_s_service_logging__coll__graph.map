@@ -1,0 +1,9 @@
+<map id="Oculus.Voice.Logging.TTSServiceLogging" name="Oculus.Voice.Logging.TTSServiceLogging">
+<area shape="rect" id="Node000001" title="Script for logging various TTSService events." alt="" coords="125,112,342,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,46,201,109,198,114,92,51"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_voice_1_1_core_1_1_bindings_1_1_interfaces_1_1_i_voice_s_d_k_logger.html" title=" " alt="" coords="139,5,328,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,64,236,111,231,111,231,64"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="368,13,421,40"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="389,56,380,74,367,90,328,114,325,109,364,86,376,71,384,54"/>
+</map>

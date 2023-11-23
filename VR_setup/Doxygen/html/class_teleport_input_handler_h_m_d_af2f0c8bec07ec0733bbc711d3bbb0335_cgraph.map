@@ -1,0 +1,9 @@
+<map id="TeleportInputHandlerHMD.GetIntention" name="TeleportInputHandlerHMD.GetIntention">
+<area shape="rect" id="Node000001" title="Based on the input mode, controller state, and current intention of the teleport controller,..." alt="" coords="5,48,178,91"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_input.html#a8ed5f1b79ace01d32a26c222aa64c50c" title="Gets the current state of the given virtual button mask with the given controller mask...." alt="" coords="242,5,344,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,45,226,33,227,38,179,50"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_input.html#a9c2ccada669b0054fd25a82e84d659c9" title="Gets the current down state of the given virtual button mask with the given controller mask...." alt="" coords="226,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,67,210,67,210,72,178,72"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_input.html#a27ab53793953a2222097e5664852c6ad" title="Gets the current up state of the given virtual button mask with the given controller mask...." alt="" coords="234,107,352,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,89,223,100,222,105,178,94"/>
+</map>

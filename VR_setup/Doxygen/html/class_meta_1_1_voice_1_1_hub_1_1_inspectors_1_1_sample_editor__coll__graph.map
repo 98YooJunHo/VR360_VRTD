@@ -1,0 +1,9 @@
+<map id="Meta.Voice.Hub.Inspectors.SampleEditor" name="Meta.Voice.Hub.Inspectors.SampleEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,144,203,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,61,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,44,103,142,98,145,45,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,139,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,48,114,144,109,144,109,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="169,5,222,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,48,186,84,169,122,146,145,142,142,164,118,181,82,190,46"/>
+</map>

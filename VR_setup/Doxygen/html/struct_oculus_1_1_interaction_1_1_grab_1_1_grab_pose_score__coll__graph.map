@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.GrabPoseScore" name="Oculus.Interaction.Grab.GrabPoseScore">
+<area shape="rect" id="Node000001" title="Stores the score of a grab. Score is measured on distance from the desired grab point to an ideal pos..." alt="" coords="5,96,168,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,113,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,48,89,95,84,95,84,48"/>
+</map>

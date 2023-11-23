@@ -1,0 +1,9 @@
+<map id="OculusSampleFramework.InteractableToolsInputRouter.UpdateTools" name="OculusSampleFramework.InteractableToolsInputRouter.UpdateTools">
+<area shape="rect" id="Node000001" title="Update tools specified based on new collisions." alt="" coords="5,72,247,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_interactable_tool.html#a06fb864aeb86680a9e4b8e5b10634881" title="Used to tell the tool to &quot;focus&quot; on a specific object, if focusing is indeed possible given the tool ..." alt="" coords="312,5,554,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,69,316,49,317,54,228,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_interactable_tool.html#a7cc3aa43bb3f39331c31e80f17033a10" title="For each intersecting interactable, update meta data to indicate deepest collision only." alt="" coords="295,72,571,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,91,279,91,279,96,247,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_interactable_tool.html#ab2c694162cf014d4d57d99c68f6e526e" title="If our collision information changed per frame, make note of it. Removed, added and remaining objects..." alt="" coords="312,139,554,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,113,317,132,316,137,227,118"/>
+</map>

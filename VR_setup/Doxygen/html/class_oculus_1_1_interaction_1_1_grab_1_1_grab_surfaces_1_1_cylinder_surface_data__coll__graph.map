@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Grab.GrabSurfaces.CylinderSurfaceData" name="Oculus.Interaction.Grab.GrabSurfaces.CylinderSurfaceData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,228,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,45,109,110,104,113,72,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,5,218,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,47,129,113,124,110,157,45"/>
+</map>
